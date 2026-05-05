@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 1,
+  "manifestVersion": 1777962821451,
+  "publishedAt": "2026-05-05T06:33:41.451Z",
+  "baseUrl": "https://razsoftlabs.github.io/lumika-content",
+  "stories": [
+    {
+      "id": "el-zorro-y-la-luna",
+      "version": 2,
+      "json": "stories/el-zorro-y-la-luna.json",
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 7,
+      "categories": [
+        "animales",
+        "naturaleza",
+        "dormir"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "bosque",
+        "amistad",
+        "luna"
+      ],
+      "preview": {
+        "es": {
+          "title": "El zorro y la luna",
+          "summary": "Un zorrito curioso quiere alcanzar la luna y descubre algo más bonito en el camino."
+        },
+        "en": {
+          "title": "The fox and the moon",
+          "summary": "A curious little fox wants to reach the moon and discovers something prettier on the way."
+        }
+      }
+    },
+    {
+      "id": "la-ballena-cantora",
+      "version": 2,
+      "json": "stories/la-ballena-cantora.json",
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "naturaleza",
+        "amistad"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "océano",
+        "música",
+        "amistad",
+        "autoestima"
+      ],
+      "preview": {
+        "es": {
+          "title": "La ballena cantora",
+          "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano."
+        }
+      }
+    },
+    {
+      "id": "el-dragon-que-olvidaba-volar",
+      "version": 2,
+      "json": "stories/el-dragon-que-olvidaba-volar.json",
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 9,
+      "durationMin": 8,
+      "categories": [
+        "valores",
+        "aventuras",
+        "mitos"
+      ],
+      "mood": "valores",
+      "music": "adventure_soft",
+      "tags": [
+        "dragón",
+        "paciencia",
+        "volar",
+        "calma"
+      ],
+      "preview": {
+        "es": {
+          "title": "El dragón que olvidaba volar",
+          "summary": "Un dragoncito nervioso aprende que con calma todo se logra."
+        }
+      }
+    },
+    {
+      "id": "los-tres-amigos-del-bosque",
+      "version": 2,
+      "json": "stories/los-tres-amigos-del-bosque.json",
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 7,
+      "categories": [
+        "animales",
+        "amistad",
+        "valores"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "amistad",
+        "cooperación",
+        "compartir"
+      ],
+      "preview": {
+        "es": {
+          "title": "Los tres amigos del bosque",
+          "summary": "Un conejo, un erizo y una ardilla descubren que juntos llegan más lejos."
+        }
+      }
+    },
+    {
+      "id": "el-cohete-de-papel",
+      "version": 2,
+      "json": "stories/el-cohete-de-papel.json",
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 8,
+      "categories": [
+        "espacio",
+        "aventuras",
+        "dormir"
+      ],
+      "mood": "magico",
+      "music": "space_dream",
+      "tags": [
+        "imaginación",
+        "estrellas",
+        "soñar"
+      ],
+      "preview": {
+        "es": {
+          "title": "El cohete de papel",
+          "summary": "Mateo construye un cohete de papel y vuela hasta una estrella amarilla."
+        }
+      }
+    },
+    {
+      "id": "pancho-el-perro-valiente",
+      "version": 2,
+      "json": "stories/pancho-el-perro-valiente.json",
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 7,
+      "categories": [
+        "animales",
+        "valores",
+        "amistad"
+      ],
+      "mood": "valores",
+      "music": "gentle_piano",
+      "tags": [
+        "valentía",
+        "ayudar",
+        "miedo"
+      ],
+      "preview": {
+        "es": {
+          "title": "Pancho el perro valiente",
+          "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante."
+        }
+      }
+    },
+    {
+      "id": "la-noche-de-las-luciernagas",
+      "version": 2,
+      "json": "stories/la-noche-de-las-luciernagas.json",
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 6,
+      "durationMin": 4,
+      "categories": [
+        "dormir",
+        "naturaleza"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "noche",
+        "sueños",
+        "abuela"
+      ],
+      "preview": {
+        "es": {
+          "title": "La noche de las luciérnagas",
+          "summary": "Un cuento muy corto y calmado, perfecto para ojos pesados."
+        }
+      }
+    },
+    {
+      "id": "rex-el-pequeno-dinosaurio",
+      "version": 2,
+      "json": "stories/rex-el-pequeno-dinosaurio.json",
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 7,
+      "categories": [
+        "dinosaurios",
+        "valores",
+        "amistad"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "dinosaurio",
+        "fuerza",
+        "ayudar"
+      ],
+      "preview": {
+        "es": {
+          "title": "Rex, el pequeño dinosaurio",
+          "summary": "Rex es chiquito pero tiene un rugido enorme que asusta hasta a las nubes."
+        }
+      }
+    },
+    {
+      "id": "mia-y-la-nube-viajera",
+      "version": 2,
+      "json": "stories/mia-y-la-nube-viajera.json",
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 9,
+      "durationMin": 8,
+      "categories": [
+        "aventuras",
+        "dormir",
+        "naturaleza"
+      ],
+      "mood": "magico",
+      "music": "space_dream",
+      "tags": [
+        "volar",
+        "imaginación",
+        "nubes"
+      ],
+      "preview": {
+        "es": {
+          "title": "Mía y la nube viajera",
+          "summary": "Una niña se sube a una nube y descubre cómo se ve el mundo desde arriba."
+        }
+      }
+    },
+    {
+      "id": "la-princesa-y-el-dragon-triston",
+      "version": 2,
+      "json": "stories/la-princesa-y-el-dragon-triston.json",
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 8,
+      "categories": [
+        "princesas",
+        "mitos",
+        "amistad",
+        "valores"
+      ],
+      "mood": "magico",
+      "music": "adventure_soft",
+      "tags": [
+        "princesa",
+        "dragón",
+        "empatía"
+      ],
+      "preview": {
+        "es": {
+          "title": "La princesa y el dragón tristón",
+          "summary": "Una princesa descubre que el dragón rugía porque tenía una piedrita en la pata."
+        }
+      }
+    },
+    {
+      "id": "el-pez-arcoiris-pequeno",
+      "version": 2,
+      "json": "stories/el-pez-arcoiris-pequeno.json",
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 6,
+      "durationMin": 6,
+      "categories": [
+        "animales",
+        "amistad",
+        "naturaleza"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "mar",
+        "amigos",
+        "colores",
+        "timidez"
+      ],
+      "preview": {
+        "es": {
+          "title": "El pez arcoíris pequeño",
+          "summary": "Un pececito tímido encuentra amigos en el fondo del mar."
+        }
+      }
+    },
+    {
+      "id": "la-tortuga-que-quiso-correr",
+      "version": 2,
+      "json": "stories/la-tortuga-que-quiso-correr.json",
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 6,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "valores",
+      "music": "playful_flute",
+      "tags": [
+        "paciencia",
+        "autoaceptación",
+        "ritmo"
+      ],
+      "preview": {
+        "es": {
+          "title": "La tortuga que quiso correr",
+          "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es."
+        }
+      }
+    }
+  ],
+  "audio": {
+    "music": [
+      {
+        "id": "adventure_soft",
+        "version": 1,
+        "url": "audio/music/adventure_soft.mp3"
+      },
+      {
+        "id": "gentle_piano",
+        "version": 1,
+        "url": "audio/music/gentle_piano.mp3"
+      },
+      {
+        "id": "lullaby_piano",
+        "version": 1,
+        "url": "audio/music/lullaby_piano.mp3"
+      },
+      {
+        "id": "playful_flute",
+        "version": 1,
+        "url": "audio/music/playful_flute.mp3"
+      },
+      {
+        "id": "space_dream",
+        "version": 1,
+        "url": "audio/music/space_dream.mp3"
+      }
+    ],
+    "ambient": [
+      {
+        "id": "forest_birds",
+        "version": 1,
+        "url": "audio/ambient/forest_birds.mp3"
+      },
+      {
+        "id": "forest_night",
+        "version": 1,
+        "url": "audio/ambient/forest_night.mp3"
+      },
+      {
+        "id": "ocean_waves",
+        "version": 1,
+        "url": "audio/ambient/ocean_waves.mp3"
+      },
+      {
+        "id": "rain",
+        "version": 1,
+        "url": "audio/ambient/rain.mp3"
+      }
+    ],
+    "sfx": [
+      {
+        "id": "bark",
+        "version": 1,
+        "url": "audio/sfx/bark.mp3"
+      },
+      {
+        "id": "bee_buzz",
+        "version": 1,
+        "url": "audio/sfx/bee_buzz.mp3"
+      },
+      {
+        "id": "breathe_in",
+        "version": 1,
+        "url": "audio/sfx/breathe_in.mp3"
+      },
+      {
+        "id": "bubbles",
+        "version": 1,
+        "url": "audio/sfx/bubbles.mp3"
+      },
+      {
+        "id": "cat_meow",
+        "version": 1,
+        "url": "audio/sfx/cat_meow.mp3"
+      },
+      {
+        "id": "crunch",
+        "version": 1,
+        "url": "audio/sfx/crunch.mp3"
+      },
+      {
+        "id": "door_open",
+        "version": 1,
+        "url": "audio/sfx/door_open.mp3"
+      },
+      {
+        "id": "footsteps",
+        "version": 1,
+        "url": "audio/sfx/footsteps.mp3"
+      },
+      {
+        "id": "frog_croak",
+        "version": 1,
+        "url": "audio/sfx/frog_croak.mp3"
+      },
+      {
+        "id": "giggle",
+        "version": 1,
+        "url": "audio/sfx/giggle.mp3"
+      },
+      {
+        "id": "leaves_rustle",
+        "version": 1,
+        "url": "audio/sfx/leaves_rustle.mp3"
+      },
+      {
+        "id": "owl_hoot",
+        "version": 1,
+        "url": "audio/sfx/owl_hoot.mp3"
+      },
+      {
+        "id": "rocket",
+        "version": 1,
+        "url": "audio/sfx/rocket.mp3"
+      },
+      {
+        "id": "snore_soft",
+        "version": 1,
+        "url": "audio/sfx/snore_soft.mp3"
+      },
+      {
+        "id": "sparkle",
+        "version": 1,
+        "url": "audio/sfx/sparkle.mp3"
+      },
+      {
+        "id": "thud",
+        "version": 1,
+        "url": "audio/sfx/thud.mp3"
+      },
+      {
+        "id": "thunder",
+        "version": 1,
+        "url": "audio/sfx/thunder.mp3"
+      },
+      {
+        "id": "twinkle",
+        "version": 1,
+        "url": "audio/sfx/twinkle.mp3"
+      },
+      {
+        "id": "water_splash",
+        "version": 1,
+        "url": "audio/sfx/water_splash.mp3"
+      },
+      {
+        "id": "whale_song",
+        "version": 1,
+        "url": "audio/sfx/whale_song.mp3"
+      },
+      {
+        "id": "whisper",
+        "version": 1,
+        "url": "audio/sfx/whisper.mp3"
+      },
+      {
+        "id": "whoosh",
+        "version": 1,
+        "url": "audio/sfx/whoosh.mp3"
+      },
+      {
+        "id": "wind_high",
+        "version": 1,
+        "url": "audio/sfx/wind_high.mp3"
+      },
+      {
+        "id": "wind_soft",
+        "version": 1,
+        "url": "audio/sfx/wind_soft.mp3"
+      }
+    ]
+  }
+}

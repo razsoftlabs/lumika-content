@@ -1,0 +1,80 @@
+{
+  "id": "el-pez-arcoiris-pequeno",
+  "schemaVersion": 1,
+  "i18n": {
+    "es": {
+      "title": "El pez arcoíris pequeño",
+      "summary": "Un pececito tímido encuentra amigos en el fondo del mar.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "En lo más hondo del mar, donde el agua es azulita y fresquita, nadaba un pez muy especial. Era pequeño, del tamaño de una manzana, y su escamita brillaba con todos los colores del arcoíris: rojo, naranja, amarillo, verde, azul, violeta. Pero el pececito era muy tímido. Cuando otros peces pasaban cerca, él se escondía detrás de los corales y se quedaba quietito. Tenía miedo de hablar y miedo de jugar. Pasaba sus días solito, mirando las burbujas subir hasta la superficie.",
+          "ambient": "ocean_waves",
+          "cues": [
+            {
+              "anchor": "nadaba",
+              "sfx": "bubbles"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Una mañana de aguas calmadas, un pulpo de ocho bracitos lila se acercó al coral donde se escondía. \"Hola, hola, hola\", le dijo con todos sus tentáculos saludando a la vez. El pececito se asustó al principio, pero el pulpo tenía una sonrisa tan grande que era imposible no contestarle. \"Tus colores son como un arcoíris en el agua\", le dijo el pulpo. \"¿Quieres jugar conmigo? Conozco un juego muy divertido\". El pececito asomó la cabecita, dudó un segundito y dijo: \"Bueno, pero un poco nada más\".",
+          "cues": [
+            {
+              "anchor": "pulpo",
+              "sfx": "bubbles"
+            },
+            {
+              "anchor": "jugar",
+              "sfx": "giggle"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Empezaron a jugar a las escondidas entre las algas, y el pececito se rió por primera vez. Una estrella de mar rosada se acercó atraída por las risas. Después llegó un caballito de mar verde, después un cangrejito amarillo. Pronto se armó un grupo de amigos del fondo del mar, todos jugando juntos. El pececito arcoíris ya no estaba solo. Aprendió que sus colores eran un regalo para alegrar a los demás. Y desde ese día, siempre que algún pez se sentía solito, él lo invitaba a jugar.",
+          "cues": [
+            {
+              "anchor": "estrella",
+              "sfx": "twinkle"
+            },
+            {
+              "trigger": "atSceneExit",
+              "sfx": "water_splash"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "ageMin": 3,
+    "ageMax": 6,
+    "durationMin": 6,
+    "categories": [
+      "animales",
+      "amistad",
+      "naturaleza"
+    ],
+    "mood": "calmado",
+    "music": "gentle_piano",
+    "tags": [
+      "mar",
+      "amigos",
+      "colores",
+      "timidez"
+    ],
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "version": 2
+  },
+  "assets": {
+    "cover": "covers/el-pez-arcoiris-pequeno/cover.webp",
+    "preload": [
+      "music/gentle_piano",
+      "sfx/bubbles",
+      "sfx/giggle",
+      "sfx/twinkle"
+    ]
+  }
+}

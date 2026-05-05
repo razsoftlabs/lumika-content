@@ -1,0 +1,87 @@
+{
+  "id": "el-cohete-de-papel",
+  "schemaVersion": 1,
+  "i18n": {
+    "es": {
+      "title": "El cohete de papel",
+      "summary": "Mateo construye un cohete de papel y vuela hasta una estrella amarilla.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "Mateo tenía cinco años y soñaba con viajar al espacio. En su cuarto había mapas de planetas pegados en la pared y un peluche de astronauta sobre la cama. Una tarde, sacó una hoja blanca de su cuaderno y se puso a doblarla con mucho cuidado. Pliegue arriba, pliegue al medio, pliegue en las puntas. Sus deditos trabajaron despacito, sin apuro. Al final tenía un cohete de papel pequeñito, blanco y brillante como la luna. Lo miró con orgullo, sonrió y le susurró: \"¿Listo para despegar?\".",
+          "cues": [
+            {
+              "anchor": "cohete",
+              "sfx": "sparkle"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Mateo abrió la ventana y se asomó al cielo nocturno. Las estrellas titilaban como ojitos curiosos. Levantó el cohete de papel con las dos manos, contó tres, dos, uno, y lo lanzó al aire con todas sus fuerzas. ¡Fiummm! El cohete subió y subió, más rápido cada vez. Pasó las copas de los árboles, pasó las nubes blancas, dejó atrás los pajaritos que dormían. Mateo se subió al cohete sin saber cómo, agarrado de la punta, con los ojos abiertos como platos.",
+          "cues": [
+            {
+              "anchor": "fiummm",
+              "sfx": "rocket"
+            },
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "whoosh"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Allá arriba, una estrella amarilla y rechoncha lo estaba esperando. Tenía cara de abuela amable y sonreía con sus rayitos. \"Hola Mateo, te estaba esperando\", dijo la estrella con voz cantarina. \"¿Quieres bailar entre las constelaciones?\". Mateo se rió de pura emoción. La tomó de la mano y bailaron juntos, pasando entre cometas, saludando a la luna y haciendo cosquillas a los planetas. Era el viaje más mágico que se había imaginado jamás.",
+          "cues": [
+            {
+              "anchor": "estrella",
+              "sfx": "twinkle"
+            },
+            {
+              "anchor": "rió",
+              "sfx": "giggle"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Cuando Mateo abrió los ojos, ya estaba de vuelta en su cama, abrigadito bajo las cobijas. El cohete de papel estaba sobre su mesita, justo donde lo había dejado. Por la ventana, la estrella amarilla le guiñó un ojo. Mateo sonrió y abrazó a su peluche de astronauta. Esa noche aprendió un secreto importante que recordaría toda su vida: imaginar también es volar. Y cualquier niño con una hoja de papel puede llegar hasta las estrellas.",
+          "cues": [
+            {
+              "trigger": "atSceneExit",
+              "sfx": "twinkle"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "ageMin": 4,
+    "ageMax": 8,
+    "durationMin": 8,
+    "categories": [
+      "espacio",
+      "aventuras",
+      "dormir"
+    ],
+    "mood": "magico",
+    "music": "space_dream",
+    "tags": [
+      "imaginación",
+      "estrellas",
+      "soñar"
+    ],
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "version": 2
+  },
+  "assets": {
+    "cover": "covers/el-cohete-de-papel/cover.webp",
+    "preload": [
+      "music/space_dream",
+      "sfx/rocket",
+      "sfx/twinkle"
+    ]
+  }
+}

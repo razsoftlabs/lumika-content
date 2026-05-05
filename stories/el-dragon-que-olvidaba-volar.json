@@ -1,0 +1,97 @@
+{
+  "id": "el-dragon-que-olvidaba-volar",
+  "schemaVersion": 1,
+  "i18n": {
+    "es": {
+      "title": "El dragón que olvidaba volar",
+      "summary": "Un dragoncito nervioso aprende que con calma todo se logra.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "En lo alto de una montaña verde vivía Tito, un dragoncito de escamas rojas. Tito era pequeño pero tenía un problema muy grande: cada vez que iba a volar, se le olvidaba cómo. Sus alitas se quedaban quietas y su corazón empezaba a saltar fuerte. Sus amiguitos dragones volaban felices entre las nubes, haciendo piruetas, mientras él miraba desde la montaña con tristeza. \"Yo también quiero\", pensaba Tito. Pero apenas abría las alas, todo se le iba de la cabeza.",
+          "cues": [
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "wind_high"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Una mañana, Tito decidió intentarlo otra vez. Subió a una piedra grande, cerró los ojos y dio un salto enorme hacia el cielo. Pero sus alitas se trabaron y... ¡Plof! Cayó de boca al suelo, con la nariz llena de hojas. Una mariposa pasó volando cerca y le dio mucha risa. Tito se puso triste y le quedaron lágrimas en los ojitos. \"Nunca voy a poder volar\", suspiró el pequeño dragón.",
+          "cues": [
+            {
+              "anchor": "salto",
+              "sfx": "whoosh"
+            },
+            {
+              "anchor": "Plof",
+              "sfx": "thud"
+            },
+            {
+              "anchor": "risa",
+              "sfx": "giggle"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "La mariposa se acercó y se posó en su naricita. \"No te apures, dragoncito\", le susurró con voz dulce. \"Cierra los ojos. Respira hondo, así, como yo. Imagina las nubes, imagina el viento. Tus alas saben volar, solo hay que dejarlas tranquilas\". Tito hizo todo lo que le decía la mariposa. Respiró hondo, una vez, dos veces, tres veces. Su corazón empezó a latir despacito, despacito.",
+          "cues": [
+            {
+              "anchor": "susurró",
+              "sfx": "whisper"
+            },
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "breathe_in"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Cuando Tito abrió los ojos, sus alitas ya se estaban moviendo solas. Subían y bajaban con un ritmo suave, sin que él pensara nada. De pronto, sus pies dejaron de tocar el suelo. ¡Estaba volando! Voló alto, alto, hasta tocar las nubes blancas. Sintió el viento en la cara y se rió de pura felicidad. Desde ese día, cada vez que tenía miedo, respiraba hondo como le enseñó la mariposa, y todo se hacía más fácil.",
+          "cues": [
+            {
+              "anchor": "voló",
+              "sfx": "whoosh"
+            },
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "sparkle"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "ageMin": 4,
+    "ageMax": 9,
+    "durationMin": 8,
+    "categories": [
+      "valores",
+      "aventuras",
+      "mitos"
+    ],
+    "mood": "valores",
+    "music": "adventure_soft",
+    "tags": [
+      "dragón",
+      "paciencia",
+      "volar",
+      "calma"
+    ],
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "version": 2
+  },
+  "assets": {
+    "cover": "covers/el-dragon-que-olvidaba-volar/cover.webp",
+    "preload": [
+      "music/adventure_soft",
+      "sfx/whoosh",
+      "sfx/thud",
+      "sfx/sparkle"
+    ]
+  }
+}

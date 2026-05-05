@@ -1,0 +1,89 @@
+{
+  "id": "la-princesa-y-el-dragon-triston",
+  "schemaVersion": 1,
+  "i18n": {
+    "es": {
+      "title": "La princesa y el dragón tristón",
+      "summary": "Una princesa descubre que el dragón rugía porque tenía una piedrita en la pata.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "En un reino lejano, lleno de torres altas y banderas de colores, vivía la princesa Ana. No era una princesa común: tenía las rodillas peladas, el pelo despeinado y siempre llevaba una mochila con cosas raras. Una mañana, todo el reino se asustó por un rugido enorme que venía de las montañas. Era un rugido tan fuerte que las ventanas vibraron y los gatos se metieron debajo de las camas. Toda la aldea corrió a esconderse. Pero Ana no se escondió: tomó su mochila, se puso las botas y salió a investigar.",
+          "cues": [
+            {
+              "anchor": "rugido",
+              "sfx": "thud"
+            },
+            {
+              "anchor": "escondió",
+              "sfx": "door_open"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Caminó hasta la montaña más alta, donde había una cueva oscura. Adentro se escuchaba un sonido extraño: no era un rugido, era... ¿un dragón llorando? Ana entró con cuidado, sosteniendo una linterna chiquita. Lo vio: era un dragón grandote, de escamas verdes, con la cabeza apoyada en sus patas. Tenía lagrimones gigantes en los ojitos. \"¿Qué te pasa?\", preguntó Ana sin miedo. El dragón sopló un suspiro tristón y le mostró la pata: tenía una espinita clavada y le dolía muchísimo.",
+          "cues": [
+            {
+              "anchor": "dragón",
+              "sfx": "breathe_in"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Ana sacó una pinza chiquita de su mochila. \"Quédate quieto, te voy a ayudar\", le dijo con voz tranquila. El dragón cerró los ojos, confiado. Con mucho cuidado, Ana sacó la espinita de un solo tirón. ¡Plop! La espinita salió y la sangre paró enseguida. El dragón abrió los ojos sorprendido y movió la pata: ¡ya no le dolía! De pura alegría sopló un destello brillante por la nariz, lleno de chispas rojas y doradas. Ana se rió y aplaudió contenta.",
+          "cues": [
+            {
+              "anchor": "espinita",
+              "sfx": "sparkle"
+            },
+            {
+              "anchor": "destello",
+              "sfx": "twinkle"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Desde ese día, Ana y el dragón fueron mejores amigos. Cada tarde, después de hacer las tareas, Ana iba a la cueva. El dragón la subía a su lomo y la paseaba volando sobre el reino entero. Le mostraba lugares secretos, lagunas escondidas, cuevas con cristales. La gente del pueblo entendió que el dragón nunca había sido malo, solo estaba sufriendo. Y Ana aprendió algo importante: a veces, los rugidos más fuertes esconden los dolores más chiquitos.",
+          "cues": [
+            {
+              "anchor": "volando",
+              "sfx": "whoosh"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "ageMin": 4,
+    "ageMax": 8,
+    "durationMin": 8,
+    "categories": [
+      "princesas",
+      "mitos",
+      "amistad",
+      "valores"
+    ],
+    "mood": "magico",
+    "music": "adventure_soft",
+    "tags": [
+      "princesa",
+      "dragón",
+      "empatía"
+    ],
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "version": 2
+  },
+  "assets": {
+    "cover": "covers/la-princesa-y-el-dragon-triston/cover.webp",
+    "preload": [
+      "music/adventure_soft",
+      "sfx/thud",
+      "sfx/sparkle",
+      "sfx/twinkle"
+    ]
+  }
+}

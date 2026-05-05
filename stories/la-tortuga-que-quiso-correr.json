@@ -1,0 +1,77 @@
+{
+  "id": "la-tortuga-que-quiso-correr",
+  "schemaVersion": 1,
+  "i18n": {
+    "es": {
+      "title": "La tortuga que quiso correr",
+      "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "Tina era una tortuga chiquita con un caparazón color verde con manchitas marrones. Vivía en un campo lleno de flores y caminaba a su ritmo, lentito, lentito. Una mañana, vio pasar a un conejo veloz como el viento. ¡Zoom! El conejo dejó atrás una nube de polvo y desapareció en segundos. Tina se quedó mirando, con la boquita abierta. \"Yo también quiero correr así\", pensó. \"Voy a intentarlo\". Y se puso a hacer estiramientos chistosos con sus patitas.",
+          "cues": [
+            {
+              "anchor": "Zoom",
+              "sfx": "whoosh"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Tina empezó a moverse lo más rápido que podía. Plomp, plomp, plomp. Sus patitas se movían apuradas, pero su caparazón pesaba mucho. Después de tres pasos ya estaba cansada. Lo intentó otra vez, ahora con más fuerza, y hasta cerró los ojos para concentrarse. Plomp, plomp... ¡plomp! Tropezó con una piedra y cayó panza arriba. Una abeja zumbó cerca y le ayudó a darse vuelta. Tina respiraba fuerte, sudada, con los ojitos tristes. \"No sirvo para correr\", suspiró bajo un árbol.",
+          "cues": [
+            {
+              "anchor": "Plomp",
+              "sfx": "thud"
+            },
+            {
+              "anchor": "plomp",
+              "sfx": "thud"
+            },
+            {
+              "anchor": "abeja",
+              "sfx": "bee_buzz"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "La abeja se posó en una florcita amarilla a su lado. \"Tina, ¿sabés qué cosas hermosas ves vos al caminar despacio?\". Tina la miró sin entender. \"Vos ves las flores, los pétalos chiquitos, las nubes pasar, las hormigas trabajar, el sol calentar la tierra. El conejo no ve nada de eso, va muy rápido\". Tina pensó un ratito. Era cierto: cada paso suyo era una aventura pequeña. Sonrió, se levantó del pasto y siguió su camino, lenta y feliz. Y aprendió algo bonito: cada uno tiene su propio ritmo, y eso está bien.",
+          "cues": [
+            {
+              "anchor": "sonrió",
+              "sfx": "giggle"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "ageMin": 4,
+    "ageMax": 8,
+    "durationMin": 6,
+    "categories": [
+      "animales",
+      "valores"
+    ],
+    "mood": "valores",
+    "music": "playful_flute",
+    "tags": [
+      "paciencia",
+      "autoaceptación",
+      "ritmo"
+    ],
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "version": 2
+  },
+  "assets": {
+    "cover": "covers/la-tortuga-que-quiso-correr/cover.webp",
+    "preload": [
+      "music/playful_flute",
+      "sfx/whoosh",
+      "sfx/thud",
+      "sfx/bee_buzz"
+    ]
+  }
+}

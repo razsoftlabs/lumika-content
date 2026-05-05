@@ -1,0 +1,88 @@
+{
+  "id": "pancho-el-perro-valiente",
+  "schemaVersion": 1,
+  "i18n": {
+    "es": {
+      "title": "Pancho el perro valiente",
+      "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "Pancho era un perrito chiquito de pelo café y orejas largas. Vivía en una casa pequeña con un jardín lleno de flores. Pancho era cariñoso y juguetón, pero tenía un secreto que nadie sabía: le tenían mucho miedo a las tormentas. Cada vez que tronaba en el cielo, el corazoncito le saltaba como un conejo y se escondía bajo la cama. Allí se quedaba quietito, con las orejas tapadas por las patitas, esperando a que pasara el ruido.",
+          "cues": [
+            {
+              "anchor": "tronaba",
+              "sfx": "thunder"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Una noche, una tormenta enorme cayó sobre el barrio. La lluvia golpeaba el techo y los truenos hacían temblar los vidrios. Pancho corrió a esconderse bajo la cama como siempre. Pero entre los truenos, escuchó algo distinto: un maullido finito, asustado. ¡Miau! ¡Miauuu! Pancho asomó la cabecita y prestó atención. Era un gatito perdido bajo la lluvia, mojado y solito, llamando a su mamá. Pancho sintió que el corazón se le apretaba de tristeza.",
+          "cues": [
+            {
+              "anchor": "Miau",
+              "sfx": "cat_meow"
+            },
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "rain"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Pancho temblaba de miedo, pero algo dentro de él le dijo \"tienes que ayudar\". Salió de su escondite paso a paso, con las patitas flojas. Empujó la puertita de su casa y se asomó al jardín. La lluvia le mojó todo el pelaje, los truenos rugían, pero Pancho siguió caminando. Cuando vio al gatito, ladró con toda su fuerza: \"¡Guau guau! ¡Por aquí!\". Lo agarró suavemente con la boca, sin lastimarlo, y lo trajo a su casita calentita. Le dio una toalla suave para secarse.",
+          "cues": [
+            {
+              "anchor": "Guau guau",
+              "sfx": "bark"
+            },
+            {
+              "anchor": "casita",
+              "sfx": "door_open"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "El gatito dejó de temblar y empezó a ronronear bajito, agradecido. Pancho lo abrazó con sus patitas y los dos se acurrucaron en la camita de Pancho. Afuera la tormenta seguía, pero ya no daba miedo. Pancho descubrió algo que iba a recordar siempre: ser valiente no es no tener miedo. Ser valiente es tener miedo y aún así, ayudar a los demás. Esa noche durmieron juntos, calientitos, mientras la lluvia los arrullaba como una canción.",
+          "cues": [
+            {
+              "anchor": "durmieron",
+              "sfx": "snore_soft"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "ageMin": 4,
+    "ageMax": 8,
+    "durationMin": 7,
+    "categories": [
+      "animales",
+      "valores",
+      "amistad"
+    ],
+    "mood": "valores",
+    "music": "gentle_piano",
+    "tags": [
+      "valentía",
+      "ayudar",
+      "miedo"
+    ],
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "version": 2
+  },
+  "assets": {
+    "cover": "covers/pancho-el-perro-valiente/cover.webp",
+    "preload": [
+      "music/gentle_piano",
+      "sfx/thunder",
+      "sfx/bark",
+      "sfx/cat_meow"
+    ]
+  }
+}

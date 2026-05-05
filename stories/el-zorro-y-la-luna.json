@@ -1,0 +1,162 @@
+{
+  "id": "el-zorro-y-la-luna",
+  "schemaVersion": 1,
+  "i18n": {
+    "es": {
+      "title": "El zorro y la luna",
+      "summary": "Un zorrito curioso quiere alcanzar la luna y descubre algo más bonito en el camino.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "Era una noche tranquila en el bosque. Las hojas se mecían suavemente con la brisa y los grillos cantaban su melodía secreta. Un zorrito de pelaje anaranjado salió de su cueva con los ojitos llenos de curiosidad. Allá arriba, entre las ramas más altas, brillaba la luna como un quesito de plata. El zorrito nunca había visto algo tan bonito. De pronto, un búho viejo y sabio ululó cerca, observándolo desde una rama. \"¿A dónde vas, pequeño?\", preguntó el búho con voz suave.",
+          "ambient": "forest_night",
+          "cues": [
+            {
+              "anchor": "luna",
+              "sfx": "twinkle"
+            },
+            {
+              "anchor": "búho",
+              "sfx": "owl_hoot"
+            },
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "wind_soft"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "El zorrito miró al búho con sus ojitos brillantes. \"Quiero tocar la luna\", dijo emocionado. Tomó impulso, agachó las patitas y dio un salto enorme hacia el cielo. Pero su salto fue demasiado pequeño y cayó otra vez sobre el pasto suave. Lo intentó una segunda vez, y luego una tercera. La luna seguía allá arriba, lejana, sonriendo con su carita redonda. El zorrito se sentó en el suelo y se rió de sí mismo, porque a veces lo más lindo es intentarlo aunque no salga.",
+          "cues": [
+            {
+              "anchor": "salto",
+              "sfx": "whoosh"
+            },
+            {
+              "anchor": "rió",
+              "sfx": "giggle"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "En ese momento apareció un sapo con su panza redonda y verde. Croaba muy bajito, como si no quisiera despertar a las flores dormidas. \"La luna no se toca, mi amigo\", le dijo con una sonrisa amable. \"La luna se mira, se cuida, se le canta. Mira cómo brilla solo para ti esta noche\". El zorrito miró al sapo, después miró la luna, y entendió algo importante en su pequeño corazón.",
+          "ambient": "forest_night",
+          "cues": [
+            {
+              "anchor": "sapo",
+              "sfx": "frog_croak"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "El zorrito se acostó sobre el pasto fresco con las patitas estiradas. La luna le acariciaba la nariz con su luz de plata, suavecita. El búho lo cuidaba desde la rama, el sapo cantaba bajito, y todo el bosque respiraba calmado. Poco a poco, los ojitos del zorrito se cerraron sin darse cuenta. Y se quedó dormido bajo la luna, soñando que volaba con ella entre las estrellas. Sus sueños fueron de plata esa noche, y todas las noches que vinieron después.",
+          "cues": [
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "twinkle"
+            },
+            {
+              "anchor": "dormido",
+              "sfx": "snore_soft"
+            }
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "The fox and the moon",
+      "summary": "A curious little fox wants to reach the moon and discovers something prettier on the way.",
+      "scenes": [
+        {
+          "id": "s1",
+          "text": "It was a quiet night in the forest. The leaves swayed gently with the breeze and the crickets sang their secret melody. A little orange fox came out of his den, his eyes full of curiosity. High above, between the tallest branches, the moon shone like a silver coin. The fox had never seen anything so beautiful. Suddenly, a wise old owl hooted nearby, watching him from a branch. \"Where are you going, little one?\" asked the owl in a soft voice.",
+          "ambient": "forest_night",
+          "cues": [
+            {
+              "anchor": "moon",
+              "sfx": "twinkle"
+            },
+            {
+              "anchor": "owl",
+              "sfx": "owl_hoot"
+            },
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "wind_soft"
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "The little fox looked at the owl with shining eyes. \"I want to touch the moon,\" he said excitedly. He crouched down, gathered his strength, and jumped as high as he could toward the sky. But his jump was too small and he landed back on the soft grass. He tried again, and a third time. The moon stayed up there, far away, smiling with her round face. The fox sat on the ground and laughed at himself, because sometimes the loveliest thing is to try, even when it does not work.",
+          "cues": [
+            {
+              "anchor": "jumped",
+              "sfx": "whoosh"
+            },
+            {
+              "anchor": "laughed",
+              "sfx": "giggle"
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Just then, a frog with a round green belly appeared. He croaked very softly, as if not wanting to wake the sleeping flowers. \"The moon is not for touching, my friend,\" he said with a kind smile. \"The moon is for watching, for caring for, for singing to. See how she shines just for you tonight.\" The fox looked at the frog, then at the moon, and understood something important in his little heart.",
+          "ambient": "forest_night",
+          "cues": [
+            {
+              "anchor": "frog",
+              "sfx": "frog_croak"
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "The little fox lay down on the cool grass with his paws stretched out. The moon caressed his nose with her gentle silver light. The owl watched him from the branch, the frog sang quietly, and the whole forest breathed peacefully. Little by little, the fox's eyes closed without him noticing. He fell asleep under the moon, dreaming he was flying with her among the stars. His dreams were silver that night, and every night that came after.",
+          "cues": [
+            {
+              "trigger": "atSceneEnter",
+              "sfx": "twinkle"
+            },
+            {
+              "anchor": "asleep",
+              "sfx": "snore_soft"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "meta": {
+    "ageMin": 4,
+    "ageMax": 8,
+    "durationMin": 7,
+    "categories": [
+      "animales",
+      "naturaleza",
+      "dormir"
+    ],
+    "mood": "calmado",
+    "music": "lullaby_piano",
+    "tags": [
+      "bosque",
+      "amistad",
+      "luna"
+    ],
+    "publishedAt": "2026-05-01T00:00:00Z",
+    "version": 2
+  },
+  "assets": {
+    "cover": "covers/el-zorro-y-la-luna/cover.webp",
+    "preload": [
+      "music/lullaby_piano",
+      "sfx/twinkle",
+      "sfx/owl_hoot",
+      "sfx/giggle"
+    ]
+  }
+}

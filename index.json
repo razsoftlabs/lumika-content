@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 1778037902659,
-  "publishedAt": "2026-05-06T03:25:02.659Z",
+  "manifestVersion": 1778044155062,
+  "publishedAt": "2026-05-06T05:09:15.062Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "stories": [
     {
@@ -24,6 +24,7 @@
         "amistad",
         "luna"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "El zorro y la luna",
@@ -56,6 +57,7 @@
         "amistad",
         "autoestima"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "La ballena cantora",
@@ -65,7 +67,7 @@
     },
     {
       "id": "el-dragon-que-olvidaba-volar",
-      "version": 2,
+      "version": 3,
       "json": "stories/el-dragon-que-olvidaba-volar.json",
       "cover": "covers/el-dragon-que-olvidaba-volar.webp",
       "ageMin": 4,
@@ -84,6 +86,7 @@
         "volar",
         "calma"
       ],
+      "premium": true,
       "preview": {
         "es": {
           "title": "El dragón que olvidaba volar",
@@ -111,6 +114,7 @@
         "cooperación",
         "compartir"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "Los tres amigos del bosque",
@@ -120,7 +124,7 @@
     },
     {
       "id": "el-cohete-de-papel",
-      "version": 2,
+      "version": 3,
       "json": "stories/el-cohete-de-papel.json",
       "cover": "covers/el-cohete-de-papel.webp",
       "ageMin": 4,
@@ -138,6 +142,7 @@
         "estrellas",
         "soñar"
       ],
+      "premium": true,
       "preview": {
         "es": {
           "title": "El cohete de papel",
@@ -165,6 +170,7 @@
         "ayudar",
         "miedo"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "Pancho el perro valiente",
@@ -191,6 +197,7 @@
         "sueños",
         "abuela"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "La noche de las luciérnagas",
@@ -218,6 +225,7 @@
         "fuerza",
         "ayudar"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "Rex, el pequeño dinosaurio",
@@ -227,7 +235,7 @@
     },
     {
       "id": "mia-y-la-nube-viajera",
-      "version": 2,
+      "version": 3,
       "json": "stories/mia-y-la-nube-viajera.json",
       "cover": "covers/mia-y-la-nube-viajera.webp",
       "ageMin": 4,
@@ -245,6 +253,7 @@
         "imaginación",
         "nubes"
       ],
+      "premium": true,
       "preview": {
         "es": {
           "title": "Mía y la nube viajera",
@@ -254,7 +263,7 @@
     },
     {
       "id": "la-princesa-y-el-dragon-triston",
-      "version": 2,
+      "version": 3,
       "json": "stories/la-princesa-y-el-dragon-triston.json",
       "cover": "covers/la-princesa-y-el-dragon-triston.webp",
       "ageMin": 4,
@@ -273,6 +282,7 @@
         "dragón",
         "empatía"
       ],
+      "premium": true,
       "preview": {
         "es": {
           "title": "La princesa y el dragón tristón",
@@ -301,6 +311,7 @@
         "colores",
         "timidez"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "El pez arcoíris pequeño",
@@ -327,6 +338,7 @@
         "autoaceptación",
         "ritmo"
       ],
+      "premium": false,
       "preview": {
         "es": {
           "title": "La tortuga que quiso correr",

@@ -1,0 +1,74 @@
+{
+  "id": "el-cohete-de-papel",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "El cohete de papel",
+  "summary": "Mateo construye un cohete de papel y vuela hasta una estrella amarilla.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Mateo tenía cinco años y un sueño tan grande que casi no le entraba en el pecho: quería viajar al espacio. En su cuarto, las paredes estaban tapizadas de mapas de planetas que él mismo había pegado, con la lengua afuera de tanta concentración. Júpiter el grandote, Saturno con su anillo, Marte rojito, la Tierra azul como una canica. Sobre la cama, su peluche favorito, un astronauta llamado Pepe, lo miraba siempre con la misma sonrisita pintada. Una tarde de viento suave, después de tomar la merienda, Mateo sacó una hoja blanca limpia de su cuaderno. La estiró sobre el escritorio y se puso a doblarla con muchísimo cuidado. Pliegue arriba, pliegue al medio, pliegue en las puntas, repliegue del repliegue. Sus deditos trabajaron despacito, sin apuro, mordiéndose el labio de la concentración. La hoja se fue transformando: primero parecía un barquito, después un sombrero, después... ¡un cohete! Al final tenía entre las manos un cohete de papel pequeñito, blanco y brillante como la luna llena. Mateo lo miró con orgullo, sonrió y le susurró bajito: \"¿Listo para despegar, amigo?\".",
+      "cues": [
+        {
+          "anchor": "cohete",
+          "sfx": "sparkle"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Mateo abrió la ventana de su cuarto y se asomó al cielo nocturno. El viento le revolvió el pelo y le trajo olor a noche, a flores cerradas. Las estrellas titilaban allá arriba como ojitos curiosos, esperando algo. Mateo levantó el cohete de papel con las dos manos, lo apuntó hacia el cielo y empezó la cuenta regresiva en voz baja. \"Tres... dos... uno...\". Y lo lanzó al aire con todas sus fuerzas. ¡Fiummm! El cohete subió y subió, más rápido cada vez, dejando una estela de chispitas plateadas detrás. Pasó las copas de los árboles, pasó el balcón del vecino que tenía gatos, pasó las nubes blancas que dormían. Dejó atrás a los pajaritos que dormían en sus nidos y a los murciélagos que jugaban entre las ramas. Y entonces, sin saber cómo —porque las cosas mágicas siempre pasan así, sin avisar—, Mateo se encontró arriba del cohete, agarrado de la puntita con sus manitos, los ojos abiertos como dos platos, las mejillas coloradas. ¡Estaba volando de verdad!",
+      "cues": [
+        {
+          "anchor": "Fiummm",
+          "sfx": "rocket"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "volando",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Allá arriba, mucho más allá de las nubes, lo estaba esperando una estrella amarilla y rechoncha. Tenía cara de abuela amable, con cachetes redondos, una sonrisa enorme y rayitos que le salían como mechones de pelo dorado. \"Hola Mateo, te estaba esperando\", le dijo la estrella con voz cantarina, como si lo conociera de toda la vida. Mateo se quedó mudo un segundito, después soltó una risita tímida. La estrella le tendió un rayito como si fuera una mano. \"¿Querés bailar conmigo entre las constelaciones?\". Mateo se rió de pura emoción y le tomó el rayito sin dudar. Empezaron a bailar juntos, despacito al principio, después más rápido. Pasaron volando entre cometas con cola de fuego, saludaron a la luna que les guiñó un ojo, jugaron a las escondidas con tres planetitas chiquitos, le hicieron cosquillas a Saturno en el anillo y Saturno se rió tan fuerte que se sacudió todo. La Vía Láctea era como un río de leche brillante, y Mateo y la estrella la cruzaron de la mano. \"Esto es lo más lindo que vi en mi vida\", susurró Mateo. La estrella le contestó: \"Y todavía falta lo mejor\".",
+      "cues": [
+        {
+          "anchor": "estrella",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "rió",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "cosquillas",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "La estrella le mostró a Mateo una caja chiquita de luz que tenía guardada entre sus rayitos. La abrió despacito, y de adentro salieron miles de estrellitas más pequeñas, chispas doradas que se esparcieron por el cielo formando dibujos: un barco, un perro, una sonrisa. \"Estas son las semillas de los sueños\", le explicó la estrella. \"Cada noche planto algunas para que los niños que miran al cielo tengan ganas de imaginar\". Mateo le ayudó a plantar varias, soplándolas con sus mejillas infladas hasta que volaban lejos. De pronto, sintió un poquito de sueño, los ojitos pesados. La estrella lo notó y le sopló una caricia tibia. Cuando Mateo abrió los ojos, ya estaba de vuelta en su cama, abrigadito bajo las cobijas. El cohete de papel estaba sobre su mesita, justo donde lo había dejado. Por la ventana, la estrella amarilla le guiñó un ojo desde lejos, como diciéndole \"hasta mañana\". Mateo sonrió y abrazó fuerte a su peluche Pepe. Esa noche aprendió un secreto importante que iba a recordar toda su vida: imaginar también es volar. Y cualquier niño con una hoja de papel puede llegar hasta las estrellas.",
+      "cues": [
+        {
+          "anchor": "chispas",
+          "sfx": "sparkle"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "twinkle"
+        }
+      ]
+    }
+  ]
+}

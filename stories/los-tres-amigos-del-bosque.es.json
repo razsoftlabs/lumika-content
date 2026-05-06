@@ -1,0 +1,71 @@
+{
+  "id": "los-tres-amigos-del-bosque",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "Los tres amigos del bosque",
+  "summary": "Un conejo, un erizo y una ardilla descubren que juntos llegan más lejos.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Era una mañana fresca y soleada en el bosque, una de esas mañanas en que los pájaros cantaban tan fuerte que parecía que estaban contando un chisme nuevo. El rocío todavía brillaba sobre el pasto y los rayos del sol se colaban entre las hojas como hilitos dorados. Lola, una coneja blanca con orejitas largas y nariz rosadita, corría entre los árboles buscando algo rico para desayunar. ¡Pum, pum, pum! Sus patitas hacían un ruido suave sobre la tierra húmeda. De pronto, Lola se detuvo en seco. Levantó la nariz, olfateó el aire y abrió los ojos como dos platos: en lo más alto de un árbol grande, colgada de la rama más alta, había una manzana. Pero no cualquier manzana. Era roja, redondita, brillante, jugosa, de las que parecen pintadas. A Lola se le hizo agua la boca solo de mirarla. Tomó impulso y saltó. Después saltó más alto. Después saltó con todas sus fuerzas. Pero la manzana estaba demasiado, demasiado alta. \"Ay, qué pena\", suspiró sentándose en el pasto, con las orejitas caídas.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "corría",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "saltó",
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Un ruido entre las hojas la hizo voltear. Crick, crick. De entre los helechos salió Pim, un erizo chiquito con los pinchos suaves color marrón y una sonrisa simpática que le ocupaba media cara. \"Hola, hola\", dijo Pim sacudiéndose una hojita de la cabeza. \"Yo también vi esa manzana esta mañana, mientras paseaba\". Se acercó a Lola caminando despacito, porque los erizos no son muy rápidos. \"Y también la quiero, ¿sabés? Pero soy muy bajito, ni siquiera llego a la primera rama\". Pim se puso al lado de Lola y los dos miraron juntos la manzana con la misma cara de tristeza. Probaron de a uno: Pim saltaba, Lola saltaba. Probaron juntos: Pim hizo escalerita y Lola se trepó a sus pinchos suaves. Pero ay, los pinchos hacían cosquillas, Lola se rió, se cayó, ploc, y los dos terminaron rodando por el pasto. La manzana seguía allá arriba, lejana, brillando como si se estuviera burlando de ellos. Lola y Pim se miraron y suspiraron al mismo tiempo.",
+      "cues": [
+        {
+          "anchor": "erizo",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "rió",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Justo en ese momento, se escuchó un movimiento entre las ramas. Plif, plaf. Bajó del árbol, dando saltitos de rama en rama, una ardilla rojiza con una cola enorme y muy peluda. Se llamaba Sara y tenía los ojitos vivos como dos botoncitos negros. \"Hola, hola, hola, ¿qué pasa por acá?\", preguntó moviendo las patitas y la cola al mismo tiempo. Lola y Pim le contaron todo lo de la manzana, atropellándose con las palabras. Sara escuchó atentamente, ladeó la cabeza, miró hacia arriba, miró hacia abajo, y de pronto sonrió grande. \"¡Tengo una idea! Yo soy buenísima para trepar, pero soy chiquita y no puedo cargar la manzana yo sola. Si nos ayudamos los tres, seguro la conseguimos\". Lola y Pim se miraron emocionados. Pim, que era el más fuerte de los tres aunque fuera el más bajito, se puso firme abajo. Lola se subió encima de Pim con cuidado de no pincharse. Y Sara, que era ágil como una nube, saltó hasta los hombros de Lola y de ahí brincó a la rama más alta. \"¡La tengo, la tengo!\", gritó. ¡Lograron alcanzarla!",
+      "cues": [
+        {
+          "anchor": "ardilla",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "tengo",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "La manzana cayó suavecito sobre el pasto, plop, justo entre los tres. Era enorme, tan grande que daba para todos. Lola, que era la más cuidadosa, la partió con sus dientecitos en tres trozos iguales, ni uno más, ni uno menos. \"Acá tienen\", dijo entregando los pedazos. Se sentaron juntos bajo el árbol, en círculo, y se la comieron lentamente, saboreando cada mordisco crujiente. Crunch, crunch, crunch. La manzana era dulce y jugosa, con ese sabor especial de las cosas que se ganan con esfuerzo. \"Es la manzana más rica del mundo\", dijo Pim con la boca llena. \"Sí\", contestó Sara, \"porque la conseguimos juntos\". Lola asintió con las orejitas, contenta. Desde ese día, Lola, Pim y Sara fueron mejores amigos para siempre. Caminaban juntos por el bosque, jugaban juntos a las escondidas, y cuando uno encontraba algo rico, lo compartía con los otros dos. Porque aprendieron algo importante esa mañana: solos llegamos lejos, pero juntos llegamos al cielo.",
+      "cues": [
+        {
+          "anchor": "plop",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "crunch",
+          "sfx": "crunch"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "giggle"
+        }
+      ]
+    }
+  ]
+}

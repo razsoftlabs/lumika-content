@@ -1,0 +1,75 @@
+{
+  "id": "la-ballena-cantora",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The little singing whale",
+  "summary": "A tiny whale discovers her voice is the most beautiful gift in the ocean.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "In the deepest part of the blue sea, where the water is as dark as night but still lets through little sun rays like threads of melted gold, lived a very tiny whale. She was the size of a mattress, with a white belly and a back the color of a stormy sky. The waves rocked gently above her, far, far up. But the tiny whale had a huge secret: she never spoke, or sang, or even made bubbles. She was ashamed of her voice because she thought it was too small, too thin, too nothing. Every day she hid behind the pink corals, with her tail curled under her belly, and watched the colorful fish go by without saying hello. \"Hello,\" she wanted to say softly. But the word got stuck in her throat, like a shy little snail. The ocean watched over her in silence, patient, waiting for the day she would feel brave enough.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "corals",
+          "sfx": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "One calm morning, while she swam alone among the seaweed, she heard something different. A thin, weeping sound. It was a lost little octopus, sitting on a clam, with all eight of his little arms curled up in sadness. His eyes were full of tiny tears that mixed with the salt water. The tiny whale watched him from afar, hesitated for a second, came a little closer, hesitated again. Then she took a deep breath and, almost without meaning to, opened her mouth. From her came a trembling sound, soft, like a sigh of water. The little octopus stopped crying instantly, surprised. He lifted his head, blinked, and waved all his little arms at the same time. \"Did you sing?\" he asked very softly, as if he didn't dare believe it. The whale wanted to hide behind the coral again, lowered her head. But the octopus smiled at her with a huge smile, full of tenderness, and said: \"It's the most beautiful thing I've ever heard in my life.\"",
+      "cues": [
+        {
+          "anchor": "sing",
+          "sfx": "whale_song"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The tiny whale stayed very still, not knowing what to say. Her cheeks turned a soft pink, just like the coral next to her. The little octopus sat on a soft stone, crossed two of his arms as if they were legs, and looked at her with the face of a child waiting for a story. \"Will you sing again? Please, please,\" he begged, wiggling his suckers. The whale closed her eyes, filled her lungs with salty water until her heart felt warm, and let out another song, now a little bigger. From her mouth rose colored bubbles: blue, pink, gold, silver. The bubbles traveled slowly up to the surface, carrying the song with them. A curious little sardine peeked out from behind a coral and stayed to listen, without moving. Then came a green little turtle. Then a yellow crab. Then a purple starfish that came down from the sky of the sea. Nobody laughed. Everybody smiled, hypnotized.",
+      "cues": [
+        {
+          "anchor": "song",
+          "sfx": "whale_song"
+        },
+        {
+          "anchor": "bubbles",
+          "sfx": "bubbles"
+        },
+        {
+          "anchor": "starfish",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "The fish kept coming, first ten, then a hundred, then a whole school shining like silver confetti. Dolphins did pirouettes in the water, seahorses jumped like little springs, the seaweed swayed to the rhythm of the song like green dancers, and even the jellyfish lit up their tiny lights. The tiny whale looked at them all with her big eyes, unable to believe it. Her voice — her tiny little voice that had given her so much shame — was making the whole ocean happy. The little octopus stroked her belly with one arm and said: \"See? Your voice wasn't small. It was special.\" The whale understood, in that moment, that every creature has a gift, and hers was singing. And from that night on, she sang every night so the ocean could fall asleep peacefully. All the fish in the sea waited for her with their eyes closed, dreaming with her gentle melody.",
+      "cues": [
+        {
+          "anchor": "school",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "dancers",
+          "sfx": "giggle"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "whale_song"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "pancho-el-perro-valiente",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "Pancho el perro valiente",
+  "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Pancho era un perrito chiquito de pelo café con manchas blancas, orejas largas y caídas, y una colita que se movía como un metrónomo cada vez que estaba contento. Vivía en una casa pequeña con su familia, en un barrio tranquilo lleno de árboles. La casa tenía un jardín con flores de todos los colores: rojas, amarillas, violetas, blancas. Pancho era cariñoso, juguetón, le encantaba perseguir pelotas y dar volteretas en el pasto. Todos los vecinos lo conocían y le sonreían cuando salía a pasear. Pero Pancho tenía un secreto que nadie sabía, ni su familia, ni los amigos del parque, ni siquiera el gato del vecino: les tenía muchísimo miedo a las tormentas. Cada vez que el cielo se ponía gris y empezaba a tronar, el corazoncito de Pancho le saltaba dentro del pecho como un conejo asustado. Bumbumbumbum. Las orejas se le caían más todavía y la colita se le metía entre las patas. Corría a esconderse bajo la cama de su humana, en el rincón más oscuro, y allí se quedaba quietito, quietito, con las patitas tapándole las orejas, esperando a que pasara todo ese ruido feo.",
+      "cues": [
+        {
+          "anchor": "tronar",
+          "sfx": "thunder"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_high"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Una noche de octubre, una tormenta enorme cayó sobre el barrio. Empezó con un cielo cada vez más oscuro, después unos rayos lejanos, y de pronto se desató toda. La lluvia golpeaba el techo como mil tamborcitos pequeños, los truenos hacían temblar los vidrios, y los relámpagos iluminaban las paredes como flashes gigantes. Pancho, fiel a su costumbre, corrió a esconderse bajo la cama, temblando. \"Por favor que pare, por favor que pare\", pensaba con los ojitos cerrados. Pero entre los truenos, en una pausa chiquita de la tormenta, Pancho escuchó algo distinto. Algo que no era trueno, ni viento, ni lluvia. Era un sonido finito, agudo, asustado. ¡Miau! ¡Miauuu! ¡Miauuuuu! Pancho asomó la cabecita por debajo de las cobijas y prestó mucha atención. Sí, ahí estaba otra vez: ¡Miauuu! Era un gatito. Un gatito perdido, en algún lugar del jardín, bajo la lluvia, mojado y solito, llamando a su mamá. Pancho sintió que el corazón se le apretaba de tristeza, como si alguien le diera un abrazo muy fuerte por dentro.",
+      "cues": [
+        {
+          "anchor": "Miau",
+          "sfx": "cat_meow"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Pancho seguía temblando de miedo. La tormenta no había parado, todo lo contrario, parecía cada vez peor. Pero algo dentro de él, una vocecita chiquita pero firme, le dijo: \"Pancho, tenés que ayudar\". El perrito abrió los ojos. Miró hacia la puerta. Tragó saliva. \"No puedo\", pensó al principio. \"Sí podés\", contestó la vocecita. Pancho respiró hondo, una vez, dos veces. Salió de su escondite paso a paso, con las patitas un poquito flojas. Cruzó el living, pasó al lado del sillón, llegó a la puertita del jardín. La empujó con el hocico, click, y se asomó. La lluvia le mojó el pelaje en un segundo, los truenos rugían arriba, las gotas le caían en los ojos. Pero Pancho siguió caminando, paso a paso, oliendo el aire para encontrar al gatito. Lo encontró debajo de un arbusto, hecho una bolita, todo mojado, con los pelitos pegados al cuerpo. Pancho ladró con toda su fuerza: \"¡Guau guau! ¡Acá estoy! ¡No tengas miedo!\". Se acercó despacito, lo agarró suavemente con la boca, con muchísimo cuidado de no lastimarlo, y lo cargó hasta su casita calentita. Le trajo su toalla favorita, la suavecita, y lo ayudó a secarse.",
+      "cues": [
+        {
+          "anchor": "Guau guau",
+          "sfx": "bark"
+        },
+        {
+          "anchor": "puertita",
+          "sfx": "door_open"
+        },
+        {
+          "anchor": "arbusto",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "El gatito, al sentirse seco y abrigado, dejó de temblar de a poquito. Sus ojitos verdes se fueron calmando. Empezó a ronronear bajito, un ronroneo de gratitud, prrr, prrr, prrr. Pancho se acurrucó al lado del gatito y lo abrazó con sus patitas peludas, como si fuera un peluche. Los dos se quedaron así, juntitos, en la camita de Pancho, escuchando la tormenta desde adentro. Afuera la lluvia seguía cayendo, los truenos seguían rugiendo, pero adentro había calorcito, había compañía, había seguridad. Y de pronto, Pancho se dio cuenta de algo importante: ya no tenía miedo. Bueno, sí tenía miedo, pero un miedo distinto, más chiquito, porque adentro suyo había crecido algo más grande que el miedo: el cariño. Pancho aprendió esa noche un secreto que iba a recordar para siempre: ser valiente no es no tener miedo. Ser valiente es tener miedo y, aún así, salir a ayudar a los demás. Esa noche, los dos durmieron juntitos y calentitos, mientras la lluvia, allá afuera, los arrullaba como si fuera una canción de cuna.",
+      "cues": [
+        {
+          "anchor": "ronronear",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "durmieron",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

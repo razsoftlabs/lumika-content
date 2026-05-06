@@ -1,0 +1,78 @@
+{
+  "id": "el-dragon-que-olvidaba-volar",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The dragon who forgot how to fly",
+  "summary": "A nervous little dragon learns that with calm, anything is possible.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "High on top of a green mountain, where the clouds passed so close you could touch them with your paw, lived a little dragon named Tito. Tito was small, no bigger than a medium puppy, and his scales sparkled like tiny pieces of fire when the morning sun hit them. He had two tiny wings with golden edges and a curled-up tail that ended in a point. But Tito had a very big problem for someone so small: every time he was about to fly, he forgot how. His little wings would freeze, standing still at his sides, not knowing what to do. And his heart would start jumping fast, fast, like a small drum pounding inside his chest. Meanwhile, his dragon friends flew happily among the clouds, doing pirouettes in the air, chasing each other with little giggles and puffing breaths of sparkles. Tito watched them from his corner on the mountain, his belly pressed to the ground. \"I want to too,\" he thought softly, biting his tail. But the moment he opened his wings, everything left his head, as if someone stole the trick from him.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_high"
+        },
+        {
+          "anchor": "fire",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "One clear morning, Tito decided that today was the day. He climbed onto a big rock with firm steps, puffed up his little chest like he had seen his dad do, closed his eyes tight, and got ready. \"Come on, Tito, you can do it,\" he told himself. He counted three, two, one, and took a huge leap toward the sky, with all his strength. For just a second he felt the wind on his face and thought \"I did it!\" But then his wings tangled up, one crossed over the other, and... Splat! He fell flat on the ground, his nose full of leaves and a yellow flower stuck to his forehead. A butterfly flying nearby laughed so hard she got dizzy and landed sideways on a branch. Tito got very sad. A lump formed in his throat and two big tears wet his little scales. \"Never, never, never am I going to be able to fly,\" sighed the little dragon, and lay down belly-up looking at the sky.",
+      "cues": [
+        {
+          "anchor": "leap",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "Splat",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "laughed",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The butterfly, now recovered from her laughter, felt sorry for the little dragon. She flew down slowly and landed on Tito's little nose. She had orange wings with black dots, like a flower with little spots. \"Forgive me, little dragon, I wasn't laughing at you,\" she whispered with a sweet voice. \"It's just that you get so stiff. You think too much.\" Tito opened one eye, then the other. The butterfly continued: \"I'm going to tell you a secret, okay? Close your eyes. Breathe deeply, like this, watch how I do it.\" The butterfly puffed her tiny belly and let the air out with a soft blow. Tito copied her. \"Again. One more time. Imagine the clouds, imagine the wind on your wings. Don't think about flying. Your wings already know. We just have to leave them alone.\" Tito did everything the butterfly told him. He breathed deeply, once, twice, three times, four. His heart, which before jumped like a little rabbit, began to beat slowly, slowly. His belly grew warm.",
+      "cues": [
+        {
+          "anchor": "whispered",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "Breathe",
+          "sfx": "breathe_in"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "When Tito opened his eyes, something magical was happening: his wings were already moving on their own. They went up and down with a soft rhythm, without him thinking about it, as if they were doing what they had always known how to do. Suddenly, Tito noticed that his feet stopped touching the ground. He looked down. The rock was far away. The flowers got smaller and smaller. He was flying! He flew high, high, until he touched the white clouds with the tip of his tail. He felt the cool wind on his face, on his ears, on every little scale. He let out a laugh of pure happiness and also let out a tiny puff of golden sparkles that drew a heart in the air. From far away, his dragon friends clapped for him with their wings. The butterfly danced beside him, happy. That afternoon, Tito learned a secret he would remember all his life: every time fear got the best of him, he would breathe deeply like his friend taught him, and everything would become easier.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "flying",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "laugh",
+          "sfx": "giggle"
+        }
+      ]
+    }
+  ]
+}

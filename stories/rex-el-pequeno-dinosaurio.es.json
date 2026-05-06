@@ -1,0 +1,78 @@
+{
+  "id": "rex-el-pequeno-dinosaurio",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "Rex, el pequeño dinosaurio",
+  "summary": "Rex es chiquito pero tiene un rugido enorme que asusta hasta a las nubes.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Hace muchísimos años, antes de que existieran los autos y las ciudades, en un valle verde lleno de helechos gigantes y volcanes con humito, vivía un dinosaurio llamado Rex. Pero no era cualquier Rex. Rex era el dinosaurio más pequeño de toda su familia. Y eso le daba un poquito de pena. Sus papás eran enormes, podían pisar un árbol entero sin darse cuenta. Sus hermanos eran enormes, sus colas eran como troncos. Hasta su tía abuela, que ya casi no caminaba, era enorme: tenía el cuello tan largo que llegaba a las nubes. Pero Rex era chiquito, más bajito que un girasol, más liviano que una piedra grande, con escamas verdes brillantes y dos cuernitos chiquitos en la cabeza. A veces se sentía un poquito invisible, como si los demás lo pisaran sin querer. Pero Rex tenía un secreto: lo único que él tenía gigante era su rugido. Cuando rugía con todas sus fuerzas, ¡GRROOOAAR!, hasta las hojas más altas de los árboles se ponían a temblar, y los insectos salían corriendo, y los charcos hacían ondas. Pero Rex casi nunca rugía, porque tenía miedo de su propia voz.",
+      "cues": [
+        {
+          "anchor": "rugía",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "GRROOOAAR",
+          "sfx": "thud"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_high"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Una mañana de sol, mientras Rex jugaba a saltar piedritas en un arroyo cristalino, escuchó un grito chiquito. Era un gritito agudo, asustado. Rex levantó la cabeza y aguzó las orejas, paf, paf, moviéndolas como antenas. El grito venía de unos arbustos cercanos. Rex caminó hasta allá despacito, intrigado. Y vio algo que le partió el corazón: una mariposa naranja con alas brillantes, brillantes como el sol del atardecer, había quedado atrapada bajo una rama gigante. La rama era enorme, pesada, gris, mucho más grande que Rex. La mariposa lloraba con sus ojitos llenos de lagrimitas chiquitas, moviendo sus alas con desesperación, sin poder salir. \"¡Ayuda, ayuda!\", chillaba con voz finita. Rex miró alrededor: sus papás estaban lejos, comiendo del otro lado del valle. Sus hermanos también. Estaba solo. Por un segundo, sintió ganas de salir corriendo a buscar a alguien grande. Pero la mariposa lo miró a los ojos, y Rex supo lo que tenía que hacer. Tomó aire, mucho aire, llenó sus pulmones hasta que la pancita se infló como un globo, y rugió con todas sus fuerzas: ¡GRRRROOOAAAAAR!",
+      "cues": [
+        {
+          "anchor": "aguzó",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "aire",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "GRRRROOOAAAAAR",
+          "sfx": "thud"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "El rugido fue tan, pero tan fuerte que el suelo tembló como si hubiera un terremoto. Las hojas de los árboles se desprendieron y volaron por el aire formando una nube verde. Los pájaros salieron disparados de sus nidos, los lagartos se metieron debajo de las rocas, y hasta los volcanes lejanos parecieron suspirar. Y la rama gigante, esa rama enorme que parecía imposible de mover, ¡saltó por los aires como si fuera una pluma! ¡Plomp! Cayó lejos, sobre un arbusto suave, sin lastimar a nadie. La mariposa, libre por fin, batió sus alas y salió volando feliz, dando piruetas en el cielo, riéndose con su risita cantarina. Voló alto, voló bajo, hizo un ocho en el aire, y después se acercó a Rex y se posó en su naricita. Le dio un besito chiquito, suavecito. \"Sos pequeño pero muy, muy poderoso\", le dijo con voz dulce. \"Gracias, gracias, mil gracias\". Rex se puso colorado de orgullo, sus mejillitas verdes se pusieron rosaditas. No sabía qué decir, así que sonrió mostrando todos sus dientecitos. La mariposa volvió a darle dos vueltas y voló contenta hacia el sol.",
+      "cues": [
+        {
+          "anchor": "Plomp",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "volando",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "piruetas",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Esa tarde, mientras el sol se ponía pintando el cielo de naranjas y rosados, Rex volvió a su nido caminando despacito, pensando, pensando. Pasó al lado de un riachuelo, vio su reflejo en el agua y se quedó mirándose un ratito. Se veía igual que siempre: chiquito, verde, con sus dos cuernitos. Pero por dentro, algo había cambiado. Su rugido siempre le había dado miedo. Siempre había pensado que era una cosa fea, ruidosa, asustadora. Hasta a él mismo se asustaba a veces de su propia voz. Pero hoy había descubierto algo nuevo, algo importante. Su rugido no era para asustar a los demás. Su rugido era para ayudar. Era una herramienta especial que la naturaleza le había dado, justamente porque él era el más chiquito y necesitaba un poder grande. Cuando llegó al nido, su mamá lo recibió con un besote en la frente. Rex se acurrucó cerca de su tibieza, contra su pancita escamosa, y se durmió contento. Esa noche soñó con todas las criaturas chiquitas que iba a poder ayudar al día siguiente: hormigas, mariposas, escarabajos, pajaritos. Y el rugido le dejó de dar miedo para siempre.",
+      "cues": [
+        {
+          "anchor": "durmió",
+          "sfx": "snore_soft"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        }
+      ]
+    }
+  ]
+}

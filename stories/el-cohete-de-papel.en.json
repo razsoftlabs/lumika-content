@@ -1,0 +1,74 @@
+{
+  "id": "el-cohete-de-papel",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The paper rocket",
+  "summary": "Mateo builds a paper rocket and flies all the way to a yellow star.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Mateo was five years old and had a dream so big it almost didn't fit in his chest: he wanted to travel to space. In his bedroom, the walls were covered with maps of planets that he had taped up himself, with his tongue sticking out from concentration. Big Jupiter, Saturn with his ring, red little Mars, blue Earth like a marble. On his bed, his favorite stuffed animal, an astronaut named Pepe, watched him always with the same painted smile. One soft, windy afternoon, after eating his snack, Mateo took a clean white sheet from his notebook. He smoothed it out on his desk and began to fold it very, very carefully. Fold up, fold in the middle, fold the corners, fold of the fold. His little fingers worked slowly, without rushing, biting his lip in concentration. The sheet of paper transformed: first it looked like a little boat, then a hat, then... a rocket! In the end, he held in his hands a tiny paper rocket, white and shining like the full moon. Mateo looked at it with pride, smiled, and whispered softly: \"Ready to take off, friend?\"",
+      "cues": [
+        {
+          "anchor": "rocket",
+          "sfx": "sparkle"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Mateo opened his bedroom window and leaned out to the night sky. The wind ruffled his hair and brought him the smell of night, of closed flowers. The stars twinkled up there like curious little eyes, waiting for something. Mateo lifted the paper rocket with both hands, pointed it at the sky and started the countdown in a low voice. \"Three... two... one...\" And he threw it into the air with all his strength. Whoosh! The rocket went up and up, faster and faster, leaving a trail of silver sparkles behind. It passed the tops of the trees, passed the neighbor's balcony with the cats, passed the sleeping white clouds. It left behind the little birds dreaming in their nests and the bats playing among the branches. And then, without knowing how — because magic things always happen like that, without warning — Mateo found himself on top of the rocket, holding the tip with his little hands, eyes wide as two plates, cheeks rosy. He was actually flying!",
+      "cues": [
+        {
+          "anchor": "Whoosh",
+          "sfx": "rocket"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "flying",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Up there, far beyond the clouds, a chubby yellow star was waiting for him. She had the face of a kind grandmother, with round cheeks, a huge smile, and rays that came out of her like locks of golden hair. \"Hello Mateo, I was waiting for you,\" the star said with a singing voice, as if she had known him forever. Mateo went silent for a moment, then let out a shy little laugh. The star reached out a ray as if it were a hand. \"Would you like to dance with me among the constellations?\" Mateo laughed with pure excitement and took her ray without hesitating. They started dancing together, slowly at first, then faster. They flew between comets with fiery tails, they greeted the moon who winked at them, they played hide and seek with three tiny planets, they tickled Saturn on his ring and Saturn laughed so hard he shook all over. The Milky Way was like a river of glowing milk, and Mateo and the star crossed it hand in hand. \"This is the most beautiful thing I've ever seen,\" whispered Mateo. The star answered: \"And the best part is yet to come.\"",
+      "cues": [
+        {
+          "anchor": "star",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "laughed",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "tickled",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "The star showed Mateo a tiny box of light she kept among her rays. She opened it slowly, and out came thousands of smaller little stars, golden sparkles that scattered across the sky forming pictures: a boat, a dog, a smile. \"These are dream seeds,\" the star explained. \"Every night I plant some so that the children who look up at the sky will want to imagine.\" Mateo helped her plant several, blowing them with his puffed-up cheeks until they flew far away. Suddenly, he felt a little sleepy, his eyes heavy. The star noticed and blew him a warm caress. When Mateo opened his eyes, he was already back in his bed, snug under the covers. The paper rocket was on his nightstand, right where he had left it. Through the window, the yellow star winked at him from far away, as if to say \"until tomorrow.\" Mateo smiled and hugged Pepe his stuffed animal tightly. That night he learned an important secret he would remember all his life: imagining is also flying. And any child with a sheet of paper can reach the stars.",
+      "cues": [
+        {
+          "anchor": "sparkles",
+          "sfx": "sparkle"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "twinkle"
+        }
+      ]
+    }
+  ]
+}

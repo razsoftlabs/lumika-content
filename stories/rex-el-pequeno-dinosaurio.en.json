@@ -1,0 +1,78 @@
+{
+  "id": "rex-el-pequeno-dinosaurio",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "Rex, the little dinosaur",
+  "summary": "Rex is tiny but has a huge roar that scares even the clouds.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "A very, very long time ago, before there were cars or cities, in a green valley full of giant ferns and volcanoes with little puffs of smoke, lived a dinosaur named Rex. But not just any Rex. Rex was the smallest dinosaur in his whole family. And that made him a little sad. His parents were huge, they could step on a whole tree without realizing it. His brothers and sisters were huge, their tails were like tree trunks. Even his great-aunt, who could barely walk anymore, was huge: her neck was so long it reached the clouds. But Rex was small, shorter than a sunflower, lighter than a big rock, with shiny green scales and two tiny horns on his head. Sometimes he felt a little invisible, as if the others stepped on him without meaning to. But Rex had a secret: the only thing he had that was huge was his roar. When he roared with all his strength, GRROOOAAR!, even the highest leaves of the trees would tremble, and the insects would run away, and the puddles would make ripples. But Rex almost never roared, because he was afraid of his own voice.",
+      "cues": [
+        {
+          "anchor": "roared",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "GRROOOAAR",
+          "sfx": "thud"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_high"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "One sunny morning, while Rex was playing skipping pebbles in a crystal-clear stream, he heard a tiny cry. It was a high, frightened little cry. Rex lifted his head and pricked up his ears, paf, paf, swiveling them like antennas. The cry was coming from some nearby bushes. Rex walked over slowly, intrigued. And he saw something that broke his heart: an orange butterfly with shiny wings, shiny like the sunset sun, had been trapped under a giant branch. The branch was enormous, heavy, gray, much bigger than Rex. The butterfly was crying with her tiny eyes full of small tears, flapping her wings desperately, unable to escape. \"Help, help!\" she squeaked in a thin voice. Rex looked around: his parents were far away, eating on the other side of the valley. His brothers and sisters too. He was alone. For a second, he wanted to run off and find someone bigger. But the butterfly looked into his eyes, and Rex knew what he had to do. He took a breath, a lot of breath, filled his lungs until his belly puffed up like a balloon, and he roared with all his might: GRRRROOOAAAAAR!",
+      "cues": [
+        {
+          "anchor": "pricked",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "breath",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "GRRRROOOAAAAAR",
+          "sfx": "thud"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The roar was so, so loud that the ground shook as if there were an earthquake. The leaves on the trees came loose and flew through the air forming a green cloud. The birds shot out of their nests, the lizards ducked under the rocks, and even the distant volcanoes seemed to sigh. And the giant branch, that enormous branch that seemed impossible to move, jumped into the air as if it were a feather! Thump! It fell far away, on a soft bush, without hurting anyone. The butterfly, finally free, fluttered her wings and flew off happy, doing pirouettes in the sky, laughing with her singing little laugh. She flew high, she flew low, she made a figure-eight in the air, and then approached Rex and landed on his nose. She gave him a tiny, soft little kiss. \"You're small but very, very powerful,\" she said with a sweet voice. \"Thank you, thank you, thank you so much.\" Rex turned red with pride, his little green cheeks turned pink. He didn't know what to say, so he smiled showing all his little teeth. The butterfly twirled around him twice more and flew happily toward the sun.",
+      "cues": [
+        {
+          "anchor": "Thump",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "flying",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "pirouettes",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "That afternoon, while the sun was setting painting the sky in oranges and pinks, Rex returned to his nest walking slowly, thinking, thinking. He passed a little stream, saw his reflection in the water, and stayed looking at himself for a moment. He looked the same as always: small, green, with his two little horns. But inside, something had changed. His roar had always scared him. He had always thought it was an ugly, noisy, scary thing. Even he himself was sometimes scared of his own voice. But today he had discovered something new, something important. His roar wasn't for scaring others. His roar was for helping. It was a special tool that nature had given him, precisely because he was the smallest and needed a big power. When he reached the nest, his mom welcomed him with a big kiss on his forehead. Rex curled up close to her warmth, against her scaly belly, and fell asleep happy. That night he dreamed of all the tiny creatures he would be able to help the next day: ants, butterflies, beetles, little birds. And his roar stopped scaring him forever.",
+      "cues": [
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        }
+      ]
+    }
+  ]
+}

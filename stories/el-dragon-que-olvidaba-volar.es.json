@@ -1,0 +1,78 @@
+{
+  "id": "el-dragon-que-olvidaba-volar",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "El dragón que olvidaba volar",
+  "summary": "Un dragoncito nervioso aprende que con calma todo se logra.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En lo alto de una montaña verde, donde las nubes pasaban tan cerca que se podían tocar con la pata, vivía un dragoncito llamado Tito. Tito era pequeño, no más grande que un perrito mediano, y sus escamas brillaban como pedacitos de fuego cuando le pegaba el sol de la mañana. Tenía dos alitas chiquitas con bordes dorados y una colita enrollada que terminaba en punta. Pero Tito tenía un problema muy grande para alguien tan chiquito: cada vez que iba a volar, se le olvidaba cómo. Sus alitas se quedaban quietas, paraditas a los lados, sin saber qué hacer. Y su corazón empezaba a saltar fuerte, fuerte, como un tambor pequeño golpeando dentro de su pecho. Mientras tanto, sus amiguitos dragones volaban felices entre las nubes, haciendo piruetas en el aire, persiguiéndose unos a otros con risitas y soplando bocanadas de chispas. Tito los miraba desde su rincón en la montaña, con la barriguita pegada al suelo. \"Yo también quiero\", pensaba bajito, mordiéndose la colita. Pero apenas abría las alas, todo se le iba de la cabeza, como si alguien le robara el truco.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_high"
+        },
+        {
+          "anchor": "fuego",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Una mañana de cielo despejado, Tito decidió que ese era el día. Subió a una piedra grande con paso firme, infló el pechito como había visto hacer a su papá, cerró los ojos bien apretados y se preparó. \"Vamos, Tito, vos podés\", se dijo a sí mismo. Contó tres, dos, uno, y dio un salto enorme hacia el cielo, con todas sus fuerzas. Por un segundito sintió el viento en la cara y pensó \"¡lo logré!\". Pero entonces sus alitas se trabaron, una se cruzó con la otra, y... ¡Plof! Cayó de boca al suelo, con la nariz llena de hojas y una flor amarilla pegada en la frente. Una mariposa que pasaba volando cerca se rió tanto que hasta se mareó y aterrizó torcido en una rama. Tito se puso muy triste. Se le hizo un nudito en la garganta y dos lagrimones le mojaron las escamitas. \"Nunca, nunca, nunca voy a poder volar\", suspiró el pequeño dragón, y se acostó panza arriba mirando el cielo.",
+      "cues": [
+        {
+          "anchor": "salto",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "Plof",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "rió",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "La mariposa, ya repuesta de su risa, sintió pena por el dragoncito. Bajó volando despacito y se posó en la naricita de Tito. Tenía las alas naranjas con puntitos negros, como una flor con manchitas. \"Perdoname, dragoncito, no me reía de vos\", le susurró con voz dulce. \"Es que vos te ponés muy duro. Vos pensás demasiado\". Tito abrió un ojo, después el otro. La mariposa siguió: \"Te voy a contar un secreto, ¿sí? Cerrá los ojos. Respirá hondo, así, mirá cómo lo hago yo\". La mariposa infló su panza chiquita y soltó el aire con un soplido suave. Tito copió. \"De nuevo. Una vez más. Imaginá las nubes, imaginá el viento en tus alas. No pienses en volar. Tus alas ya saben. Solo hay que dejarlas tranquilas\". Tito hizo todo lo que le decía la mariposa. Respiró hondo, una vez, dos veces, tres veces, cuatro. Su corazón, que antes saltaba como un conejito, empezó a latir despacito, despacito. La pancita se le fue calentando.",
+      "cues": [
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "Respirá",
+          "sfx": "breathe_in"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Cuando Tito abrió los ojos, algo mágico estaba pasando: sus alitas ya se estaban moviendo solas. Subían y bajaban con un ritmo suave, sin que él pensara nada, como si hicieran lo que siempre habían sabido hacer. De pronto, Tito notó que sus pies dejaron de tocar el suelo. Miró hacia abajo. La piedra estaba lejos. Las flores se hacían cada vez más chiquitas. ¡Estaba volando! Voló alto, alto, hasta tocar las nubes blancas con la puntita de la cola. Sintió el viento fresco en la cara, en las orejas, en cada escamita. Soltó una carcajada de pura felicidad y soltó también una bocanada chiquita de chispas doradas que dibujaron un corazón en el aire. Desde lejos, sus amiguitos dragones lo aplaudieron con sus alas. La mariposa lo seguía bailando a su lado, contenta. Esa tarde, Tito aprendió un secreto que iba a recordar toda su vida: cada vez que el miedo le ganara, iba a respirar hondo como le enseñó su amiga, y todo se iba a hacer más fácil.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "volando",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "carcajada",
+          "sfx": "giggle"
+        }
+      ]
+    }
+  ]
+}

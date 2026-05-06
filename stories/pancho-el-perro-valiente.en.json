@@ -1,0 +1,70 @@
+{
+  "id": "pancho-el-perro-valiente",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "Pancho the brave dog",
+  "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Pancho was a small puppy with brown fur and white spots, long floppy ears, and a tail that wagged like a metronome whenever he was happy. He lived in a small house with his family, in a quiet neighborhood full of trees. The house had a garden with flowers of every color: red, yellow, purple, white. Pancho was sweet and playful, he loved chasing balls and tumbling in the grass. All the neighbors knew him and smiled when they saw him on his walks. But Pancho had a secret no one knew, not his family, not his friends at the park, not even the neighbor's cat: he was very, very afraid of thunderstorms. Every time the sky turned gray and started to thunder, Pancho's tiny heart would jump inside his chest like a frightened rabbit. Bumbumbumbum. His ears would droop even more and his tail would tuck between his legs. He would run to hide under his human's bed, in the darkest corner, and stay there very still, very still, with his paws covering his ears, waiting for all that ugly noise to pass.",
+      "cues": [
+        {
+          "anchor": "thunder",
+          "sfx": "thunder"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_high"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "One October night, a huge storm fell over the neighborhood. It started with a sky that grew darker and darker, then some far-away lightning, and suddenly it broke loose. The rain hit the roof like a thousand small drums, the thunder shook the windows, and the lightning lit up the walls like giant flashes. Pancho, faithful to his routine, ran to hide under the bed, trembling. \"Please let it stop, please let it stop,\" he thought with his eyes squeezed shut. But between the thunderclaps, in a tiny pause in the storm, Pancho heard something different. Something that wasn't thunder, or wind, or rain. It was a thin, sharp, frightened sound. Meow! Meow! Meowwww! Pancho poked his head out from under the blankets and listened carefully. Yes, there it was again: Meowww! It was a kitten. A lost kitten, somewhere in the garden, in the rain, wet and alone, calling for its mom. Pancho felt his heart squeeze with sadness, as if someone were giving him a very tight hug from inside.",
+      "cues": [
+        {
+          "anchor": "Meow",
+          "sfx": "cat_meow"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Pancho was still trembling with fear. The storm hadn't stopped, just the opposite, it seemed worse and worse. But something inside him, a tiny but firm little voice, said: \"Pancho, you have to help.\" The little dog opened his eyes. Looked at the door. Swallowed hard. \"I can't,\" he thought at first. \"Yes you can,\" answered the little voice. Pancho took a deep breath, once, twice. He came out of his hiding spot step by step, with his paws a little wobbly. He crossed the living room, passed the couch, reached the garden door. He pushed it with his snout, click, and peeked out. The rain soaked his fur in a second, the thunder roared above, the drops fell into his eyes. But Pancho kept walking, step by step, sniffing the air to find the kitten. He found it under a bush, curled up in a ball, soaking wet, with its hairs stuck to its body. Pancho barked with all his strength: \"Woof woof! I'm here! Don't be scared!\" He approached slowly, picked it up gently with his mouth, with great care not to hurt it, and carried it to his cozy little house. He brought his favorite towel, the soft one, and helped it dry off.",
+      "cues": [
+        {
+          "anchor": "Woof woof",
+          "sfx": "bark"
+        },
+        {
+          "anchor": "door",
+          "sfx": "door_open"
+        },
+        {
+          "anchor": "bush",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "The kitten, now feeling dry and warm, slowly stopped trembling. Its little green eyes calmed down. It began to purr softly, a purr of gratitude, prrr, prrr, prrr. Pancho curled up next to the kitten and hugged it with his furry paws, like a stuffed animal. The two of them stayed like that, snug together, on Pancho's little bed, listening to the storm from inside. Outside the rain kept falling, the thunder kept roaring, but inside there was warmth, there was company, there was safety. And suddenly, Pancho realized something important: he wasn't scared anymore. Well, yes, he was scared, but a different kind of scared, smaller, because something bigger than fear had grown inside him: love. Pancho learned that night a secret he would remember forever: being brave doesn't mean having no fear. Being brave means having fear and, even so, going out to help others. That night, the two of them slept together, snug and warm, while the rain, far outside, lulled them like a lullaby.",
+      "cues": [
+        {
+          "anchor": "purr",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "slept",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

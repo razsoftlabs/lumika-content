@@ -1,0 +1,71 @@
+{
+  "id": "los-tres-amigos-del-bosque",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The three forest friends",
+  "summary": "A bunny, a hedgehog, and a squirrel discover that together they go further.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "It was a fresh and sunny morning in the forest, one of those mornings when the birds sang so loudly it sounded like they were sharing a juicy new piece of gossip. The dew still glistened on the grass and the rays of the sun slipped between the leaves like little golden threads. Lola, a white bunny with long ears and a little pink nose, ran between the trees looking for something tasty for breakfast. Pum, pum, pum! Her little paws made a soft sound on the wet earth. Suddenly, Lola stopped short. She lifted her nose, sniffed the air, and opened her eyes wide as two plates: at the very top of a big tree, hanging from the highest branch, was an apple. But not just any apple. It was red, round, shiny, juicy, the kind that look painted. Lola's mouth watered just looking at it. She gathered momentum and jumped. Then she jumped higher. Then she jumped with all her strength. But the apple was too, too high. \"Oh, what a shame,\" she sighed, sitting down in the grass with her ears drooping.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "ran",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "jumped",
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "A noise among the leaves made her turn around. Crick, crick. Out of the ferns came Pim, a little hedgehog with soft brown spines and a friendly smile that took up half his face. \"Hello, hello,\" said Pim, shaking a little leaf off his head. \"I also saw that apple this morning, while I was out walking.\" He came up to Lola walking slowly, because hedgehogs aren't very fast. \"And I want it too, you know? But I'm so short, I can't even reach the first branch.\" Pim stood next to Lola and the two of them looked at the apple together with the same sad face. They tried one at a time: Pim jumped, Lola jumped. They tried together: Pim made a step-stool and Lola climbed on his soft spines. But oh, the spines tickled, Lola laughed, she fell off, plop, and the two of them ended up rolling on the grass. The apple was still up there, far away, shining as if it were laughing at them. Lola and Pim looked at each other and sighed at the same time.",
+      "cues": [
+        {
+          "anchor": "hedgehog",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "laughed",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Just at that moment, a movement was heard in the branches. Plif, plaf. A reddish squirrel came down from the tree, jumping branch to branch, with an enormous, very fluffy tail. Her name was Sara and she had bright eyes like two black buttons. \"Hello, hello, hello, what's going on here?\" she asked, moving her paws and her tail at the same time. Lola and Pim told her everything about the apple, tripping over their words. Sara listened carefully, tilted her head, looked up, looked down, and suddenly smiled big. \"I have an idea! I'm great at climbing, but I'm little and can't carry the apple by myself. If we three help each other, we'll definitely get it.\" Lola and Pim looked at each other excited. Pim, who was the strongest of the three even though he was the shortest, stood firm at the bottom. Lola climbed on top of Pim carefully, trying not to get pricked. And Sara, who was as nimble as a cloud, jumped onto Lola's shoulders and from there leaped to the highest branch. \"I've got it, I've got it!\" she shouted. They reached it!",
+      "cues": [
+        {
+          "anchor": "squirrel",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "got it",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "The apple fell softly on the grass, plop, right between the three of them. It was huge, big enough for everyone. Lola, who was the most careful, broke it with her teeth into three equal pieces, not one bigger, not one smaller. \"Here you go,\" she said handing them out. They sat together under the tree, in a circle, and ate it slowly, savoring every crunchy bite. Crunch, crunch, crunch. The apple was sweet and juicy, with that special taste of things you earn through effort. \"It's the most delicious apple in the world,\" said Pim with his mouth full. \"Yes,\" answered Sara, \"because we got it together.\" Lola nodded with her ears, content. From that day on, Lola, Pim, and Sara were best friends forever. They walked through the forest together, played hide and seek together, and when one of them found something tasty, they shared it with the other two. Because they learned something important that morning: alone we go far, but together we reach the sky.",
+      "cues": [
+        {
+          "anchor": "plop",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "Crunch",
+          "sfx": "crunch"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "giggle"
+        }
+      ]
+    }
+  ]
+}

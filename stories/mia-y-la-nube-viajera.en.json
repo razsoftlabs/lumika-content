@@ -1,0 +1,78 @@
+{
+  "id": "mia-y-la-nube-viajera",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "Mía and the traveling cloud",
+  "summary": "A girl rides on a cloud and discovers how the world looks from above.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Mía was a curious six-year-old girl, with two brown braids and eyes the color of chestnuts. She lived in a tall apartment, on the seventh floor of a building with a balcony, and from the window of her room you could see a huge piece of sky. Mía was always looking at the sky. It was her favorite thing. She loved watching the clouds go by, and while she watched them, she imagined they had the shapes of animals. \"That one looks like a whale,\" she would say, pointing. \"That other one looks like a bunny with a carrot. That one over there looks like grandpa's face.\" One summer afternoon, while she was having her snack with warm milk and butter cookies, she saw something that made her drop her cup on the table. A cloud different from all the others was approaching her window. It was white, round, round, soft, with silvery edges like soap foam. And the strangest thing: it was coming down very slowly, very slowly, straight toward her balcony. The cloud floated just outside the window, waiting for something, like a little puppy asking to come in. Mía came closer slowly, with her eyes wide open, unable to believe what she was seeing.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "cloud",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "The cloud, when it saw her, smiled with a smile of cotton. A cloud that smiled! Then it made a gesture with its soft tips, as if inviting her to come up. Mía pressed her nose against the glass. \"Me? You're inviting me?\" The cloud nodded by moving its whole little round body. Mía hesitated for a second. Then for two. She thought about her mom, who was downstairs cooking. She thought about whether it was dangerous. But then she remembered all the times she had dreamed about flying, all the times she had wished to touch a cloud. And she decided. She opened the window with one tug — shhhh — and leaned out. The wind ruffled her hair and brought her a smell of vanilla and of night coming. Mía took a small leap toward the cloud. For a second she thought she was going to fall into the void. But no. The cloud caught her gently, like a giant cotton mattress, and Mía sank a little into its soft belly. \"Hello, Mía,\" whispered the cloud with a sweet, sweet voice, as if it were a talking pillow. \"You know my name?\" asked Mía, surprised. \"Clouds know the names of the children who watch them,\" answered the cloud. \"We're going to travel together, but only if you want.\" Mía settled onto the cloud as if in a cushioned chair and stroked its white belly. \"I want to go,\" she said softly and smiling.",
+      "cues": [
+        {
+          "anchor": "leap",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "whispered",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "pillow",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "And up they went, up, up, slowly at first, then faster, until the window of Mía's room became a little dot far below. The cloud flew over the city, and from above, the houses looked like toy boxes, the cars looked like ants with little lights, and the people walking looked like grains of sand in motion. Mía laughed, the tickling of the wind tickled her cheeks. Then the cloud flew higher and they passed over the sea, which sparkled like a giant mirror with tiny rippling waves. Mía saw dolphins jumping between the waves, splash, splash!, chasing each other. Then they crossed mountains with snow on the peaks, where Mía saw goats jumping from rock to rock and an eagle that greeted them with a shriek. The cloud flew over a sleeping forest, full of trees swaying softly, where a fox poked his curious little head out from among the leaves. They flew over a river that wound like a silver snake. They flew over a little village with red roof tiles and an old bell tower. Everything was tiny from up there, everything looked calm and beautiful. Mía felt her heart growing in her chest, almost too big to fit.",
+      "cues": [
+        {
+          "anchor": "sea",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "splash",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "forest",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "shriek",
+          "sfx": "owl_hoot"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "When the sun began to hide behind the mountains, painting the sky in oranges, pinks, and purples, the moon peeked out shyly. The cloud whispered to Mía: \"It's time to go back, my love.\" Mía sighed a little sadly. \"Will we see each other again?\" The cloud smiled. \"Every time you look at the sky.\" They began to come down slowly, like on a soft cotton slide. They passed again over the sleeping mountains, over the dark sea, over the river that now sparkled with the moon. The city appeared below, with its yellow little lights turning on one by one. The cloud approached Mía's balcony, right at her window, and gently set her on her bed, as if leaving her among cotton balls. The blanket settled itself on top of her. \"When you want to fly, look for me,\" said the cloud before leaving, drifting away slowly. \"I'll be waiting for you forever.\" Mía waved goodbye with her hand until the cloud blended in with the others in the night sky. She closed her eyes with a huge smile and hugged her pillow. That night she dreamed of flying again, of all the places she had seen, and learned that every time she looked at a cloud in the sky, she would be able to remember her traveling friend. And sleep contentedly.",
+      "cues": [
+        {
+          "anchor": "sun",
+          "sfx": "wind_soft"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "twinkle"
+        }
+      ]
+    }
+  ]
+}

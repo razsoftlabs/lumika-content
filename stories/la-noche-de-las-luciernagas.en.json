@@ -1,0 +1,53 @@
+{
+  "id": "la-noche-de-las-luciernagas",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The night of the fireflies",
+  "summary": "A very short and calm story, perfect for sleepy eyes.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "It was a summer night and everything was very, very still. So still you could hear the silence. The moon peeked over the roof of grandma's house, round like a little white cheese. In the window of the small bedroom, a girl in star-printed pajamas leaned out into the garden, with messy hair and curious eyes. She was sleepy, but she didn't want to fall asleep yet. Suddenly, she saw something that left her with her mouth open. Among the flowers in the garden, in the grass, on the leaves of the trees, there were tiny sparks flying. They turned on and off, turned on and off, like little stars that had fallen from the sky and were wandering, lost, looking for the way back. Grandma appeared next to her, with her smell of fresh-baked bread, and whispered in her ear: \"They're fireflies, my love. They come once a year, on the quietest nights, to greet the night.\" The girl opened her eyes wide.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "sparks",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "fireflies",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "The girl put on her slippers and went down to the garden on tiptoe, without making a sound, slowly like a falling leaf. Grandma followed her, smiling. The grass was cool under her feet, the closed flowers were sleeping. The fireflies, when they saw her arrive, came flying all together. One landed on her tiny finger, another on her shoulder, another circled her head twice. They were like tiny magic lanterns with hearts of their own. The girl stayed very still, afraid of scaring them. \"Hello,\" she said in a soft voice. The fireflies answered her by blinking with their tiny lights, once, twice, three times, as if they were agreeing on something important.",
+      "cues": [
+        {
+          "anchor": "slippers",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "blinking",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Grandma whispered a secret in her ear: \"Each little light carries a dream inside. Look at that one, that one carries the dream of flying. That other one, of dancing among the clouds. That one over there, of finding a hidden treasure.\" The girl looked at each firefly with tenderness, trying to guess what dream it carried inside. She sat on the cool grass, with grandma next to her. She breathed in deeply the smell of night, of earth, of jasmine. The fireflies, one by one, slowly formed a crown of lights over her little head. Her eyes began to close slowly, slowly, without her noticing. Grandma carefully picked her up and carried her to bed. And before falling completely asleep, the girl was already flying with the fireflies, like one more firefly among the dreams of the night. And she dreamed until the dawn came.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "whisper"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "twinkle"
+        }
+      ]
+    }
+  ]
+}

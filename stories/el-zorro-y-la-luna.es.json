@@ -1,0 +1,80 @@
+{
+  "id": "el-zorro-y-la-luna",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "El zorro y la luna",
+  "summary": "Un zorrito curioso quiere alcanzar la luna y descubre algo más bonito en el camino.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Era una noche tranquila en el bosque, una de esas noches en que hasta el viento camina de puntillas para no despertar a nadie. Las hojas se mecían suavemente con la brisa, haciendo un susurro chiquito como de papel arrugado, y los grillos cantaban su melodía secreta entre las raíces. De una cueva escondida entre dos árboles grandes, salió un zorrito de pelaje anaranjado, con la nariz fría y los ojitos llenos de curiosidad. Asomó primero una pata, después la otra, después la cabecita entera. Cuando miró hacia arriba, se quedó quietito. Allá, entre las ramas más altas, brillaba la luna como un quesito de plata grande, redonda, redonda. El zorrito nunca había visto algo tan bonito en su vida. Se le hizo un cosquilleo en la barriga. De pronto, un búho viejo y sabio ululó cerca, observándolo desde una rama torcida. \"¿A dónde vas tan tarde, pequeño?\", preguntó el búho con voz suave, sin dejar de mirarlo.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "El zorrito levantó la cabecita y miró al búho con sus ojitos brillantes. \"Quiero tocar la luna\", dijo emocionado, moviendo la colita de un lado al otro. \"¿Tocarla?\", repitió el búho, y giró la cabeza casi del revés, sorprendido. El zorrito asintió con seguridad, tomó impulso, agachó las patitas y dio un salto enorme hacia el cielo. ¡Whuuum! Pero su salto fue demasiado pequeño y cayó otra vez sobre el pasto suave, plof. Sacudió la cabecita, escupió una hojita, y volvió a intentarlo. Saltó una segunda vez, más alto. Saltó una tercera, todavía más alto. Pero la luna seguía allá arriba, lejana, sonriendo con su carita redonda como diciendo \"casi, casi\". El zorrito se sentó en el suelo, panza arriba, mirando el cielo. Y se rió de sí mismo, una risita chiquita primero, después más grande. Porque a veces lo más lindo es intentarlo, aunque no salga.",
+      "cues": [
+        {
+          "anchor": "salto",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "plof",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "rió",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "En ese momento, de entre las flores dormidas, apareció un sapo con su panza redonda y verde. Croaba muy bajito, como si no quisiera despertar a los pétalos. Se acercó al zorrito dando saltitos cortos: ploc, ploc, ploc. \"La luna no se toca, mi amigo\", le dijo con una sonrisa amable, sentándose a su lado. El zorrito ladeó la cabeza, sin entender. \"Entonces, ¿para qué está?\", preguntó. El sapo respiró hondo, miró el cielo y le explicó despacito: \"La luna se mira. La luna se cuida. A la luna se le canta, se le pide un deseo, se le cuentan los secretos del día. Mira cómo brilla solo para ti esta noche, ¿la ves?\". El zorrito miró al sapo, después miró la luna, y entendió algo importante en su pequeño corazón. La luna no era para agarrar, era para acompañar.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "sapo",
+          "sfx": "frog_croak"
+        },
+        {
+          "anchor": "mira",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "El zorrito se acostó sobre el pasto fresco con las patitas estiradas y la cabecita apoyada en una raíz suave. El búho lo cuidaba desde la rama, parpadeando despacito. El sapo cantaba bajito a su lado, casi como una canción de cuna. Y todo el bosque, los árboles, los grillos, las flores, respiraban calmados, calmados. La luna empezó a acariciarle la nariz al zorrito con su luz de plata, suavecita, como una mano de mamá. El zorrito le contó sus secretos en voz baja: que tenía una mariposa amiga, que su cueva olía a tierra mojada, que a veces tenía miedo. La luna lo escuchó todo, sin interrumpir. Poco a poco, los ojitos del zorrito se cerraron sin darse cuenta. Y se quedó dormido bajo la luna, soñando que volaba con ella entre las estrellas, riéndose, jugando. Sus sueños fueron de plata esa noche, y todas las noches que vinieron después.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "cuna",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "dormido",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

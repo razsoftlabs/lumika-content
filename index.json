@@ -1,17 +1,28 @@
 {
-  "schemaVersion": 1,
-  "manifestVersion": 1778045595789,
-  "publishedAt": "2026-05-06T05:33:15.789Z",
+  "schemaVersion": 2,
+  "manifestVersion": 1778060060441,
+  "publishedAt": "2026-05-06T09:34:20.441Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
+  "locales": [
+    "en",
+    "es"
+  ],
   "stories": [
     {
       "id": "el-zorro-y-la-luna",
-      "version": 2,
-      "json": "stories/el-zorro-y-la-luna.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-zorro-y-la-luna.es.json",
+        "en": "stories/el-zorro-y-la-luna.en.json"
+      },
       "cover": "covers/el-zorro-y-la-luna.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 7,
+      "durationMin": 5,
       "categories": [
         "animales",
         "naturaleza",
@@ -25,6 +36,12 @@
         "luna"
       ],
       "premium": false,
+      "preload": [
+        "music/lullaby_piano",
+        "sfx/twinkle",
+        "sfx/owl_hoot",
+        "sfx/giggle"
+      ],
       "preview": {
         "es": {
           "title": "El zorro y la luna",
@@ -38,12 +55,19 @@
     },
     {
       "id": "la-ballena-cantora",
-      "version": 2,
-      "json": "stories/la-ballena-cantora.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-ballena-cantora.es.json",
+        "en": "stories/la-ballena-cantora.en.json"
+      },
       "cover": "covers/la-ballena-cantora.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 6,
       "categories": [
         "animales",
         "naturaleza",
@@ -58,21 +82,37 @@
         "autoestima"
       ],
       "premium": false,
+      "preload": [
+        "music/gentle_piano",
+        "sfx/whale_song",
+        "sfx/bubbles"
+      ],
       "preview": {
         "es": {
           "title": "La ballena cantora",
           "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano."
+        },
+        "en": {
+          "title": "The little singing whale",
+          "summary": "A tiny whale discovers her voice is the most beautiful gift in the ocean."
         }
       }
     },
     {
       "id": "el-dragon-que-olvidaba-volar",
-      "version": 3,
-      "json": "stories/el-dragon-que-olvidaba-volar.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-dragon-que-olvidaba-volar.es.json",
+        "en": "stories/el-dragon-que-olvidaba-volar.en.json"
+      },
       "cover": "covers/el-dragon-que-olvidaba-volar.webp",
       "ageMin": 4,
       "ageMax": 9,
-      "durationMin": 8,
+      "durationMin": 6,
       "categories": [
         "valores",
         "aventuras",
@@ -87,21 +127,38 @@
         "calma"
       ],
       "premium": true,
+      "preload": [
+        "music/adventure_soft",
+        "sfx/whoosh",
+        "sfx/thud",
+        "sfx/sparkle"
+      ],
       "preview": {
         "es": {
           "title": "El dragón que olvidaba volar",
           "summary": "Un dragoncito nervioso aprende que con calma todo se logra."
+        },
+        "en": {
+          "title": "The dragon who forgot how to fly",
+          "summary": "A nervous little dragon learns that with calm, anything is possible."
         }
       }
     },
     {
       "id": "los-tres-amigos-del-bosque",
-      "version": 3,
-      "json": "stories/los-tres-amigos-del-bosque.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/los-tres-amigos-del-bosque.es.json",
+        "en": "stories/los-tres-amigos-del-bosque.en.json"
+      },
       "cover": "covers/los-tres-amigos-del-bosque.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 7,
+      "durationMin": 6,
       "categories": [
         "animales",
         "amistad",
@@ -115,21 +172,38 @@
         "compartir"
       ],
       "premium": true,
+      "preload": [
+        "music/playful_flute",
+        "sfx/footsteps",
+        "sfx/giggle",
+        "sfx/crunch"
+      ],
       "preview": {
         "es": {
           "title": "Los tres amigos del bosque",
           "summary": "Un conejo, un erizo y una ardilla descubren que juntos llegan más lejos."
+        },
+        "en": {
+          "title": "The three forest friends",
+          "summary": "A bunny, a hedgehog, and a squirrel discover that together they go further."
         }
       }
     },
     {
       "id": "el-cohete-de-papel",
-      "version": 3,
-      "json": "stories/el-cohete-de-papel.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-cohete-de-papel.es.json",
+        "en": "stories/el-cohete-de-papel.en.json"
+      },
       "cover": "covers/el-cohete-de-papel.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 8,
+      "durationMin": 6,
       "categories": [
         "espacio",
         "aventuras",
@@ -143,21 +217,37 @@
         "soñar"
       ],
       "premium": true,
+      "preload": [
+        "music/space_dream",
+        "sfx/rocket",
+        "sfx/twinkle"
+      ],
       "preview": {
         "es": {
           "title": "El cohete de papel",
           "summary": "Mateo construye un cohete de papel y vuela hasta una estrella amarilla."
+        },
+        "en": {
+          "title": "The paper rocket",
+          "summary": "Mateo builds a paper rocket and flies all the way to a yellow star."
         }
       }
     },
     {
       "id": "pancho-el-perro-valiente",
-      "version": 3,
-      "json": "stories/pancho-el-perro-valiente.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/pancho-el-perro-valiente.es.json",
+        "en": "stories/pancho-el-perro-valiente.en.json"
+      },
       "cover": "covers/pancho-el-perro-valiente.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 7,
+      "durationMin": 6,
       "categories": [
         "animales",
         "valores",
@@ -171,17 +261,34 @@
         "miedo"
       ],
       "premium": true,
+      "preload": [
+        "music/gentle_piano",
+        "sfx/thunder",
+        "sfx/bark",
+        "sfx/cat_meow"
+      ],
       "preview": {
         "es": {
           "title": "Pancho el perro valiente",
           "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante."
+        },
+        "en": {
+          "title": "Pancho the brave dog",
+          "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway."
         }
       }
     },
     {
       "id": "la-noche-de-las-luciernagas",
-      "version": 2,
-      "json": "stories/la-noche-de-las-luciernagas.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-noche-de-las-luciernagas.es.json",
+        "en": "stories/la-noche-de-las-luciernagas.en.json"
+      },
       "cover": "covers/la-noche-de-las-luciernagas.webp",
       "ageMin": 3,
       "ageMax": 6,
@@ -198,21 +305,37 @@
         "abuela"
       ],
       "premium": false,
+      "preload": [
+        "music/lullaby_piano",
+        "sfx/sparkle",
+        "sfx/twinkle"
+      ],
       "preview": {
         "es": {
           "title": "La noche de las luciérnagas",
           "summary": "Un cuento muy corto y calmado, perfecto para ojos pesados."
+        },
+        "en": {
+          "title": "The night of the fireflies",
+          "summary": "A very short and calm story, perfect for sleepy eyes."
         }
       }
     },
     {
       "id": "rex-el-pequeno-dinosaurio",
-      "version": 3,
-      "json": "stories/rex-el-pequeno-dinosaurio.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/rex-el-pequeno-dinosaurio.es.json",
+        "en": "stories/rex-el-pequeno-dinosaurio.en.json"
+      },
       "cover": "covers/rex-el-pequeno-dinosaurio.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 7,
+      "durationMin": 6,
       "categories": [
         "dinosaurios",
         "valores",
@@ -226,21 +349,38 @@
         "ayudar"
       ],
       "premium": true,
+      "preload": [
+        "music/adventure_soft",
+        "sfx/thud",
+        "sfx/breathe_in",
+        "sfx/whoosh"
+      ],
       "preview": {
         "es": {
           "title": "Rex, el pequeño dinosaurio",
           "summary": "Rex es chiquito pero tiene un rugido enorme que asusta hasta a las nubes."
+        },
+        "en": {
+          "title": "Rex, the little dinosaur",
+          "summary": "Rex is tiny but has a huge roar that scares even the clouds."
         }
       }
     },
     {
       "id": "mia-y-la-nube-viajera",
-      "version": 3,
-      "json": "stories/mia-y-la-nube-viajera.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/mia-y-la-nube-viajera.es.json",
+        "en": "stories/mia-y-la-nube-viajera.en.json"
+      },
       "cover": "covers/mia-y-la-nube-viajera.webp",
       "ageMin": 4,
       "ageMax": 9,
-      "durationMin": 8,
+      "durationMin": 7,
       "categories": [
         "aventuras",
         "dormir",
@@ -254,21 +394,38 @@
         "nubes"
       ],
       "premium": true,
+      "preload": [
+        "music/space_dream",
+        "sfx/wind_soft",
+        "sfx/whisper",
+        "sfx/twinkle"
+      ],
       "preview": {
         "es": {
           "title": "Mía y la nube viajera",
           "summary": "Una niña se sube a una nube y descubre cómo se ve el mundo desde arriba."
+        },
+        "en": {
+          "title": "Mía and the traveling cloud",
+          "summary": "A girl rides on a cloud and discovers how the world looks from above."
         }
       }
     },
     {
       "id": "la-princesa-y-el-dragon-triston",
-      "version": 3,
-      "json": "stories/la-princesa-y-el-dragon-triston.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-princesa-y-el-dragon-triston.es.json",
+        "en": "stories/la-princesa-y-el-dragon-triston.en.json"
+      },
       "cover": "covers/la-princesa-y-el-dragon-triston.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 8,
+      "durationMin": 7,
       "categories": [
         "princesas",
         "mitos",
@@ -283,17 +440,34 @@
         "empatía"
       ],
       "premium": true,
+      "preload": [
+        "music/adventure_soft",
+        "sfx/thud",
+        "sfx/sparkle",
+        "sfx/twinkle"
+      ],
       "preview": {
         "es": {
           "title": "La princesa y el dragón tristón",
           "summary": "Una princesa descubre que el dragón rugía porque tenía una piedrita en la pata."
+        },
+        "en": {
+          "title": "The princess and the sad dragon",
+          "summary": "A princess discovers that the dragon was roaring because he had a thorn in his paw."
         }
       }
     },
     {
       "id": "el-pez-arcoiris-pequeno",
-      "version": 3,
-      "json": "stories/el-pez-arcoiris-pequeno.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-pez-arcoiris-pequeno.es.json",
+        "en": "stories/el-pez-arcoiris-pequeno.en.json"
+      },
       "cover": "covers/el-pez-arcoiris-pequeno.webp",
       "ageMin": 3,
       "ageMax": 6,
@@ -312,21 +486,38 @@
         "timidez"
       ],
       "premium": true,
+      "preload": [
+        "music/gentle_piano",
+        "sfx/bubbles",
+        "sfx/giggle",
+        "sfx/twinkle"
+      ],
       "preview": {
         "es": {
           "title": "El pez arcoíris pequeño",
           "summary": "Un pececito tímido encuentra amigos en el fondo del mar."
+        },
+        "en": {
+          "title": "The little rainbow fish",
+          "summary": "A shy little fish finds friends at the bottom of the sea."
         }
       }
     },
     {
       "id": "la-tortuga-que-quiso-correr",
-      "version": 2,
-      "json": "stories/la-tortuga-que-quiso-correr.json",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-tortuga-que-quiso-correr.es.json",
+        "en": "stories/la-tortuga-que-quiso-correr.en.json"
+      },
       "cover": "covers/la-tortuga-que-quiso-correr.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 6,
+      "durationMin": 7,
       "categories": [
         "animales",
         "valores"
@@ -339,10 +530,20 @@
         "ritmo"
       ],
       "premium": false,
+      "preload": [
+        "music/playful_flute",
+        "sfx/whoosh",
+        "sfx/thud",
+        "sfx/bee_buzz"
+      ],
       "preview": {
         "es": {
           "title": "La tortuga que quiso correr",
           "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es."
+        },
+        "en": {
+          "title": "The turtle who wanted to run",
+          "summary": "Tina the turtle learns that her pace is perfect just the way it is."
         }
       }
     }

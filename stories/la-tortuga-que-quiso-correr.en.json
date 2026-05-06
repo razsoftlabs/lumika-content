@@ -1,0 +1,74 @@
+{
+  "id": "la-tortuga-que-quiso-correr",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The turtle who wanted to run",
+  "summary": "Tina the turtle learns that her pace is perfect just the way it is.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Tina was a tiny little turtle with a bright green shell sprinkled with brown spots, two curious eyes, and a smile that was almost always there. She lived in a huge field full of yellow flowers, white daisies, and clovers. She walked at her own pace, slowly, slowly, step by step, never in a hurry. \"Hello, miss ant,\" she would greet an ant. \"Good morning, mister snail,\" she would say to a snail. She walked so slowly that butterflies sometimes landed on her shell thinking she was a stone. One radiant sunny morning, while Tina was crossing a path, she saw something that left her with her mouth open. Zoom! A rabbit went by fast as the wind, with his ears back and his paws almost floating. He left behind a cloud of dust, a little leaf spinning in the air, and disappeared in a few seconds. Tina stayed looking at the empty path, surprised. \"How wonderful!\" she thought with admiration. \"I want to run like that too. It's going to be fun. I'm going to try.\" And, determined, she started doing some funny stretches with her little legs, lifting them one by one, and rolled her head in circles.",
+      "cues": [
+        {
+          "anchor": "Zoom",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "stretches",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Tina took a deep breath and started moving as fast as she could. Plomp, plomp, plomp. Her little legs moved hurriedly, kicking up dust from the ground, while her shell wobbled from side to side. \"I'm really fast!\" she told herself. But after three steps she was already exhausted, panting like a little dog. She sat for a moment, caught her breath, and tried again. This time with more strength, more concentration, she even closed her eyes to feel speedy. Plomp, plomp... PLOMP! With her eyes closed she didn't see a stone in the path. She tripped, did a whole flip, and landed on her back with her legs in the air, flailing. \"Ouch, ouch, ouch!\" she complained. A yellow and black bee that was buzzing by, bzzz, bzzz!, came over worried. With her tiny legs she helped Tina turn over, pushing patiently. Tina was breathing hard, all sweaty, with dirt stuck to her shell and sad eyes, almost about to cry. \"I'm no good at running,\" she sighed, defeated, sitting down in the shade of a big tree. \"Everyone else is fast. I'm the only slow one in the world.\"",
+      "cues": [
+        {
+          "anchor": "Plomp",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "PLOMP",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "bee",
+          "sfx": "bee_buzz"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The little bee landed on a yellow flower right next to Tina and looked at her kindly, bending her two little antennas. \"Tina, dear, can I ask you something?\" Tina nodded with her head, still sad. \"Do you know what beautiful things you see when you walk slowly?\" Tina looked at her without understanding, blinking. The bee continued: \"Think about it. You see the tiny petals of every flower, the dewdrops that look like pearls, the ants working in line, the hidden butterflies, the sun warming the earth bit by bit. You see how the wind changes, you hear the song of every bird. The rabbit doesn't see any of that. He's going so fast he only sees blurs.\" Tina stayed quiet, thinking. She lowered her little head and looked at the ground. And then she realized: right under her nose was a row of tiny ants carrying a shiny green leaf. There were about ten of them, all in order, one behind the other. Tina had never seen them before. Further on, on a low branch, was a spiderweb with a drop of water trapped that shone like a tiny diamond. And next to the spiderweb, a red ladybug with black dots that looked like a precious stone. Tina felt something warm in her chest, like a tiny sun lighting up inside. She smiled slowly, as slowly as she walked.",
+      "cues": [
+        {
+          "anchor": "dewdrops",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "smiled",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Tina got up from the grass, shook her shell a little to get the dirt off, and continued on her way. Slowly, slowly, like always, but now with her eyes wide open. Each step turned into a little adventure. A red ladybug with black dots, how beautiful! A blue bird feather, soft! A stone shaped like a heart, what a coincidence! A new snail, hello mister snail! Tina walked happily, gathering treasures with her gaze. Further on, the speedy rabbit went by again like a lightning bolt, without looking at anything, zoom!, leaving a gust of air. Tina laughed softly, a giggle of complicity with the bee. \"Poor rabbit,\" she thought, \"what beautiful things he's missing.\" The bee winked at her from a nearby flower. That afternoon, Tina arrived at her favorite little corner by the pond and watched as the sun set, painting the water orange. The fireflies began to come out, one by one. That night, before tucking herself into her shell to sleep, Tina looked at the sky full of stars and learned something she would remember forever: each one of us has our own pace in this world. And hers — slow, attentive, full of discoveries — was perfect just the way it was.",
+      "cues": [
+        {
+          "anchor": "feather",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "stars",
+          "sfx": "twinkle"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "whisper"
+        }
+      ]
+    }
+  ]
+}

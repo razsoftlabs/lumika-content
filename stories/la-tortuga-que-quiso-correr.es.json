@@ -1,0 +1,74 @@
+{
+  "id": "la-tortuga-que-quiso-correr",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "La tortuga que quiso correr",
+  "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Tina era una tortuguita chiquita con un caparazón color verde brillante salpicado de manchitas marrones, dos ojitos curiosos y una sonrisa que casi siempre estaba ahí. Vivía en un campo enorme lleno de flores amarillas, margaritas blancas y tréboles. Caminaba a su ritmo, lentito, lentito, paso a paso, sin apurarse nunca. \"Hola, doña hormiga\", saludaba a una hormiga. \"Buen día, señor caracol\", le decía a un caracol. Caminaba tan despacio que las mariposas a veces se posaban sobre su caparazón pensando que era una piedra. Una mañana de sol radiante, mientras Tina cruzaba un sendero, vio algo que la dejó con la boca abierta. ¡Zoom! Pasó un conejo veloz como el viento, con las orejas para atrás y las patas casi flotando. Dejó atrás una nube de polvo, una hojita girando en el aire, y desapareció en pocos segundos. Tina se quedó mirando el camino vacío, sorprendida. \"¡Qué maravilla!\", pensó con admiración. \"Yo también quiero correr así de rápido. Va a ser divertido. Voy a intentarlo\". Y, decidida, se puso a hacer unos estiramientos chistosos con sus patitas, levantándolas una por una, y movió la cabecita en círculos.",
+      "cues": [
+        {
+          "anchor": "Zoom",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "estiramientos",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Tina respiró hondo y empezó a moverse lo más rápido que podía. Plomp, plomp, plomp. Sus patitas se movían apuradas, levantando polvito del suelo, mientras su caparazón se tambaleaba de un lado al otro. \"¡Soy muy rápida!\", se dijo a sí misma. Pero después de tres pasos ya estaba cansadísima, jadeando como un perrito. Se sentó un momento, recuperó el aire, y lo intentó otra vez. Esta vez con más fuerza, más concentración, hasta cerró los ojos para sentirse veloz. Plomp, plomp... ¡PLOMP! Con los ojos cerrados no vio una piedra que estaba en el camino. Tropezó, dio una vuelta entera y cayó panza arriba, con las patitas para el cielo, agitándose. \"¡Ay, ay, ay!\", se quejó. Una abejita amarilla y negra que pasaba zumbando, ¡bzzz, bzzz!, se acercó preocupada. Con sus patitas chiquitas la ayudó a darse vuelta, empujando con paciencia. Tina respiraba fuerte, toda transpirada, con tierra pegada en el caparazón y los ojitos tristes, casi a punto de llorar. \"No sirvo para correr\", suspiró derrotada, sentándose bajo la sombra de un árbol grande. \"Todos los demás son rápidos. Yo soy la única lenta del mundo\".",
+      "cues": [
+        {
+          "anchor": "Plomp",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "PLOMP",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "abejita",
+          "sfx": "bee_buzz"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "La abejita se posó en una florcita amarilla justo al lado de Tina y la miró con cariño, doblando sus dos antenitas. \"Tina, querida, ¿puedo preguntarte algo?\". Tina asintió con la cabeza, todavía triste. \"¿Sabés qué cosas hermosas ves vos al caminar despacio?\". Tina la miró sin entender, parpadeando. La abejita siguió: \"Pensá. Vos ves los pétalos chiquitos de cada flor, las gotitas de rocío que parecen perlas, las hormigas trabajando en fila, las mariposas escondidas, el sol que calienta la tierra de a poco. Vos ves cómo cambia el viento, escuchás el canto de cada pájaro. El conejo no ve nada de eso. Va tan rápido que solo ve borrones\". Tina se quedó callada, pensando. Bajó la cabecita y miró el suelo. Y entonces se dio cuenta: justo abajo de su nariz había una hilera de hormiguitas cargando una hojita verde brillante. Eran como diez, todas ordenadas, una atrás de otra. Tina nunca antes las había visto. Más allá, en una rama bajita, había una telaraña con una gota de agua atrapada que brillaba como un diamante chiquito. Y al lado de la telaraña, una mariquita roja con puntitos negros que parecía una piedra preciosa. Tina sintió algo calentito en el pecho, como un sol pequeñito que se prendía adentro. Sonrió despacio, tan despacio como caminaba.",
+      "cues": [
+        {
+          "anchor": "rocío",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "sonrió",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Tina se levantó del pasto, sacudió un poquito el caparazón para sacarse la tierra, y siguió su camino. Lentita, lentita, como siempre, pero ahora con los ojos bien abiertos. Cada paso se transformó en una aventura pequeña. ¡Una mariquita roja con puntitos negros, qué hermosa! ¡Una pluma azul de pájaro, suavecita! ¡Una piedra con forma de corazón, qué casualidad! ¡Un caracol nuevo, hola don caracol! Tina caminaba feliz, recogiendo tesoros con la mirada. Más adelante, el conejo veloz pasó otra vez como un rayo, sin mirar nada, ¡zoom!, dejando una ráfaga de aire. Tina se rió bajito, una risita de complicidad con la abejita. \"Pobre conejo\", pensó, \"qué cosas lindas se está perdiendo\". La abejita le hizo un guiño desde una flor cercana. Esa tarde, Tina llegó a su rinconcito favorito junto al estanque y miró cómo el sol se ponía pintando el agua de naranja. Las luciérnagas empezaron a salir, una por una. Esa noche, antes de meterse en su caparazón para dormir, Tina miró el cielo lleno de estrellas y aprendió algo que iba a recordar para siempre: cada uno tiene su propio ritmo en este mundo. Y el suyo —despacito, atento, lleno de descubrimientos— era perfecto tal como era.",
+      "cues": [
+        {
+          "anchor": "pluma",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "twinkle"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "whisper"
+        }
+      ]
+    }
+  ]
+}

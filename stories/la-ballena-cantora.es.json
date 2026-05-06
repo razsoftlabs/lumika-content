@@ -1,0 +1,75 @@
+{
+  "id": "la-ballena-cantora",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "La ballena cantora",
+  "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En lo más profundo del mar azul, donde el agua es tan oscura como la noche pero todavía deja pasar hilitos de sol como si fueran rayos de oro derretido, vivía una ballena muy pequeñita. Era del tamaño de un colchón, con la pancita blanca y el lomo color cielo de tormenta. Las olas se mecían suavemente sobre ella, arriba, lejos, lejos. Pero la ballena pequeñita tenía un secreto enorme: nunca hablaba, ni cantaba, ni siquiera hacía burbujas. Tenía vergüenza de su voz porque pensaba que era demasiado chiquita, demasiado finita, demasiado nada. Cada día se escondía detrás de los corales rosados, con la cola enrollada bajo la panza, y miraba pasar a los peces de colores sin saludar. \"Hola\", quería decir bajito. Pero la palabra se le quedaba atrapada en la garganta, como un caracolito tímido. El océano la cuidaba en silencio, paciente, esperando el día en que se animara.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "corales",
+          "sfx": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Una mañana de aguas calmadas, mientras nadaba solita por entre las algas, escuchó algo distinto. Un sonido finito, lloroso. Era un pulpito perdido, sentado sobre una almeja, con sus ocho bracitos enroscados de tristeza. Tenía los ojitos llenos de lágrimas que se mezclaban con el agua salada. La ballena pequeñita lo miró desde lejos, dudó un segundito, se acercó otro poquito, dudó otra vez. Después respiró hondo y, casi sin querer, abrió la boca. De ella salió un sonido tembloroso, suave, como un suspiro de agua. El pulpito dejó de llorar al instante, sorprendido. Levantó la cabecita, parpadeó y movió todos sus bracitos al mismo tiempo. \"¿Vos cantaste?\", preguntó muy bajito, como si no se atreviera a creerlo. La ballena quiso esconderse otra vez detrás del coral, agachó la cabeza. Pero el pulpito le sonrió con una sonrisa enorme, llena de ternura, y le dijo: \"Es la cosa más bonita que escuché en mi vida\".",
+      "cues": [
+        {
+          "anchor": "cantó",
+          "sfx": "whale_song"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "La ballena pequeñita se quedó muy quieta, sin saber qué decir. Sus mejillas se pusieron de un rosa suave, igual que el coral de al lado. El pulpito se sentó sobre una piedra blanda, cruzó dos de sus bracitos como si fueran piernas, y la miró con cara de niño chiquito esperando un cuento. \"¿Cantás otra vez? Por favor, por favor\", suplicó moviendo sus ventosas. La ballena cerró los ojos, llenó sus pulmones de agua salada hasta sentir el corazón calentito, y dejó salir otra canción, ahora un poquito más grande. De su boca subieron burbujas de colores: azules, rosas, doradas, plateadas. Las burbujas viajaron despacito hasta la superficie, llevando la canción consigo. Una sardinita curiosa asomó la cabecita desde detrás de un coral y se quedó a escuchar, sin moverse. Después llegó una tortuguita verde. Después un cangrejo amarillo. Después una estrella de mar morada que bajó del cielo del mar. Nadie se reía. Todos sonreían, hipnotizados.",
+      "cues": [
+        {
+          "anchor": "canción",
+          "sfx": "whale_song"
+        },
+        {
+          "anchor": "burbujas",
+          "sfx": "bubbles"
+        },
+        {
+          "anchor": "estrella",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Los peces siguieron viniendo, primero diez, después cien, después un cardumen entero brillando como confeti plateado. Los delfines hicieron piruetas en el agua, los caballitos saltaron como si fueran resortes pequeños, las algas se mecieron al ritmo de la canción como bailarinas verdes, y hasta las medusas encendieron sus lucecitas. La ballena pequeñita los miraba a todos con sus ojitos grandes, sin poder creerlo. Su voz —su vocesita chiquita que tanto le había dado vergüenza— estaba haciendo feliz al océano entero. El pulpito le acarició la pancita con un bracito y le dijo: \"¿Ves? Tu voz no era chiquita. Era especial\". La ballena entendió, en ese momento, que cada criatura tiene un don, y el suyo era cantar. Y desde esa noche, cantó cada noche para que el océano se durmiera tranquilo. Todos los peces del mar la esperaban con los ojitos cerrados, soñando con su melodía suavecita.",
+      "cues": [
+        {
+          "anchor": "cardumen",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "bailarinas",
+          "sfx": "giggle"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "whale_song"
+        }
+      ]
+    }
+  ]
+}

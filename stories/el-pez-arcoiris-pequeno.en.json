@@ -1,0 +1,71 @@
+{
+  "id": "el-pez-arcoiris-pequeno",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The little rainbow fish",
+  "summary": "A shy little fish finds friends at the bottom of the sea.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "In the deepest part of the sea, much further down than the boats reach, where the water is blue, blue, and cool, swam a very special fish. He was tiny, the size of an apple, with a fan-shaped tail. But the most magical thing about him were his scales: they shone with all the colors of the rainbow at the same time. Red on his tail, orange on his belly, yellow on his back, green on his fins, blue on his neck, and violet on his head. When a sun ray came down to the bottom of the sea and hit a scale, thousands of colored sparkles reflected in the water. But — and this is the \"but\" of our story — the little fish was very, very shy. When other fish swam by, laughing or playing, he hid behind the corals and stayed very, very still, almost without breathing. He was afraid of speaking, afraid of playing, afraid they'd laugh at him. He spent his days alone, watching the bubbles rise to the surface, counting them: one, two, three, four, five. The ocean was his home, but also his hiding place.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "rainbow",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "bubbles",
+          "sfx": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "One calm morning, while the little fish was counting bubbles as usual, a purple octopus with eight long little arms came up to the coral where he was hiding. He was a friendly octopus, with two googly eyes and a crooked smile. \"Hi, hi, hi!\" he said waving all his tentacles at the same time. The little fish, scared, slipped further into the coral, almost trembling. \"I want to play,\" he wanted to say. But the word got stuck. The octopus, without moving from where he was, waited patiently. \"I saw your colors from far away. They're so beautiful. They're like a rainbow in the water, did you know?\" The little fish peeked out one eye from between the corals. The octopus wasn't coming any closer, wasn't insisting, just smiling at him. \"Want to play with me? I know a really fun game,\" offered the octopus, tilting his head. The little fish poked his whole head out, hesitated for a second, looked all around, and finally, in a whisper, answered: \"Okay... but just a little bit.\"",
+      "cues": [
+        {
+          "anchor": "octopus",
+          "sfx": "bubbles"
+        },
+        {
+          "anchor": "play",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The octopus taught him a hide-and-seek game among the green seaweed that swayed like dancers. \"I count to ten and you hide,\" he explained. At first, the little fish played close to the coral, without going far, looking back every two seconds in case something scared him. But the octopus was such a terrible hider, so, so funny, that the little fish couldn't hold it anymore: the octopus would hide behind a stone, but his eight little arms would stick out from every side, like a flower with tentacles. The little fish let out the first laugh of his life! A tiny giggle at first, hee hee. Then a bigger one, ha ha ha. And finally a bubble laugh that rose all the way to the surface, hahahaha!, carrying colored bubbles up to where the sun was. The little fish's scales shone so much that he looked like an underwater firework. For the first time in his life, he felt warmth in his heart. The octopus laughed with him, contagious, and the two of them ended up rolling on the sandy floor of the sea.",
+      "cues": [
+        {
+          "anchor": "laugh",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "bubble",
+          "sfx": "bubbles"
+        },
+        {
+          "anchor": "sandy",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "The laughs and bright bubbles attracted other neighbors from the bottom of the sea, curious. First a pink starfish appeared, with five little points that moved like small fingers. \"What's going on here that's so fun?\" she asked. Then came a green seahorse, all elegant with his coiled tail. Then a yellow little crab walking sideways, click, click, click. Then a silvery sardine and a tiny octopus who was the big octopus's son. Soon a group of friends had formed at the very bottom of the sea, all playing together among the corals. They played hide and seek, tag, who could make the most bubbles. The little rainbow fish wasn't alone anymore. His colors lit up the whole group, like a happy lantern. He learned three important things that morning: that his colors weren't for hiding, they were a gift to make others happy. That shyness goes away little by little, by playing. And that having a patient friend is the most beautiful thing in the world. From that day on, every time a new fish felt lonely or scared at the bottom of the sea, the little rainbow fish was the first to come over and say, with a smile: \"Want to play with me?\"",
+      "cues": [
+        {
+          "anchor": "starfish",
+          "sfx": "twinkle"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "water_splash"
+        }
+      ]
+    }
+  ]
+}

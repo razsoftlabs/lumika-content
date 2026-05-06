@@ -1,0 +1,82 @@
+{
+  "id": "la-princesa-y-el-dragon-triston",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 4,
+  "title": "The princess and the sad dragon",
+  "summary": "A princess discovers that the dragon was roaring because he had a thorn in his paw.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "In a far-away kingdom, very far away, full of tall towers, colorful flags that fluttered in the wind, and a river that crossed the village like a blue snake, lived Princess Ana. But Ana was no ordinary princess. While the other princesses combed their hair in front of the mirror and drank tea with little cookies, Ana ran around with skinned knees, hair always messy, a bandage on her elbow, and a red backpack full of strange things: tweezers, bandages, a flashlight, a little knife with no blade, a jar of honey, a notebook for writing things down. Ana liked exploring the forest and patching up animal scratches more than going to castle parties. One spring morning, while she was having breakfast with her parents, the whole kingdom was startled by a huge roar coming from the mountains. GRRROOOAAAARR! It was a roar so, so loud, that the windows vibrated, the plates rattled, the cats ran under the beds, and the horses neighed in the stables. The whole village ran to hide, shouting \"the dragon, the dragon!\" But Ana didn't hide. She put down her spoon, wiped her mouth on her sleeve, took her red backpack, put on her boots, and went out to investigate. \"Something strange is going on,\" she thought.",
+      "cues": [
+        {
+          "anchor": "GRRROOOAAAARR",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "roar",
+          "sfx": "thud"
+        },
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_high"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Ana walked along the dusty path that led up to the mountains, dodging little stones and saying hello to the flowers she knew by name. She climbed, climbed, climbed, until she reached the highest mountain in the kingdom. There, hidden between gray rocks and thorny bushes, was a dark cave, with an entrance like a huge mouth. Inside, a strange sound could be heard. But Ana, who had a sharp ear, paid attention: it wasn't a fierce roar, it was... a sob. A dragon crying? Ana wrinkled her nose, intrigued. She pulled the small flashlight out of her backpack, turned it on — click — and went in very carefully, step by step. The cave smelled like old smoke and wet earth. Her footsteps echoed. And then she saw him: it was a huge dragon, gigantic, with shiny green scales, two long horns, folded wings, and a coiled tail. But he was lying on the ground, with his enormous head resting on his two front paws. Two giant tears were running down his cheeks, drop after drop, drip, drop. \"What's wrong, dragon?\" asked Ana without fear, taking another step. The dragon lifted his eyes, red from so much crying, blew a sad sigh — fuuuh — and showed her his back paw. Ana came closer. There was a thorn stuck deep in it, and the paw was all swollen and red. It hurt a lot.",
+      "cues": [
+        {
+          "anchor": "flashlight",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "cave",
+          "sfx": "door_open"
+        },
+        {
+          "anchor": "sigh",
+          "sfx": "breathe_in"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "\"Now I understand everything,\" said Ana, nodding her head. \"That's why you were roaring like that, you were in pain.\" The dragon nodded with his eyes full of tears. Ana opened her red backpack and pulled out a small but firm pair of tweezers. \"Stay still, dragon, I'm going to help you. It will hurt for one second and then it will be over, okay?\" The dragon nodded again, trusting, and closed his eyes tight. Ana approached the paw, examined the thorn carefully, measured the angle, took a deep breath. With great care, she grabbed the tip of the thorn with the tweezers and, in one firm tug... Plop! The thorn came out. It was long, almost the size of Ana's finger. The bleeding stopped right away. Ana took out a jar of honey from her backpack and rubbed it on the little wound. \"Honey heals everything,\" she explained. Then she wrapped a white bandage around it. The dragon opened his eyes, surprised, and moved his paw. He moved it again. It didn't hurt anymore! He smiled for the first time in a long time, a huge smile with two rows of white teeth. From pure joy, he blew a bright burst from his nose, full of red and golden sparkles that flew through the cave like fireworks. Ana laughed out loud and clapped happily. \"I'll call you Sparks,\" she told him. The dragon roared softly, grateful, and licked her cheek with his warm tongue.",
+      "cues": [
+        {
+          "anchor": "Plop",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "burst",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "laughed",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "From that day on, Ana and Sparks the dragon were best friends. Every afternoon, after doing her castle chores, Ana would run up to the cave with her backpack full of surprises: sometimes a piece of cake for him, sometimes a book to read to him, sometimes a new ball. The dragon would gently pick her up, lift her onto his huge back among the green scales, and take her flying over the whole kingdom. Whoooosh! They flew over the red rooftops of the village, over the hills, over the lakes that reflected them like a mirror. Sparks showed Ana secret places that only dragons know: hidden lagoons with colorful fish, caves with crystals that sparkled like diamonds, valleys full of rare flowers. The villagers, who at first had been afraid of him, slowly understood that the dragon had never been bad. He was just suffering. And when someone is suffering, sometimes they shout, sometimes they cry, sometimes they roar. But it's not because they're bad. And Ana learned something very important that spring, something she would remember all her life and would later tell her own children: sometimes, the loudest roars hide the smallest pains. And it's always, always worth coming closer and asking.",
+      "cues": [
+        {
+          "anchor": "Whoooosh",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "flying",
+          "sfx": "whoosh"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "sparkle"
+        }
+      ]
+    }
+  ]
+}

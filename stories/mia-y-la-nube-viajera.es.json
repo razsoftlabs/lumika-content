@@ -1,0 +1,78 @@
+{
+  "id": "mia-y-la-nube-viajera",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 4,
+  "title": "Mía y la nube viajera",
+  "summary": "Una niña se sube a una nube y descubre cómo se ve el mundo desde arriba.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Mía era una niña curiosa de seis años, con dos trenzas marrones y los ojos del color de las castañas. Vivía en un departamento alto, en el séptimo piso de un edificio con balcón, y desde la ventana de su cuarto se veía un pedacito de cielo enorme. Mía siempre miraba el cielo. Era su cosa favorita. Le encantaba ver pasar las nubes y, mientras las miraba, se imaginaba que tenían formas de animales. \"Esa parece una ballena\", decía señalando. \"Esa otra parece un conejito con una zanahoria. Esa de allá parece la cara de mi abuelo\". Una tarde de verano, mientras tomaba la merienda con leche tibia y galletas de manteca, vio algo que le hizo soltar la taza sobre la mesa. Una nube distinta a todas las demás se acercaba a su ventana. Era blanca, redonda, redonda, suavecita, con bordes plateados como espuma de jabón. Y lo más raro: bajaba muy lento, muy lento, derechito hacia su balcón. La nube se quedó flotando justo afuera de la ventana, esperando algo, como un perrito que pide entrar. Mía se acercó despacito, con los ojitos bien abiertos, sin poder creer lo que veía.",
+      "cues": [
+        {
+          "trigger": "atSceneEnter",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "nube",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "La nube, al verla, sonrió con una sonrisa de algodón. ¡Una nube que sonreía! Después le hizo un gesto con sus puntitas suaves, como invitándola a subir. Mía pegó la nariz al vidrio. \"¿Yo? ¿Vos me invitás a mí?\". La nube asintió moviendo todo su cuerpito redondo. Mía dudó un segundito. Después dos. Pensó en su mamá, que estaba abajo cocinando. Pensó en si era peligroso. Pero después se acordó de todas las veces que había soñado con volar, de todas las veces que había deseado tocar una nube. Y decidió. Abrió la ventana de un tirón —shhhh— y se asomó. El viento le revolvió el pelo y le trajo un olor a vainilla y a noche que viene. Mía tomó impulso y dio un salto pequeño hacia la nube. Pensó por un segundo que se iba a caer al vacío. Pero no. La nube la atrapó suavemente, como un colchón de algodón gigante, y Mía se hundió un poquito en su panza blandita. \"Hola, Mía\", susurró la nube con voz dulce, dulce, como si fuera una almohada que hablaba. \"¿Sabés mi nombre?\", preguntó Mía sorprendida. \"Las nubes saben los nombres de los niños que las miran\", contestó la nube. \"Vamos a viajar juntas, pero solo si vos querés\". Mía se acomodó sobre la nube como en un sillón mullido y le acarició la pancita blanca. \"Quiero ir\", dijo bajito y sonriente.",
+      "cues": [
+        {
+          "anchor": "salto",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "almohada",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Y subieron, subieron, subieron, despacito al principio, después más rápido, hasta que la ventana del cuarto de Mía quedó como un puntito chiquito allá abajo. La nube voló sobre la ciudad, y desde arriba las casitas parecían cajas de juguete, los autos parecían hormigas con luces, y la gente caminando se veía como granitos de arena en movimiento. Mía se rió, las cosquillas del viento le hacían cosquillas en los cachetes. Después la nube voló más alto y pasaron sobre el mar, que brillaba como un espejo gigante con olas pequeñitas que se rizaban. Mía vio delfines saltando entre las olas, ¡plash, plash!, persiguiéndose unos a otros. Después cruzaron montañas con nieve en las puntas, donde Mía vio a las cabras saltar de roca en roca y a un águila que las saludó con un graznido. La nube voló sobre un bosque dormido, lleno de árboles que se mecían suaves, donde un zorro asomó la cabecita curiosa entre las hojas. Volaron sobre un río que serpenteaba como una culebra de plata. Volaron sobre un pueblito con tejas rojas y un campanario antiguo. Todo era pequeñito desde arriba, todo se veía calmado y bonito. Mía sintió que el corazón le crecía en el pecho, hasta casi no caberle.",
+      "cues": [
+        {
+          "anchor": "mar",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "plash",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "bosque",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "graznido",
+          "sfx": "owl_hoot"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Cuando el sol empezó a esconderse detrás de las montañas, pintando el cielo de naranjas, rosados y violetas, la luna asomó tímidamente. La nube le susurró a Mía: \"Es hora de volver, mi amor\". Mía suspiró un poquito triste. \"¿Vamos a vernos de nuevo?\". La nube sonrió. \"Cada vez que mires al cielo\". Empezaron a bajar despacito, como en un tobogán suavecito de algodón. Pasaron otra vez sobre las montañas dormidas, sobre el mar oscuro, sobre el río que ahora brillaba con la luna. La ciudad apareció abajo, con sus lucecitas amarillas prendiéndose una a una. La nube se acercó al balcón de Mía, justo a su ventana, y la depositó suavecito en su cama, como si la dejara entre algodones. La cobija se le acomodó solita encima. \"Cuando quieras volar, mírame\", le dijo la nube antes de irse, alejándose despacio. \"Yo te voy a esperar siempre\". Mía la saludó con la mano hasta que la nube se confundió con las otras del cielo nocturno. Cerró los ojos con una sonrisa enorme y abrazó su almohada. Esa noche soñó con seguir volando, con todos los lugares que había visto, y aprendió que cada vez que mirara una nube en el cielo, iba a poder recordarse de su amiga viajera. Y dormir contenta.",
+      "cues": [
+        {
+          "anchor": "sol",
+          "sfx": "wind_soft"
+        },
+        {
+          "trigger": "atSceneExit",
+          "sfx": "twinkle"
+        }
+      ]
+    }
+  ]
+}

@@ -74,7 +74,8 @@
       "miedo"
     ],
     "publishedAt": "2026-05-01T00:00:00Z",
-    "version": 2
+    "version": 3,
+    "premium": true
   },
   "assets": {
     "cover": "covers/pancho-el-perro-valiente/cover.webp",

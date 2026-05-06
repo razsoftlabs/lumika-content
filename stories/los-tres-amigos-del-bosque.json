@@ -71,7 +71,8 @@
       "compartir"
     ],
     "publishedAt": "2026-05-01T00:00:00Z",
-    "version": 2
+    "version": 3,
+    "premium": true
   },
   "assets": {
     "cover": "covers/los-tres-amigos-del-bosque/cover.webp",

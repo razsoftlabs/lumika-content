@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "manifestVersion": 1778044155062,
-  "publishedAt": "2026-05-06T05:09:15.062Z",
+  "manifestVersion": 1778045595789,
+  "publishedAt": "2026-05-06T05:33:15.789Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "stories": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "id": "los-tres-amigos-del-bosque",
-      "version": 2,
+      "version": 3,
       "json": "stories/los-tres-amigos-del-bosque.json",
       "cover": "covers/los-tres-amigos-del-bosque.webp",
       "ageMin": 3,
@@ -114,7 +114,7 @@
         "cooperación",
         "compartir"
       ],
-      "premium": false,
+      "premium": true,
       "preview": {
         "es": {
           "title": "Los tres amigos del bosque",
@@ -152,7 +152,7 @@
     },
     {
       "id": "pancho-el-perro-valiente",
-      "version": 2,
+      "version": 3,
       "json": "stories/pancho-el-perro-valiente.json",
       "cover": "covers/pancho-el-perro-valiente.webp",
       "ageMin": 4,
@@ -170,7 +170,7 @@
         "ayudar",
         "miedo"
       ],
-      "premium": false,
+      "premium": true,
       "preview": {
         "es": {
           "title": "Pancho el perro valiente",
@@ -207,7 +207,7 @@
     },
     {
       "id": "rex-el-pequeno-dinosaurio",
-      "version": 2,
+      "version": 3,
       "json": "stories/rex-el-pequeno-dinosaurio.json",
       "cover": "covers/rex-el-pequeno-dinosaurio.webp",
       "ageMin": 3,
@@ -225,7 +225,7 @@
         "fuerza",
         "ayudar"
       ],
-      "premium": false,
+      "premium": true,
       "preview": {
         "es": {
           "title": "Rex, el pequeño dinosaurio",
@@ -292,7 +292,7 @@
     },
     {
       "id": "el-pez-arcoiris-pequeno",
-      "version": 2,
+      "version": 3,
       "json": "stories/el-pez-arcoiris-pequeno.json",
       "cover": "covers/el-pez-arcoiris-pequeno.webp",
       "ageMin": 3,
@@ -311,7 +311,7 @@
         "colores",
         "timidez"
       ],
-      "premium": false,
+      "premium": true,
       "preview": {
         "es": {
           "title": "El pez arcoíris pequeño",

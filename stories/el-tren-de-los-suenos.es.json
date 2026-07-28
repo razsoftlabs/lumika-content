@@ -1,0 +1,82 @@
+{
+  "id": "el-tren-de-los-suenos",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "El tren de los sueños",
+  "summary": "Cada noche, un trencito mágico recoge a los niños en pijama y los lleva despacito por paisajes de sueño.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Cuando la casa se queda en silencio y la luna asoma por la ventana, se escucha muy lejos un silbato suave: chu-chuuu. Es el tren de los sueños, que viene despacito por un caminito de nubes. Sus vagones son blanditos como almohadas y sus luces titilan como luciérnagas. El tren se detiene junto a tu cama y abre su puerta chiquita. Un oso con gorra azul se asoma y dice, muy bajito: «¿Vienes a soñar conmigo?». Todos los niños en pijama suben con cuidado, uno detrás de otro, y buscan su asiento calentito junto a la ventana.",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "puerta",
+          "sfx": "door_open"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "El tren arranca despacio, chaca-chaca, y entra en un bosque dormido. Los árboles altos mueven sus ramas como si dijeran adiós, y las hojas susurran una canción muy suave. En una rama redonda, un búho abre sus ojos grandes y ulula: uhu, uhu, cuidando el camino. Por la ventana pasan luciérnagas doradas que bailan en el aire. El oso reparte mantas calentitas y una taza de leche tibia para cada niño. Nadie habla fuerte aquí; en el bosque de los sueños solo se habla con la mirada y con una sonrisa chiquita.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Poco a poco, el bosque se queda atrás y el tren cruza un puente larguísimo sobre el mar. Las olas se mecen abajo, suaves, haciendo shhh, shhh, como una nana de agua. De repente, una ballena enorme saluda desde el fondo azul y canta una melodía honda y calmada que hace cosquillas en el corazón. La luna se refleja en el agua como un caminito de plata. Los niños apoyan la cabeza en la ventana y sienten que sus ojitos empiezan a pesar. El tren avanza tan suave que parece que flota sobre el mar dormido.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "olas",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "ballena",
+          "sfx": "whale_song"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Entonces el tren sube, sube, sube por un arcoíris de noche hasta llegar al cielo. Ahora viaja entre las estrellas, que brillan y titilan como miguitas de luz. El viento canta bajito entre los vagones, fresco y suave, y despeina el pelito de los niños. Aquí arriba todo es tranquilo: no hay prisa, no hay ruido, solo el cielo grande y calladito. El oso apaga una a una las lucecitas del tren, para que la noche sea aún más dulce. «Ya casi llegamos al país de los sueños», dice, y su voz suena como un abrazo.",
+      "cues": [
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "El tren de los sueños llega despacio a su última estación, entre nubes blanditas y silencio. Uno a uno, los niños dan un bostezo grande y respiran hondo, muy hondo. El oso los arropa con su manta favorita y les da un besito en la frente. «Buenas noches, pequeños viajeros», susurra. Afuera, la luna los cuida desde arriba. Y así, mecidos por el trencito, todos los niños se quedan dormidos, con una sonrisa chiquita en la cara. Que tengas dulces sueños. El tren te esperará mañana, en el mismo lugar, cuando la noche vuelva a cantar.",
+      "cues": [
+        {
+          "anchor": "respiran",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "dormidos",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

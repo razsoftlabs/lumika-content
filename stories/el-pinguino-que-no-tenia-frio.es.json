@@ -1,0 +1,74 @@
+{
+  "id": "el-pinguino-que-no-tenia-frio",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "El pingüino que no tenía frío",
+  "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En un lugar de hielo y nieve blanca vivía un pingüino llamado Pip. Todos sus amigos jugaban felices en el frío. Se acurrucaban, temblaban un poquito y se reían. Pero Pip era distinto: Pip nunca, nunca tenía frío. Mientras los demás buscaban calor, él se abanicaba con un ala. '¡Uf, qué calor!', decía, soplando el flequillo de plumas. El viento helado pasaba silbando y a Pip le encantaba. Sus amigos no entendían nada, y cada vez que Pip resoplaba, todos soltaban una risa. Pip también reía, aunque por dentro deseaba, solo un poquito, poder enfriarse como los demás.",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "risa",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Un día, Pip tuvo una idea. Corrió hasta un charco de agua fría, brillante como un espejo. '¡Aquí me voy a enfriar!', gritó, y saltó con las dos patas. ¡Splash! El agua saltó por todas partes y mojó a tres pingüinos que pasaban. Pip se quedó sentado en el charco, muy orgulloso. Por un ratito se sintió fresquito y suspiró contento. Pero el sol asomó entre las nubes, y en un momentito Pip volvía a tener calor. '¿Otra vez?', dijo, chorreando agua. Sus amigos se rieron tanto que se cayeron de cola sobre la nieve.",
+      "cues": [
+        {
+          "anchor": "charco",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Pip no se rindió. Se acercó al mar azul y se lanzó de cabeza. ¡Plum! Bajo el agua todo era silencio y fresco. Pip soplaba burbujas redonditas que subían haciendo cosquillas. De pronto, una ballena enorme y amable pasó nadando y le cantó una canción profunda y suave. Pip se sintió pequeñito y feliz. Nadó y nadó, dando vueltas entre las burbujas. Pero los pingüinos no pueden quedarse abajo para siempre, así que Pip subió a respirar. Al salir al aire, sacudió las plumas… y otra vez, calientito. Se rió de sí mismo y saludó a la ballena.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "burbujas",
+          "sfx": "bubbles"
+        },
+        {
+          "anchor": "ballena",
+          "sfx": "whale_song"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "'¡Ya sé! ¡Me haré mi propio viento!', pensó Pip. Subió a la colina más alta, se echó sobre la barriga y se deslizó. ¡Zuuum! Pip resbaló por la nieve más rápido que nunca. Sus plumas se agitaban, sus mejillas hacían cosquillas y el aire fresco lo abrazaba entero. '¡Esto sí funciona!', gritaba feliz. Bajó la colina una y otra vez, riendo a carcajadas. Pero al llegar abajo, calentito como una tostada, Pip se detuvo a pensar. Enfriarse era divertido… pero cansaba muchísimo. Se sentó en la nieve, un poco cansado y muy pensativo.",
+      "cues": [
+        {
+          "anchor": "resbaló",
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Esa noche, el frío se puso más fuerte que nunca. Los amiguitos de Pip temblaban y no podían dormir. Entonces Pip entendió algo bonito. Abrió sus alas calentitas y dijo: '¡Vengan aquí conmigo!'. Uno a uno, todos los pingüinos se acurrucaron contra su barriga tibia. '¡Qué calorcito tan rico!', suspiraron. Arriba, las estrellas brillaban en el cielo oscuro. Pip ya no quería enfriarse: su calor era el mejor regalo del mundo. Cerró los ojos, escuchó la respiración suave de sus amigos y sonrió. Bajo las estrellas, todos durmieron juntos, calentitos y felices. Buenas noches, Pip.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "respiración",
+          "sfx": "breathe_in"
+        }
+      ]
+    }
+  ]
+}

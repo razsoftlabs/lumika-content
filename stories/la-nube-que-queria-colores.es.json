@@ -1,0 +1,40 @@
+{
+  "id": "la-nube-que-queria-colores",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La nube que quería colores",
+  "summary": "Nube es blanca y quiere ser de colores. Un chaparrón travieso le enseña de dónde salen los arcoíris.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Arriba, muy arriba, vivía una nube blanca y redonda que se llamaba Nube. Le encantaba mirar los jardines de abajo, llenos de flores rojas, amarillas y moradas. \"¡Qué aburrido ser solo blanca!\", suspiraba. \"Yo también quiero tener colores.\" El viento la escuchó y se rió con un soplido travieso.",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Nube probó de todo. Se frotó contra el sol para ponerse dorada, pero solo le hizo cosquillas. Se acercó a otras nubes para pedirles pintura, pero todas eran blancas como ella. Cada intento la dejaba más despeinada y más gris.",
+      "cues": []
+    },
+    {
+      "id": "s3",
+      "text": "De tanto esforzarse, a Nube se le llenaron los ojos de gotas, y sin querer... ¡empezó a llover! Las gotas cayeron sobre el jardín entre risas. Y justo cuando el sol asomó de nuevo, algo mágico se dibujó en el cielo, curvado y enorme.",
+      "cues": [
+        {
+          "anchor": "gotas",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "¡Era un arcoíris! Rojo, naranja, amarillo, verde, azul y morado, todos salidos de sus propias gotas. Nube entendió que sus colores no estaban afuera: estaban dentro de ella, esperando el momento justo para brillar. Y se quedó dormidita, feliz, meciéndose en el cielo.",
+      "cues": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "el-buho-dormilon",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "El búho dormilón",
+  "summary": "Un pequeño búho no tiene sueño de noche, y su mamá le enseña un secreto muy suave para esperar la mañana.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En lo alto de un árbol viejo vivía un búho pequeñito llamado Uli. Cuando la luna subía al cielo, todos los animales del bosque cerraban los ojos. Pero Uli abría los suyos muy grandes. —¡No tengo sueño! —decía, moviendo las alas. El viento pasaba suave entre las hojas y le hacía cosquillas en las plumas. Uli quería jugar, quería volar, quería contar cada estrella del cielo. Su mamá lo miraba con cariño desde la rama de al lado, y sonreía muy despacio.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "—Mamá, ¿por qué debo dormir ahora? —preguntó Uli—. La noche es para volar. Mamá Búho lo abrazó con sus alas tibias. —Antes, los búhos volábamos de noche —le dijo—. Pero tú eres especial, mi pequeño. Tú puedes descansar cuando llega la oscuridad, igual que los niños. Uli infló el pecho. —¡Pero yo quiero ver todo! Una rana cantó abajo, cerca del río, y un grillo le respondió. Uli quería ir a saludarlos. Mamá le dio un besito entre los ojos. —El bosque también duerme —susurró—. Escucha qué tranquilo está todo.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "rana",
+          "sfx": "frog_croak"
+        },
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "—Te enseñaré un secreto —dijo Mamá Búho—. Cierra los ojitos y respira despacio, como el bosque. Uli cerró un ojo, luego el otro. Respiró hondo una vez, y otra vez, muy suavecito. El viento mecía la rama como una cuna. —Muy bien, mi amor —dijo Mamá—. Ahora imagina que tus alas son mantitas calientes. Uli acomodó las plumas. Sintió el corazón de su mamá latir cerquita: tuc, tuc, tuc. Afuera, un pequeño búho ya no quería volar. Solo quería quedarse ahí, calientito, escuchando la noche respirar con él.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "respira",
+          "sfx": "breathe_in"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "—¿Y si me pierdo algo bonito? —bostezó Uli, con la voz ya blandita. —No te preocupes —dijo Mamá—. Las estrellas cuidan el cielo mientras duermes, y la luna se queda de guardia. Cuando abras los ojos, el sol traerá un día nuevo para ti. Uli imaginó la mañana: las gotas de rocío brillando, los pajaritos cantando, el bosque despertando de a poquito. —¿Me lo prometes? —preguntó bajito. —Te lo prometo, mi tesoro. La mañana siempre llega. Uli sonrió con los ojos cerrados, mientras la luna los cubría con su luz plateada, callada y buena.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Poco a poco, la respiración de Uli se hizo lenta y calmada. Sus plumas subían y bajaban, subían y bajaban. Y entonces, muy bajito, se escuchó un ronquido chiquito: pfff... pfff... El pequeño búho por fin dormía. Mamá Búho lo cubrió con un ala y miró el cielo. Muy lejos, detrás de las montañas, una lucecita tibia empezaba a asomarse. La mañana venía en camino, tal como lo había prometido. —Buenas noches, mi Uli —susurró—. Yo te despierto cuando salga el sol. Y en el árbol viejo, los dos durmieron felices hasta el nuevo día.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "ronquido",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

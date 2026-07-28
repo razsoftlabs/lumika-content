@@ -1,0 +1,85 @@
+{
+  "id": "el-osito-y-la-tormenta",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "El osito y la tormenta",
+  "summary": "Una noche de truenos asusta al osito Bruno, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Caía la noche sobre el bosque y el osito Bruno se acurrucaba en su cueva calentita, junto a Mamá Osa. Afuera, el viento empezó a soplar entre los árboles y muchas gotas de lluvia comenzaron a caer sobre las hojas. Bruno bostezó y cerró los ojitos, listo para dormir. Pero, de repente, un trueno sonó a lo lejos, muy suave todavía, como un tambor dormido. Bruno abrió los ojos grandes, grandes. Se le hizo un nudito en la barriga. 'Mamá', susurró, '¿qué fue ese ruido?'. Mamá Osa lo abrazó despacito y le dijo: 'Es solo la tormenta, mi amor. No te va a pasar nada'.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "trueno",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "La tormenta se hizo más fuerte. El viento silbaba y, de pronto, ¡PUM!, un trueno enorme retumbó sobre la cueva. Bruno se escondió debajo de la manta y empezó a temblar. 'Tengo miedo, mamá', dijo con la vocecita temblorosa. 'Los truenos son muy ruidosos'. Mamá Osa lo buscó entre las mantas y lo acercó a su pecho tibio. Sintió el corazoncito de Bruno latir muy rápido, tum-tum, tum-tum. 'Ya lo sé, mi cielo', le dijo con dulzura. 'A veces los ruidos grandes asustan. Pero yo estoy aquí contigo, y juntos vamos a esperar a que pase'.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_high"
+        },
+        {
+          "anchor": "trueno",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "'¿Quieres que te ensene un truco secreto?', le preguntó Mamá Osa. Bruno asomó la naricita y dijo que sí. 'Vamos a respirar juntos, muy despacio. Cuando llegue un trueno, en vez de temblar, vamos a respirar'. Mamá Osa tomó aire por la nariz, llenando la panza como un globo: uuuun, dos, tres. Después soltó el aire despacito por la boca: fuuu. 'Ahora tú', dijo. Bruno respiró hondo, llenó su barriguita de aire y luego lo dejó salir suavecito. Otra vez. Y otra. Poco a poco, el nudito de su barriga se fue soltando, como un lazo que se desata solo.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "respirar",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "trueno",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Afuera, la tormenta seguía, pero Bruno y Mamá Osa respiraban juntos, tranquilos. Llegó otro trueno, y esta vez Bruno tomó aire despacito en lugar de esconderse. '¡Lo hice, mamá!', susurró, un poquito orgulloso. Mamá Osa sonrió y le dio un besito en la frente. Afuera, la lluvia empezó a caer más despacito, gotas pequeñas que resbalaban por las hojas: plic, plic, plic. El viento ya no silbaba tan fuerte. Los truenos se fueron alejando, cada vez más lejos, como si la tormenta también tuviera sueño y se fuera caminando a su casa.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "trueno",
+          "sfx": "thunder"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Y entonces, sin darse cuenta, la tormenta pasó. Mamá Osa asomó la cabeza fuera de la cueva. 'Mira, Bruno', le dijo bajito. El cielo estaba limpio y las estrellas brillaban una a una, como lucecitas amigas. Una luna redonda alumbraba el bosque mojado y todo estaba en calma. Bruno respiró hondo una última vez y sonrió. Ya no tenía miedo. Acurrucado en los brazos calentitos de mamá, con los ojitos pesados, dejó que el sueño lo abrazara. 'Buenas noches, mi valiente', susurró Mamá Osa. Y el osito Bruno se quedó dormido, tranquilo, hasta la mañana siguiente.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "dormido",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

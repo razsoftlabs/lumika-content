@@ -1,0 +1,44 @@
+{
+  "id": "el-elefante-que-no-hacia-ruido",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "El elefante que no hacía ruido",
+  "summary": "Bruno es un elefante muy silencioso, y descubre que su calma es su regalo más bonito.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En un rincón verde de la sabana vivía un elefante chiquito llamado Bruno. Todos los elefantes hacían mucho, mucho ruido: barritaban fuerte, pisaban las hojas con estruendo y sacudían los árboles. Pero Bruno no. Bruno caminaba tan suavecito que ni las hojas se enteraban de que había pasado por ahí. A veces se sentía raro por ser el más calladito de todos.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Una tarde, un pajarito se cayó de su nido y quedó temblando entre la hierba. Los otros elefantes corrieron a ayudar, pero con tanto ruido y tanto pisotón, el pajarito se asustaba más y más. Nadie podía acercarse sin espantarlo.",
+      "ambient": "forest_birds",
+      "cues": []
+    },
+    {
+      "id": "s3",
+      "text": "Entonces Bruno se acercó despacito, despacito. En un susurro muy suave le dijo: \"Tranquilo, chiquito, ya estás a salvo\". Como Bruno no hacía ruido, el pajarito dejó de temblar y se acurrucó en su trompa calentita.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "susurro",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Desde ese día, todos supieron que la calma de Bruno era un regalo. Cuando alguien estaba asustado o triste, llamaban al elefante que no hacía ruido. Y Bruno aprendió que no hace falta ser el más ruidoso para ser el más querido. Buenas noches, Bruno.",
+      "ambient": "forest_birds",
+      "cues": []
+    }
+  ]
+}

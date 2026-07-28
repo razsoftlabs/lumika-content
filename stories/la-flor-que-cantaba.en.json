@@ -1,0 +1,85 @@
+{
+  "id": "la-flor-que-cantaba",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Flower That Sang",
+  "summary": "A little flower far too shy to sing hides a tiny voice the whole garden just might need to hear.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "In a sleeping garden lived a very shy little flower. Her name was Lila, and her petals were the color of sunset. Every night, the moon lit its silver glow over the garden, and the leaves swayed with a soft whisper. Lila wanted to sing, but she felt terribly shy. 'What if my voice sounds funny?' she thought, hiding her little face among the leaves. So she kept her song deep inside, very quiet, and watched the sky without making a sound. The moon greeted her with a wink of light, as if to say there was nothing to fear.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "From the branch of a tree, a kind old owl watched her. 'Why don't you sing, little one?' he asked in a calm voice. Lila turned rosy. 'I'm afraid no one will want to listen to me,' she answered softly. The owl smiled and pointed to the sky, where a star was shining tenderly. 'Every star was shy once,' he said, 'until it dared to shine.' Lila looked at the star and felt a warm tingle in her heart. Maybe, just maybe, her little voice had something lovely to give the sleeping world too.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "owl",
+          "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "star",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Little by little, the night began to turn gray and soft. A warm wind drifted through the garden, ruffling the petals with care. The owl gave her a wink. 'It's almost dawn,' he whispered. 'This is your moment.' Lila closed her eyes. She felt the wind on her little face and, very slowly, breathed in deeply, filling herself with courage. Her heart beat like a tiny drum. Then, as softly as the flutter of a butterfly, she let out the first little note of her song. It was barely a thread of voice, trembling and sweet, but it was hers.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "breathed",
+          "sfx": "breathe_in"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "And then the magic happened. With every note, a petal woke up. The flower beside her opened its leaves and breathed out a sigh of colors. Farther away, a daisy stretched its yellow arms toward the first sparkle of the sun. Lila's song was making the garden bloom! The bees opened their little wings and buzzed happily among the newly awakened flowers. Lila sang and sang, no longer afraid, and her voice filled the air with sweetness. The whole garden seemed to wake on tiptoe, listening to the little flower who once did not dare to sing.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "sparkle",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "bees",
+          "sfx": "bee_buzz"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "When the sun finished peeking out, the whole garden was awake and glowing. All the flowers giggled softly, grateful, and gave Lila a little bow. She was not shy anymore; she had discovered that her song was a gift. The owl, content, closed his little eyes to sleep. 'You did beautifully,' the wind whispered as it passed. And so, every dawn, Lila sang to wake her friends with tenderness. Now close your little eyes, sweet one. Maybe, if you listen with your heart, you'll hear a little flower singing softly, helping the whole world bloom while you dream.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "giggled",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "whispered",
+          "sfx": "whisper"
+        }
+      ]
+    }
+  ]
+}

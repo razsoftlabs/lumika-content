@@ -1,0 +1,79 @@
+{
+  "id": "el-dragoncito-de-las-nubes",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "El dragoncito de las nubes",
+  "summary": "En la montaña vive un dragón muy distinto a los demás: ¿qué saldrá de su boca cuando el pueblo más lo necesite?",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En lo alto de una montaña verde vivía Nubo, un dragoncito muy especial. Todos los dragones echaban fuego, pero Nubo era distinto: cuando abría la boca, en vez de llamas salían suaves nubes de algodón. Una mañana, Nubo sopló despacito y una nube redonda subió flotando hasta el cielo azul. Las mariposas llegaron a descansar sobre ella, y el dragoncito rió muy contento. \"¡Mis nubes son blanditas y bonitas!\", pensó. Y aunque no tenía fuego como los demás, a Nubo le gustaba mucho ser como era.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "sopló",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "rió",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Al pie de la montaña había un pueblito de casitas de colores. Pero ese día el sol brillaba muy fuerte, demasiado fuerte. Hacía tanto calor que las hojas de los árboles colgaban cansadas y las flores agachaban la cabecita. Los niños se abanicaban buscando la sombra, y un perrito sacaba la lengua, buscando un rinconcito fresco. Nadie tenía ganas de jugar. \"Qué día tan caluroso\", suspiraban los abuelos desde la puerta de sus casas. Todo el pueblo deseaba una brisa fresquita, pero la brisa no llegaba.",
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "perrito",
+          "sfx": "bark"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Desde su montaña, Nubo vio al pueblito sufrir bajo el sol. Vio a los niños acalorados y al perrito con sed, y sintió un cosquilleo en la pancita. \"¡Ya sé cómo ayudar!\", dijo abriendo sus alas grandotas. Tomó aire profundo, muy profundo, hasta llenarse como un globo redondo. Entonces saltó del borde de la montaña y voló hacia el pueblo, planeando despacito entre el cielo. Su corazón latía fuerte, pero estaba decidido: iba a regalarles la sombra más suave y más fresca del mundo entero.",
+      "cues": [
+        {
+          "anchor": "voló",
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Al llegar sobre las casitas, Nubo tomó aire y sopló con todas sus fuerzas. ¡Y salieron muchísimas nubes de algodón! Grandes, blancas y esponjosas, se juntaron formando un techo suave que tapó el sol caliente. Enseguida llegó una brisa de viento fresco, y de las nubes cayeron unas gotas chiquititas, como una llovizna de cosquillas. El calor se fue volando. Los niños salieron a bailar, las flores levantaron la cabecita y el perrito movió la colita feliz. \"¡Gracias, Nubo!\", gritó todo el pueblo, riendo bajo la sombra.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "gotas",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Poco a poco, la tarde se puso fresca y dorada. Cuando cayó la noche, las nubes de Nubo se quedaron cuidando el cielo. Sobre el pueblo dormido se encendió una linda luna redonda, y aparecieron muchas estrellas titilando despacito. Nubo, cansadito y feliz, subió a la más grande de sus nubes y se acurrucó como en una almohada blandita. Bostezó muy despacio. Ahora sabía que su don, tan distinto y tan suyo, era el más bonito de todos. Y con una sonrisa, el dragoncito de las nubes se quedó dormido. Buenas noches.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        }
+      ]
+    }
+  ]
+}

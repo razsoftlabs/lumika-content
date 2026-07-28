@@ -1,0 +1,85 @@
+{
+  "id": "el-osito-y-la-tormenta",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Little Bear and the Storm",
+  "summary": "A night full of thunder frightens little Bruno the bear, until Mama Bear teaches him a secret trick to calm his heart.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Night was falling over the forest, and little Bruno the bear was snuggled up in his cozy cave, next to Mama Bear. Outside, the wind began to blow through the trees, and many drops of rain started to fall on the leaves. Bruno yawned and closed his little eyes, ready to sleep. But suddenly, a rumble of thunder rolled far away, still very soft, like a sleeping drum. Bruno opened his eyes wide, wide. He felt a little knot in his tummy. 'Mama,' he whispered, 'what was that noise?' Mama Bear hugged him gently and said, 'It's just the storm, my love. Nothing is going to happen to you.'",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "thunder",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "The storm grew stronger. The wind whistled and, all of a sudden, BOOM!, a huge clap of thunder boomed over the cave. Bruno hid under the blanket and began to tremble. 'I'm scared, mama,' he said in a shaky little voice. 'The thunder is so loud.' Mama Bear searched for him among the blankets and pulled him close to her warm chest. She felt Bruno's little heart beating very fast, thump-thump, thump-thump. 'I know, sweetheart,' she said tenderly. 'Sometimes big noises are scary. But I am here with you, and together we will wait for it to pass.'",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_high"
+        },
+        {
+          "anchor": "thunder",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "'Do you want me to teach you a secret trick?' asked Mama Bear. Bruno peeked out his little nose and said yes. 'We are going to breathe together, very slowly. When the thunder comes, instead of trembling, we are going to breathe.' Mama Bear took air in through her nose, filling her belly like a balloon: oooone, two, three. Then she let the air out slowly through her mouth: whooo. 'Now you,' she said. Bruno breathed in deep, filled his little tummy with air, and then let it out softly. Again. And again. Little by little, the knot in his belly came undone, like a bow that unties itself.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "breathe",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "thunder",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Outside, the storm went on, but Bruno and Mama Bear breathed together, calm. Another rumble of thunder came, and this time Bruno took his air in slowly instead of hiding. 'I did it, mama!' he whispered, a little bit proud. Mama Bear smiled and gave him a little kiss on the forehead. Outside, the rain began to fall more softly, tiny drops that slid down the leaves: drip, drip, drip. The wind was not whistling so hard anymore. The thunder drifted farther and farther away, as if the storm were sleepy too, and were walking home to its house.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "thunder",
+          "sfx": "thunder"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "And then, without noticing, the storm passed. Mama Bear poked her head out of the cave. 'Look, Bruno,' she said softly. The sky was clear and the stars were shining one by one, like little friendly lights. A round moon lit up the wet forest, and everything was calm. Bruno breathed in deep one last time and smiled. He was not scared anymore. Curled up in his mama's warm arms, with heavy little eyes, he let sleep wrap around him. 'Good night, my brave one,' whispered Mama Bear. And little Bruno fell asleep, peaceful, until the next morning.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "stars",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

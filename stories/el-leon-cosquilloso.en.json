@@ -1,0 +1,78 @@
+{
+  "id": "el-leon-cosquilloso",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Ticklish Lion",
+  "summary": "The king of the savanna is hiding a very funny secret that shows up right when he tries to roar.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Every morning, when the sun peeked over the savanna, all the animals waited for the great roar of Leo, the lion. His roar woke up the whole world: strong, brave, like a friendly thunder. Leo took a deep breath, puffed out his chest and opened his mouth wide. But instead of a roar, out came a tiny giggle: 'Hee, hee, hee!'. The animals stared, confused. Leo covered his snout with both paws, blushing with embarrassment, and ran off to hide behind a big rock. What was happening to the king of the savanna?",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "giggle",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Behind the rock, Leo tried again, all by himself. He closed his eyes, squeezed his paws and took a big breath to let out the mightiest roar in history. But right then, a soft breeze tickled his belly. Oh! It tickled Leo so much that, instead of roaring, he let out another huge laugh: 'Ha, ha, ha!'. He rolled around in the grass, unable to stop. 'What kind of king am I?', he sighed, covering his face. 'A king should roar, not laugh'. Poor Leo, he did not know his secret would soon make everyone happy.",
+      "cues": [
+        {
+          "anchor": "breeze",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "laugh",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Three friends had seen Leo run away: Mona the little monkey, Pío the little bird, and a very curious bee. 'Why is the king hiding?', they wondered. Without a sound, they crept on tiptoe up to the rock. Their footsteps were soft, so soft: tip, tip, tip. The bee flew around going buzz, buzz. They peeked slowly around the side of the rock, holding their breath. And then, the three of them saw something they never imagined. Leo, the biggest lion in the savanna, was lying on the ground, weak with laughter.",
+      "cues": [
+        {
+          "anchor": "footsteps",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "bee",
+          "sfx": "bee_buzz"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "The bee landed gently on the tip of his nose. And Leo burst into a giant giggle! 'HA, HA, HA!'. He rolled happily among the dry leaves, kicking with joy. Then the friends understood the king's secret: Leo was the most ticklish lion in the world! He could not roar because everything, the wind, the grass, a feather, tickled him too much. And seeing him so happy, the three friends could not hold back any longer. Mona laughed, Pío laughed, the bee laughed, and the whole savanna filled up with laughter.",
+      "cues": [
+        {
+          "anchor": "giggle",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Leo opened his eyes and saw his friends laughing with him, not at him. 'Your laugh is lovelier than any roar', said Mona. 'You wake the savanna with joy'. Leo smiled, and for the first time he felt no shame. Little by little the sun went down and the stars came out, shining like tiny silver sparks. The four friends snuggled up together on the warm grass, yawning slowly. And one by one, they fell asleep under the sky, with a smile on their faces. That night, the savanna slept happily, rocked by the soft echo of the day's laughter.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "stars",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

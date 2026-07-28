@@ -1,0 +1,83 @@
+{
+  "id": "la-hormiga-y-la-miga-gigante",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La hormiga y la miga gigante",
+  "summary": "Lupe la hormiguita encuentra una miga tan grande como su casa y está segura de que puede llevarla ella sola.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En el jardín, cuando la merienda terminó y las personas se fueron, quedó sobre el pasto una miga de bizcocho enorme, dorada y dulce. Una brisa suave movió las hojas secas mientras Lupe, una hormiguita de patitas rápidas, buscaba algo rico. Cuando vio la miga gigante, abrió los ojitos como dos gotitas de rocío. 'Huele a vainilla, a fiesta', pensó, relamiéndose las antenas. 'La voy a llevar yo sola hasta el hormiguero, y todos van a decir: ¡qué hormiga tan fuerte!'. Muy decidida, apoyó sus seis patitas contra la miga y se preparó para empujar.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "brisa",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Lupe empujó con todas sus fuerzas. ¡Uf! La miga no se movió ni un pelito. Empujó otra vez, y otra, con la carita roja y las antenas temblando. Nada. Entonces probó tirar desde el otro lado, dando pasitos cortos hacia atrás. La miga se movió un poquito... y de repente Lupe resbaló y cayó sentada, ¡plof!, sobre una hoja blandita. Cerca, una abeja que pasaba volando la miró con curiosidad. '¿Necesitas ayuda, chiquita?', zumbó despacito. Pero Lupe, sacudiéndose el polvo, contestó muy orgullosa: 'No, gracias, yo puedo sola'.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "plof",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "abeja",
+          "sfx": "bee_buzz"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Terca como ella sola, Lupe volvió a intentarlo. Se subió encima de la miga y empujó con la espalda. La miga rodó un pasito, dos pasitos... y se fue derechita hacia un charco de agua. ¡Splash! Quedó en la orilla, mojada de un lado, y Lupe terminó despeinada, con una antena para arriba y otra para abajo. Se sentó en una piedrita, cansada, y sintió que se le llenaban los ojitos de lágrimas. 'No puedo', susurró muy bajito. 'Es demasiado grande para mí sola'. El sol empezaba a bajar y la casa quedaba lejísimos.",
+      "cues": [
+        {
+          "anchor": "charco",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Justo entonces escuchó unos pasos chiquitos. ¡Tap, tap, tap! Eran sus hermanas hormigas, que la andaban buscando. Al verlas, Lupe respiró hondo y, por primera vez, se animó a pedir: '¿Me ayudan? Sola no puedo con la miga'. Sus hermanas sonrieron. '¡Claro que sí, para eso estamos!'. Se pusieron todas en fila, hombro con hombro, patita con patita. 'Uno, dos, ¡ya!'. Y entre todas levantaron la miga gigante como si fuera una plumita. Lupe se rió de la sorpresa: lo que ella sola no había podido en toda la tarde, juntas lo lograron en un ratito.",
+      "cues": [
+        {
+          "anchor": "pasos",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "rió",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Cargando la miga entre todas, las hormigas volvieron al hormiguero cantando bajito. Esa noche hubo fiesta: cada hormiga probó un pedacito dulce, crunch, crunch, y hasta guardaron un poco para el día siguiente. La miga alcanzó para toda la familia, porque compartida sabía mucho mejor. Cuando Lupe se acurrucó en su camita de pétalos, su mamá le dio un besito en las antenas. 'Hoy aprendiste algo importante', le susurró. 'Pedir ayuda no te hace pequeña; te hace más fuerte'. Lupe sonrió, cerró los ojitos y se quedó dormida, soñando con migas gigantes y muchas patitas amigas.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "crunch",
+          "sfx": "crunch"
+        },
+        {
+          "anchor": "dormida",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

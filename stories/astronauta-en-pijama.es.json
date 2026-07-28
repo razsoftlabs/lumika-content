@@ -1,0 +1,84 @@
+{
+  "id": "astronauta-en-pijama",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La astronauta en pijama",
+  "summary": "Cuando la casa se queda en silencio, la cama de Mía se convierte en un cohete rumbo a la luna.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Mía se puso el pijama más suave y se metió en la cama. Afuera, la luna brillaba redonda y blanca sobre los tejados. Un viento tibio movía despacio las cortinas, como si quisiera contarle un secreto. Mía cerró los ojos un momentito y, cuando los abrió, su cama ya no era una cama. Las sábanas eran de plata, la almohada tenía botones que titilaban, y en la punta se encendían dos lucecitas. Su cama se había convertido en un cohete suave y calentito, listo para volar.",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "—Cinco, cuatro, tres, dos, uno... —susurró Mía, y el cohete despegó sin ningún ruido fuerte. Subió por la ventana abierta, pasó junto a las cortinas y saludó a los tejados dormidos. Arriba, muy arriba, las nubes parecían almohadas y el cielo estaba lleno de estrellas que le hacían guiños. Mía reía bajito mientras su cama voladora giraba entre ellas. No tenía nada de miedo, porque su manta seguía tapándola y su osito viajaba a su lado, mirando por la ventanita del cohete.",
+      "cues": [
+        {
+          "anchor": "cohete",
+          "sfx": "rocket"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle",
+          "delayMs": 200
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "El cohete bajó despacito y aterrizó sobre la luna, que era blandita como harina. Mía sacó un pie, luego el otro, y dio sus primeros pasos sobre el polvo plateado. Todo estaba en silencio, un silencio bonito y redondo. La luna era enorme y tranquila, con montañas suaves y valles llenos de luz. En cada rincón, pequeñas estrellitas se habían quedado dormidas sobre el suelo, parpadeando muy despacio, como farolitos cansados. Mía las miró con ternura y pensó que serían perfectas para iluminar su cuarto.",
+      "cues": [
+        {
+          "anchor": "pasos",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "luna",
+          "sfx": "twinkle",
+          "delayMs": 150
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Con mucho cuidado, Mía abrió su frasco de vidrio y empezó a recoger estrellitas, una por una. Cada vez que atrapaba una, la estrellita soltaba una risa chiquita, como cosquillas de luz. Pronto el frasco se llenó de destellos dorados que bailaban dentro. Mía no las apretó ni corrió; las juntó despacio, con dedos amables, y les prometió cuidarlas. Cuando el frasco estuvo lleno, lo tapó con suavidad para no despertarlas del todo. Después se subió de nuevo a su cama-cohete, abrazó a su osito y giró la nave hacia casa.",
+      "cues": [
+        {
+          "anchor": "estrellitas",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "risa",
+          "sfx": "giggle",
+          "delayMs": 200
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "La cama-cohete regresó flotando por la ventana y se posó otra vez en el cuarto de Mía, calentita y quieta. Ella dejó el frasco de estrellitas junto a su almohada, y su luz suave llenó la habitación como una lamparita amable. Afuera, la luna le dio las buenas noches. Mía se acurrucó bajo la manta, cerró los ojitos y respiró muy despacio, una vez, dos veces. El brillo dorado la abrazó por dentro. Y así, entre estrellas guardadas y sueños tranquilos, Mía se quedó profundamente dormida.",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "respiró",
+          "sfx": "breathe_in",
+          "delayMs": 300
+        }
+      ]
+    }
+  ]
+}

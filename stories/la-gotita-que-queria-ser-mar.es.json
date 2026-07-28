@@ -1,0 +1,85 @@
+{
+  "id": "la-gotita-que-queria-ser-mar",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La gotita que quería ser mar",
+  "summary": "Una gotita de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En lo alto del cielo, dentro de una nube blanda como el algodón, vivía una gotita muy pequeña. Todas las noches miraba hacia abajo y suspiraba: quería ser grande, grandísima, quería ser el mar. Una mañana, la nube se puso gris y cosquilleó, y la gotita sintió que resbalaba. “¡Allá voy!”, gritó. El viento la meció despacito mientras caía, girando y girando como en un baile. Abajo, los árboles la esperaban con los brazos abiertos, y sus hojas verdes temblaron cuando ella pasó rozándolas. La gotita nunca había volado, y por un momento, se le olvidó que tenía miedo.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "La gotita cayó en un arroyo de montaña y salpicó con un ¡plic! muy alegre. El agua estaba fresquita y cantaba entre las piedras. “¿Dónde estoy?”, preguntó, un poquito mareada. Desde una hoja verde, una rana de ojos grandes la saludó: “Estás en el arroyo, gotita. ¿A dónde vas?”. “Voy a ser el mar”, respondió ella con orgullo. La rana sonrió y le dijo: “Entonces déjate llevar, que el agua siempre sabe el camino”. Y así, la gotita se unió a las otras gotas, y todas juntas empezaron a correr, ligeras, montaña abajo.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "salpicó",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "rana",
+          "sfx": "frog_croak"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "El arroyo se hizo río, ancho y tranquilo. Cada vez había más gotas: venían de la lluvia, de la nieve, de otros ríos lejanos. La gotita ya no estaba sola. Una abeja pasó zumbando sobre el agua, buscando flores, y las saludó con sus alitas. Las gotas se contaban chistes y se reían juntas, y su risa sonaba como el agua saltando sobre las piedras. “Somos muchas”, pensó la gotita, “pero seguimos siendo una sola cosa”. Y esa idea, tan sencilla y tan grande, le llenó el corazón de calorcito mientras el río la llevaba con cariño hacia adelante.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "abeja",
+          "sfx": "bee_buzz"
+        },
+        {
+          "anchor": "risa",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Y entonces, al doblar una curva, el río se abrió... y allí estaba. El mar. Enorme, azul, brillante hasta donde alcanzaban los ojos. Una ola grande la levantó en el aire y la dejó caer entre espuma y burbujas. “¡Llegué!”, gritó la gotita, “¡soy el mar!”. Desde muy hondo, una ballena cantó una canción larga y suave para darle la bienvenida. La gotita miró a su alrededor: millones de gotitas como ella se mecían juntas, formando algo tan grande que no cabía en una sola mirada. No era el mar ella sola. Era el mar con todas las demás.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "ola",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "ballena",
+          "sfx": "whale_song"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Cuando el sol salió, tibio y dorado, la gotita sintió que se volvía ligera, ligerita, como un suspiro. Sin dejar de ser ella, subió flotando por el aire, de vuelta hacia una nube nueva. “Nunca me pierdo”, entendió sonriendo, “siempre vuelvo al cielo”. Abajo, el mar la despidió con un destello. Arriba, la luna encendió su lámpara redonda, y una a una se asomaron las estrellas. La gotita se acurrucó en su nube, calientita, lista para volver a llover mañana. Cerró los ojitos. Y soñó que era pequeña y enorme al mismo tiempo, como todas las cosas que se quieren.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        }
+      ]
+    }
+  ]
+}

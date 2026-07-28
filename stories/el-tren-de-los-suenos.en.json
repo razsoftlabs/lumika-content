@@ -1,0 +1,82 @@
+{
+  "id": "el-tren-de-los-suenos",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The dream train",
+  "summary": "Every night, a magical little train picks up children in pajamas and carries them gently through dreamy landscapes.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "When the house grows quiet and the moon peeks through the window, far away you hear a soft whistle: choo-choo. It is the dream train, coming slowly along a little path of clouds. Its cars are fluffy like pillows and its lights twinkle like fireflies. The train stops beside your bed and opens its tiny door. A bear in a blue cap leans out and says, very softly, \"Are you coming to dream with me?\" All the children in pajamas climb aboard carefully, one behind the other, and find a warm seat by the window.",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "door",
+          "sfx": "door_open"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "The train sets off slowly, clack-clack, and rolls into a sleeping forest. The tall trees wave their branches as if saying goodbye, and the leaves whisper a very soft song. On a round branch, an owl opens his big eyes and hoots: whoo, whoo, watching over the way. Golden fireflies drift past the window, dancing in the air. The bear hands out warm blankets and a cup of warm milk for each child. No one speaks loudly here; in the forest of dreams you only speak with your eyes and a tiny smile.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "owl",
+          "sfx": "owl_hoot"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Little by little, the forest falls behind, and the train crosses a very long bridge over the sea. The waves rock below, softly, going shhh, shhh, like a lullaby made of water. Suddenly, a huge whale waves from the deep blue and sings a low, calm melody that tickles your heart. The moon shines on the water like a little silver path. The children rest their heads against the window and feel their eyes begin to grow heavy. The train glides so gently it seems to float over the sleeping sea.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "waves",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "whale",
+          "sfx": "whale_song"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Then the train climbs, climbs, climbs up a rainbow of night until it reaches the sky. Now it travels among the stars, which shine and twinkle like little crumbs of light. The wind sings softly between the cars, cool and gentle, and ruffles the children's hair. Up here everything is calm: no hurry, no noise, only the big, quiet sky. The bear turns off the train's little lights one by one, so the night can be even sweeter. \"We're almost at the land of dreams,\" he says, and his voice sounds like a hug.",
+      "cues": [
+        {
+          "anchor": "stars",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "The dream train arrives slowly at its last station, among fluffy clouds and silence. One by one, the children give a big yawn and breathe deeply, very deeply. The bear tucks them in with their favorite blanket and gives them a little kiss on the forehead. \"Good night, little travelers,\" he whispers. Outside, the moon watches over them from above. And so, rocked by the little train, all the children fall asleep, with a tiny smile on their faces. Sweet dreams to you. The train will wait for you tomorrow, in the same place, when the night sings again.",
+      "cues": [
+        {
+          "anchor": "breathe",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

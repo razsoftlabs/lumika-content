@@ -1,0 +1,79 @@
+{
+  "id": "dos-caracoles-y-una-carrera",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "Dos caracoles y una carrera",
+  "summary": "Dos caracoles amigos se retan a la carrera más lenta del jardín y descubren un premio mucho mejor que cruzar la meta.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En un jardín tibio vivían dos caracoles muy amigos: Cala y Lito. Cada mañana se saludaban entre las hojas y compartían gotitas de rocío. Un día, Lito estiró sus cuernitos y dijo: —¿Y si hacemos una carrera hasta el rosal? Cala soltó una risa suave. —¡Va a ser la carrera más lenta del mundo! Los dos rieron tanto que sus caparazones se mecieron. Se pusieron lado a lado sobre una piedra calentita, contaron hasta tres muy despacito y, sin ninguna prisa, empezaron a andar.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "risa",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "La carrera empezó despacio, despacio, muy despacio. Cala avanzaba un pasito y miraba una flor. Lito avanzaba otro pasito y saludaba a una abeja que pasaba zumbando. —¡Voy ganando! —bromeó Lito, aunque casi no se había movido. Una brisa de viento acarició las hojas y les hizo cosquillas en los cuernitos. Ninguno tenía prisa. El sol tibio les calentaba la espalda y el jardín olía a tierra mojada. Cada centímetro les parecía una pequeña aventura, y avanzaban dejando dos hilitos brillantes detrás.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "abeja",
+          "sfx": "bee_buzz"
+        },
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "A mitad de camino encontraron un charco pequeñito, redondo como un espejo. En el borde, una rana los miró con ojos grandes y saludó con un croac amable. —Mira, Cala —susurró Lito—, el cielo se refleja en el agua. Los dos caracoles se quedaron quietos, mirando las nubes flotar dentro del charco. Se olvidaron de la carrera un ratito. —Esto es más bonito que ganar —dijo Cala. Y Lito, muy bajito, estuvo de acuerdo.",
+      "cues": [
+        {
+          "anchor": "charco",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "rana",
+          "sfx": "frog_croak"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Siguieron andando, pero ahora bien juntitos. Cuando Cala se cansó, Lito la esperó sin quejarse. Cuando a Lito se le hizo cuesta arriba una ramita, Cala lo empujó con cariño. Se contaron secretos y una risa los acompañó todo el camino. —¿Sabes qué? —dijo Cala—. No quiero llegar primero. Quiero llegar contigo. Lito sonrió con sus cuernitos. Ya no había carrera: solo dos amigos paseando despacio, felices de estar juntos bajo el cielo que se pintaba de naranja.",
+      "cues": [
+        {
+          "anchor": "risa",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Cuando llegaron al rosal, ya era de noche. En el cielo apareció la luna, redonda y blanca, y muchas estrellas se encendieron despacito. Un búho cantó suave desde un árbol. —¿Quién ganó? —preguntó Lito, bostezando. —Los dos —dijo Cala—. Ganamos el camino juntos. Se acurrucaron bajo una hoja tibia, muy cerquita, y cerraron sus ojitos. Afuera, el jardín dormía en calma. Y así, despacito como todo lo bonito, los dos caracoles amigos se quedaron dormidos. Buenas noches.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        }
+      ]
+    }
+  ]
+}

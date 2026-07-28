@@ -1,0 +1,85 @@
+{
+  "id": "el-erizo-que-queria-abrazar",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The hedgehog who wanted to hug",
+  "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Deep in the forest, when the moon peeked out between the branches, there lived a tiny hedgehog named Spike. He had the biggest, most tender heart in the whole forest. He walked slowly over the dry leaves, which crackled under his little paws: crick, crack, crick. Spike loved all his friends so very much. He played with them, told them jokes, and walked them home. But every night he dreamed of something he still could not do. Spike wanted to give a hug. A real hug, snug and warm, like the ones you give when you love someone very much.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "That night, Spike saw his friend the frog sitting by the water. \"I would love to hug you!\" he said, opening his little arms wide. He ran toward her happily, his eyes shining. But the moment he came close, his spines stood on end and... they pricked, just a tiny bit! The frog gave an enormous leap and landed flat in a puddle. \"Oops, Spike, you prickle without meaning to!\" she laughed, dripping with water. Spike stood very still, his ears drooping. He did not want to prickle anyone. He only wanted to hug.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "frog",
+          "sfx": "frog_croak"
+        },
+        {
+          "anchor": "puddle",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Spike sat all alone on a rock, looking up at the sky. He felt sad, like a little grey cloud. Then, from a high branch, the owl came flying down, the wisest one in the forest. \"Why such sad little eyes, little one?\" he asked. \"I want to hug my friends, but my spines always prickle,\" sighed Spike. The owl looked at him kindly, while the stars twinkled high above. \"Listen well,\" he said softly. \"Your spines grow stiff when your heart races. If you breathe gently and calm yourself, your spines turn soft. Then you really will be able to hug.\"",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "owl",
+          "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "stars",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "The next day, Spike tried. He closed his little eyes and breathed very slowly: in... and out. In... and out. His heart grew calm, so calm. And then, little by little, his spines lay down softly, like tender grass. Very, very carefully, Spike wrapped the frog in a warm leaf and gave her a little kiss on the nose. \"That doesn't prickle at all!\" said the frog, and let out a happy giggle. One by one, his friends came closer. Spike hugged them slowly, with a calm heart and sleepy spines. His hug was the softest in the whole forest.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "breathed",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "giggle",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "That night, all his friends gathered around Spike. The frog, the owl, and even a little rabbit snuggled against his soft spines, warm as a cozy blanket. The wind slipped through the branches, singing a very gentle lullaby. Spike gave out hugs slowly, one for each friend, and a nose-kiss to finish. Little by little, everyone's eyes began to close. And there they fell asleep, all together under the moon, their hearts full of love. Because the loveliest hug is not the tightest one... it is the most tender. Sleep well, little one. Good night.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

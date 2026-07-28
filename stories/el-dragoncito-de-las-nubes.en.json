@@ -1,0 +1,79 @@
+{
+  "id": "el-dragoncito-de-las-nubes",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Little Cloud Dragon",
+  "summary": "High on the mountain lives a dragon unlike any other: what will come from his mouth when the village needs him most?",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "High on a green mountain lived Nubo, a very special little dragon. All the other dragons breathed fire, but Nubo was different: when he opened his mouth, instead of flames, soft cotton clouds came out. One morning, Nubo blew gently and a round little cloud went floating up into the blue sky. Butterflies came to rest upon it, and the little dragon laughed with joy. \"My clouds are soft and pretty!\" he thought. And even though he had no fire like the others, Nubo really liked being just the way he was.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "blew",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "laughed",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "At the foot of the mountain sat a little village of colorful houses. But that day the sun shone very brightly, far too brightly. It was so hot that the leaves on the trees hung tired and the flowers bowed their little heads. The children fanned themselves looking for shade, and a little puppy panted, hunting for a cool corner. Nobody felt like playing. \"What a scorching day,\" the grandparents sighed from the doors of their houses. The whole village wished for a cool breeze, but the breeze would not come.",
+      "cues": [
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "puppy",
+          "sfx": "bark"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "From his mountain, Nubo watched the little village suffer under the sun. He saw the overheated children and the thirsty puppy, and he felt a tickle in his tummy. \"I know how to help!\" he said, spreading his big wings. He took a deep breath, a very deep breath, until he filled up like a round balloon. Then he leaped from the edge of the mountain and flew toward the village, gliding gently across the sky. His heart was pounding, but he was sure: he was going to give them the softest, coolest shade in the whole wide world.",
+      "cues": [
+        {
+          "anchor": "flew",
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "When he reached the houses, Nubo took a breath and blew with all his might. And out came so many cotton clouds! Big, white and fluffy, they gathered into a soft roof that covered the hot sun. At once a breeze of cool wind arrived, and from the clouds fell tiny little drops, like a tickly drizzle. The heat flew away. The children came out to dance, the flowers lifted their little heads, and the puppy wagged its happy tail. \"Thank you, Nubo!\" cried the whole village, laughing under the shade.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "drops",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Little by little, the afternoon turned cool and golden. When night fell, Nubo's clouds stayed behind to watch over the sky. Over the sleeping village, a lovely round moon lit up, and many stars appeared, twinkling softly. Nubo, tired and happy, climbed onto the biggest of his clouds and curled up as if on a soft pillow. He yawned very slowly. Now he knew that his gift, so different and so his own, was the loveliest of all. And with a smile, the little cloud dragon fell fast asleep. Good night.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "stars",
+          "sfx": "sparkle"
+        }
+      ]
+    }
+  ]
+}

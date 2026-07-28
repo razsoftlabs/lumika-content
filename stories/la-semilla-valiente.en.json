@@ -1,0 +1,80 @@
+{
+  "id": "la-semilla-valiente",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Brave Little Seed",
+  "summary": "A tiny seed is afraid of the dark under the ground… will she find the courage to grow?",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Deep down in the earth lived a very tiny seed. Everything around her was dark and quiet. The little seed felt a little afraid. \"What if I stay down here forever?\" she thought, curled up in her small shell. Far, far away, an owl hooted softly in the night. The little seed closed her eyes and breathed slowly, just like you do when you snuggle into your bed. Little by little, the fear grew smaller, and the earth held her warm and safe.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "owl",
+          "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "breathed",
+          "sfx": "breathe_in"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "One morning, a few drops of rain trickled down to the little seed. \"Hello, little one,\" whispered the water. \"I have come to give you a drink.\" The drops wet her with love, and the seed felt something new: a warm wish to stretch. She was still afraid of the dark, but the rain sang her a very soft song. \"Don't rush,\" it said. \"Growing happens slowly, and gently.\" The little seed drank and drank, and inside she began to feel a little bit stronger and braver.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "drops",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "whispered",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "The day came when the little seed had to grow upward. The path was dark, and she did not know what waited at the end. \"I am afraid,\" she said quietly. But she remembered the rain's song and was very brave. Very calmly, she pushed a tiny green arm up through the earth. She pushed, and pushed, and pushed. Up above, a soft wind called to her: \"Come, you are almost here.\" Her roots held on tightly down below, like little hands, and the sprout climbed and climbed toward the light.",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "And then… the little seed came out into the light! She opened her first leaf to the sky and saw the sun shining warm and golden. \"I did it!\" she said, and a happy giggle bubbled up from inside her. The sun greeted her with a warm ray, and her leaves danced happily in the breeze. It was no longer dark or scary. The little plant understood that growing was worth it after all. All around her the birds were singing, and the world was wide, green, and bright.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "giggle",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Many moons and many suns went by. The brave little seed became a big, strong tree, with branches that hugged the sky. When night came, the moon covered it with silver light, and the stars twinkled among its leaves. Beneath its branches the birds slept, calm and cozy. The tree remembered, happily, that little seed who was once afraid in the dark. And now, just like you, it closed its eyes slowly. Good night, brave little seed. May you grow lovely while you dream.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "stars",
+          "sfx": "sparkle"
+        }
+      ]
+    }
+  ]
+}

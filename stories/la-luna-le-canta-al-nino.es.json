@@ -1,0 +1,85 @@
+{
+  "id": "la-luna-le-canta-al-nino",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La luna le canta al niño",
+  "summary": "Un niño que no quiere dormir descubre, de la mano de la luna, que cerrar los ojos es el comienzo de una aventura preciosa.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Ya era de noche, pero el niño no quería dormir. Daba vueltas en la cama, con los ojos bien abiertos. Entonces, por la ventana, entró una luz suave y plateada. Era la luna, redonda y tranquila, que lo miraba desde el cielo. A su alrededor brillaban muchas estrellas, como pequeñas chispas de luz. «¿Todavía despierto, pequeño?», susurró la luna con voz dulce. El niño asintió, un poco tímido. «No tengo sueño», dijo bajito. La luna sonrió, y su luz lo abrazó con calma, como una manta tibia.",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "«Ven, te contaré un secreto», dijo la luna. Afuera, el viento mecía las cortinas con suavidad, como si también quisiera escuchar. La luna empezó a cantar una canción muy bajita, hecha de silencio y de calma. En un árbol cercano, un búho abrió los ojos y escuchó con atención. La canción hablaba de lugares bonitos, de sueños donde todo es posible. «Cerrar los ojos no es el final del día», cantó la luna. «Es el comienzo de una aventura muy especial». El niño la escuchó, quietecito, y sintió que sus párpados pesaban un poquito.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Y entonces, sin moverse de su cama, el niño empezó a soñar. Volaba despacito sobre un mar azul y brillante, cubierto por la luz de la luna. Abajo, una ballena enorme y amable cantaba una melodía profunda que hacía cosquillas en el corazón. Las olas subían y bajaban, suaves, como si respiraran. «¿Ves? Soñar es viajar sin miedo», dijo la luna a su lado. El niño reía, feliz, mientras el aire tibio lo llevaba de un lado a otro. Nunca había volado, y era la cosa más bonita del mundo.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "ballena",
+          "sfx": "whale_song"
+        },
+        {
+          "anchor": "olas",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "El sueño lo llevó luego a un bosque tranquilo, iluminado por miles de estrellas. Las hojas de los árboles susurraban una nana con el viento. Un búho amigo voló a su lado y le guiñó un ojo. Todo era blando, todo era seguro. El niño se sentó sobre una nube que pasaba y sintió cómo su cuerpo se volvía ligero y calentito. «Aquí puedes descansar todo lo que quieras», dijo la luna desde lo alto. Y el niño, por fin, dejó de tener prisa por despertar.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Poco a poco, la luna lo trajo de vuelta a su cama calentita. El niño respiró hondo, muy despacio, una vez y otra vez. Sus ojitos ya casi no podían abrirse. «Cada noche, cuando duermas, te esperará una nueva aventura», susurró la luna. «Yo cuidaré tus sueños desde el cielo». El niño sonrió, abrazó su almohada y por fin se quedó dormido. Afuera, la luna siguió brillando, suave y fiel, cantando muy bajito para todos los niños que, como él, ya viajaban felices por el país de los sueños.",
+      "cues": [
+        {
+          "anchor": "respiró",
+          "sfx": "breathe_in",
+          "delayMs": 300
+        },
+        {
+          "anchor": "dormido",
+          "sfx": "snore_soft",
+          "delayMs": 800
+        }
+      ]
+    }
+  ]
+}

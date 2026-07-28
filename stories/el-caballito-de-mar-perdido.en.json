@@ -1,0 +1,82 @@
+{
+  "id": "el-caballito-de-mar-perdido",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Lost Little Seahorse",
+  "summary": "When some playful bubbles carry him far from home, a little seahorse discovers that the ocean is full of friends ready to help.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Marino was a small and curious seahorse. He lived among the colorful corals, swaying with the gentle waves of the sea. That afternoon he chased a group of shiny bubbles, floating up and down, spinning with joy. The bubbles carried him farther and farther, all the way to a garden of corals he had never seen before. When Marino looked around, he no longer recognized anything. Where was his home? The little seahorse felt a nervous tickle in his tummy, but he took a deep breath and decided to be brave.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "bubbles",
+          "sfx": "bubbles"
+        },
+        {
+          "anchor": "waves",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Suddenly, an orange fish appeared among the seaweed. \"Don't cry, little one,\" he said in a sweet voice. \"I will help you find your home.\" The fish swam beside him and asked what his house was like. Marino remembered: \"There is a pink coral, and above it the moon shines over the water.\" The fish smiled. \"I know someone who watches the moon every night. Follow me.\" Together they swam through swaying plants, while a school of silvery fish waved hello with a wink.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "They swam for a long while until they reached a deeper, darker sea. Marino moved close to his new friend, feeling a little scared. Then, from the blue depths, an enormous whale with kind eyes appeared. \"Are you lost, little ones?\" she asked in a soft, deep voice. \"We are looking for the pink coral,\" answered Marino. The whale smiled. \"Climb onto my back. I will carry you closer.\" Marino and the fish settled in, and the whale glided slowly, rocking them like a giant cradle through the calm water.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "whale",
+          "sfx": "whale_song"
+        },
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "As the whale swam, the sky above the sea turned orange and then deep blue. One by one, the stars began to peek out, shining over the water like little lights. \"Look!\" said Marino. \"That star I can see from my home.\" The whale stopped beside a familiar reef. In the distance, among the soft shadows, Marino spotted a pink coral swaying in the gentle sea wind. His heart gave a little leap of joy. \"It's here! I'm almost home!\"",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "star",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Marino said goodbye to the whale with a hug and swam toward the pink coral. There his family was waiting, and they hugged him tight, so happy to see him. The orange fish stayed for dinner and became his friend forever. Tired and happy, Marino curled up among the warm corals. Outside, the moon lit the calm sea and the waves sang softly. \"Good night,\" whispered Marino, closing his little eyes. And rocked by the water, the little seahorse fell fast asleep.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "whispered",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft",
+          "delayMs": 600
+        }
+      ]
+    }
+  ]
+}

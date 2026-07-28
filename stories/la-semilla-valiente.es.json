@@ -1,0 +1,80 @@
+{
+  "id": "la-semilla-valiente",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La semillita valiente",
+  "summary": "Una semillita muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En lo hondo de la tierra vivía una semillita muy pequeña. Todo a su alrededor estaba oscuro y calladito. La semillita tenía un poco de miedo. —¿Y si me quedo siempre aquí abajo? —pensó, encogida en su cascarita. Afuera, muy lejos, un búho cantaba suave en la noche. La semillita cerró los ojos y respiró despacio, como cuando tú te acurrucas en tu cama. Poco a poco, el miedo se hizo más pequeñito, y la tierra la abrazó tibia y segura.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "respiró",
+          "sfx": "breathe_in"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Una mañana, unas gotas de lluvia bajaron hasta la semillita. —Hola, pequeña —susurró el agua—. Vengo a darte de beber. Las gotas la mojaron con cariño, y la semillita sintió algo nuevo: unas ganas tibias de estirarse. Todavía tenía miedo de lo oscuro, pero la lluvia le cantó una canción muy suave. —No tengas prisa —dijo—. Crecer se hace despacito, con calma. La semillita bebió y bebió, y por dentro empezó a sentirse un poquito más fuerte y valiente.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "gotas",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Llegó el día en que la semillita debía crecer hacia arriba. El camino era oscuro y no sabía qué había al final. —Tengo miedo —dijo bajito. Pero recordó la canción de la lluvia y fue muy valiente. Con mucha calma, empujó un bracito verde a través de la tierra. Empujó, y empujó, y empujó. Arriba, un viento suave la llamaba: —Ven, ya casi llegas. Las raíces se agarraron fuerte allá abajo, como manitos, y el brote subió y subió buscando la luz.",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Y entonces… ¡la semillita salió a la luz! Abrió su primera hojita al cielo y vio el sol brillar tibio y dorado. —¡Lo logré! —dijo, y una risa alegre le salió de adentro. El sol la saludó con un rayo cálido, y las hojas se movieron felices con la brisa. Ya no estaba oscuro ni daba miedo. La pequeña planta entendió que crecer sí valía la pena. A su alrededor los pájaros cantaban, y el mundo era ancho, verde y luminoso.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "risa",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Pasaron muchas lunas y muchos soles. La semillita valiente se volvió un árbol grande y fuerte, con ramas que abrazaban el cielo. Cuando llegaba la noche, la luna lo cubría con su luz de plata y las estrellas titilaban entre sus hojas. Bajo sus ramas dormían los pájaros, tranquilos y calentitos. El árbol recordaba, feliz, aquella semillita que tuvo miedo en la oscuridad. Y ahora, igual que tú, cerraba los ojos despacito. Buenas noches, semillita valiente. Que crezcas bonito mientras sueñas.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1778060060441,
-  "publishedAt": "2026-05-06T09:34:20.441Z",
+  "manifestVersion": 1785205604051,
+  "publishedAt": "2026-07-28T02:26:44.051Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
     "en",
@@ -544,6 +544,1119 @@
         "en": {
           "title": "The turtle who wanted to run",
           "summary": "Tina the turtle learns that her pace is perfect just the way it is."
+        }
+      }
+    },
+    {
+      "id": "astronauta-en-pijama",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/astronauta-en-pijama.es.json",
+        "en": "stories/astronauta-en-pijama.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "espacio",
+        "aventuras"
+      ],
+      "mood": "aventura",
+      "music": "space_dream",
+      "tags": [
+        "luna",
+        "estrellas",
+        "cohete",
+        "dormir",
+        "imaginación"
+      ],
+      "premium": false,
+      "preload": [
+        "music/space_dream"
+      ],
+      "preview": {
+        "es": {
+          "title": "La astronauta en pijama",
+          "summary": "Cuando la casa se queda en silencio, la cama de Mía se convierte en un cohete rumbo a la luna."
+        },
+        "en": {
+          "title": "The Astronaut in Pajamas",
+          "summary": "When the house goes quiet, Mía's bed turns into a rocket bound for the moon."
+        }
+      }
+    },
+    {
+      "id": "dino-que-le-tenia-miedo-al-charco",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/dino-que-le-tenia-miedo-al-charco.es.json",
+        "en": "stories/dino-que-le-tenia-miedo-al-charco.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "dinosaurios",
+        "valores"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "dinosaurio",
+        "miedo",
+        "valentia",
+        "charco",
+        "amistad"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "El dino que le tenía miedo al charco",
+          "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeñita que te puedas imaginar."
+        },
+        "en": {
+          "title": "The dino who was scared of the puddle",
+          "summary": "The biggest dinosaur in the whole valley is terrified of the tiniest thing you can imagine."
+        }
+      }
+    },
+    {
+      "id": "dos-caracoles-y-una-carrera",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/dos-caracoles-y-una-carrera.es.json",
+        "en": "stories/dos-caracoles-y-una-carrera.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "amistad"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "caracoles",
+        "amistad",
+        "carrera",
+        "jardín",
+        "dormir"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "Dos caracoles y una carrera",
+          "summary": "Dos caracoles amigos se retan a la carrera más lenta del jardín y descubren un premio mucho mejor que cruzar la meta."
+        },
+        "en": {
+          "title": "Two Snails and a Race",
+          "summary": "Two snail friends challenge each other to the slowest race in the garden and discover a prize far better than crossing the finish line."
+        }
+      }
+    },
+    {
+      "id": "el-arbol-de-los-abrazos",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-arbol-de-los-abrazos.es.json",
+        "en": "stories/el-arbol-de-los-abrazos.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "naturaleza",
+        "amistad"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "árbol",
+        "abrazos",
+        "amistad",
+        "parque",
+        "ternura"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El árbol de los abrazos",
+          "summary": "Un árbol viejo y solito del parque guarda entre sus ramas el secreto más tierno del mundo."
+        },
+        "en": {
+          "title": "The Hugging Tree",
+          "summary": "A very old, lonely tree in the park holds the tenderest secret in the world among its branches."
+        }
+      }
+    },
+    {
+      "id": "el-buho-dormilon",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-buho-dormilon.es.json",
+        "en": "stories/el-buho-dormilon.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 6,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "dormir"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "búho",
+        "hora de dormir",
+        "mamá e hijo",
+        "bosque",
+        "calma"
+      ],
+      "premium": false,
+      "preload": [
+        "music/lullaby_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El búho dormilón",
+          "summary": "Un pequeño búho no tiene sueño de noche, y su mamá le enseña un secreto muy suave para esperar la mañana."
+        },
+        "en": {
+          "title": "The Sleepy Little Owl",
+          "summary": "A little owl isn't sleepy at night, and his mama teaches him a very gentle secret for waiting until morning."
+        }
+      }
+    },
+    {
+      "id": "el-caballito-de-mar-perdido",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-caballito-de-mar-perdido.es.json",
+        "en": "stories/el-caballito-de-mar-perdido.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "aventuras"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "caballito de mar",
+        "mar",
+        "amistad",
+        "valentía",
+        "hogar"
+      ],
+      "premium": false,
+      "preload": [
+        "music/adventure_soft"
+      ],
+      "preview": {
+        "es": {
+          "title": "El caballito de mar perdido",
+          "summary": "Cuando unas burbujas juguetonas lo alejan de casa, un pequeño caballito de mar descubre que el océano está lleno de amigos dispuestos a ayudar."
+        },
+        "en": {
+          "title": "The Lost Little Seahorse",
+          "summary": "When some playful bubbles carry him far from home, a little seahorse discovers that the ocean is full of friends ready to help."
+        }
+      }
+    },
+    {
+      "id": "el-cangrejo-que-caminaba-derecho",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-cangrejo-que-caminaba-derecho.es.json",
+        "en": "stories/el-cangrejo-que-caminaba-derecho.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "risas"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "cangrejo",
+        "playa",
+        "superpoder",
+        "autoestima",
+        "amistad"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "El cangrejo que caminaba derecho",
+          "summary": "Kiko el cangrejito quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa."
+        },
+        "en": {
+          "title": "The crab who wanted to walk straight",
+          "summary": "Kiko the little crab wants to walk straight like everyone else, until he discovers that his own way of moving hides a surprise."
+        }
+      }
+    },
+    {
+      "id": "el-conejo-que-perdio-su-brinco",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-conejo-que-perdio-su-brinco.es.json",
+        "en": "stories/el-conejo-que-perdio-su-brinco.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "conejo",
+        "amistad",
+        "emociones",
+        "alegria",
+        "dormir"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El conejo que perdió su brinco",
+          "summary": "Una mañana, Tobi el conejito despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?"
+        },
+        "en": {
+          "title": "The rabbit who lost his hop",
+          "summary": "One morning, Tobi the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?"
+        }
+      }
+    },
+    {
+      "id": "el-dragoncito-de-las-nubes",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-dragoncito-de-las-nubes.es.json",
+        "en": "stories/el-dragoncito-de-las-nubes.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "mitos",
+        "aventuras"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "dragon",
+        "nubes",
+        "calor",
+        "amabilidad",
+        "dormir"
+      ],
+      "premium": false,
+      "preload": [
+        "music/adventure_soft"
+      ],
+      "preview": {
+        "es": {
+          "title": "El dragoncito de las nubes",
+          "summary": "En la montaña vive un dragón muy distinto a los demás: ¿qué saldrá de su boca cuando el pueblo más lo necesite?"
+        },
+        "en": {
+          "title": "The Little Cloud Dragon",
+          "summary": "High on the mountain lives a dragon unlike any other: what will come from his mouth when the village needs him most?"
+        }
+      }
+    },
+    {
+      "id": "el-elefante-que-no-hacia-ruido",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-elefante-que-no-hacia-ruido.es.json",
+        "en": "stories/el-elefante-que-no-hacia-ruido.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "elefante",
+        "amistad",
+        "calma"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano",
+        "ambient/forest_birds"
+      ],
+      "preview": {
+        "es": {
+          "title": "El elefante que no hacía ruido",
+          "summary": "Bruno es un elefante muy silencioso, y descubre que su calma es su regalo más bonito."
+        },
+        "en": {
+          "title": "The Elephant Who Made No Noise",
+          "summary": "Bruno is a very quiet elephant who discovers that his calm is his most beautiful gift."
+        }
+      }
+    },
+    {
+      "id": "el-erizo-que-queria-abrazar",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-erizo-que-queria-abrazar.es.json",
+        "en": "stories/el-erizo-que-queria-abrazar.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "erizo",
+        "abrazo",
+        "cariño",
+        "amistad",
+        "calma"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El erizo que quería abrazar",
+          "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer."
+        },
+        "en": {
+          "title": "The hedgehog who wanted to hug",
+          "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident."
+        }
+      }
+    },
+    {
+      "id": "el-leon-cosquilloso",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-leon-cosquilloso.es.json",
+        "en": "stories/el-leon-cosquilloso.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "risas"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "león",
+        "cosquillas",
+        "risas",
+        "amigos",
+        "sabana"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "El león cosquilloso",
+          "summary": "El rey de la sabana guarda un secreto muy divertido que aparece justo cuando intenta rugir."
+        },
+        "en": {
+          "title": "The Ticklish Lion",
+          "summary": "The king of the savanna is hiding a very funny secret that shows up right when he tries to roar."
+        }
+      }
+    },
+    {
+      "id": "el-monstruo-amistoso-de-la-cama",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-monstruo-amistoso-de-la-cama.es.json",
+        "en": "stories/el-monstruo-amistoso-de-la-cama.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "valores",
+        "dormir"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "amistad",
+        "miedo a la oscuridad",
+        "monstruos",
+        "valentia",
+        "hora de dormir"
+      ],
+      "premium": false,
+      "preload": [
+        "music/lullaby_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El monstruo amistoso de la cama",
+          "summary": "Cuando Mateo oye un ruidito debajo de su cama, descubre que el monstruo que vive alli esconde un secreto muy parecido al suyo."
+        },
+        "en": {
+          "title": "The Friendly Monster Under the Bed",
+          "summary": "When Mateo hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own."
+        }
+      }
+    },
+    {
+      "id": "el-osito-y-la-tormenta",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-osito-y-la-tormenta.es.json",
+        "en": "stories/el-osito-y-la-tormenta.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "tormenta",
+        "miedo",
+        "respirar",
+        "calma",
+        "osito"
+      ],
+      "premium": false,
+      "preload": [
+        "music/lullaby_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El osito y la tormenta",
+          "summary": "Una noche de truenos asusta al osito Bruno, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón."
+        },
+        "en": {
+          "title": "The Little Bear and the Storm",
+          "summary": "A night full of thunder frightens little Bruno the bear, until Mama Bear teaches him a secret trick to calm his heart."
+        }
+      }
+    },
+    {
+      "id": "el-pinguino-que-no-tenia-frio",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-pinguino-que-no-tenia-frio.es.json",
+        "en": "stories/el-pinguino-que-no-tenia-frio.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "risas"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "pingüino",
+        "calor",
+        "aceptarse",
+        "amistad",
+        "risas"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "El pingüino que no tenía frío",
+          "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?"
+        },
+        "en": {
+          "title": "The Penguin Who Was Never Cold",
+          "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?"
+        }
+      }
+    },
+    {
+      "id": "el-tren-de-los-suenos",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-tren-de-los-suenos.es.json",
+        "en": "stories/el-tren-de-los-suenos.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "dormir",
+        "aventuras"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "tren",
+        "sueños",
+        "noche",
+        "dormir",
+        "viaje"
+      ],
+      "premium": false,
+      "preload": [
+        "music/lullaby_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El tren de los sueños",
+          "summary": "Cada noche, un trencito mágico recoge a los niños en pijama y los lleva despacito por paisajes de sueño."
+        },
+        "en": {
+          "title": "The dream train",
+          "summary": "Every night, a magical little train picks up children in pajamas and carries them gently through dreamy landscapes."
+        }
+      }
+    },
+    {
+      "id": "estrella-fugaz-y-timida",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/estrella-fugaz-y-timida.es.json",
+        "en": "stories/estrella-fugaz-y-timida.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "espacio",
+        "dormir"
+      ],
+      "mood": "magico",
+      "music": "space_dream",
+      "tags": [
+        "estrella fugaz",
+        "valentía",
+        "deseos",
+        "dormir",
+        "cielo nocturno"
+      ],
+      "premium": false,
+      "preload": [
+        "music/space_dream"
+      ],
+      "preview": {
+        "es": {
+          "title": "Chispa, la estrella fugaz tímida",
+          "summary": "Una estrellita tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado."
+        },
+        "en": {
+          "title": "Chispa, the Shy Shooting Star",
+          "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish."
+        }
+      }
+    },
+    {
+      "id": "la-brujita-buena",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-brujita-buena.es.json",
+        "en": "stories/la-brujita-buena.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "mitos",
+        "amistad"
+      ],
+      "mood": "magico",
+      "music": "playful_flute",
+      "tags": [
+        "brujita",
+        "gato",
+        "bosque",
+        "hechizos",
+        "amistad"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "La brujita buena",
+          "summary": "Cada hechizo de la brujita Mila sale al revés, y su gato Tomás nunca sabe a quién van a terminar ayudando."
+        },
+        "en": {
+          "title": "The Good Little Witch",
+          "summary": "Every one of little witch Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping."
+        }
+      }
+    },
+    {
+      "id": "la-flor-que-cantaba",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-flor-que-cantaba.es.json",
+        "en": "stories/la-flor-que-cantaba.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "naturaleza"
+      ],
+      "mood": "magico",
+      "music": "gentle_piano",
+      "tags": [
+        "flores",
+        "jardín",
+        "timidez",
+        "amanecer",
+        "canto"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "La flor que cantaba",
+          "summary": "Una florecita demasiado tímida para cantar esconde una vocecita que quizás el jardín entero necesita escuchar."
+        },
+        "en": {
+          "title": "The Flower That Sang",
+          "summary": "A little flower far too shy to sing hides a tiny voice the whole garden just might need to hear."
+        }
+      }
+    },
+    {
+      "id": "la-gotita-que-queria-ser-mar",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-gotita-que-queria-ser-mar.es.json",
+        "en": "stories/la-gotita-que-queria-ser-mar.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "naturaleza",
+        "aventuras"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "gotita",
+        "lluvia",
+        "mar",
+        "río",
+        "naturaleza"
+      ],
+      "premium": false,
+      "preload": [
+        "music/adventure_soft"
+      ],
+      "preview": {
+        "es": {
+          "title": "La gotita que quería ser mar",
+          "summary": "Una gotita de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo."
+        },
+        "en": {
+          "title": "The Little Drop Who Wanted to Be the Sea",
+          "summary": "A little raindrop dreams of being as big as the sea and sets off on a journey to find out."
+        }
+      }
+    },
+    {
+      "id": "la-hormiga-y-la-miga-gigante",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-hormiga-y-la-miga-gigante.es.json",
+        "en": "stories/la-hormiga-y-la-miga-gigante.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "hormigas",
+        "trabajo en equipo",
+        "pedir ayuda",
+        "compartir"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "La hormiga y la miga gigante",
+          "summary": "Lupe la hormiguita encuentra una miga tan grande como su casa y está segura de que puede llevarla ella sola."
+        },
+        "en": {
+          "title": "The ant and the giant crumb",
+          "summary": "Lupe the little ant finds a crumb as big as her house and is sure she can carry it all by herself."
+        }
+      }
+    },
+    {
+      "id": "la-luna-le-canta-al-nino",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-luna-le-canta-al-nino.es.json",
+        "en": "stories/la-luna-le-canta-al-nino.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "dormir",
+        "familia"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "luna",
+        "dormir",
+        "sueños",
+        "nana",
+        "ternura"
+      ],
+      "premium": false,
+      "preload": [
+        "music/lullaby_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "La luna le canta al niño",
+          "summary": "Un niño que no quiere dormir descubre, de la mano de la luna, que cerrar los ojos es el comienzo de una aventura preciosa."
+        },
+        "en": {
+          "title": "The Moon Sings to the Boy",
+          "summary": "A boy who doesn't want to sleep discovers, with the moon by his side, that closing his eyes is the start of a beautiful adventure."
+        }
+      }
+    },
+    {
+      "id": "la-nave-de-caramelo",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-nave-de-caramelo.es.json",
+        "en": "stories/la-nave-de-caramelo.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "espacio",
+        "risas"
+      ],
+      "mood": "divertido",
+      "music": "space_dream",
+      "tags": [
+        "espacio",
+        "caramelo",
+        "estrellita",
+        "amistad",
+        "risas"
+      ],
+      "premium": false,
+      "preload": [
+        "music/space_dream"
+      ],
+      "preview": {
+        "es": {
+          "title": "La nave de caramelo",
+          "summary": "Tres amigos despegan en una nave de galletas y caramelo, y allá arriba encuentran a una estrellita que necesita su ayuda."
+        },
+        "en": {
+          "title": "The Candy Rocket",
+          "summary": "Three friends blast off in a ship made of cookies and candy, and up in space they find a little star who needs their help."
+        }
+      }
+    },
+    {
+      "id": "la-nube-que-queria-colores",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-nube-que-queria-colores.es.json",
+        "en": "stories/la-nube-que-queria-colores.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "naturaleza",
+        "risas"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "nube",
+        "colores",
+        "cielo"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "La nube que quería colores",
+          "summary": "Nube es blanca y quiere ser de colores. Un chaparrón travieso le enseña de dónde salen los arcoíris."
+        },
+        "en": {
+          "title": "The Cloud Who Wanted Colors",
+          "summary": "Cloud is white and longs to be colorful. A mischievous rain shower shows her where rainbows come from."
+        }
+      }
+    },
+    {
+      "id": "la-princesa-que-queria-ensuciarse",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-princesa-que-queria-ensuciarse.es.json",
+        "en": "stories/la-princesa-que-queria-ensuciarse.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 5,
+      "categories": [
+        "princesas",
+        "risas"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "princesa",
+        "charcos",
+        "barro",
+        "libertad",
+        "risas"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "La princesa que quería ensuciarse",
+          "summary": "Una princesa cansada de estar siempre limpia y peinada descubre en el jardín una alegría que no cabe en ningún castillo."
+        },
+        "en": {
+          "title": "The Princess Who Wanted to Get Dirty",
+          "summary": "A princess tired of always being clean and combed discovers, out in the garden, a joy that no castle can hold."
+        }
+      }
+    },
+    {
+      "id": "la-semilla-valiente",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-semilla-valiente.es.json",
+        "en": "stories/la-semilla-valiente.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 5,
+      "categories": [
+        "naturaleza",
+        "valores"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "semilla",
+        "valentía",
+        "paciencia",
+        "crecer",
+        "árbol"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "La semillita valiente",
+          "summary": "Una semillita muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?"
+        },
+        "en": {
+          "title": "The Brave Little Seed",
+          "summary": "A tiny seed is afraid of the dark under the ground… will she find the courage to grow?"
         }
       }
     }

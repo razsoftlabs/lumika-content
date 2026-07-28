@@ -1,0 +1,227 @@
+{
+  "id": "el-tesoro-del-arroyo",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Treasure by the Stream",
+  "summary": "On a rainy day, three siblings find a map their grandpa drew by hand, and at dawn they set out into the forest to discover what the X beside the stream is hiding.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "It had been raining since morning, and the rain drew little paths down the window. Mateo, Nina, and Beto had already played everything: hide-and-seek, guessing shapes in the grey clouds. There was nothing left to invent. 'We are so bored,' Nina sighed, with her cheek resting against the glass. Mum smiled as she folded the laundry and pointed at the ceiling with her chin. 'If you want something new, there are boxes up in the attic that nobody has opened in years.' The eyes of all three siblings lit up. They climbed the narrow staircase, one behind the other, and their footsteps sounded like small drums on the wood. At the top, Mateo pushed the door with his shoulder. The door opened slowly, with one long groan, and let out a smell of old paper, stored wool, and faraway rain. Beto held on to his sister's T-shirt. 'Shall we go in?' he whispered. 'We are going in,' said Mateo.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "footsteps",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "door",
+          "sfx": "door_open"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "The attic was like a whole country kept under the roof. There was a chair missing one leg, a trunk with golden buckles, a sleeping lamp, and mountains of cardboard boxes. Every time they took a step, the wood answered with a soft creak, as if the attic were waking up too. Nina found a straw hat and put it on crooked. Beto pulled out a seashell and held it against his ear to listen to the waves. Mateo uncovered a box full of black and white photos. 'Look at this one!' said Nina, lifting up a little tin soldier with one arm missing. The laughter of all three bounced between the beams. And then, at the bottom of the trunk, under a blue scarf, Mateo touched something different: a small wooden box tied shut with a string. Inside was a paper folded in four, yellow at the edges, soft as a dry leaf.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "creak",
+          "sfx": "crunch"
+        },
+        {
+          "anchor": "laughter",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "They unfolded the paper on the floor very carefully, as if it were a butterfly. It was not a map from a shop: it was drawn by hand, with a worn pencil and some colour. There were crooked pines, a bridge made of logs, and a blue line winding along: a stream. And at the end, next to one big tree, a red X with a star beside it. Underneath, in large letters, it said: 'For whoever has a brave heart. Ramon, 9 years old.' 'That is Grandpa's handwriting!' said Mateo, and his voice turned into a whisper. 'Grandpa hid a treasure when he was a boy.' Nina slid her finger along the blue line. 'That is the Singing Stream. It is behind the forest. Dad took us there once.' Beto looked at the X very seriously, with enormous eyes, and said the biggest idea of his life: 'What if we go and find it? Tomorrow.'",
+      "cues": [
+        {
+          "anchor": "star",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "whisper",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "That night, when the house went quiet, the three of them gathered in Mateo's room with a torch shining under the sheet. They packed three backpacks like real explorers: bread, three apples, a bottle of water, a ball of string, and Grandpa's map folded neatly into the front pocket. Beto also packed his cloth rabbit, because an explorer never leaves anybody behind. Nube, the house cat, sat on the pillow to keep watch and gave a tiny meow, as if asking where they were going. 'It is a secret,' Nina told him, scratching his head. 'Tomorrow we will tell you everything.' Mateo put the alarm clock under his pillow so it would ring softly and not wake anyone else. 'We leave at dawn,' he said. Beto breathed in deeply, very deeply, and climbed into bed with his boots beside him. He could hardly sleep from the excitement.",
+      "cues": [
+        {
+          "anchor": "cat",
+          "sfx": "cat_meow"
+        },
+        {
+          "anchor": "breathed",
+          "sfx": "breathe_in"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "The sky was only just turning pink when they set out. The air smelled of wet earth and everything shone with dew, as if the rain had left the world freshly washed. They left a note on the table: 'We have gone on an important mission. We will be back for lunch. We love you.' They crossed the meadow with damp boots and entered the forest along the usual path. Their footsteps made a soft little sound on the dark ground. Above them, the birds were waking up one by one: first a short whistle, then another, until the whole forest began to sing. A warm wind moved the highest branches and ruffled their hair. Beto walked in the middle, holding Nina's hand, looking at everything with his mouth open. 'Is it far?' he asked. 'It is exactly as far as it needs to be,' answered Mateo, and he looked at the map the way a captain looks at the sea.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "footsteps",
+          "sfx": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "The forest was tall and green and cool. The pines let the sun through in golden stripes, and on the ground grew ferns that reached up to their knees. Nina walked on the dry leaves just to hear them crackle. Mateo marked the way by tying little pieces of string to the branches, exactly like in adventure books. Suddenly Beto stopped and lifted up one finger. 'Listen!' Very slowly, in between the songs of the birds, another sound appeared: a cheerful splashing, a murmur that never stopped. They raced the last few metres and there it was, at the bottom of a little slope, the clear water jumping between the round stones. 'The Singing Stream,' said Nina, almost out of breath. They crouched down to wet their hands, and it was so cold that it made them laugh. Grandpa's map suddenly did not look like an old drawing any more: it looked like a promise.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "The map said that the first clue was 'where the water sits down to rest'. They searched for a good while, until Nina discovered a still little pool, shaped like a plate, where the stream calmed down and the whole sky was reflected. And there, half covered in moss, was a flat stone with a yellow sun painted on top of it. The paint was very old, worn away by many rains, but it could still be seen. 'Grandpa painted it!' shouted Mateo. On the stone sat a green frog, like a little guard. It croaked once, gave a hop, and disappeared into the water. Next to the stone, somebody had laid pebbles in a row, forming an arrow that pointed upstream. A bee buzzed past among the flowers on the bank, busy with its own business. 'This way,' said Mateo, and they followed the arrow with their hearts going thump-thump-thump from pure excitement.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "frog",
+          "sfx": "frog_croak"
+        },
+        {
+          "anchor": "bee",
+          "sfx": "bee_buzz"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "Further along, the stream grew wider and there was no bridge at all. Only some big stones, wet and slippery, poking out like the backs of turtles. 'I will go first,' said Mateo. 'Step where I step.' He went across slowly, with his arms out like a circus tightrope walker. Nina followed him, counting each stone out loud: 'one, two, three...' Beto reached the middle and stood completely still, with his nose wrinkled up. 'It is far,' he said quietly. 'I am right here,' answered Nina, and she stretched out her hand. Beto jumped, he almost made it, and his left boot landed right in a puddle. Splash! The water flew everywhere and soaked him all the way up to his ear. There was one second of silence. And then came the laughter: first Beto, then Nina, then Mateo, all three doubled over on the bank, with one boot dripping and the sun warming their backs.",
+      "cues": [
+        {
+          "anchor": "puddle",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "laughter",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "But after the stream the path split in two, and the map did not help at all: Grandpa's blue line ended in a smudge, as if the pencil had grown tired. 'It is to the left,' said Mateo. 'It is to the right,' said Nina. 'You can see the crooked pine from the drawing.' 'That pine is not crooked, it is leaning.' 'It is the same thing!' They walked one way for a while, came back, and walked the other way. They began to talk louder than they needed to, and their words came out with sharp points on them. A cool wind came down through the trees and a cloud covered the sun. Far away, on some farm, a dog barked. Beto sat down on a root, hugging his cloth rabbit, and said nothing at all. Nobody asked him anything either, because the big ones were terribly busy arguing about who was right. And so, without noticing, all three were lost and cross.",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "dog",
+          "sfx": "bark"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "While the two big ones argued, Beto started looking at the ground, which was what he liked looking at most. And he saw something odd: between the dry leaves, the tip of a grey stone was showing, far too tidy to be an accident. He moved the leaves aside with his hand, slowly, like someone unwrapping a present. Underneath there were three stones stacked one on top of the other, and on the top one, scratched with a nail, a little sun exactly like the one down by the stream. 'Mateo,' he whispered. 'Nina.' Nobody heard him. So Beto filled his chest with air and said it with his whole voice: 'THERE IS A SUN HERE!' The two big ones turned around at the same time. They came running, crouched down, and looked. It was true. It was Grandpa's sign, waiting for them for very many years, right beside the path that neither of them had wanted to look at.",
+      "cues": [
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "whispered",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "text": "'I am sorry,' said Mateo, and his face went red. 'I was so sure of myself that I was not listening to you.' 'I did not listen either,' said Nina. 'I am sorry, Beto.' Beto shrugged his shoulders, happy, and showed them the sun on the stone one more time, just in case. From that moment on they were a real team. Mateo went in front, lifting the branches so the others could pass. Nina read the map out loud and warned everyone about the mud holes. And Beto, the one who looked at the ground, hunted for the signs: he found two more, a sun scratched on a trunk and a little heap of stones beside the water. They crossed a fallen log holding hands, singing a made-up song that went 'treasure, treasure, we are going to find you'. On the last slope all three raced up together, with their backpacks bouncing on their backs.",
+      "cues": [
+        {
+          "anchor": "raced",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "text": "And there stood the tree from the drawing: an enormous oak, with a trunk as wide as a table and a mark in the bark, an old X that the tree had slowly been hugging for years and years. 'This is the one,' said Nina, and she got goosebumps. They dug with what they had: a spoon from the backpack, two strong sticks, and their hands. The soil was damp and smelled of roots and mushrooms. They worked in turns, puffing and laughing, with muddy knees. After a while, Mateo's stick hit something hard and made a dry thud, different from everything else. 'Did you hear that?' They dug faster. A corner appeared, then a rusty edge, then a whole lid. It was a tin box the size of a book. Mateo lifted it up with both hands, and the tin creaked as if it were yawning after a very long nap.",
+      "cues": [
+        {
+          "anchor": "thud",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "creaked",
+          "sfx": "crunch"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "text": "They sat down in a circle, with the box in the middle, and the three of them opened it together. There were no gold coins. There were no necklaces and no diamonds. There was a black and white photo of a skinny boy with a fishing rod and, on the back, written in pencil: 'Ramon and the fish that got away'. There was a blue marble that seemed to have a sea inside it. A wooden whistle. A drawing of a dog with the word 'Tuco'. An owl feather. And a folded little note that said: 'If you found this, you are already a bit of an adventurer. Take care of it.' Nina read the note twice and her eyes filled with tears, but the good kind. A surprised laugh escaped from Mateo. 'Grandpa was... like us,' said Beto, holding the marble up to the evening light. A soft wind moved the leaves of the oak, as if somebody agreed.",
+      "cues": [
+        {
+          "anchor": "laugh",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "text": "They came back when the sun was already going to bed and the forest was turning blue. On a high branch, an owl greeted them with two round notes: hoo, hoo. Beto answered in exactly the same way, and the owl answered him again. At home, Mum was waiting with a 'we will talk about this later' face and the table already set. But Grandpa Ramon was in his chair on the porch, with a blanket over his legs, and when the door opened and he saw the tin box in Beto's hands, he had no words left. 'It cannot be,' he said very quietly. 'I buried that when I was nine years old.' He picked up the blue marble and his eyes wrinkled up from smiling so much. Then he told them, one by one, about all his treasures: the fish that got away, the whistle he made with his father, and Tuco, who slept at the foot of his bed.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "owl",
+          "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "door",
+          "sfx": "door_open"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "text": "That night, after the bath and the soup, the three of them lay down with their cheeks warm from sun and adventure. The tin box stayed open on the bedside table, with the blue marble on top of everything. Through the window came the moon, round and calm, and its silver light drew a little path on the floor. 'I thought the treasure was going to be coins,' said Beto, in a sleepy voice. 'This was better,' said Nina. 'It was Grandpa when he was a boy.' Mateo thought for a little while and then said the last true thing of the day: 'The treasure was the whole day. And the three of us.' Nube, the cat, settled at the foot of the bed and began to purr slowly. Outside, very far away, the stream went on singing its same old song. And before the moon reached the wall, all three were already fast asleep.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1785205604051,
-  "publishedAt": "2026-07-28T02:26:44.051Z",
+  "manifestVersion": 1785254969490,
+  "publishedAt": "2026-07-28T16:09:29.490Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
     "en",
@@ -892,6 +892,49 @@
       }
     },
     {
+      "id": "el-dinosaurio-que-guardaba-un-huevo",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-dinosaurio-que-guardaba-un-huevo.es.json",
+        "en": "stories/el-dinosaurio-que-guardaba-un-huevo.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 15,
+      "categories": [
+        "dinosaurios",
+        "valores"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "dinosaurios",
+        "cuidar",
+        "valentía",
+        "familia",
+        "huevo"
+      ],
+      "premium": false,
+      "preload": [
+        "music/adventure_soft"
+      ],
+      "preview": {
+        "es": {
+          "title": "El dinosaurio que guardaba un huevo",
+          "summary": "Tobi encuentra un huevo solito junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda."
+        },
+        "en": {
+          "title": "The Dinosaur Who Kept an Egg",
+          "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can."
+        }
+      }
+    },
+    {
       "id": "el-dragoncito-de-las-nubes",
       "version": 1,
       "locales": [
@@ -1016,6 +1059,135 @@
         "en": {
           "title": "The hedgehog who wanted to hug",
           "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident."
+        }
+      }
+    },
+    {
+      "id": "el-faro-que-guiaba-ballenas",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-faro-que-guiaba-ballenas.es.json",
+        "en": "stories/el-faro-que-guiaba-ballenas.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 10,
+      "categories": [
+        "animales",
+        "naturaleza"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "faro",
+        "ballenas",
+        "abuelos",
+        "mar",
+        "oficios"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El faro que guiaba ballenas",
+          "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo, hasta que una noche de niebla descubre quién espera su luz."
+        },
+        "en": {
+          "title": "The Lighthouse That Guided Whales",
+          "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light."
+        }
+      }
+    },
+    {
+      "id": "el-gato-que-cruzo-la-ciudad",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-gato-que-cruzo-la-ciudad.es.json",
+        "en": "stories/el-gato-que-cruzo-la-ciudad.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 10,
+      "categories": [
+        "animales",
+        "aventuras"
+      ],
+      "mood": "aventura",
+      "music": "playful_flute",
+      "tags": [
+        "gatos",
+        "ciudad",
+        "valentía",
+        "volver a casa",
+        "olfato"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "El gato que cruzó la ciudad",
+          "summary": "Michi se sube por curiosidad a un camión azul y despierta al otro lado de la ciudad, muy lejos de la ventana donde siempre lo esperan."
+        },
+        "en": {
+          "title": "The Cat Who Crossed the City",
+          "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting."
+        }
+      }
+    },
+    {
+      "id": "el-jardin-secreto-de-la-abuela",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-jardin-secreto-de-la-abuela.es.json",
+        "en": "stories/el-jardin-secreto-de-la-abuela.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 10,
+      "categories": [
+        "familia",
+        "naturaleza"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "abuela",
+        "jardin",
+        "paciencia",
+        "verano",
+        "hermanos"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "El jardín secreto de la abuela",
+          "summary": "Dos hermanos llegan aburridos a pasar el verano en el campo, hasta que el viento mueve la hiedra y aparece una puertecita azul que llevaba años esperándolos."
+        },
+        "en": {
+          "title": "Grandma's Secret Garden",
+          "summary": "Two bored siblings arrive to spend the summer in the countryside, until the wind moves the ivy and a little blue door appears that has been waiting for them for years."
         }
       }
     },
@@ -1149,6 +1321,49 @@
       }
     },
     {
+      "id": "el-oso-que-no-queria-hibernar",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-oso-que-no-queria-hibernar.es.json",
+        "en": "stories/el-oso-que-no-queria-hibernar.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 10,
+      "categories": [
+        "animales",
+        "risas"
+      ],
+      "mood": "divertido",
+      "music": "playful_flute",
+      "tags": [
+        "oso",
+        "invierno",
+        "nieve",
+        "amistad",
+        "descanso"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute"
+      ],
+      "preview": {
+        "es": {
+          "title": "El oso que no queria hibernar",
+          "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos."
+        },
+        "en": {
+          "title": "The Bear Who Didn't Want to Hibernate",
+          "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes."
+        }
+      }
+    },
+    {
       "id": "el-pinguino-que-no-tenia-frio",
       "version": 1,
       "locales": [
@@ -1188,6 +1403,49 @@
         "en": {
           "title": "The Penguin Who Was Never Cold",
           "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?"
+        }
+      }
+    },
+    {
+      "id": "el-tesoro-del-arroyo",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-tesoro-del-arroyo.es.json",
+        "en": "stories/el-tesoro-del-arroyo.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 15,
+      "categories": [
+        "aventuras",
+        "familia"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "hermanos",
+        "mapa",
+        "abuelo",
+        "bosque",
+        "tesoro"
+      ],
+      "premium": false,
+      "preload": [
+        "music/adventure_soft"
+      ],
+      "preview": {
+        "es": {
+          "title": "El tesoro del arroyo",
+          "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa dibujado a mano por su abuelo, y al amanecer salen al bosque a descubrir qué esconde la X junto al arroyo."
+        },
+        "en": {
+          "title": "The Treasure by the Stream",
+          "summary": "On a rainy day, three siblings find a map their grandpa drew by hand, and at dawn they set out into the forest to discover what the X beside the stream is hiding."
         }
       }
     },
@@ -1278,6 +1536,49 @@
       }
     },
     {
+      "id": "la-biblioteca-de-medianoche",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-biblioteca-de-medianoche.es.json",
+        "en": "stories/la-biblioteca-de-medianoche.en.json"
+      },
+      "cover": null,
+      "ageMin": 5,
+      "ageMax": 8,
+      "durationMin": 15,
+      "categories": [
+        "mitos",
+        "aventuras"
+      ],
+      "mood": "magico",
+      "music": "space_dream",
+      "tags": [
+        "biblioteca",
+        "libros",
+        "magia",
+        "amistad",
+        "imaginacion"
+      ],
+      "premium": false,
+      "preload": [
+        "music/space_dream"
+      ],
+      "preview": {
+        "es": {
+          "title": "La biblioteca de medianoche",
+          "summary": "Tomás se queda encerrado sin querer en la biblioteca del pueblo y descubre que, cuando el reloj da las doce, los libros no se quedan quietos."
+        },
+        "en": {
+          "title": "The Midnight Library",
+          "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still."
+        }
+      }
+    },
+    {
       "id": "la-brujita-buena",
       "version": 1,
       "locales": [
@@ -1317,6 +1618,49 @@
         "en": {
           "title": "The Good Little Witch",
           "summary": "Every one of little witch Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping."
+        }
+      }
+    },
+    {
+      "id": "la-carrera-de-los-farolillos",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-carrera-de-los-farolillos.es.json",
+        "en": "stories/la-carrera-de-los-farolillos.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 10,
+      "categories": [
+        "aventuras",
+        "amistad"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "farolillos",
+        "montaña",
+        "amistad",
+        "carrera",
+        "compartir"
+      ],
+      "premium": false,
+      "preload": [
+        "music/adventure_soft"
+      ],
+      "preview": {
+        "es": {
+          "title": "La carrera de los farolillos",
+          "summary": "En un pueblo de montaña, dos amigos rivales suben el sendero con sus farolillos de papel, sin saber que esta noche la carrera va a cambiar de reglas."
+        },
+        "en": {
+          "title": "The Lantern Race",
+          "summary": "In a mountain village, two rival friends climb the path with their paper lanterns, not knowing that tonight the race is going to change its rules."
         }
       }
     },
@@ -1448,6 +1792,49 @@
       }
     },
     {
+      "id": "la-luciernaga-que-perdio-su-luz",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-luciernaga-que-perdio-su-luz.es.json",
+        "en": "stories/la-luciernaga-que-perdio-su-luz.en.json"
+      },
+      "cover": null,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 10,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "luciérnaga",
+        "bosque",
+        "ayudar",
+        "autoestima",
+        "amistad"
+      ],
+      "premium": false,
+      "preload": [
+        "music/lullaby_piano"
+      ],
+      "preview": {
+        "es": {
+          "title": "La luciérnaga que perdió su luz",
+          "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la lucecita de Lumi no quiere encender."
+        },
+        "en": {
+          "title": "The Firefly Who Lost Her Light",
+          "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on."
+        }
+      }
+    },
+    {
       "id": "la-luna-le-canta-al-nino",
       "version": 1,
       "locales": [
@@ -1534,6 +1921,49 @@
       }
     },
     {
+      "id": "la-noche-que-nevo-en-el-desierto",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-noche-que-nevo-en-el-desierto.es.json",
+        "en": "stories/la-noche-que-nevo-en-el-desierto.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 15,
+      "categories": [
+        "naturaleza",
+        "familia"
+      ],
+      "mood": "magico",
+      "music": "space_dream",
+      "tags": [
+        "nieve",
+        "desierto",
+        "abuelo",
+        "recuerdos",
+        "pueblo"
+      ],
+      "premium": false,
+      "preload": [
+        "music/space_dream"
+      ],
+      "preview": {
+        "es": {
+          "title": "La noche que nevó en el desierto",
+          "summary": "En un pueblo donde nunca ha nevado, Amira sueña con ver la nieve de verdad… y una tarde de invierno el viento cambia de lado."
+        },
+        "en": {
+          "title": "The Night It Snowed in the Desert",
+          "summary": "In a village where it has never snowed, Amira dreams of seeing real snow… and one winter afternoon the wind changes sides."
+        }
+      }
+    },
+    {
       "id": "la-nube-que-queria-colores",
       "version": 1,
       "locales": [
@@ -1571,6 +2001,49 @@
         "en": {
           "title": "The Cloud Who Wanted Colors",
           "summary": "Cloud is white and longs to be colorful. A mischievous rain shower shows her where rainbows come from."
+        }
+      }
+    },
+    {
+      "id": "la-princesa-ingeniera",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-princesa-ingeniera.es.json",
+        "en": "stories/la-princesa-ingeniera.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 15,
+      "categories": [
+        "princesas",
+        "valores"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "princesas",
+        "inventos",
+        "perseverancia",
+        "agua",
+        "trabajo en equipo"
+      ],
+      "premium": false,
+      "preload": [
+        "music/adventure_soft"
+      ],
+      "preview": {
+        "es": {
+          "title": "La princesa ingeniera",
+          "summary": "Cuando el río del reino se seca y nadie quiere escuchar a una princesa que construye máquinas, Mirena decide subir sola a la montaña con su cuaderno."
+        },
+        "en": {
+          "title": "The Engineer Princess",
+          "summary": "When the kingdom's river dries up and nobody will listen to a princess who builds machines, Mirena decides to ride up the mountain alone with her notebook."
         }
       }
     },
@@ -1657,6 +2130,49 @@
         "en": {
           "title": "The Brave Little Seed",
           "summary": "A tiny seed is afraid of the dark under the ground… will she find the courage to grow?"
+        }
+      }
+    },
+    {
+      "id": "mision-a-la-luna-de-hielo",
+      "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/mision-a-la-luna-de-hielo.es.json",
+        "en": "stories/mision-a-la-luna-de-hielo.en.json"
+      },
+      "cover": null,
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 15,
+      "categories": [
+        "espacio",
+        "aventuras"
+      ],
+      "mood": "aventura",
+      "music": "space_dream",
+      "tags": [
+        "espacio",
+        "cohete",
+        "robot",
+        "hielo",
+        "valentía"
+      ],
+      "premium": false,
+      "preload": [
+        "music/space_dream"
+      ],
+      "preview": {
+        "es": {
+          "title": "Misión a la luna de hielo",
+          "summary": "Una niña astronauta y su robot viajan hasta una luna de hielo para averiguar de dónde viene un sonido lejano y suavísimo."
+        },
+        "en": {
+          "title": "Mission to the Ice Moon",
+          "summary": "A young astronaut and her robot travel all the way to an ice moon to find out where a faraway, very gentle sound is coming from."
         }
       }
     }

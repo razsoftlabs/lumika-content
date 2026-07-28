@@ -1,0 +1,244 @@
+{
+  "id": "la-princesa-ingeniera",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Engineer Princess",
+  "summary": "When the kingdom's river dries up and nobody will listen to a princess who builds machines, Mirena decides to ride up the mountain alone with her notebook.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "In the tallest tower of Vallehondo castle there was a tiny door, hidden behind a tapestry of flowers, and almost nobody in the kingdom knew it was there. Behind that door was the secret workshop of Princess Mirena. It smelled of freshly cut wood, of warm oil, and of the honey bread she carried up in her pockets. Wheels, ropes and pulleys hung from the walls, and on the table stood jars of screws sorted by size, from the smallest to the biggest. Every night, when the castle went quiet, Mirena climbed the eighty-two stone steps with her notebook under her arm. Her cat Tuerca padded along behind her, tail held high, and settled right on top of the drawings as if he owned the workshop. An owl watched her from the window ledge. Mirena lit her candle, took a deep breath and began to invent.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "door",
+          "sfx": "door_open"
+        },
+        {
+          "anchor": "cat",
+          "sfx": "cat_meow",
+          "delayMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Mirena's inventions were odd and cheerful. There was a windmill the size of a hat that fanned hot soup. There was a clock that let out little wooden birds instead of ringing bells. And in the garden stood her favourite: Waterer One, a machine of bamboo and string that carried water from the well to the flowerpots, drop by drop, without wasting a single one. She had repaired it eleven times. The twelfth time it worked. She sat on the grass to watch the wet leaves shine while a fat bee circled round the rosemary. \"You see, Tuerca?\" she said. \"Things don't work the first time. They work the twelfth.\" The gardener, old Emilio, took off his hat and smiled. He was the only grown-up who ever asked her for advice. \"Princess,\" he said, \"you have a builder's hands.\" Mirena kept that sentence the way you keep a treasure.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "bee",
+          "sfx": "bee_buzz",
+          "delayMs": 300
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "One morning Mirena carried Waterer One down to the throne room, holding it in both arms. King Aurelio, her father, was signing papers. The courtiers were chatting among themselves about banquets and new hats. Mirena set her machine down on the carpet and explained, with her ears turning red, how the water climbed up and came down again all by itself. There was a long silence. Then the chamberlain Bruno leaned over and said, in a whisper that everybody heard, \"Very pretty, Princess. Perfect for playing.\" Someone remarked that princesses should not get oil on their hands. The king kissed her forehead and went back to his papers. One by one, the footsteps of the court moved away down the marble hallway, until Mirena was left alone with her invention and the echo. She picked up the Waterer slowly, said nothing at all, and climbed back up to the tower.",
+      "cues": [
+        {
+          "anchor": "whisper",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "footsteps",
+          "sfx": "footsteps",
+          "delayMs": 300
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "That summer it did not rain. It did not rain the next month either. The sky turned a hard blue, without a single cloud, and the sun heated the courtyard stones until they burned bare feet. A dry wind came in through the castle windows and rattled the curtains like tired flags. On the roads, the leaves of the almond trees crunched underfoot, brown and brittle. The birds stopped singing at midday because it was far too hot. From her window, Mirena watched the valley change colour: first green, then yellow, then almost grey. People began to look up at the sky many times a day, hands shading their eyes, waiting. \"It will rain tomorrow,\" they said at the market. And tomorrow came, and it did not rain. Mirena wrote down the date of every rainless day in her notebook. The list grew very, very long.",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle",
+          "delayMs": 300
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "One Sunday, Mirena rode down to the river on her mare Almendra. The Singing River had always made noise: that was how it got its name. But that day it made none at all. Where running water used to be there were white stones, dry and hot, and a bed of mud cracked into little pieces like biscuits. In one bend a last puddle remained, small and cloudy, no bigger than a plate. At its edge a thin frog waited without moving, as if asking what had happened. Mirena crouched and touched the mud with two fingers. It was warm. She looked up at White Head Mountain, high above, where the river was born, and felt something in her chest: not fear, a question. If the water no longer came down its old path, perhaps somebody could build it a new one. She put a river stone in her pocket and rode home thinking.",
+      "cues": [
+        {
+          "anchor": "puddle",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "frog",
+          "sfx": "frog_croak",
+          "delayMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "The weeks that followed were thin ones. With no water, the wheat stayed small and the tomatoes never grew fat. At the market there was more table than fruit on the stalls. Timoteo the baker opened for half an hour a day and sold small loaves, one for each family. The road was so hard that every step made a dry crunch. A skinny dog slept in the shade of the empty fountain. Mirena saw Nico, a boy from the village, break his crust into three pieces to share it: one for his little sister, one for himself and one for the dog. That night, up in the tower, she could not draw. She sat with the candle burning, looking at the river stone on her table. Tuerca climbed into her lap. \"It isn't that there is no water,\" she thought. \"It's that the water is up there and we are down here.\"",
+      "cues": [
+        {
+          "anchor": "dog",
+          "sfx": "bark"
+        },
+        {
+          "anchor": "crunch",
+          "sfx": "crunch",
+          "delayMs": 300
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "The next morning Mirena walked into the hall with a roll of paper almost as tall as she was. She unrolled it on the long table and put the river stone on top so it would not curl shut. \"It is called an aqueduct,\" she said in a clear voice. \"A channel of stone and wood that comes down from the spring on White Head all the way to the valley. Water doesn't need pushing: it only needs a gentle slope and patience.\" There were three seconds of silence. Then chamberlain Bruno laughed so hard that his moustache wobbled, and others joined in. \"Princess, that is a giant toy.\" \"Channels are built by engineers, not by little girls.\" The king, uncomfortable, said, \"We'll talk later, daughter.\" Mirena rolled up her plan, walked out and closed the door carefully. On the other side she had to breathe slowly, very slowly, so that no tear would fall.",
+      "cues": [
+        {
+          "anchor": "door",
+          "sfx": "door_open"
+        },
+        {
+          "anchor": "breathe",
+          "sfx": "breathe_in",
+          "delayMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "Nobody saw her leave. Mirena left a note on her pillow: \"I am going to measure the mountain. Back soon. I love you.\" Into the saddlebags went her notebook, three pencils, a rope with a knot every metre, bread, cheese and a blanket. In went her cat Tuerca too, who poked his head out of the opening like a captain on his ship. Almendra walked calmly and the footsteps of her hooves sounded on the dirt road: tap, tap, tap. They climbed up among oaks and rosemary. The air up there was cooler and smelled of grass and resin. In the middle of the afternoon Mirena looked back and saw her castle grown tiny, the size of a toy, with the yellow valley all around it. She was frightened for a little while. Then she took out her notebook, wrote \"Day one\" and kept climbing, because big things always start with a day one.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "footsteps",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "cat",
+          "sfx": "cat_meow",
+          "delayMs": 300
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "The spring was hidden between two grey rocks, higher up than the goats ever went. Mirena heard it before she saw it: a thread of water slipping out of the stone, cool and so clear that you could see the grains of sand dancing at the bottom. Where it fell it made tiny bubbles that rose and broke without a sound. Mirena put her hands in and laughed out loud from pure relief. \"There you are,\" she told it. \"You never left. You just stayed up here.\" She took out her knotted rope and measured: the width of the flow, the height of the rock, the distance to the first pine. She wrote every number in her notebook in tidy letters. Then she drew the shape of the hillside, with its curves and its humps, the way you would draw the back of a sleeping giant. Tuerca chased butterflies. The mountain let her work, in silence.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "bubbles",
+          "sfx": "bubbles",
+          "delayMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "She stayed five days. She slept in a shallow cave, with her blanket and the warmth of Tuerca on her feet. By day she measured and walked the hillside up and down, hunting for the right slope: if the channel dropped too much, the water would race and jump out; if it dropped too little, the water would stand still. One finger of fall for every three steps. That is what she wrote, and she tested it twenty times with a plank, a little water and a great deal of patience. At night, beside a small fire, she added and subtracted by the light of the moon. She counted how many stones, how many logs and how many hands it would take. Above her there were so many stars that they looked like breadcrumbs on a dark tablecloth. \"Eight hundred and thirty steps of channel,\" she said aloud on the fifth day, her voice rusty from not speaking. \"It can be done.\"",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "stars",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "moon",
+          "sfx": "twinkle",
+          "delayMs": 300
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "text": "She was coming down on the sixth day by a narrow shortcut when the mountain shifted, just a little. First there was a small sound high above, like somebody walking on rice. Then a dull thud, and stones the size of melons began to roll down the slope. Almendra backed up and pulled at the reins just in time; Mirena pressed herself against the rock wall, with Tuerca safe inside the saddlebag, and shut her eyes. It passed quickly. When the dust settled, all three of them were whole and well, with their hearts knocking hard. But the notebook had flown out of the open bag, and a long wind carried the pages down the slope, far away, to the bottom of the ravine where nobody could climb. Mirena watched them go, one by one, white as doves. Five days of work. She sat down on a stone and yes, that time she cried.",
+      "cues": [
+        {
+          "anchor": "thud",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft",
+          "delayMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "text": "She cried for a short while. Then she dried her face on her sleeve and searched the saddlebag: one pencil was left, and the back of the kingdom's old map, blank. \"The numbers didn't fall,\" she said in a whisper. \"The numbers are in here.\" She spread the map over her knees and began again, slowly: the spring rock, the two pines, the hump, the elbow of the path, one finger of fall for every three steps, eight hundred and thirty steps of channel. Whenever she got stuck, she closed her eyes and walked the hillside again in her memory, the way you remember the road to your grandmother's house. Her cat Tuerca sat beside her, watching the pencil. When the sun came up, the new plan was finished: a little crooked and completely true. Mirena rolled it up and climbed onto Almendra.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "whisper",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "cat",
+          "sfx": "cat_meow",
+          "delayMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "text": "In the village square, Mirena unrolled her plan on the rim of the empty fountain and began to explain it out loud, to nobody in particular. Timoteo the baker stopped to listen. Then Mrs Rosa, who made roof tiles. Then Nico and his little sister. Footsteps kept arriving through the narrow streets: the blacksmith, the sisters from the mill, the shepherd with his dogs, the schoolteacher, eighteen neighbours, forty, almost the whole village. \"Explain it again, Princess,\" the blacksmith asked, \"but slower.\" Mirena explained it three times. Someone brought well water for everybody. Someone else brought a board and a piece of charcoal for drawing. The children measured the square with the knotted rope, in fits of laughter, and they measured the shepherd too, and the dog. \"We have hands,\" said Mrs Rosa. \"You have the plan. Let's start tomorrow.\"",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "footsteps",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "laughter",
+          "sfx": "giggle",
+          "delayMs": 300
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "text": "They worked for thirty-one days. The stonecutters split rock; the carpenters built wooden troughs; the children carried water and messages back and forth. Mirena went up and down the hillside with her plan, checking the slope with a level she had made herself out of a little tube. \"One finger lower here,\" she would say. \"One finger higher here.\" They sang to keep the rhythm. At sunset on the thirty-first day everybody climbed up to the spring and lifted away the last stone blocking the mouth of the channel. The water hesitated for one second. Then in it went, bright and determined, and down the channel it came, making a sound nobody in the valley had heard for months. It reached the fountain in the square and jumped. People shouted, hugged and splashed their faces. And a little while later, on the new bank, a frog began to sing.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "frog",
+          "sfx": "frog_croak",
+          "delayMs": 500
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "text": "King Aurelio came down to the valley to see the water running and stood watching it a long time without saying anything. Then he crouched, wet his hand and pressed it to his forehead. \"Daughter,\" he said, \"I was signing papers while you were measuring the mountain. Forgive me.\" Chamberlain Bruno, very red in the face, asked whether he might carry the princess's notebook whenever she needed him to. Mirena said yes, and also that he should call her engineer. That night there was bread again, big bread, the crusty kind. Late on, Mirena climbed up to her tower. She invented nothing. She put the rolled plan back in its place, blew out the candle and lay down with the window open, so she could hear the little thread of water far below. The moon came slowly across her blanket. Tuerca settled on her feet with a tiny snore. And the engineer princess fell asleep, at last, in peace.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "snore",
+          "sfx": "snore_soft",
+          "delayMs": 600
+        }
+      ]
+    }
+  ]
+}

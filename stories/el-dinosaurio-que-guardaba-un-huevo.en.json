@@ -1,0 +1,220 @@
+{
+  "id": "el-dinosaurio-que-guardaba-un-huevo",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 1,
+  "title": "The Dinosaur Who Kept an Egg",
+  "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "In a wide green valley, where the sun rose slowly from behind the mountains, there lived a young dinosaur named Tobi. Tobi was not big yet: his neck barely reached the lowest branches, and his feet made a soft padded sound as he walked on the wet grass. Every morning he did the very same things, and he liked it that way. First he drank cool water at the edge of the river. Then he chewed tender ferns, the greenest ones, the ones that tasted like rain. After that he scratched his back on the rough trunk of an enormous tree and listened to the leaves moving up above, as if they were clapping. At the end of the day he lay down in his nest of branches and counted stars until he fell asleep. Tobi was happy in his quiet routine. But that morning, without knowing it yet, he was going to find something that would change all of his days.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "river",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "That morning, Tobi walked a little farther than usual, following the sound of the water. The stream sparkled between the pebbles and tickled his feet. Suddenly, between two wet rocks, he saw something that was not a stone. It was round, the color of sand, with tiny brown speckles. It was an egg. Tobi brought his nose close and smelled it: it smelled of moss, of river, and of something warm. He looked one way. He looked the other way. Nobody was there. No mother, no father, not a single footprint. Only the egg, all alone, in a little hollow of damp earth. Tobi stood very still, so still that even the dragonflies came near him. And then he heard a tiny whisper, so soft that it could have been the breeze. But Tobi knew, deep down in his tummy, that inside that egg somebody was waiting.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "whisper",
+          "sfx": "whisper",
+          "delayMs": 200
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Tobi sat down to wait. He waited while the sun climbed up the sky. He waited while a blue dragonfly landed on his tail. He waited so long that his tummy rumbled three times. But nobody came for the egg. No voice, no shadow, nothing. The wind moved the reeds and the sky turned a little bit grey. 'If night comes, it will get cold,' thought Tobi. 'And if the water rises, it will be carried away.' So he did something very brave. With his nose he pushed soft earth all around the egg. Then he lifted it with both front feet, slowly, the way you lift a soap bubble. He held it against his chest and felt its weight, round and warm. His steps back home were the slowest, most careful ones of his whole life. 'I won't leave you alone,' he promised quietly. 'I will take care of you.'",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "steps",
+          "sfx": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "When Tobi reached the clearing where the herd slept, everyone lifted their heads. Cresta and Roco, the two noisiest youngsters in the valley, came over to look. 'An egg,' said Roco. And then a laugh slipped right out of him. 'Tobi, you don't know how to take care of eggs. You barely know how to chew ferns!' 'It will get cold,' said Cresta. 'Or it will break. Eggs are for mothers.' Tobi felt his ears go warm. But he hugged the egg a little tighter and settled it in his nest, among dry leaves. Grandmother Duna, the oldest one in the valley, came over slowly. She did not laugh. She only looked at the egg, then looked at Tobi, and said in her soft stone voice: 'Nobody knows how to care, little one. Caring is learned. And it is learned by caring.' That night, Tobi slept with the egg tucked against his side.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "laugh",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "The next day, Tobi began to learn. First he tried leaving the egg in the sun, but the sun kept moving and the egg ended up in the shade, cold as a stone from the stream. Then he tried covering it with dry leaves, but the air blew them all away. A little knot came into his throat. So Grandmother Duna taught him the secret: 'Look closely. Leaves underneath, warm earth at the sides, and your own body on top. And breathe slowly, like this, so the egg can learn your rhythm.' Tobi breathed in deeply, very deeply, and felt the egg rise and fall along with his chest. He learned to turn it every so often, with enormous care, so that it warmed on every side. He learned to listen. And one afternoon, with his ear pressed to the shell, he heard a thin little crack. Tobi smiled so wide that his eyes shone.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "breathe",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "crack",
+          "sfx": "crunch"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "From then on, the egg was the center of all of Tobi's days. In the morning he told it where the tastiest ferns were growing. At noon he fanned it with his tail when the heat pressed down. In the afternoon he sang to it, in a rough out-of-tune whisper, the only song he knew: a song without words that sounded like water running over pebbles. 'You will come out soon,' he told it. 'And when you do, I'll show you the whole valley.' One night, while the fireflies were lighting their little lamps, Tobi felt something new. A tap. Very soft, from the inside, as if somebody were knocking on a tiny door. Tobi forgot to breathe. 'Is that you?' he asked. And the egg moved again, just the smallest bit. Tobi fixed the leaves, curled himself around it, and hardly slept at all from the excitement.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "whisper",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "tap",
+          "sfx": "thud",
+          "delayMs": 150
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "That week the sky turned dark and fat with clouds. First came big separate drops, plip, plip, on the leaves of the tree. Then the rain let go all at once. The wind pushed the water sideways and Tobi's nest began to fill with little puddles. Thunder rolled across the sky, long and deep, like a faraway drum. Tobi felt afraid, a small cold kind of afraid right at the tip of his tail. But he remembered the little knock from inside the egg, and his fear became smaller than his courage. He lay down over the nest, folded his legs, stretched his neck and made a roof out of his own body. The egg stayed underneath, dry and warm, in the little cave that his tummy made. All night long the rain fell on Tobi's back. And all night long Tobi stayed still, soaked and happy, taking care.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "thunder",
+          "sfx": "thunder"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "When the sun came up, the valley was not the same anymore. The river had stretched all the way to the clearing, and the water walked among the ferns as if it owned everything. The flowers were underneath it. The rough tree had its roots buried in it. Grandmother Duna smelled the air and said, very seriously: 'It is going to keep rising. We have to leave today. We are going to the high tablelands, where the river cannot reach.' The herd formed a line. Cresta and Roco went in front, taking quick steps and splashing in the mud. Tobi stayed behind for a moment, looking at his nest, which was now a tiny island in the middle of it all. Very carefully he lifted the egg and settled it in the hollow of his chest, between his front legs. 'We're going on a journey,' he told it. 'Hold on tight, even if you don't have hands.'",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "water",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "steps",
+          "sfx": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "They walked all day long. Tobi learned a whole new way of moving: setting down one foot and then the other, without jolting at all, as if he were carrying water in a leaf. When there was a root in the path, he crossed it ever so slowly. When there was mud, he went around it. When he grew tired, he stopped and took a deep breath. Cresta shouted from up ahead: 'Hurry up, Tobi! You are slower than a sleepy snail!' Tobi did not answer a word. He was counting his own steps so he would not lose his rhythm. At sunset, the wind carried the smell of dry earth and the path began to climb. The ferns grew small. The stones grew enormous. Ahead, between two walls of very high rock, a narrow twisting passage opened up. Grandmother Duna stopped and said: 'That is the canyon. The tablelands are on the other side. But we must go through one at a time.'",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "steps",
+          "sfx": "footsteps"
+        },
+        {
+          "anchor": "wind",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "The canyon was narrow, like a hallway made of stone. Far, far above there was a thin line of sky. Below, the ground was covered with loose pebbles that made a dry crunch under his feet. The wind went whistling between the rocks and sounded like a crowd of tiny voices all talking at once. Tobi went in last. He carried the egg pressed against his chest, so close that he could feel his own heartbeat bouncing on the shell. 'One,' he said to himself. 'Two. Three.' One step for every number, without hurrying even a little. Sometimes the pebbles shifted by themselves and Tobi stood perfectly still until everything stopped rattling. Halfway through, his eyes closed for a second out of pure tiredness. 'Almost there,' he whispered. 'Nearly, nearly.' On the other side he could see a wide golden light, like a promise waiting for him.",
+      "cues": [
+        {
+          "anchor": "crunch",
+          "sfx": "crunch"
+        },
+        {
+          "anchor": "wind",
+          "sfx": "wind_high"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "text": "And then it happened. A big stone came loose under his right foot and Tobi slipped. He fell on his side with a dull thud and the egg flew out of his chest. Tobi saw it all very slowly: the egg in the air, the egg touching the ground, the egg rolling toward a dark crack. His heart gave such a hard jump that it hurt. He got up as best he could and ran, even though his knee was scraped, even though there was dust in his eyes. He stretched his neck, stretched it more, stretched as far as he possibly could, and with the tip of his nose he stopped the egg just before the edge. He stayed there, trembling, breathing hard. Then he hugged it with both feet and said in a wobbly little voice: 'Sorry. Sorry, sorry. I will never let go of you again.' And the egg, warm as ever, answered with a soft little knock, as if to say: 'It's all right.'",
+      "cues": [
+        {
+          "anchor": "thud",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "ran",
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "text": "On the other side of the canyon, the world opened up big and golden. There were wide tablelands with soft grass and low little trees full of tender buds. And up above, on a round hill, Tobi found the perfect spot: a hollow of warm earth, sheltered from the air by three big rocks, looking out over the whole new valley. He worked until night fell. He gathered dry leaves, moss and a few small feathers he found lying about, and he built the softest nest he had ever made. He set the egg in the middle and lay down all around it, curled up like a doughnut. The sky filled with little points of light. One star twinkled right above them, and the moon rose slowly, as round as another enormous egg. 'We made it,' said Tobi. 'We are home.' And for the first time in many days, he slept deeply and peacefully.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "star",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "text": "The next morning, Tobi woke up to a crack. This time it was not thin at all: it was one long crrr-ack, and then another, and the shell opened like a little window. Out came a tiny head. But it was not a long-necked head like Tobi's. It was small, with a curved beak and soft cinnamon-colored feathers, and two round eyes that looked straight into his. 'Pip,' said the baby. And Tobi's chest filled with something so big that it did not fit inside him. Cresta and Roco came running over and a mocking laugh slipped out of them. 'She isn't like us! She isn't your family, Tobi! She doesn't even eat ferns!' Tobi looked at them calmly. He lowered his nose, let the baby climb onto his head and answered: 'She is mine. I cared for her all the way from the river. Her name is Feather.'",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "crack",
+          "sfx": "crunch"
+        },
+        {
+          "anchor": "laugh",
+          "sfx": "giggle"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "text": "Over the days that followed, Tobi learned everything all over again, right from the beginning. He learned that Feather did not eat ferns: she ate little seeds and tiny bugs, and he helped her look for them among the leaves. He learned that Feather liked to sleep on top of his neck, and that she made a small sound rather like a snore. He learned that he loved her just the same, exactly the same, even though they looked nothing alike. Grandmother Duna watched them from far away and smiled. One evening she said to Tobi: 'Family is not only the ones who look like you. Family is the ones who stay.' That night, in the nest on the hill, Feather settled into the warm little hollow of Tobi's neck. Outside, the air passed softly and the moon lit the tablelands with silver. Tobi breathed slowly, very slowly, just as he had when he was caring for the egg. And so, snuggled close and warm, the two of them fell asleep.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "snore",
+          "sfx": "snore_soft"
+        },
+        {
+          "anchor": "moon",
+          "sfx": "twinkle"
+        }
+      ]
+    }
+  ]
+}

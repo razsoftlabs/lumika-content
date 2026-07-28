@@ -1,0 +1,160 @@
+{
+  "id": "la-luciernaga-que-perdio-su-luz",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La luciérnaga que perdió su luz",
+  "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la lucecita de Lumi no quiere encender.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "En el corazón del bosque, donde los helechos crecen altos y el musgo es blando como una almohada, vivía una luciérnaga pequeñita que se llamaba Lumi. Cada noche, cuando el cielo se ponía morado y la luna asomaba entre las ramas, Lumi encendía su lucecita y volaba en círculos sobre el arroyo. Su luz era dorada y tibia, del color de la miel cuando le da el sol. Aquella noche el bosque entero olía a tierra mojada y a flores de saúco, y todos hablaban de lo mismo. —¡Faltan tres noches para la Fiesta de las Luces! —cantaban los grillos desde la hierba. Lumi dio una vuelta de alegría en el aire. La Fiesta de las Luces era la noche más bonita del año: todas las luciérnagas del bosque se juntaban en el prado y encendían sus luces al mismo tiempo, tantas que el claro parecía un cielo del revés, con estrellas que volaban entre la hierba.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Lumi voló a casa tan rápido que el viento le hizo cosquillas en las alas. Su mamá la esperaba en el hueco de un tronco caído, ordenando semillas de amapola. —¡Mamá! —dijo Lumi sin aliento—. ¡Quiero brillar en la primera fila! Su mamá se rió bajito y le acarició la cabeza con una antena. —Entonces vas a tener que ensayar, chiquita. Y Lumi ensayó. Ensayó encendida y apagada, encendida y apagada, hasta que las hojas de alrededor se pusieron amarillas de tanta luz. Practicó el vuelo en espiral, el vuelo en zigzag y el vuelo lento, ese que hace parecer que una luz camina por el aire. Los caracoles se asomaban a mirarla. Los escarabajos aplaudían con las patas. Una noche, un grillo viejo le dijo: —Nunca vi una luz tan alegre como la tuya. Lumi guardó esas palabras en el pecho, junto a su lucecita, y se durmió sonriendo.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Faltaba solo una noche para la fiesta. Lumi se despertó con el corazón dando saltitos, se estiró, respiró el aire fresco que entraba por la grieta del tronco y se preparó para encender. Cerró los ojos. Pensó en cosas brillantes: la luna llena, el rocío, los ojos de su mamá. Y apretó suavecito, como siempre. Nada. Su barriguita se quedó gris, apagada, del color de una piedra del río. Lumi volvió a intentarlo. Apretó más fuerte. Contuvo el aire. Nada, nada, nada. —Mamá... —susurró—. Mamá, mi luz no prende. Su mamá vino volando y la abrazó con las alas tibias. Intentaron juntas: respirar despacio, pensar bonito, contar hasta diez. La lucecita de mamá brillaba al lado como una lamparita, y la de Lumi seguía oscura. Afuera, el bosque entero titilaba de luces amarillas, y Lumi era el único punto negro en toda la noche.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "respirar",
+          "sfx": "breathe_in"
+        },
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Lumi no quiso salir. Se metió debajo de una hoja de hiedra, grande y curvada como un techito, y se quedó muy quieta. Desde ahí escuchaba a sus amigas pasar volando, riéndose y llamándola. —¡Lumi! ¿Vienes a ensayar? Lumi no contestó. Se abrazó las patitas y apoyó la cabeza. Sentía algo pesado en el pecho, como si se hubiera tragado una piedrita. ¿Qué iban a decir mañana, cuando todas encendieran y ella no? ¿Y si ya nunca más volvía a brillar? A lo lejos empezó a caer una lluvia finita que hacía plic, plic, plic sobre las hojas, y olía a musgo y a madera dulce. Una gota rodó hasta el borde de su hoja y cayó sobre un charco pequeñito, salpicando. Lumi la miró un rato largo. —Una luciérnaga sin luz —dijo bajito— no es nada. Y se quedó ahí, escondida, mientras el bosque brillaba sin ella.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "charco",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Cuando la lluvia paró, el cielo se abrió y salió la luna, tan redonda y tan blanca que el bosque se puso de plata. Lumi pensó que la luna, que era la luz más grande de todas, seguro sabría qué hacer. Salió de su escondite y voló hacia arriba, subiendo entre las ramas del roble más alto, hasta la puntita donde el aire era frío y olía a nube. —Luna —dijo—, ¿puedes ayudarme? Se me apagó mi luz. La luna no habló con palabras. Las lunas no hablan así. Pero bajó un poquito su brillo, como cuando alguien se agacha para escucharte mejor, y dejó caer sobre las alas de Lumi un resplandor suave y plateado. Por un segundo Lumi pareció encendida. Por un segundo pensó que estaba curada. Pero cuando se movió, la luz se quedó atrás, en el aire, porque no era suya. Era prestada. —Gracias igual —susurró Lumi, y bajó despacito.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "luna",
+          "sfx": "twinkle"
+        },
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "En una rama gruesa, con los ojos amarillos y muy abiertos, esperaba el búho. El búho era el animal más sabio del bosque; todos lo decían. Ululó suavecito para no asustarla. —Uuuh. Te vi hablando con la luna, chiquita. ¿Qué te pasa? —Se me apagó mi luz —dijo Lumi—, y mañana es la fiesta. El búho movió la cabeza de un lado al otro, muy despacio, pensando con todas sus plumas. —Yo sé dónde duermen los ratones y por qué el río canta más fuerte en marzo —dijo al fin—. Sé cuántas estrellas hay sobre el pino torcido. Pero no sé nada de luces de luciérnaga. Nadie ha estudiado eso. —¿Y quién sabe? —preguntó Lumi. El búho abrió las alas, hizo un ruido de viento y le respondió: —Prueba con las ranas del charco. Ellas ven pasar a todo el mundo. Y le señaló el camino con una pluma.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "El charco quedaba abajo, entre los juncos, y sonaba lleno de vida: croac, croac, croac. Tres ranas verdes estaban sentadas sobre una hoja de nenúfar, mirando su propio reflejo en el agua. —¡Una luciérnaga apagada! —dijo la primera rana—. Qué raro. —Yo sé lo que es —dijo la segunda—. Te falta comer rocío. Cómete siete gotas y listo. Lumi se comió siete gotas de rocío. No pasó nada. —No, no —dijo la tercera rana—. Lo que tienes que hacer es girar tres veces sobre el agua y decir tu nombre al revés. Lumi giró tres veces y dijo \"Imul\". Nada. Las ranas se quedaron calladas, un poco avergonzadas. —Perdón, chiquita —dijeron—. Nosotras solo sabíamos de burbujas y de mosquitos. Lumi se sentó al borde del charco. En el reflejo se vio pequeñita y gris, y por primera vez se le llenaron los ojos de lágrimas.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "ranas",
+          "sfx": "frog_croak"
+        },
+        {
+          "anchor": "burbujas",
+          "sfx": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "Lumi volvió sola por el camino de las raíces. La luna se había escondido detrás de una nube y el bosque estaba oscuro de verdad, oscuro como el fondo de un sombrero. Nadie sabía arreglar su luz: ni la luna, ni el búho sabio, ni las ranas del charco. Caminó despacio, arrastrando las alas, oyendo crujir las hojas secas bajo sus pasos. El aire olía a tierra fría y a hongos. Y entonces, muy cerca, escuchó algo. Un llantito. Un hilito de voz que decía: —¿Hola? ¿Hay alguien? Por favor. Lumi se detuvo y aguzó las antenas. Entre dos piedras, hecho un bultito, había un escarabajo chiquito con el caparazón lleno de tierra. Tenía las patas temblando. —Me perdí —dijo el escarabajo—. Salí a buscar una semilla y ahora no veo nada. No sé dónde queda mi casa y tengo mucho miedo. Lumi se olvidó por completo de su propia tristeza.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "pasos",
+          "sfx": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "—No llores —dijo Lumi, acercándose—. Yo te acompaño. Voy a llevarte a tu casa. —Pero está muy oscuro —dijo el escarabajo. —Entonces vamos despacito —dijo ella—, y yo te voy contando el camino. Lumi se puso delante y empezó a hablarle. \"Ahora hay una raíz, levanta la patita. Ahora un poco de barro, pisa a la izquierda. Ahora huele: eso es el helecho grande, ya casi llegamos.\" El escarabajo la seguía, agarrado de su ala, y poco a poco dejó de temblar. Se rió cuando resbalaron los dos en una hoja mojada. Y en ese momento, sin que Lumi se diera cuenta, algo tibio empezó a crecer en su barriguita. Primero un puntito. Después un brillo pequeño, como una chispa de estrella. Después una luz dorada, redonda y clarita, que iluminó el sendero entero y las dos caritas sorprendidas. —¡Estás encendida! —gritó el escarabajo. Lumi se miró y no lo podía creer.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "rió",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "estrella",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "Dejó al escarabajo en la puerta de su casita, entre las raíces, y volvió volando por el bosque con la luz encendida y el corazón enorme. Ya lo había entendido: su luz no se había roto nunca. Solo estaba esperando que ella dejara de mirarse a sí misma. Su luz encendía cuando ayudaba. La noche siguiente llegó la Fiesta de las Luces. Cientos de luciérnagas subieron al prado y encendieron todas juntas, y el aire se llenó de puntitos dorados que subían y bajaban como una respiración. Lumi brilló en la primera fila, al lado de su mamá, con la luz más tranquila y más tibia de todo el bosque. Cuando la fiesta terminó, voló a casa despacito, se acomodó en el musgo blando y cerró los ojos. Afuera, un búho ululó suavecito. Lumi bostezó, dejó que su lucecita se fuera apagando sola, y se durmió.",
+      "ambient": "forest_night",
+      "cues": [
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "durmió",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

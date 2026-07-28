@@ -1,0 +1,229 @@
+{
+  "id": "la-biblioteca-de-medianoche",
+  "schemaVersion": 1,
+  "locale": "es",
+  "version": 1,
+  "title": "La biblioteca de medianoche",
+  "summary": "Tomás se queda encerrado sin querer en la biblioteca del pueblo y descubre que, cuando el reloj da las doce, los libros no se quedan quietos.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Aquella tarde llovía sin parar sobre el pueblo, y Tomás corrió con la capucha puesta hasta la biblioteca de la plaza. Empujó la puerta de madera y escuchó el crujido de siempre, ese saludo antiguo que ya se sabía de memoria. Adentro todo estaba tibio. Olía a papel, a madera y un poquito a chocolate, porque don Ambrosio, el bibliotecario, siempre tenía una taza junto al escritorio. —Buenas tardes, Tomás —dijo don Ambrosio sin levantar la vista—. Los libros de aventuras están donde siempre. Tomás sonrió y caminó despacio entre los estantes altos, que a él le parecían edificios de una ciudad de papel. Sus pasos hacían un sonido blandito sobre la alfombra roja. Afuera, la lluvia golpeaba las ventanas como dedos pequeños. Adentro, el reloj de pared marcaba los segundos con mucha paciencia. Tomás pensó que la biblioteca era el mejor lugar del mundo para un día de agua.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "crujido",
+          "sfx": "crunch"
+        },
+        {
+          "anchor": "pasos",
+          "sfx": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Al fondo, detrás del estante más alto, había un rincón con dos cojines gastados. Ese era el escondite favorito de Tomás. Se dejó caer allí con un libro gordo de mapas antiguos, uno que pesaba como un gato dormido. Pasó las hojas despacio, mirando islas de nombres raros, montañas dibujadas a mano y monstruos marinos con bigotes. Leyó una página, y otra, y otra más. La lluvia seguía cantando afuera, tranquila y pareja. Los ojos de Tomás se pusieron pesados, pesados, y el libro se le apoyó en el pecho como una mantita. Cuando abrió los ojos otra vez, todo estaba distinto. Ya no entraba luz por las ventanas. Escuchó unos pasitos lejanos, el clic de los interruptores y, al final, el sonido de la puerta grande cerrándose con llave. —¡Espere! —dijo Tomás, pero su voz salió pequeñita—. ¡Don Ambrosio, todavía estoy aquí!",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "puerta",
+          "sfx": "door_open"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Tomás se quedó muy quieto. La biblioteca a oscuras era otra biblioteca. Los estantes parecían más altos y las sombras de las plantas se estiraban por el suelo como manos flacas. Caminó hasta la entrada y empujó con las dos manos, y después con el hombro. No se movió ni un poquito. Sintió un cosquilleo raro en la barriga y las lágrimas le subieron hasta los ojos. Afuera, el viento silbaba entre las tejas del techo. —No pasa nada —se dijo, aunque le temblaba un poco la voz—. Mañana abren temprano. Entonces se acordó de lo que le enseñaba su abuela cuando tenía miedo. Se puso una mano en la panza y respiró hondo, muy despacio: adentro el aire, afuera el aire. Una vez, dos veces, tres. Poco a poco el corazón dejó de galopar. Y en esa oscuridad tranquila, el reloj de pared empezó a sonar más fuerte: tic, tac, tic, tac.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        },
+        {
+          "anchor": "respiró",
+          "sfx": "breathe_in"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "El reloj dio una campanada larga. Después otra, y otra más. Tomás las fue contando en voz bajita: ocho, nueve, diez, once... doce. Al llegar a la última, pasó algo maravilloso. De los estantes empezaron a salir chispas doradas, como si los libros estuvieran despertando de una siesta muy larga. Las letras se despegaban de las páginas y volaban por el aire igual que luciérnagas mansas. Tomás abrió la boca, pero no le salió ni una palabra. Un libro grueso de tapa azul se abrió solo sobre la mesa del centro. De sus páginas salió primero un sombrero, después una bota, después una barba enredada con dos nudos. —¡Tierra! —gritó una voz ronca—. ¡Tierra firme al fin! Y entonces, delante de los ojos de Tomás, un pirata entero se sentó en la mesa a sacudirse el polvo de las mangas.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "campanada",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "chispas",
+          "sfx": "sparkle"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "El pirata era bajito, tenía la nariz colorada y un loro bordado en la camisa. Miró a Tomás de arriba abajo, entrecerrando un ojo. —¿Y tú quién eres, marinero? ¿Un personaje nuevo? —Me llamo Tomás —contestó él—. Y creo que me quedé encerrado. —¡Encerrado! —el pirata soltó una risa enorme que rebotó en todo el techo—. ¡Nadie se queda encerrado en una biblioteca, muchacho! Aquí uno se queda dentro de mil sitios a la vez. Yo soy el capitán Barbaquieta, del libro azul, página cuarenta y dos. Le tendió una mano de dedos gordos y Tomás se la apretó. Estaba tibia y un poco arenosa, como si de verdad viniera de una playa. —A medianoche podemos salir —explicó el capitán bajando la voz—. Hasta que asoma el sol. Es la regla más vieja de todas. Y sus pasos iban dejando huellitas de arena sobre la alfombra.",
+      "cues": [
+        {
+          "anchor": "risa",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "pasos",
+          "sfx": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "text": "Cerca de la ventana, un atlas enorme se abrió de golpe y salió una mujer con botas altas, mochila de cuero y una linterna en la mano. —Nadia, exploradora de once desiertos —se presentó, y le guiñó un ojo—. Encantada, Tomás. Detrás de ella, del estante de los mitos, llegó un aleteo suave. Tomás miró hacia arriba y vio un dragón hecho de puras hojas de papel, del tamaño de un perro pequeño. Cada vez que movía las alas sonaba como cuando uno pasa las páginas de un cuaderno nuevo. —Se llama Fósforo —dijo Nadia—. No echa fuego, echa purpurina. Es alérgico a las velas. El dragón bajó planeando y le olió el pelo a Tomás. Después se acurrucó en su hombro como un gatito plegado. Tomás ya no tenía miedo. Tenía esa sensación calentita de haber llegado a una fiesta donde todos lo estaban esperando.",
+      "cues": [
+        {
+          "anchor": "aleteo",
+          "sfx": "whoosh"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "text": "—Ven, tenemos que mostrarte algo —dijo Nadia—. Nadie que sepa el secreto se va sin verlo. Caminaron hasta el estante de poesía, el más polvoriento de todos. Nadia empujó tres libros a la vez y el estante giró despacio, como una puerta escondida. Detrás había un pasillo largo y angosto, con lamparitas colgadas del techo. —¿Esto siempre estuvo aquí? —preguntó Tomás en un susurro. —Siempre —dijo Barbaquieta—. La biblioteca es más grande por dentro que por fuera. Todas lo son. El pasillo olía a tinta y a canela. Las paredes eran de libros apilados, y de algunos salían ruiditos: olas, campanas, una trompeta lejana, alguien practicando piano con un dedo. Fósforo iba adelante alumbrando el camino con su purpurina. Tomás caminaba con mucho cuidado, tocando los lomos con la punta de los dedos, y sentía que cada libro le devolvía un cosquilleo pequeño.",
+      "cues": [
+        {
+          "anchor": "puerta",
+          "sfx": "door_open"
+        },
+        {
+          "anchor": "susurro",
+          "sfx": "whisper"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "text": "El pasillo bajaba por unas escaleras de madera que crujían en cada escalón. Abajo se abría una sala redonda, tan alta que Tomás no alcanzaba a verle el final. —Aquí viven los libros que casi nadie pide —contó Nadia, moviendo la linterna—. Son los más agradecidos de todos. Había cuentos con las tapas descoloridas, recetarios llenos de manchas y una enciclopedia entera dedicada a las nubes. Un viento tibio subía desde algún lugar escondido y movía los papelitos sueltos como mariposas. De pronto, Fósforo levantó sus orejas de papel y voló hacia un estante bajo. Se paró frente a un libro pequeño, verde, con las esquinas blandas, y lo tocó con el hocico. —¿Qué pasa, dragón? —preguntó el capitán. Entonces todos lo escucharon. Del libro verde salía un sonido muy suave, como un hipo. Alguien, adentro de esas páginas, estaba llorando bajito.",
+      "cues": [
+        {
+          "anchor": "crujían",
+          "sfx": "crunch"
+        },
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "text": "Tomás se agachó y abrió el libro verde con mucho cuidado. Sobre las páginas apareció una niña de pelo corto y abrigo amarillo, tan finita que se le veía la luz por detrás. Traía un farol apagado en la mano. —Hola —dijo Tomás—. Yo soy Tomás. ¿Por qué lloras? —Me llamo Lira —contestó ella, secándose la cara con la manga—. Y no puedo terminar mi historia. Nadia pasó el libro hasta el final y se quedó quieta. Después del capítulo diez no había nada: solo un borde rasgado y olor a papel viejo. —Le faltan las últimas páginas —dijo despacio. —Alguien las arrancó hace muchísimo —susurró Lira—. Yo caminé por la nieve, crucé el bosque, aprendí a remar en el agua fría... y me quedé aquí, a un pasito del final. Cada noche llego hasta el borde y ya no hay camino para seguir.",
+      "cues": [
+        {
+          "anchor": "susurró",
+          "sfx": "whisper"
+        },
+        {
+          "anchor": "agua",
+          "sfx": "water_splash"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "text": "—¿Y cómo iba a terminar? —preguntó Barbaquieta, sentándose en el suelo con un quejido. —No lo sé —dijo Lira—. Nunca lo leí. Solo sé que del otro lado del mar hay una isla con un faro, y que en ese faro me está esperando mi hermano. Él prende la luz cada noche para que yo sepa por dónde ir. Tomás cerró los ojos y casi pudo escucharlo: las olas moviéndose despacio, el aire salado, una ballena cantando muy lejos, debajo de todo. —Entonces hay que llegar a ese faro —dijo. —No se puede —murmuró Lira—. Sin páginas no hay camino. Un personaje no puede caminar donde no hay nada escrito. Fósforo se le enroscó en los pies, como para calentárselos. Nadia se levantó de golpe, se ajustó la mochila y dijo con voz de capitana: —Entonces buscamos esas páginas. Ahora mismo, y hasta que aparezcan.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "olas",
+          "sfx": "water_splash"
+        },
+        {
+          "anchor": "ballena",
+          "sfx": "whale_song"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "text": "Buscaron por toda la biblioteca. Miraron debajo de la alfombra roja y solo encontraron una moneda vieja y tres tapitas. Vaciaron la caja de devoluciones. Revisaron el carrito de los libros mojados. Nadia se colgó de la escalera rodante para llegar a los estantes de arriba, y sus pasos rápidos sonaban por todos lados a la vez. Barbaquieta abrió cada cajón del escritorio de don Ambrosio, pidiendo permiso en voz alta por si acaso. Fósforo se metió detrás del radiador y salió con una telaraña de sombrero. Tomás revisó hoja por hoja los libros del estante vecino, pensando que quizá las páginas se habían mudado de casa. Nada. Ni una sola. Cuando el reloj sonó otra vez, Lira se sentó en el borde de su propia página y bajó la cabeza. —Está bien —dijo bajito—. Ya me acostumbré a esperar.",
+      "cues": [
+        {
+          "anchor": "cajón",
+          "sfx": "thud"
+        },
+        {
+          "anchor": "pasos",
+          "sfx": "footsteps"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "text": "Nadie dijo nada por un rato largo. Solo se oía la lluvia, ya más mansa, y el papel de Fósforo moviéndose cada vez que respiraba. Tomás miraba a Lira, su abrigo amarillo, su farol apagado, y sintió una cosa apretada en el pecho. Y de repente se le encendió una idea, así, como un fósforo de verdad. —¿Y si lo escribimos nosotros? —dijo. Todos giraron la cabeza. —El final. Si no aparece, lo inventamos. Yo tengo lápiz en el bolsillo. Barbaquieta se levantó tan rápido que se le cayó el sombrero. —¡Eso es cosa de valientes! —¿Se puede hacer eso? —preguntó Lira, con los ojos muy grandes. —No sé —admitió Tomás—. Pero tú tampoco sabías remar, y aprendiste. Lira se rió por primera vez en cien años, y su risa sonó como cuando se destapa una botella llena de burbujas.",
+      "ambient": "rain",
+      "cues": [
+        {
+          "anchor": "risa",
+          "sfx": "giggle"
+        },
+        {
+          "anchor": "burbujas",
+          "sfx": "bubbles"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "text": "Se sentaron en círculo alrededor del libro verde, debajo de la lamparita más grande, que zumbaba bajito como un abejorro. Tomás sacó su lápiz mordido y le afiló la punta con la uña. Nadia dibujó primero el mapa completo: una barca chiquita, una corriente amable y una isla con forma de sombrero. Barbaquieta dictó las palabras del viaje, porque de mares él sabía todo. —Escribe esto: y el agua la llevó sin apuro, como una cuna —dijo, y se secó un ojo disimulando. Tomás escribía despacio, con la lengua afuera, cuidando de no salirse del renglón. Cuando le faltaban ideas, Lira le contaba cómo era la voz de su hermano. Al final agregaron una ballena que acompaña la barca de noche para que nadie se sienta solo. Fósforo sopló con mucho cuidado para secar la tinta, y su soplo olía a purpurina y a papel limpio.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "ballena",
+          "sfx": "whale_song"
+        },
+        {
+          "anchor": "sopló",
+          "sfx": "wind_soft"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "text": "Cuando Tomás puso el punto final, el libro verde se puso tibio como pan recién hecho. Las letras nuevas brillaron un momento y se acomodaron solas sobre la página. Lira miró hacia adelante y esta vez sí había camino. Subió a la barca de papel, saludó con las dos manos y el agua la llevó despacito hacia la isla. Desde lejos vieron encenderse la luz del faro, chiquita y amarilla como una estrella que se hubiera caído al mar. —¡Gracias! —se escuchó, ya casi desde otro mundo. Entonces, por la ventana más alta, entró el primer rayo del amanecer. Nadia se despidió con la mano y volvió a su atlas. Barbaquieta se quitó el sombrero, hizo una reverencia enorme y se dobló dentro de su libro azul. Fósforo le dio un empujoncito con la frente y voló de vuelta al estante de los mitos.",
+      "ambient": "ocean_waves",
+      "cues": [
+        {
+          "anchor": "estrella",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "voló",
+          "sfx": "whoosh"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "text": "Tomás se quedó solo en el rincón de los cojines, con el libro verde abrazado contra el pecho. Los estantes volvieron a ser estantes, quietos y ordenados, y todo quedó en silencio. Afuera empezaron a cantar los pájaros y la luz fue subiendo despacito por la alfombra roja, tibia como una manta. Él bostezó muy grande, se acomodó de lado y se durmió con una sonrisa. Un rato después escuchó la puerta abriéndose y la voz de don Ambrosio: —¡Tomás! Ay, muchacho, tu mamá y yo te buscamos toda la noche. El bibliotecario levantó el libro verde y se detuvo un segundo, mirando las últimas páginas escritas a lápiz. No dijo nada. Tomás tampoco. Pero alcanzó a ver que don Ambrosio sonreía apenas, como quien conoce ese secreto desde hace mucho. Esa noche, en su propia cama, Tomás se durmió pensando en el faro y en la barquita de papel.",
+      "ambient": "forest_birds",
+      "cues": [
+        {
+          "anchor": "puerta",
+          "sfx": "door_open"
+        },
+        {
+          "anchor": "durmió",
+          "sfx": "snore_soft"
+        }
+      ]
+    }
+  ]
+}

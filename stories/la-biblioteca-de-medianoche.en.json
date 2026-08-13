@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Midnight Library",
   "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still.",
   "scenes": [
@@ -48,6 +48,10 @@
         {
           "anchor": "breathed",
           "sfx": "breathe_in"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -63,6 +67,10 @@
         {
           "anchor": "sparks",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "pages",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -77,6 +85,10 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "page",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -105,6 +117,10 @@
         {
           "anchor": "whisper",
           "sfx": "whisper"
+        },
+        {
+          "anchor": "bells",
+          "sfx": "bell_soft"
         }
       ]
     },
@@ -119,12 +135,17 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "pages",
+          "sfx": "page_turn"
         }
       ]
     },
     {
       "id": "s9",
       "text": "Tomás crouched down and opened the green book very carefully. Above the pages appeared a girl with short hair and a yellow coat, so thin that the light showed right through her. She carried an unlit lantern in her hand. 'Hello,' said Tomás. 'I'm Tomás. Why are you crying?' 'My name is Lira,' she answered, drying her face with her sleeve. 'And I can't finish my story.' Nadia turned the book to the very end and went still. After chapter ten there was nothing: only a torn edge and the smell of old paper. 'The last pages are missing,' she said slowly. 'Somebody tore them out ages ago,' whispered Lira. 'I walked through the snow, I crossed the forest, I learned to row in the cold water... and here I stayed, one small step from the ending. Every night I reach the edge and there is no road left.'",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "whispered",
@@ -133,6 +154,10 @@
         {
           "anchor": "water",
           "sfx": "water_splash"
+        },
+        {
+          "anchor": "pages",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -148,6 +173,10 @@
         {
           "anchor": "whale",
           "sfx": "whale_song"
+        },
+        {
+          "anchor": "pages",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -162,6 +191,10 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "pages",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -207,6 +240,10 @@
         {
           "anchor": "flew",
           "sfx": "whoosh"
+        },
+        {
+          "anchor": "page",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -222,6 +259,10 @@
         {
           "anchor": "slept",
           "sfx": "snore_soft"
+        },
+        {
+          "anchor": "pages",
+          "sfx": "page_turn"
         }
       ]
     }

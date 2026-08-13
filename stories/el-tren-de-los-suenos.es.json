@@ -2,7 +2,7 @@
   "id": "el-tren-de-los-suenos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El tren de los sueños",
   "summary": "Cada noche, un trencito mágico recoge a los niños en pijama y los lleva despacito por paisajes de sueño.",
   "scenes": [
@@ -17,6 +17,10 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
+        },
+        {
+          "anchor": "tren",
+          "sfx": "train_soft"
         }
       ]
     },
@@ -32,6 +36,10 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "tren",
+          "sfx": "train_soft"
         }
       ]
     },
@@ -47,6 +55,10 @@
         {
           "anchor": "ballena",
           "sfx": "whale_song"
+        },
+        {
+          "anchor": "tren",
+          "sfx": "train_soft"
         }
       ]
     },
@@ -61,6 +73,10 @@
         {
           "anchor": "viento",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "tren",
+          "sfx": "train_soft"
         }
       ]
     },
@@ -75,6 +91,10 @@
         {
           "anchor": "dormidos",
           "sfx": "snore_soft"
+        },
+        {
+          "anchor": "tren",
+          "sfx": "train_soft"
         }
       ]
     }

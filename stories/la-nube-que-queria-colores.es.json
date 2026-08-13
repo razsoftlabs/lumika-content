@@ -2,7 +2,7 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La nube que quería colores",
   "summary": "Nube es blanca y quiere ser de colores. Un chaparrón travieso le enseña de dónde salen los arcoíris.",
   "scenes": [
@@ -28,6 +28,10 @@
         {
           "anchor": "gotas",
           "sfx": "water_splash"
+        },
+        {
+          "anchor": "mágico",
+          "sfx": "magic_shimmer"
         }
       ]
     },

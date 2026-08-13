@@ -2,7 +2,7 @@
   "id": "la-princesa-ingeniera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La princesa ingeniera",
   "summary": "Cuando el río del reino se seca y nadie quiere escuchar a una princesa que construye máquinas, Mirena decide subir sola a la montaña con su cuaderno.",
   "scenes": [
@@ -35,6 +35,10 @@
           "anchor": "abeja",
           "sfx": "bee_buzz",
           "delayMs": 300
+        },
+        {
+          "anchor": "campanas",
+          "sfx": "bell_soft"
         }
       ]
     },

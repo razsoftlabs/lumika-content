@@ -2,7 +2,7 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El gato que cruzó la ciudad",
   "summary": "Michi se sube por curiosidad a un camión azul y despierta al otro lado de la ciudad, muy lejos de la ventana donde siempre lo esperan.",
   "scenes": [
@@ -17,6 +17,10 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "campanita",
+          "sfx": "bell_soft"
         }
       ]
     },
@@ -37,6 +41,7 @@
     {
       "id": "s3",
       "text": "La ciudad hacía un ruido enorme. Bocinas, frenos, una sirena a lo lejos. Michi caminó pegado a las paredes, tratando de hacerse chiquito, hasta que un tarro de basura se cayó cerca con un golpe seco y él saltó tan alto que casi tocó un cartel. Entonces los oyó. Detrás de una reja, dos perros grandes lo miraban y ladraban con toda su fuerza: ¡guau, guau! Michi se metió debajo de un auto y se quedó ahí, temblando, con el corazón haciendo tuc-tuc-tuc en las orejas. —Quiero ir a casa —dijo bajito—. Quiero mi manta y mi Lucía. Esperó un rato largo. Los perros se cansaron. La calle se puso más tranquila. Michi sacó primero un bigote, después media nariz, después una pata. El aire olía a humo y a lluvia vieja, pero ya no olía a peligro. Salió despacio y decidió que no se quedaría llorando debajo de un auto.",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "perros",
@@ -45,12 +50,17 @@
         {
           "anchor": "golpe",
           "sfx": "thud"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
       "text": "En lo alto de un poste había una paloma gorda y gris, con los ojos brillantes como dos semillas. Lo estaba mirando desde hacía rato. —Te perdiste, ¿verdad? —dijo la paloma, bajando de un aleteo—. Se te nota en las orejas. —Vivo al lado de una panadería —contestó Michi—. Huele a pan tibio. Hay almendros en la vereda. —Ah, conozco ese barrio. Yo vuelo por toda la ciudad —dijo ella, y acercó el pico como si le contara un secreto. Su voz se volvió un susurro—: Camina siempre hacia donde se está poniendo el sol. Cruza el parque grande. Después el mercado. Al final vas a ver un puente sobre el río: pásalo sin miedo y ya estarás cerca. Y cuando no sepas qué hacer, cierra los ojos y huele. Una abeja pasó zumbando entre las flores de un balcón. Michi miró el sol naranja y dijo: —Gracias, paloma. Voy a llegar.",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "susurro",
@@ -65,7 +75,7 @@
     {
       "id": "s5",
       "text": "El parque grande apareció detrás de una esquina, verde y enorme, como si alguien hubiera guardado un pedazo de campo dentro de la ciudad. Michi entró por debajo de una banca y sintió el pasto fresco en la panza. Ahí el ruido de los autos se quedaba afuera. Se oían pájaros, una pelota, el chirrido de un columpio. Caminó junto a un estanque donde el agua brillaba de color naranja. Una rana lo miró desde una piedra y le hizo croac, croac, como saludando. Michi le contestó con un maullido corto y siguió. Dos niños quisieron acariciarlo y él los dejó un momento, porque sus manos se parecían a las de Lucía. Pero cuando el más pequeño intentó abrazarlo, Michi se soltó con suavidad. No podía quedarse: tenía una casa esperándolo. Al otro lado del parque, entre los árboles, el sol ya se estaba escondiendo. Michi apuró el paso.",
-      "ambient": "forest_birds",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "rana",
@@ -80,6 +90,7 @@
     {
       "id": "s6",
       "text": "El mercado era un túnel de olores. Naranjas, cilantro, pescado, pan recién hecho, flores mojadas. Michi caminaba entre canastos y patas de mesa, esquivando zapatos apurados. Alguien barría. Alguien cerraba una persiana de metal. Un carrito pasó chapoteando en un charco y le salpicó la cola. Un gato naranja, muy flaco, lo vio desde arriba de unas cajas y maulló para preguntarle quién era. —Estoy volviendo a mi casa —le explicó Michi. —Suerte, entonces —dijo el otro, y se hizo a un lado. En ese momento Michi olió algo maravilloso: pescado. Una señora de delantal azul, la del último puesto, se agachó y le dejó un pedacito sobre un papel. —Come, chiquito —le dijo—. Estás muy lejos de tu casa, ¿no? Michi comió todo y se lamió los bigotes. Por primera vez en el día, su barriga estaba contenta. Y la noche empezaba a caer sobre la ciudad.",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "charco",
@@ -94,7 +105,7 @@
     {
       "id": "s7",
       "text": "El puente apareció al final de una calle larga, con dos filas de faroles encendidos como si fueran velas. Abajo, el río sonaba con paciencia, hablando solo. Michi se detuvo en la entrada. El puente era muy largo y él era muy pequeño. La luna estaba redonda arriba de todo, tan blanca que parecía recién lavada. Un búho ululó desde un árbol de la orilla: uh, uhú. Michi tragó saliva. —Sin miedo —se dijo, igual que había dicho la paloma—. Un paso, y otro paso. Y empezó a cruzar. Sus patitas blancas iban despacio sobre las tablas: tac, tac, tac. El viento del río le peinaba el pelo al revés y le traía olor a agua profunda. En la mitad se detuvo a mirar las luces de la ciudad reflejadas abajo, temblando como pececitos dorados. Era bonito. Michi respiró hondo, movió las orejas y siguió hasta el otro lado.",
-      "ambient": "forest_night",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "luna",
@@ -123,6 +134,7 @@
     {
       "id": "s9",
       "text": "Adentro se oyeron unos pies corriendo, una silla que se movía y la voz de Lucía diciendo: «¡Mamá, es él, es él!». La puerta se abrió de golpe y ahí estaba ella, en pijama, con el pelo desordenado y los ojos enormes. —¡Michi! —gritó, y su risa se mezcló con un sollozo—. ¡Volviste! Lo levantó en brazos y lo apretó tanto que Michi tuvo que acomodarse. Le besó la cabeza y le contó todo de golpe: que había puesto carteles en los postes, que había dejado un plato en la ventana todas las noches, que no había querido postre ni una sola vez. Michi ronroneó tan fuerte que le vibró el cuerpo entero. La mamá de Lucía trajo leche tibia y le revisó las patas. —Está enterito —dijo—. Flaco y muy sucio, pero enterito. Afuera, la ciudad enorme seguía haciendo ruido. Adentro, todo estaba otra vez en su lugar.",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "puerta",
@@ -137,7 +149,7 @@
     {
       "id": "s10",
       "text": "Después vino el baño más corto de la historia, una toalla que olía a limpio y un cepillado suave. Lucía lo llevó a su cuarto y lo puso en el lugar de siempre: a los pies de la cama, sobre la manta de cuadritos. Apagó la luz grande y dejó encendida la lamparita del rincón. —Mañana te cuento todo lo que pasó en el colegio —le dijo bajito—. Pero ahora dormimos. Michi amasó la manta con sus patitas blancas, se hizo un ovillo redondo y respiró hondo tres veces, como si guardara la ciudad entera en el pecho y después la soltara. Por la ventana entraba un aire fresquito y el canto tranquilo de los grillos. Ya no había camiones, ni rejas, ni puentes. Solo la mano de Lucía en su lomo, subiendo y bajando despacio. Y así, con un ronquido chiquito de gato feliz, Michi se quedó profundamente dormido.",
-      "ambient": "forest_night",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "respiró",

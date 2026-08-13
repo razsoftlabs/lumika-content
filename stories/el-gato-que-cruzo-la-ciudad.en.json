@@ -2,7 +2,7 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Cat Who Crossed the City",
   "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting.",
   "scenes": [
@@ -17,6 +17,10 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "bell",
+          "sfx": "bell_soft"
         }
       ]
     },
@@ -37,6 +41,7 @@
     {
       "id": "s3",
       "text": "The city made an enormous noise. Horns, brakes, a siren far away. Michi walked close to the walls, trying to make himself small, until a garbage can tipped over nearby with a dry thud and he jumped so high he almost touched a sign. That was when he heard them. Behind a fence, two big dogs were staring at him and barking with all their might: woof, woof! Michi squeezed under a car and stayed there, trembling, his heart going thump-thump-thump inside his ears. \"I want to go home,\" he said quietly. \"I want my blanket and my Lucía.\" He waited a long while. The dogs got tired. The street grew calmer. Michi poked out one whisker first, then half a nose, then a paw. The air smelled of smoke and old rain, but it did not smell of danger anymore. He came out slowly and decided he would not stay crying under a car.",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "dogs",
@@ -45,12 +50,17 @@
         {
           "anchor": "thud",
           "sfx": "thud"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
       "text": "High on a lamppost sat a plump gray pigeon with eyes as bright as two seeds. She had been watching him for a while. \"You're lost, aren't you?\" said the pigeon, fluttering down. \"I can tell by your ears.\" \"I live next to a bakery,\" answered Michi. \"It smells of warm bread. There are almond trees on the sidewalk.\" \"Ah, I know that neighborhood. I fly all over the city,\" she said, and brought her beak closer as if telling him a secret. Her voice turned into a whisper. \"Always walk toward the place where the sun is going down. Cross the big park. Then the market. At the end you will see a bridge over the river: cross it without fear and you will be close. And when you don't know what to do, close your eyes and smell.\" A bee buzzed past the flowers of a balcony. Michi looked at the orange sun and said, \"Thank you, pigeon. I will make it.\"",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "whisper",
@@ -65,7 +75,7 @@
     {
       "id": "s5",
       "text": "The big park appeared around a corner, green and enormous, as if somebody had tucked a piece of the countryside inside the city. Michi slipped in under a bench and felt the cool grass on his belly. Out there the noise of the cars stayed outside. He could hear birds, a ball, the squeak of a swing. He walked beside a pond where the water shone orange. A frog looked at him from a stone and went croak, croak, as if saying hello. Michi answered with a short meow and went on. Two children wanted to pet him and he let them for a moment, because their hands felt like Lucía's hands. But when the smaller one tried to hug him, Michi slipped away gently. He could not stay: he had a home waiting for him. On the other side of the park, between the trees, the sun was already hiding. Michi walked faster.",
-      "ambient": "forest_birds",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "frog",
@@ -80,6 +90,7 @@
     {
       "id": "s6",
       "text": "The market was a tunnel of smells. Oranges, cilantro, fish, fresh bread, wet flowers. Michi walked between baskets and table legs, dodging hurried shoes. Someone was sweeping. Someone was closing a metal shutter. A cart rolled by splashing through a puddle and sprinkled his tail. An orange cat, very skinny, spotted him from the top of some boxes and meowed to ask who he was. \"I'm on my way back home,\" Michi explained. \"Good luck, then,\" said the other cat, and moved aside. Just then Michi smelled something wonderful: fish. A lady in a blue apron, the one at the very last stall, crouched down and left him a little piece on a scrap of paper. \"Eat, little one,\" she said. \"You're a long way from home, aren't you?\" Michi ate it all and licked his whiskers. For the first time all day his tummy was happy. And night was beginning to fall over the city.",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "puddle",
@@ -94,7 +105,7 @@
     {
       "id": "s7",
       "text": "The bridge appeared at the end of a long street, with two rows of lamps lit like candles. Down below, the river murmured patiently, talking to itself. Michi stopped at the entrance. The bridge was very long and he was very small. The moon was round up above, so white it looked freshly washed. An owl hooted from a tree on the bank: hoo, hoooo. Michi swallowed hard. \"No fear,\" he told himself, just as the pigeon had said. \"One step, and another step.\" And he began to cross. His little white paws moved slowly over the planks: tap, tap, tap. The river wind combed his fur backward and carried the smell of deep water. Halfway across he stopped to look at the city lights reflected below, trembling like little golden fish. It was beautiful. Michi took a deep breath, wiggled his ears and kept going to the other side.",
-      "ambient": "forest_night",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "moon",
@@ -123,6 +134,7 @@
     {
       "id": "s9",
       "text": "Inside, feet came running, a chair moved, and there was Lucía's voice saying, \"Mom, it's him, it's him!\" The door flew open and there she stood, in her pajamas, with messy hair and enormous eyes. \"Michi!\" she shouted, and her laugh got mixed up with a sob. \"You came back!\" She lifted him into her arms and squeezed him so tightly that Michi had to wriggle. She kissed his head and told him everything at once: that she had put up posters on the lampposts, that she had left a plate on the windowsill every single night, that she had not wanted dessert even once. Michi purred so hard that his whole body hummed. Lucía's mom brought warm milk and checked his paws. \"He's all in one piece,\" she said. \"Skinny and very dirty, but all in one piece.\" Outside, the huge city kept making noise. Inside, everything was back in its place.",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "door",
@@ -137,7 +149,7 @@
     {
       "id": "s10",
       "text": "Then came the shortest bath in history, a towel that smelled of clean, and a soft brushing. Lucía carried him to her room and put him in the usual spot: at the foot of the bed, on the checkered blanket. She turned off the big light and left the little corner lamp on. \"Tomorrow I'll tell you everything that happened at school,\" she said quietly. \"But now we sleep.\" Michi kneaded the blanket with his little white paws, curled into a round ball and breathed deeply three times, as if he were keeping the whole city in his chest and then letting it go. Cool air came in through the window, along with the calm song of the crickets. There were no more trucks, no fences, no bridges. Only Lucía's hand on his back, going up and down, slowly. And so, with a tiny snore of a happy cat, Michi fell fast asleep.",
-      "ambient": "forest_night",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "breathed",

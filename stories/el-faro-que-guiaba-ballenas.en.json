@@ -2,7 +2,7 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Lighthouse That Guided Whales",
   "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light.",
   "scenes": [
@@ -48,6 +48,10 @@
         {
           "anchor": "star",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -93,6 +97,10 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -140,6 +148,10 @@
         {
           "anchor": "bubbles",
           "sfx": "bubbles"
+        },
+        {
+          "anchor": "bells",
+          "sfx": "bell_soft"
         }
       ]
     },

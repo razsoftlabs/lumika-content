@@ -2,14 +2,14 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Bear Who Didn't Want to Hibernate",
   "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes.",
   "scenes": [
     {
       "id": "s1",
       "text": "Autumn came to the Tall Pines Forest smelling of wet earth and sweet apples. The leaves fell slowly, one after another, and they made a soft sound when somebody stepped on them. The wind moved the branches and pushed fat clouds across the sky, as if it were sweeping summer away to store it in a drawer.\n\nIn every cave and burrow there was a rush. The marmots carried seeds. The dormice fluffed up beds of moss. The turtles looked for the softest mud in the stream.\n\n\"To sleep, to sleep!\" they all sang. \"Winter is on its way!\"\n\nAnd in the middle of all that yawning stood Bruno, a brown bear with big paws, round ears, and a belly that sounded like a drum when he scratched it. Bruno had little leaves stuck on his nose and a brand-new idea spinning around in his head. An idea he did not yet dare to say out loud.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "leaves",
@@ -53,7 +53,7 @@
     {
       "id": "s4",
       "text": "One night Bruno woke up because the silence had changed its sound. He came out of the cave and stood completely still, with his mouth open.\n\nThousands of little white dots were coming down from the sky, spinning slowly, in no hurry at all. They landed on his nose, on his ears, on his shoulders, and they made no noise: only a cold, soft tickle, as if the air were full of feathers.\n\n\"And what is this?\" he whispered.\n\n\"Snow,\" answered a small voice from a branch.\n\nBruno didn't look to see who it was. He couldn't stop looking up. The moon was round and yellow behind the clouds, and between the flakes two or three stars slipped through and seemed to wink at him.\n\nHe sat down on the ground. The snow covered his paws, his belly, the tip of his tail. Bruno laughed so hard that the snow shook off him, and he thought that staying awake had been worth it.",
-      "ambient": "forest_night",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "moon",
@@ -69,7 +69,7 @@
     {
       "id": "s5",
       "text": "In the morning, the forest lake was not water anymore: it was a mirror. Bruno put one paw on it very, very carefully. Then the other one. Then all four.\n\nAnd then, whoops! He slipped and landed on his belly with a soft thud that sounded like a drum full of snow.\n\n\"Again!\" he shouted, delighted.\n\nBruno learned to skate in the funniest way possible: by falling over. He slid backwards, sideways, spinning like a leaf on the water, with all four paws up in the air. From the forest came laughter: a hare, two squirrels, and a whole crowd of little birds had come to watch the show of the skating bear.\n\n\"Bears don't skate!\" said the hare.\n\n\"This one does,\" answered Bruno, and he fell over again, and everyone laughed again, and the ice made a funny noise, tuck, tuck, tuck, as if it were laughing underneath too.",
-      "ambient": "forest_birds",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "thud",
@@ -84,7 +84,7 @@
     {
       "id": "s6",
       "text": "And that is how Bruno made winter friends: the ones who don't hibernate.\n\nHe met Lila, the hare with the white fur, who taught him to walk on top of the snow without sinking. He met the three sparrows on the crooked branch, who slept all squished together like a single pom-pom. He met Tomas, the fox with the enormous tail, who showed him where the stream was still singing under the ice.\n\nAnd he met Ulises, a big, serious owl who lived in the old oak and who said important things in a whisper:\n\n\"Hoooo... Bruno... winter is beautiful, and it is also hard. When the forest warns you, listen to it.\"\n\n\"And how does it warn me?\" asked Bruno.\n\n\"It goes quiet,\" said Ulises. \"Quieter than now.\"\n\nBruno didn't understand, but he nodded his head, because it was night and because he was very happy. They all ate pine nuts and told stories until the snow turned blue.",
-      "ambient": "forest_night",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "owl",
@@ -99,6 +99,7 @@
     {
       "id": "s7",
       "text": "One afternoon the forest went quiet. So quiet that Bruno could hear his own heart. He remembered Ulises and felt a strange tickle in his belly.\n\nThen the wind began. Not the gentle wind from before: this one came strong, pushing the snow sideways, erasing the paths, whistling through the pines like an enormous flute. Far away, behind the mountains, a low thunder rolled, as if the sky were stretching.\n\nBruno walked and walked, but everything looked the same: white, white, white. His paws were stiff with cold. His nose was freezing. And most of all, he had an enormous sleepiness, a sleepiness that weighed on his eyelids like two warm little stones.\n\n\"I'll just close my eyes for a moment,\" he said, and he sat down beside a fallen trunk.\n\nAnd from somewhere in the snow, very close by, somebody called him by his name.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "wind",
@@ -108,12 +109,17 @@
           "anchor": "thunder",
           "sfx": "thunder",
           "delayMs": 400
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s8",
       "text": "It was Lila and Tomas, with snow up to their ears.\n\n\"Up you get, bear!\" said the hare. \"You can't sleep here.\"\n\nThey pushed him and pulled him and carried him between the two of them all the way to the old oak. Tomas opened a door of roots and moss, and the three of them squeezed into the burrow, which was small, dark, and as warm as a cup of milk.\n\nInside there were piles of dry leaves, stored seeds, and three sparrows asleep in a corner. Ulises was waiting for them with shining eyes.\n\nLila covered Bruno with leaves and with her own little body. Tomas laid his enormous tail over Bruno's cold paws. Outside, the wind kept whistling, but inside you could hear something else: the breathing of friends, all close together, all in the same rhythm.\n\n\"Thank you,\" said Bruno, his voice thick with sleep.\n\n\"That's what winter friends are for,\" said Tomas. \"For lending you a tail.\"",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "door",
@@ -128,7 +134,7 @@
     {
       "id": "s9",
       "text": "When the storm calmed down, the sun peeked out again and the forest was covered in sugar. Bruno came out of the burrow, stretched, and discovered something curious: everything felt heavy. His paws, his head, even his whiskers.\n\n\"I think my body is telling me something,\" he said slowly.\n\nHe sat down in the snow and breathed in very deeply, once, twice, three times, the way you do before something important. And then he understood: his body was not stubborn or boring. His body was wise. It was asking him to rest because it loved him, just as Lila asked him to eat and Ulises asked him to listen.\n\n\"I've seen winter,\" he whispered. \"I saw the snow, I skated, I made friends. Now it's my turn to sleep.\"\n\nUlises ruffled his feathers, pleased.\n\n\"Hoooo... that, Bruno, is called growing up.\"\n\nLila gave him a hare hug, which are quick hugs. Tomas gave him a pine nut for the road. Bruno promised to come back in spring.",
-      "ambient": "forest_birds",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "breathed",
@@ -143,7 +149,7 @@
     {
       "id": "s10",
       "text": "The walk home was slow and lovely. Bruno left great big round footprints, and inside each one a little blue shadow gathered.\n\nGrandmother Rosalinda didn't even move when he came in. Bruno arranged the dry leaves, turned around three times on his bed of moss, the way bears do, and lay down with his belly facing up.\n\nFrom the mouth of the cave he could see a small piece of sky. The moon was there, white and calm, and the snow was shining as if somebody had saved the whole day on the ground so that it would not be lost.\n\nBruno closed his eyes. He thought about the ice, about the laughing, about the tail of Tomas. He thought that winter was even more beautiful than everyone had told him.\n\nAnd very slowly, very warmly, the first snore of the year slipped out of him.\n\nOutside it kept snowing. Inside, a happy bear slept until spring.",
-      "ambient": "forest_night",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "moon",

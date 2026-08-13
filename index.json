@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1785254969490,
-  "publishedAt": "2026-07-28T16:09:29.490Z",
+  "manifestVersion": 1786646505898,
+  "publishedAt": "2026-08-13T18:41:45.898Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
     "en",
@@ -549,7 +549,7 @@
     },
     {
       "id": "astronauta-en-pijama",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -567,7 +567,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "space_dream",
+      "music": "guitar_warm",
       "tags": [
         "luna",
         "estrellas",
@@ -577,7 +577,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/space_dream"
+        "music/guitar_warm"
       ],
       "preview": {
         "es": {
@@ -592,7 +592,7 @@
     },
     {
       "id": "dino-que-le-tenia-miedo-al-charco",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -610,7 +610,7 @@
         "valores"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "ukulele_happy",
       "tags": [
         "dinosaurio",
         "miedo",
@@ -620,7 +620,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/ukulele_happy"
       ],
       "preview": {
         "es": {
@@ -635,7 +635,7 @@
     },
     {
       "id": "dos-caracoles-y-una-carrera",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -653,7 +653,7 @@
         "amistad"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "marimba_playful",
       "tags": [
         "caracoles",
         "amistad",
@@ -663,7 +663,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/marimba_playful"
       ],
       "preview": {
         "es": {
@@ -678,7 +678,7 @@
     },
     {
       "id": "el-arbol-de-los-abrazos",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -696,7 +696,7 @@
         "amistad"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "music_box",
       "tags": [
         "árbol",
         "abrazos",
@@ -706,7 +706,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano"
+        "music/music_box"
       ],
       "preview": {
         "es": {
@@ -721,7 +721,7 @@
     },
     {
       "id": "el-buho-dormilon",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -739,7 +739,7 @@
         "dormir"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "gentle_piano",
       "tags": [
         "búho",
         "hora de dormir",
@@ -749,7 +749,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/lullaby_piano"
+        "music/gentle_piano"
       ],
       "preview": {
         "es": {
@@ -764,7 +764,7 @@
     },
     {
       "id": "el-caballito-de-mar-perdido",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -782,7 +782,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "strings_hopeful",
       "tags": [
         "caballito de mar",
         "mar",
@@ -792,7 +792,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/adventure_soft"
+        "music/strings_hopeful"
       ],
       "preview": {
         "es": {
@@ -807,7 +807,7 @@
     },
     {
       "id": "el-cangrejo-que-caminaba-derecho",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -825,7 +825,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "marimba_playful",
       "tags": [
         "cangrejo",
         "playa",
@@ -835,7 +835,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/marimba_playful"
       ],
       "preview": {
         "es": {
@@ -850,7 +850,7 @@
     },
     {
       "id": "el-conejo-que-perdio-su-brinco",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -868,7 +868,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "harp_dreams",
       "tags": [
         "conejo",
         "amistad",
@@ -878,7 +878,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano"
+        "music/harp_dreams"
       ],
       "preview": {
         "es": {
@@ -893,7 +893,7 @@
     },
     {
       "id": "el-dinosaurio-que-guardaba-un-huevo",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -911,7 +911,7 @@
         "valores"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "guitar_warm",
       "tags": [
         "dinosaurios",
         "cuidar",
@@ -921,7 +921,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/adventure_soft"
+        "music/guitar_warm"
       ],
       "preview": {
         "es": {
@@ -936,7 +936,7 @@
     },
     {
       "id": "el-dragoncito-de-las-nubes",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -954,7 +954,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "marimba_playful",
       "tags": [
         "dragon",
         "nubes",
@@ -964,7 +964,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/adventure_soft"
+        "music/marimba_playful"
       ],
       "preview": {
         "es": {
@@ -979,7 +979,7 @@
     },
     {
       "id": "el-elefante-que-no-hacia-ruido",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -997,7 +997,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "strings_hopeful",
       "tags": [
         "elefante",
         "amistad",
@@ -1005,8 +1005,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano",
-        "ambient/forest_birds"
+        "music/strings_hopeful"
       ],
       "preview": {
         "es": {
@@ -1021,7 +1020,7 @@
     },
     {
       "id": "el-erizo-que-queria-abrazar",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1039,7 +1038,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "harp_dreams",
       "tags": [
         "erizo",
         "abrazo",
@@ -1049,7 +1048,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano"
+        "music/harp_dreams"
       ],
       "preview": {
         "es": {
@@ -1064,7 +1063,7 @@
     },
     {
       "id": "el-faro-que-guiaba-ballenas",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1082,7 +1081,7 @@
         "naturaleza"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "harp_dreams",
       "tags": [
         "faro",
         "ballenas",
@@ -1092,7 +1091,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano"
+        "music/harp_dreams"
       ],
       "preview": {
         "es": {
@@ -1107,7 +1106,7 @@
     },
     {
       "id": "el-gato-que-cruzo-la-ciudad",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1125,7 +1124,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "playful_flute",
+      "music": "adventure_soft",
       "tags": [
         "gatos",
         "ciudad",
@@ -1135,7 +1134,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/adventure_soft"
       ],
       "preview": {
         "es": {
@@ -1150,7 +1149,7 @@
     },
     {
       "id": "el-jardin-secreto-de-la-abuela",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1168,7 +1167,7 @@
         "naturaleza"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "guitar_warm",
       "tags": [
         "abuela",
         "jardin",
@@ -1178,7 +1177,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano"
+        "music/guitar_warm"
       ],
       "preview": {
         "es": {
@@ -1193,7 +1192,7 @@
     },
     {
       "id": "el-leon-cosquilloso",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1211,7 +1210,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "marimba_playful",
       "tags": [
         "león",
         "cosquillas",
@@ -1221,7 +1220,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/marimba_playful"
       ],
       "preview": {
         "es": {
@@ -1279,7 +1278,7 @@
     },
     {
       "id": "el-osito-y-la-tormenta",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1297,7 +1296,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "strings_hopeful",
       "tags": [
         "tormenta",
         "miedo",
@@ -1307,7 +1306,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/lullaby_piano"
+        "music/strings_hopeful"
       ],
       "preview": {
         "es": {
@@ -1322,7 +1321,7 @@
     },
     {
       "id": "el-oso-que-no-queria-hibernar",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1340,7 +1339,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "celesta_snow",
       "tags": [
         "oso",
         "invierno",
@@ -1350,7 +1349,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/celesta_snow"
       ],
       "preview": {
         "es": {
@@ -1365,7 +1364,7 @@
     },
     {
       "id": "el-pinguino-que-no-tenia-frio",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1408,7 +1407,7 @@
     },
     {
       "id": "el-tesoro-del-arroyo",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1426,7 +1425,7 @@
         "familia"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "guitar_warm",
       "tags": [
         "hermanos",
         "mapa",
@@ -1436,7 +1435,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/adventure_soft"
+        "music/guitar_warm"
       ],
       "preview": {
         "es": {
@@ -1451,7 +1450,7 @@
     },
     {
       "id": "el-tren-de-los-suenos",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1469,7 +1468,7 @@
         "aventuras"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "music_box",
       "tags": [
         "tren",
         "sueños",
@@ -1479,7 +1478,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/lullaby_piano"
+        "music/music_box"
       ],
       "preview": {
         "es": {
@@ -1494,7 +1493,7 @@
     },
     {
       "id": "estrella-fugaz-y-timida",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1512,7 +1511,7 @@
         "dormir"
       ],
       "mood": "magico",
-      "music": "space_dream",
+      "music": "music_box",
       "tags": [
         "estrella fugaz",
         "valentía",
@@ -1522,7 +1521,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/space_dream"
+        "music/music_box"
       ],
       "preview": {
         "es": {
@@ -1537,7 +1536,7 @@
     },
     {
       "id": "la-biblioteca-de-medianoche",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1555,7 +1554,7 @@
         "aventuras"
       ],
       "mood": "magico",
-      "music": "space_dream",
+      "music": "music_box",
       "tags": [
         "biblioteca",
         "libros",
@@ -1565,7 +1564,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/space_dream"
+        "music/music_box"
       ],
       "preview": {
         "es": {
@@ -1580,7 +1579,7 @@
     },
     {
       "id": "la-brujita-buena",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1598,7 +1597,7 @@
         "amistad"
       ],
       "mood": "magico",
-      "music": "playful_flute",
+      "music": "harp_dreams",
       "tags": [
         "brujita",
         "gato",
@@ -1608,7 +1607,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/harp_dreams"
       ],
       "preview": {
         "es": {
@@ -1623,7 +1622,7 @@
     },
     {
       "id": "la-carrera-de-los-farolillos",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1641,7 +1640,7 @@
         "amistad"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "guitar_warm",
       "tags": [
         "farolillos",
         "montaña",
@@ -1651,7 +1650,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/adventure_soft"
+        "music/guitar_warm"
       ],
       "preview": {
         "es": {
@@ -1666,7 +1665,7 @@
     },
     {
       "id": "la-flor-que-cantaba",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1683,7 +1682,7 @@
         "naturaleza"
       ],
       "mood": "magico",
-      "music": "gentle_piano",
+      "music": "space_dream",
       "tags": [
         "flores",
         "jardín",
@@ -1693,7 +1692,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano"
+        "music/space_dream"
       ],
       "preview": {
         "es": {
@@ -1708,7 +1707,7 @@
     },
     {
       "id": "la-gotita-que-queria-ser-mar",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1751,7 +1750,7 @@
     },
     {
       "id": "la-hormiga-y-la-miga-gigante",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1769,7 +1768,7 @@
         "valores"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "marimba_playful",
       "tags": [
         "hormigas",
         "trabajo en equipo",
@@ -1778,7 +1777,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/marimba_playful"
       ],
       "preview": {
         "es": {
@@ -1793,7 +1792,7 @@
     },
     {
       "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1811,7 +1810,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "guitar_warm",
       "tags": [
         "luciérnaga",
         "bosque",
@@ -1821,7 +1820,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/lullaby_piano"
+        "music/guitar_warm"
       ],
       "preview": {
         "es": {
@@ -1836,7 +1835,7 @@
     },
     {
       "id": "la-luna-le-canta-al-nino",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1854,7 +1853,7 @@
         "familia"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "harp_dreams",
       "tags": [
         "luna",
         "dormir",
@@ -1864,7 +1863,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/lullaby_piano"
+        "music/harp_dreams"
       ],
       "preview": {
         "es": {
@@ -1879,7 +1878,7 @@
     },
     {
       "id": "la-nave-de-caramelo",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1897,7 +1896,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "space_dream",
+      "music": "ukulele_happy",
       "tags": [
         "espacio",
         "caramelo",
@@ -1907,7 +1906,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/space_dream"
+        "music/ukulele_happy"
       ],
       "preview": {
         "es": {
@@ -1922,7 +1921,7 @@
     },
     {
       "id": "la-noche-que-nevo-en-el-desierto",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1940,7 +1939,7 @@
         "familia"
       ],
       "mood": "magico",
-      "music": "space_dream",
+      "music": "celesta_snow",
       "tags": [
         "nieve",
         "desierto",
@@ -1950,7 +1949,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/space_dream"
+        "music/celesta_snow"
       ],
       "preview": {
         "es": {
@@ -1965,7 +1964,7 @@
     },
     {
       "id": "la-nube-que-queria-colores",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -1983,7 +1982,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "ukulele_happy",
       "tags": [
         "nube",
         "colores",
@@ -1991,7 +1990,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/playful_flute"
+        "music/ukulele_happy"
       ],
       "preview": {
         "es": {
@@ -2006,7 +2005,7 @@
     },
     {
       "id": "la-princesa-ingeniera",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -2092,7 +2091,7 @@
     },
     {
       "id": "la-semilla-valiente",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -2110,7 +2109,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "music_box",
       "tags": [
         "semilla",
         "valentía",
@@ -2120,7 +2119,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/gentle_piano"
+        "music/music_box"
       ],
       "preview": {
         "es": {
@@ -2135,7 +2134,7 @@
     },
     {
       "id": "mision-a-la-luna-de-hielo",
-      "version": 1,
+      "version": 2,
       "locales": [
         "es",
         "en"
@@ -2153,7 +2152,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "space_dream",
+      "music": "celesta_snow",
       "tags": [
         "espacio",
         "cohete",
@@ -2163,7 +2162,7 @@
       ],
       "premium": false,
       "preload": [
-        "music/space_dream"
+        "music/celesta_snow"
       ],
       "preview": {
         "es": {
@@ -2185,14 +2184,39 @@
         "url": "audio/music/adventure_soft.mp3"
       },
       {
+        "id": "celesta_snow",
+        "version": 1,
+        "url": "audio/music/celesta_snow.mp3"
+      },
+      {
         "id": "gentle_piano",
         "version": 1,
         "url": "audio/music/gentle_piano.mp3"
       },
       {
+        "id": "guitar_warm",
+        "version": 1,
+        "url": "audio/music/guitar_warm.mp3"
+      },
+      {
+        "id": "harp_dreams",
+        "version": 1,
+        "url": "audio/music/harp_dreams.mp3"
+      },
+      {
         "id": "lullaby_piano",
         "version": 1,
         "url": "audio/music/lullaby_piano.mp3"
+      },
+      {
+        "id": "marimba_playful",
+        "version": 1,
+        "url": "audio/music/marimba_playful.mp3"
+      },
+      {
+        "id": "music_box",
+        "version": 1,
+        "url": "audio/music/music_box.mp3"
       },
       {
         "id": "playful_flute",
@@ -2203,9 +2227,29 @@
         "id": "space_dream",
         "version": 1,
         "url": "audio/music/space_dream.mp3"
+      },
+      {
+        "id": "strings_hopeful",
+        "version": 1,
+        "url": "audio/music/strings_hopeful.mp3"
+      },
+      {
+        "id": "ukulele_happy",
+        "version": 1,
+        "url": "audio/music/ukulele_happy.mp3"
       }
     ],
     "ambient": [
+      {
+        "id": "city_soft",
+        "version": 1,
+        "url": "audio/ambient/city_soft.mp3"
+      },
+      {
+        "id": "fireplace",
+        "version": 1,
+        "url": "audio/ambient/fireplace.mp3"
+      },
       {
         "id": "forest_birds",
         "version": 1,
@@ -2217,6 +2261,11 @@
         "url": "audio/ambient/forest_night.mp3"
       },
       {
+        "id": "meadow_day",
+        "version": 1,
+        "url": "audio/ambient/meadow_day.mp3"
+      },
+      {
         "id": "ocean_waves",
         "version": 1,
         "url": "audio/ambient/ocean_waves.mp3"
@@ -2225,6 +2274,21 @@
         "id": "rain",
         "version": 1,
         "url": "audio/ambient/rain.mp3"
+      },
+      {
+        "id": "snow_wind",
+        "version": 1,
+        "url": "audio/ambient/snow_wind.mp3"
+      },
+      {
+        "id": "stream_water",
+        "version": 1,
+        "url": "audio/ambient/stream_water.mp3"
+      },
+      {
+        "id": "underwater",
+        "version": 1,
+        "url": "audio/ambient/underwater.mp3"
       }
     ],
     "sfx": [
@@ -2239,6 +2303,11 @@
         "url": "audio/sfx/bee_buzz.mp3"
       },
       {
+        "id": "bell_soft",
+        "version": 1,
+        "url": "audio/sfx/bell_soft.mp3"
+      },
+      {
         "id": "breathe_in",
         "version": 1,
         "url": "audio/sfx/breathe_in.mp3"
@@ -2249,6 +2318,11 @@
         "url": "audio/sfx/bubbles.mp3"
       },
       {
+        "id": "campfire",
+        "version": 1,
+        "url": "audio/sfx/campfire.mp3"
+      },
+      {
         "id": "cat_meow",
         "version": 1,
         "url": "audio/sfx/cat_meow.mp3"
@@ -2257,6 +2331,11 @@
         "id": "crunch",
         "version": 1,
         "url": "audio/sfx/crunch.mp3"
+      },
+      {
+        "id": "dino_step",
+        "version": 1,
+        "url": "audio/sfx/dino_step.mp3"
       },
       {
         "id": "door_open",
@@ -2279,9 +2358,34 @@
         "url": "audio/sfx/giggle.mp3"
       },
       {
+        "id": "hammer_tap",
+        "version": 1,
+        "url": "audio/sfx/hammer_tap.mp3"
+      },
+      {
+        "id": "heartbeat_calm",
+        "version": 1,
+        "url": "audio/sfx/heartbeat_calm.mp3"
+      },
+      {
+        "id": "horse_gallop",
+        "version": 1,
+        "url": "audio/sfx/horse_gallop.mp3"
+      },
+      {
+        "id": "horse_neigh",
+        "version": 1,
+        "url": "audio/sfx/horse_neigh.mp3"
+      },
+      {
         "id": "leaves_rustle",
         "version": 1,
         "url": "audio/sfx/leaves_rustle.mp3"
+      },
+      {
+        "id": "magic_shimmer",
+        "version": 1,
+        "url": "audio/sfx/magic_shimmer.mp3"
       },
       {
         "id": "owl_hoot",
@@ -2289,9 +2393,29 @@
         "url": "audio/sfx/owl_hoot.mp3"
       },
       {
+        "id": "page_turn",
+        "version": 1,
+        "url": "audio/sfx/page_turn.mp3"
+      },
+      {
+        "id": "pop",
+        "version": 1,
+        "url": "audio/sfx/pop.mp3"
+      },
+      {
         "id": "rocket",
         "version": 1,
         "url": "audio/sfx/rocket.mp3"
+      },
+      {
+        "id": "seagulls",
+        "version": 1,
+        "url": "audio/sfx/seagulls.mp3"
+      },
+      {
+        "id": "sneeze_cute",
+        "version": 1,
+        "url": "audio/sfx/sneeze_cute.mp3"
       },
       {
         "id": "snore_soft",
@@ -2312,6 +2436,11 @@
         "id": "thunder",
         "version": 1,
         "url": "audio/sfx/thunder.mp3"
+      },
+      {
+        "id": "train_soft",
+        "version": 1,
+        "url": "audio/sfx/train_soft.mp3"
       },
       {
         "id": "twinkle",
@@ -2337,6 +2466,11 @@
         "id": "whoosh",
         "version": 1,
         "url": "audio/sfx/whoosh.mp3"
+      },
+      {
+        "id": "wind_chimes",
+        "version": 1,
+        "url": "audio/sfx/wind_chimes.mp3"
       },
       {
         "id": "wind_high",

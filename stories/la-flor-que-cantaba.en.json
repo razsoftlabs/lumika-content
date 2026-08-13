@@ -2,7 +2,7 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Flower That Sang",
   "summary": "A little flower far too shy to sing hides a tiny voice the whole garden just might need to hear.",
   "scenes": [
@@ -33,6 +33,10 @@
         {
           "anchor": "star",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -48,6 +52,10 @@
         {
           "anchor": "breathed",
           "sfx": "breathe_in"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "anchor": "bees",
           "sfx": "bee_buzz"
+        },
+        {
+          "anchor": "magic",
+          "sfx": "magic_shimmer"
         }
       ]
     },
@@ -78,6 +90,10 @@
         {
           "anchor": "whispered",
           "sfx": "whisper"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     }

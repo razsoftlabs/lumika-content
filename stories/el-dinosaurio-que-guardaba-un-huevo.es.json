@@ -2,7 +2,7 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El dinosaurio que guardaba un huevo",
   "summary": "Tobi encuentra un huevo solito junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda.",
   "scenes": [
@@ -18,13 +18,17 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "dinosaurio",
+          "sfx": "dino_step"
         }
       ]
     },
     {
       "id": "s2",
       "text": "Esa mañana, Tobi caminó un poquito más lejos que de costumbre, siguiendo el sonido del agua. El arroyo brillaba entre las piedras y le hacía cosquillas en las patas. De pronto, entre dos rocas mojadas, vio algo que no era una piedra. Era redondo, del color de la arena, con manchitas cafés. Era un huevo. Tobi acercó el hocico y lo olió: olía a musgo, a río y a algo tibio. Miró hacia un lado. Miró hacia el otro. No había nadie. Ni una mamá, ni un papá, ni una sola huella. Solo el huevo, solito, en un huequito de tierra húmeda. Tobi se quedó muy quieto, tan quieto que hasta las libélulas se le acercaron. Y entonces escuchó un susurro chiquitito, tan suave que pudo haber sido el viento. Pero Tobi supo, en el fondo de su barriga, que dentro de ese huevo había alguien esperando.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "agua",
@@ -70,7 +74,7 @@
     {
       "id": "s5",
       "text": "Al otro día, Tobi empezó a aprender. Primero probó dejar el huevo al sol, pero el sol se fue moviendo y el huevo quedó a la sombra, frío como una piedra del arroyo. Después probó taparlo con hojas secas, pero el aire se las llevó volando. Se le hizo un nudito en la garganta. Entonces la abuela Duna le enseñó el secreto: 'Mira bien. Hojas abajo, tierra tibia a los lados, y tu cuerpo arriba. Y respira despacio, así, para que el huevo aprenda tu ritmo'. Tobi respiró hondo, muy hondo, y sintió cómo el huevo subía y bajaba con su pecho. Aprendió a girarlo cada rato, con muchísimo cuidado, para que se calentara por todos lados. Aprendió a escuchar. Y una tarde, con la oreja pegada a la cáscara, oyó un crujido finito, chiquitito. Tobi sonrió tanto que le brillaron los ojos.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "respira",
@@ -168,6 +172,10 @@
         {
           "anchor": "corrió",
           "sfx": "whoosh"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

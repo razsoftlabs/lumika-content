@@ -2,7 +2,7 @@
   "id": "el-caballito-de-mar-perdido",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Lost Little Seahorse",
   "summary": "When some playful bubbles carry him far from home, a little seahorse discovers that the ocean is full of friends ready to help.",
   "scenes": [
@@ -59,6 +59,10 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

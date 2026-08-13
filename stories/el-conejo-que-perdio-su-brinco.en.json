@@ -2,14 +2,14 @@
   "id": "el-conejo-que-perdio-su-brinco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The rabbit who lost his hop",
   "summary": "One morning, Tobi the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?",
   "scenes": [
     {
       "id": "s1",
       "text": "That morning, Tobi the little rabbit opened the door of his burrow and sighed. He almost always came out hopping, but today his little legs felt heavy, heavy. He didn't feel like jumping. Outside, the breeze moved the leaves with a soft rustle, and the meadow waited for him, golden with sun. Tobi only took one small step and sat down. “Where did my hop go?” he wondered, looking at his feet. In his heart there was a little gray cloud. And he didn't know how to push it aside.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "door",
@@ -18,6 +18,10 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -52,7 +56,7 @@
     {
       "id": "s4",
       "text": "The sun was high now and the warm wind stroked his ears. The bee, the frog, and Tobi played among the flowers all morning. And then, without thinking, a hop popped right out of Tobi. A tiny one! Then a bigger one, and another, and another. His little legs didn't feel heavy anymore: they were flying. The little rabbit laughed a big, round laugh, the laugh he had lost. “My hop came back!” he cried happily. His friends hopped with him, and the whole meadow seemed to laugh too, swaying with the wind.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "laughed",

@@ -2,7 +2,7 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El faro que guiaba ballenas",
   "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo, hasta que una noche de niebla descubre quién espera su luz.",
   "scenes": [
@@ -48,6 +48,10 @@
         {
           "anchor": "estrella",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -93,6 +97,10 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -140,6 +148,10 @@
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
+        },
+        {
+          "anchor": "campanas",
+          "sfx": "bell_soft"
         }
       ]
     },

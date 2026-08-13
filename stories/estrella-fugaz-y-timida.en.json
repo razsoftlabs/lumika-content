@@ -2,7 +2,7 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "Chispa, the Shy Shooting Star",
   "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish.",
   "scenes": [
@@ -60,6 +60,10 @@
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -75,6 +79,10 @@
         {
           "anchor": "whispered",
           "sfx": "whisper"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     }

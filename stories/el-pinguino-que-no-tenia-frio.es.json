@@ -2,13 +2,14 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El pingüino que no tenía frío",
   "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?",
   "scenes": [
     {
       "id": "s1",
       "text": "En un lugar de hielo y nieve blanca vivía un pingüino llamado Pip. Todos sus amigos jugaban felices en el frío. Se acurrucaban, temblaban un poquito y se reían. Pero Pip era distinto: Pip nunca, nunca tenía frío. Mientras los demás buscaban calor, él se abanicaba con un ala. '¡Uf, qué calor!', decía, soplando el flequillo de plumas. El viento helado pasaba silbando y a Pip le encantaba. Sus amigos no entendían nada, y cada vez que Pip resoplaba, todos soltaban una risa. Pip también reía, aunque por dentro deseaba, solo un poquito, poder enfriarse como los demás.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "viento",
@@ -23,6 +24,7 @@
     {
       "id": "s2",
       "text": "Un día, Pip tuvo una idea. Corrió hasta un charco de agua fría, brillante como un espejo. '¡Aquí me voy a enfriar!', gritó, y saltó con las dos patas. ¡Splash! El agua saltó por todas partes y mojó a tres pingüinos que pasaban. Pip se quedó sentado en el charco, muy orgulloso. Por un ratito se sintió fresquito y suspiró contento. Pero el sol asomó entre las nubes, y en un momentito Pip volvía a tener calor. '¿Otra vez?', dijo, chorreando agua. Sus amigos se rieron tanto que se cayeron de cola sobre la nieve.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "charco",
@@ -48,6 +50,7 @@
     {
       "id": "s4",
       "text": "'¡Ya sé! ¡Me haré mi propio viento!', pensó Pip. Subió a la colina más alta, se echó sobre la barriga y se deslizó. ¡Zuuum! Pip resbaló por la nieve más rápido que nunca. Sus plumas se agitaban, sus mejillas hacían cosquillas y el aire fresco lo abrazaba entero. '¡Esto sí funciona!', gritaba feliz. Bajó la colina una y otra vez, riendo a carcajadas. Pero al llegar abajo, calentito como una tostada, Pip se detuvo a pensar. Enfriarse era divertido… pero cansaba muchísimo. Se sentó en la nieve, un poco cansado y muy pensativo.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "resbaló",

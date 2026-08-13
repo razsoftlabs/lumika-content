@@ -2,7 +2,7 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La carrera de los farolillos",
   "summary": "En un pueblo de montaña, dos amigos rivales suben el sendero con sus farolillos de papel, sin saber que esta noche la carrera va a cambiar de reglas.",
   "scenes": [
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "Esa tarde, cada uno salió a buscar sus tesoros. Mila caminó hasta el bosque pisando hojas secas que crujían como galletas, y juntó ramitas finas de sauce, las más flexibles, las que se doblan sin romperse. Teo bajó al arroyo a cortar cañas y encontró, de paso, tres piedras planas para su colección. Se encontraron de vuelta en el sendero, cada uno con su montón de palitos abrazado al pecho. —¿Vas a hacerlo cuadrado otra vez? —preguntó Mila. —Voy a hacerlo mejor que el tuyo —dijo Teo. Y a Mila se le escapó una risa que sonó como agua saltando entre piedras. Después caminaron juntos un buen rato sin hablar, hombro con hombro, porque así caminan los amigos que también son rivales: peleando por delante y acompañándose por dentro. Al llegar a las casas, cada uno entró en la suya y no se dijeron buenas noches, sino: —Mañana. —Mañana.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "hojas",
@@ -94,6 +94,10 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -116,7 +120,7 @@
     {
       "id": "s8",
       "text": "Mila lo notó antes de verlo: dejó de oír la voz de Teo detrás de ella. Se dio vuelta. Allá abajo, en la curva del sendero, había un niño quieto junto a una estrella rota. Mila miró la Roca del Mirador, tan cerca que ya distinguía las caras de la gente esperando. Miró su farolillo azul, encendido, perfecto. Respiró hondo una vez, y otra vez. Y bajó. —Se rompió —dijo Teo sin levantar la cabeza. —Ya lo vi —dijo Mila. Y entonces hizo algo raro: puso la cesta azul justo entre los dos y la sostuvo con una sola mano. —Agarra del otro lado. —¿Y tu carrera? —Es nuestra carrera. En el arroyo, una rana cantó una nota redonda, como si estuviera de acuerdo. Teo levantó la mano despacito, todavía sin creerlo, y tomó el borde de la cesta. La lucecita, que hasta ese momento era de una sola persona, se puso a iluminar dos caras.",
-      "ambient": "forest_night",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "Respiró",

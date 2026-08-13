@@ -2,7 +2,7 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The hedgehog who wanted to hug",
   "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident.",
   "scenes": [
@@ -18,6 +18,10 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -48,6 +52,10 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "anchor": "giggle",
           "sfx": "giggle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

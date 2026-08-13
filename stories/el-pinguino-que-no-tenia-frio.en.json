@@ -2,13 +2,14 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Penguin Who Was Never Cold",
   "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?",
   "scenes": [
     {
       "id": "s1",
       "text": "In a land of ice and white snow lived a penguin named Pip. All his friends played happily in the cold. They huddled together, shivered a little, and laughed. But Pip was different: Pip was never, ever cold. While the others looked for warmth, he fanned himself with a wing. 'Phew, so hot!' he said, blowing the feathers off his forehead. The icy wind whistled past, and Pip loved it. His friends did not understand at all, and every time Pip puffed and huffed, they let out a giggle. Pip laughed too, though deep inside he wished, just a little, that he could cool off like everyone else.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "wind",
@@ -23,6 +24,7 @@
     {
       "id": "s2",
       "text": "One day, Pip had an idea. He ran to a puddle of cold water, shiny as a mirror. 'I'll cool down right here!' he shouted, and jumped in with both feet. Splash! The water flew everywhere and soaked three penguins walking by. Pip sat in the puddle, very proud of himself. For a little while he felt nice and cool, and he sighed happily. But the sun peeked out from the clouds, and in no time at all Pip was hot again. 'Again?' he said, dripping wet. His friends laughed so hard they toppled over onto the snow.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "puddle",
@@ -48,6 +50,7 @@
     {
       "id": "s4",
       "text": "'I've got it! I'll make my own wind!' thought Pip. He climbed the tallest hill, flopped onto his belly, and slid. Whoosh! Pip slid down the snow faster than ever before. His feathers fluttered, his cheeks tickled, and the cool air hugged him all over. 'Now this really works!' he cheered. He zoomed down the hill again and again, laughing out loud. But at the bottom, warm as toast, Pip stopped to think. Cooling off was fun… but oh, it was tiring. He sat down in the snow, a little sleepy and very thoughtful.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "slid",

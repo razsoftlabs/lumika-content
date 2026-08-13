@@ -2,7 +2,7 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Little Cloud Dragon",
   "summary": "High on the mountain lives a dragon unlike any other: what will come from his mouth when the village needs him most?",
   "scenes": [
@@ -42,6 +42,10 @@
         {
           "anchor": "flew",
           "sfx": "whoosh"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

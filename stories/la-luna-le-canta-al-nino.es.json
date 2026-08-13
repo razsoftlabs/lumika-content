@@ -2,7 +2,7 @@
   "id": "la-luna-le-canta-al-nino",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La luna le canta al niño",
   "summary": "Un niño que no quiere dormir descubre, de la mano de la luna, que cerrar los ojos es el comienzo de una aventura preciosa.",
   "scenes": [
@@ -47,6 +47,10 @@
         {
           "anchor": "olas",
           "sfx": "water_splash"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

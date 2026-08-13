@@ -2,7 +2,7 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Lantern Race",
   "summary": "In a mountain village, two rival friends climb the path with their paper lanterns, not knowing that tonight the race is going to change its rules.",
   "scenes": [
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "That afternoon, each of them went out to hunt for treasures. Mila walked to the woods, stepping on dry leaves that crackled like cookies, and gathered thin willow twigs, the bendiest ones, the ones that fold without breaking. Teo went down to the stream to cut reeds and found, along the way, three flat stones for his collection. They met again on the path, each one hugging a bundle of sticks against his chest. \"Are you making it square again?\" asked Mila. \"I'm making it better than yours,\" said Teo. And a laugh escaped Mila, a laugh that sounded like water hopping over stones. Then they walked along together for a good while without talking, shoulder to shoulder, because that is how friends who are also rivals walk: fighting on the outside and keeping each other company on the inside. At the houses, each one went in through his own gate, and instead of good night they said: \"Tomorrow.\" \"Tomorrow.\"",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "leaves",
@@ -94,6 +94,10 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -116,7 +120,7 @@
     {
       "id": "s8",
       "text": "Mila noticed it before she saw it: she stopped hearing Teo's voice behind her. She turned around. Down there, at the bend of the path, a boy was standing still beside a broken star. Mila looked at the Lookout Rock, so close that she could already make out the faces of the people waiting. She looked at her blue lantern, glowing, perfect. She breathed in deeply once, and then again. And she walked back down. \"It broke,\" said Teo without lifting his head. \"I saw,\" said Mila. And then she did something strange: she set the blue basket right between the two of them and held it with only one hand. \"Grab the other side.\" \"What about your race?\" \"It's our race.\" Down in the stream, a frog sang one round note, as if it agreed. Teo lifted his hand slowly, still not believing it, and took the rim of the basket. The little light, which until that moment belonged to one person, began to light up two faces.",
-      "ambient": "forest_night",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "breathed",

@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La biblioteca de medianoche",
   "summary": "Tomás se queda encerrado sin querer en la biblioteca del pueblo y descubre que, cuando el reloj da las doce, los libros no se quedan quietos.",
   "scenes": [
@@ -48,6 +48,10 @@
         {
           "anchor": "respiró",
           "sfx": "breathe_in"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -63,6 +67,10 @@
         {
           "anchor": "chispas",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "páginas",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -77,6 +85,10 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "página",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -105,6 +117,10 @@
         {
           "anchor": "susurro",
           "sfx": "whisper"
+        },
+        {
+          "anchor": "campanas",
+          "sfx": "bell_soft"
         }
       ]
     },
@@ -119,12 +135,17 @@
         {
           "anchor": "viento",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "páginas",
+          "sfx": "page_turn"
         }
       ]
     },
     {
       "id": "s9",
       "text": "Tomás se agachó y abrió el libro verde con mucho cuidado. Sobre las páginas apareció una niña de pelo corto y abrigo amarillo, tan finita que se le veía la luz por detrás. Traía un farol apagado en la mano. —Hola —dijo Tomás—. Yo soy Tomás. ¿Por qué lloras? —Me llamo Lira —contestó ella, secándose la cara con la manga—. Y no puedo terminar mi historia. Nadia pasó el libro hasta el final y se quedó quieta. Después del capítulo diez no había nada: solo un borde rasgado y olor a papel viejo. —Le faltan las últimas páginas —dijo despacio. —Alguien las arrancó hace muchísimo —susurró Lira—. Yo caminé por la nieve, crucé el bosque, aprendí a remar en el agua fría... y me quedé aquí, a un pasito del final. Cada noche llego hasta el borde y ya no hay camino para seguir.",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "susurró",
@@ -133,6 +154,10 @@
         {
           "anchor": "agua",
           "sfx": "water_splash"
+        },
+        {
+          "anchor": "páginas",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -148,6 +173,10 @@
         {
           "anchor": "ballena",
           "sfx": "whale_song"
+        },
+        {
+          "anchor": "páginas",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -162,6 +191,10 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "páginas",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -207,6 +240,10 @@
         {
           "anchor": "voló",
           "sfx": "whoosh"
+        },
+        {
+          "anchor": "página",
+          "sfx": "page_turn"
         }
       ]
     },
@@ -222,6 +259,10 @@
         {
           "anchor": "durmió",
           "sfx": "snore_soft"
+        },
+        {
+          "anchor": "páginas",
+          "sfx": "page_turn"
         }
       ]
     }

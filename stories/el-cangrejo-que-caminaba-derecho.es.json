@@ -2,7 +2,7 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El cangrejo que caminaba derecho",
   "summary": "Kiko el cangrejito quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa.",
   "scenes": [
@@ -44,6 +44,10 @@
         {
           "anchor": "estrella",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -59,6 +63,10 @@
         {
           "anchor": "pasitos",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -74,6 +82,10 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "mágico",
+          "sfx": "magic_shimmer"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The crab who wanted to walk straight",
   "summary": "Kiko the little crab wants to walk straight like everyone else, until he discovers that his own way of moving hides a surprise.",
   "scenes": [
@@ -44,6 +44,10 @@
         {
           "anchor": "starfish",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -59,6 +63,10 @@
         {
           "anchor": "steps",
           "sfx": "footsteps"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -74,6 +82,10 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "magic",
+          "sfx": "magic_shimmer"
         }
       ]
     }

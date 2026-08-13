@@ -2,7 +2,7 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Little Drop Who Wanted to Be the Sea",
   "summary": "A little raindrop dreams of being as big as the sea and sets off on a journey to find out.",
   "scenes": [
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "The little drop fell into a mountain stream and splashed with a cheerful plink! The water was cool and sang among the stones. “Where am I?” she asked, a little dizzy. From a green leaf, a frog with big eyes greeted her: “You're in the stream, little drop. Where are you going?”. “I'm going to be the sea,” she answered proudly. The frog smiled and said: “Then let yourself go, for the water always knows the way.” And so the little drop joined the other drops, and all together they began to run, light and quick, down the mountain.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "splashed",
@@ -39,7 +39,7 @@
     {
       "id": "s3",
       "text": "The stream grew into a river, wide and calm. There were more and more drops: they came from the rain, from the snow, from other rivers far away. The little drop was no longer alone. A bee buzzed past over the water, looking for flowers, and waved at them with her tiny wings. The drops told each other jokes and laughed together, and their laughter sounded like water leaping over stones. “We are so many,” thought the little drop, “but we are still one single thing.” And that idea, so simple and so big, filled her heart with warmth as the river carried her lovingly onward.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "bee",
@@ -48,6 +48,10 @@
         {
           "anchor": "laughter",
           "sfx": "giggle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

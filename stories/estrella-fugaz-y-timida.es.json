@@ -2,7 +2,7 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "Chispa, la estrella fugaz tímida",
   "summary": "Una estrellita tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
   "scenes": [
@@ -60,6 +60,10 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -75,6 +79,10 @@
         {
           "anchor": "susurró",
           "sfx": "whisper"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     }

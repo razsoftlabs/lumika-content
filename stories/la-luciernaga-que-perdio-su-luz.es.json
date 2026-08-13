@@ -2,14 +2,14 @@
   "id": "la-luciernaga-que-perdio-su-luz",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La luciérnaga que perdió su luz",
   "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la lucecita de Lumi no quiere encender.",
   "scenes": [
     {
       "id": "s1",
       "text": "En el corazón del bosque, donde los helechos crecen altos y el musgo es blando como una almohada, vivía una luciérnaga pequeñita que se llamaba Lumi. Cada noche, cuando el cielo se ponía morado y la luna asomaba entre las ramas, Lumi encendía su lucecita y volaba en círculos sobre el arroyo. Su luz era dorada y tibia, del color de la miel cuando le da el sol. Aquella noche el bosque entero olía a tierra mojada y a flores de saúco, y todos hablaban de lo mismo. —¡Faltan tres noches para la Fiesta de las Luces! —cantaban los grillos desde la hierba. Lumi dio una vuelta de alegría en el aire. La Fiesta de las Luces era la noche más bonita del año: todas las luciérnagas del bosque se juntaban en el prado y encendían sus luces al mismo tiempo, tantas que el claro parecía un cielo del revés, con estrellas que volaban entre la hierba.",
-      "ambient": "forest_night",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "luna",
@@ -18,6 +18,10 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -48,6 +52,10 @@
         {
           "anchor": "susurró",
           "sfx": "whisper"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -144,7 +152,7 @@
     {
       "id": "s10",
       "text": "Dejó al escarabajo en la puerta de su casita, entre las raíces, y volvió volando por el bosque con la luz encendida y el corazón enorme. Ya lo había entendido: su luz no se había roto nunca. Solo estaba esperando que ella dejara de mirarse a sí misma. Su luz encendía cuando ayudaba. La noche siguiente llegó la Fiesta de las Luces. Cientos de luciérnagas subieron al prado y encendieron todas juntas, y el aire se llenó de puntitos dorados que subían y bajaban como una respiración. Lumi brilló en la primera fila, al lado de su mamá, con la luz más tranquila y más tibia de todo el bosque. Cuando la fiesta terminó, voló a casa despacito, se acomodó en el musgo blando y cerró los ojos. Afuera, un búho ululó suavecito. Lumi bostezó, dejó que su lucecita se fuera apagando sola, y se durmió.",
-      "ambient": "forest_night",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "búho",
@@ -153,6 +161,10 @@
         {
           "anchor": "durmió",
           "sfx": "snore_soft"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     }

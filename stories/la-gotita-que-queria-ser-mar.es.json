@@ -2,7 +2,7 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La gotita que quería ser mar",
   "summary": "Una gotita de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo.",
   "scenes": [
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "La gotita cayó en un arroyo de montaña y salpicó con un ¡plic! muy alegre. El agua estaba fresquita y cantaba entre las piedras. “¿Dónde estoy?”, preguntó, un poquito mareada. Desde una hoja verde, una rana de ojos grandes la saludó: “Estás en el arroyo, gotita. ¿A dónde vas?”. “Voy a ser el mar”, respondió ella con orgullo. La rana sonrió y le dijo: “Entonces déjate llevar, que el agua siempre sabe el camino”. Y así, la gotita se unió a las otras gotas, y todas juntas empezaron a correr, ligeras, montaña abajo.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "salpicó",
@@ -39,7 +39,7 @@
     {
       "id": "s3",
       "text": "El arroyo se hizo río, ancho y tranquilo. Cada vez había más gotas: venían de la lluvia, de la nieve, de otros ríos lejanos. La gotita ya no estaba sola. Una abeja pasó zumbando sobre el agua, buscando flores, y las saludó con sus alitas. Las gotas se contaban chistes y se reían juntas, y su risa sonaba como el agua saltando sobre las piedras. “Somos muchas”, pensó la gotita, “pero seguimos siendo una sola cosa”. Y esa idea, tan sencilla y tan grande, le llenó el corazón de calorcito mientras el río la llevaba con cariño hacia adelante.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "abeja",
@@ -48,6 +48,10 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Cloud Who Wanted Colors",
   "summary": "Cloud is white and longs to be colorful. A mischievous rain shower shows her where rainbows come from.",
   "scenes": [
@@ -28,6 +28,10 @@
         {
           "anchor": "drops",
           "sfx": "water_splash"
+        },
+        {
+          "anchor": "magical",
+          "sfx": "magic_shimmer"
         }
       ]
     },

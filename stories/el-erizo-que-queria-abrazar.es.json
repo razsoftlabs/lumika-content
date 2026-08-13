@@ -2,7 +2,7 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El erizo que quería abrazar",
   "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer.",
   "scenes": [
@@ -18,6 +18,10 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -48,6 +52,10 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "anchor": "risita",
           "sfx": "giggle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

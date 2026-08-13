@@ -2,7 +2,7 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El tesoro del arroyo",
   "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa dibujado a mano por su abuelo, y al amanecer salen al bosque a descubrir qué esconde la X junto al arroyo.",
   "scenes": [
@@ -39,6 +39,7 @@
     {
       "id": "s3",
       "text": "Desplegaron el papel en el suelo con mucho cuidado, como si fuera una mariposa. No era un mapa de librería: estaba dibujado a mano, con lápiz gastado y algo de color. Se veían pinos torcidos, un puente de troncos y una línea azul que serpenteaba: un arroyo. Y al final, junto a un árbol grandote, una X roja con una estrella al lado. Abajo, con letra grande, decía: 'Para quien tenga el corazón valiente. Ramón, 9 años'. '¡Es la letra del abuelo!', dijo Mateo, y su voz se convirtió en un susurro. 'El abuelo escondió un tesoro cuando era niño'. Nina pasó el dedo por la línea azul. 'Este es el arroyo Cantarín. Está detrás del bosque. Papá nos llevó una vez'. Beto miró la X muy serio, con los ojos enormes, y dijo la idea más grande de su vida: '¿Y si vamos a buscarlo? Mañana'.",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "estrella",
@@ -47,6 +48,10 @@
         {
           "anchor": "susurro",
           "sfx": "whisper"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
@@ -67,7 +72,7 @@
     {
       "id": "s5",
       "text": "El cielo estaba apenas rosado cuando salieron. El aire olía a tierra mojada y todo brillaba de rocío, como si la lluvia hubiera dejado el mundo recién lavado. Dejaron una nota sobre la mesa: 'Fuimos a una misión importante. Volvemos para el almuerzo. Los queremos'. Cruzaron el prado con las botas húmedas y entraron al bosque por el sendero de siempre. Sus pasos hacían un ruidito blando sobre la tierra oscura. Arriba, los pájaros se despertaban uno por uno: primero un silbido corto, después otro, hasta que el bosque entero se puso a cantar. Un viento tibio movió las ramas más altas y les revolvió el pelo. Beto caminaba en el medio, agarrado de la mano de Nina, mirando todo con la boca abierta. '¿Falta mucho?', preguntó. 'Falta lo justo', contestó Mateo, y miró el mapa como un capitán mira el mar.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "viento",
@@ -82,7 +87,7 @@
     {
       "id": "s6",
       "text": "El bosque era alto, verde y fresco. Los pinos dejaban pasar el sol en rayas doradas y en el suelo crecían helechos que les llegaban a las rodillas. Nina iba pisando las hojas secas solo para escucharlas crujir. Mateo marcaba el camino atando trocitos de cordel en las ramas, igual que en los libros de aventuras. De pronto Beto se detuvo y levantó un dedo. '¡Escuchen!'. Muy despacito, entre los cantos de los pájaros, apareció otro sonido: un chapoteo alegre, un murmullo que no paraba nunca. Corrieron los últimos metros y ahí estaba, al fondo de una bajadita, el agua clarita saltando entre las piedras redondas. 'El arroyo Cantarín', dijo Nina, casi sin aire. Se agacharon a mojarse las manos y estaba tan fría que les dio risa. El mapa del abuelo, de repente, ya no parecía un dibujo viejo: parecía una promesa.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "hojas",
@@ -97,7 +102,7 @@
     {
       "id": "s7",
       "text": "El mapa decía que la primera pista estaba 'donde el agua se sienta a descansar'. Buscaron un buen rato, hasta que Nina descubrió un remanso quietito, con forma de plato, donde el arroyo se calmaba y el cielo se reflejaba entero. Y ahí, medio tapada de musgo, había una piedra plana con un sol amarillo pintado encima. La pintura estaba viejísima, gastada por muchas lluvias, pero todavía se veía. '¡Lo pintó el abuelo!', gritó Mateo. Sobre la piedra había una rana verde, sentada como una guardiana. Croó una vez, dio un salto y desapareció en el agua. Junto a la piedra, alguien había puesto guijarros en fila, formando una flecha que apuntaba río arriba. Una abeja pasó zumbando entre las flores de la orilla, ocupada en sus propias cosas. 'Por aquí', dijo Mateo, y siguieron la flecha con el corazón haciendo tuc-tuc-tuc de pura emoción.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "rana",
@@ -112,6 +117,7 @@
     {
       "id": "s8",
       "text": "Más adelante, el arroyo se ensanchaba y no había ningún puente. Solo unas piedras grandes, mojadas y resbalosas, asomando como espaldas de tortuga. 'Yo voy primero', dijo Mateo. 'Pisen donde piso yo'. Fue pasando despacio, con los brazos abiertos como un equilibrista de circo. Nina lo siguió, contando cada piedra en voz alta: 'una, dos, tres...'. Beto llegó al medio y se quedó quieto, con la nariz arrugada. 'Está lejos', dijo bajito. 'Estoy aquí', contestó Nina, y le estiró la mano. Beto saltó, casi lo logra, y su bota izquierda cayó justo en un charco. ¡Plaf! El agua salpicó para todos lados y le mojó hasta la oreja. Hubo un segundo de silencio. Y después llegó la risa: primero Beto, después Nina, después Mateo, los tres doblados de la risa en la orilla, con una bota chorreando y el sol calentándoles la espalda.",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "charco",
@@ -126,6 +132,7 @@
     {
       "id": "s9",
       "text": "Pero después del arroyo el camino se partió en dos y el mapa no ayudó nada: la línea azul del abuelo terminaba en un borrón, como si el lápiz se hubiera cansado. 'Es por la izquierda', dijo Mateo. 'Es por la derecha', dijo Nina. 'Se ve el pino torcido del dibujo'. 'Ese pino no está torcido, está inclinado'. '¡Es lo mismo!'. Caminaron un rato para un lado, volvieron, caminaron para el otro. Empezaron a hablar más fuerte de lo necesario, y las palabras les salían con puntas. Un viento fresco bajó entre los árboles y una nube tapó el sol. Muy lejos, en alguna granja, ladró un perro. Beto se sentó en una raíz, abrazado a su conejo de trapo, y no dijo nada. Nadie le preguntó nada tampoco, porque los grandes estaban ocupadísimos discutiendo quién tenía razón. Y así, sin darse cuenta, los tres estaban perdidos y enojados.",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "viento",
@@ -140,6 +147,7 @@
     {
       "id": "s10",
       "text": "Mientras los dos grandes discutían, Beto se puso a mirar el suelo, que era lo que más le gustaba mirar. Y vio algo raro: entre las hojas secas asomaba una punta de piedra gris, demasiado prolija para ser casualidad. Apartó las hojas con la mano, despacio, como quien destapa un regalo. Debajo había tres piedras apiladas, una encima de la otra, y en la de arriba, rayado con un clavo, un solcito igual al de la orilla del arroyo. 'Mateo', susurró. 'Nina'. Nadie lo escuchó. Entonces Beto llenó el pecho de aire y lo dijo con toda su voz: '¡AQUÍ HAY UN SOL!'. Los dos grandes se dieron vuelta al mismo tiempo. Llegaron corriendo, se agacharon y miraron. Era verdad. Era la señal del abuelo, esperándolos desde hacía muchísimos años, justo al lado del sendero que ninguno de los dos había querido mirar.",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "hojas",
@@ -211,7 +219,7 @@
     {
       "id": "s15",
       "text": "Esa noche, después del baño y de la sopa, los tres se acostaron con las mejillas calentitas de sol y de aventura. La caja de lata quedó abierta en la mesita, con la canica azul arriba de todo. Por la ventana entraba la luna, redonda y tranquila, y su luz plateada dibujaba un caminito en el piso. 'Yo pensaba que el tesoro iban a ser monedas', dijo Beto, con la voz de dormido. 'Esto fue mejor', dijo Nina. 'Era el abuelo cuando era niño'. Mateo pensó un ratito y dijo la última verdad del día: 'El tesoro fue el día entero. Y nosotros tres'. Nube, el gato, se acomodó a los pies de la cama y empezó a ronronear despacio. Afuera, muy lejos, el arroyo seguía cantando su canción de siempre. Y antes de que la luna llegara a la pared, los tres ya estaban dormidos.",
-      "ambient": "forest_night",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "luna",

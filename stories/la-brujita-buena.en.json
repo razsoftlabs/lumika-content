@@ -2,7 +2,7 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The Good Little Witch",
   "summary": "Every one of little witch Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping.",
   "scenes": [
@@ -18,13 +18,17 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "magic",
+          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s2",
       "text": "That afternoon, Mila found some very sad bees. The wind had blown away all the petals, and there were no flowers left to visit. 'Don't cry, I'll help you,' said Mila. She raised her wand to make a jar of honey... but the spell hiccuped. Instead of honey, a warm, gentle wind blew out of her hat and scattered the seeds Mila kept in her pocket. Wherever a seed landed, pop!, a flower sprang up. Very soon the whole meadow filled with colors, and the bees buzzed with joy, flying from flower to flower.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "bees",
@@ -33,6 +37,10 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "spell",
+          "sfx": "magic_shimmer"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "magic",
+          "sfx": "magic_shimmer"
         }
       ]
     },
@@ -78,6 +90,10 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
+        },
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         }
       ]
     }

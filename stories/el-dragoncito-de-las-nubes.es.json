@@ -2,7 +2,7 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El dragoncito de las nubes",
   "summary": "En la montaña vive un dragón muy distinto a los demás: ¿qué saldrá de su boca cuando el pueblo más lo necesite?",
   "scenes": [
@@ -42,6 +42,10 @@
         {
           "anchor": "voló",
           "sfx": "whoosh"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 1,
+  "version": 2,
   "title": "The dino who was scared of the puddle",
   "summary": "The biggest dinosaur in the whole valley is terrified of the tiniest thing you can imagine.",
   "scenes": [
@@ -18,6 +18,10 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "dinosaur",
+          "sfx": "dino_step"
         }
       ]
     },
@@ -33,6 +37,10 @@
         {
           "anchor": "giggle",
           "sfx": "giggle"
+        },
+        {
+          "anchor": "dinosaur",
+          "sfx": "dino_step"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "anchor": "bubbles",
           "sfx": "bubbles"
+        },
+        {
+          "anchor": "dinosaur",
+          "sfx": "dino_step"
         }
       ]
     },

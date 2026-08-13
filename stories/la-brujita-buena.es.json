@@ -2,7 +2,7 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "La brujita buena",
   "summary": "Cada hechizo de la brujita Mila sale al revés, y su gato Tomás nunca sabe a quién van a terminar ayudando.",
   "scenes": [
@@ -18,13 +18,17 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "magia",
+          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s2",
       "text": "Esa tarde, Mila encontró a unas abejas muy tristes. El viento había volado todos los pétalos y ya no quedaban flores que visitar. 'No lloren, yo las ayudo', dijo Mila. Levantó su varita para hacer un tarro de miel... pero el hechizo hizo hipo. En vez de miel, un viento cálido y suave salió de su sombrero y esparció las semillas que Mila guardaba en el bolsillo. Donde caía cada semilla, ¡pop!, brotaba una flor. Muy pronto todo el prado se llenó de colores, y las abejas zumbaron de alegría, volando de flor en flor.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "abejas",
@@ -33,6 +37,10 @@
         {
           "anchor": "viento",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "hechizo",
+          "sfx": "magic_shimmer"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
+        },
+        {
+          "anchor": "magia",
+          "sfx": "magic_shimmer"
         }
       ]
     },
@@ -78,6 +90,10 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
+        },
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 2,
   "title": "El dino que le tenía miedo al charco",
   "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeñita que te puedas imaginar.",
   "scenes": [
@@ -18,6 +18,10 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
+        },
+        {
+          "anchor": "dinosaurio",
+          "sfx": "dino_step"
         }
       ]
     },
@@ -33,6 +37,10 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
+        },
+        {
+          "anchor": "dinosaurio",
+          "sfx": "dino_step"
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
+        },
+        {
+          "anchor": "dinosaurio",
+          "sfx": "dino_step"
         }
       ]
     },

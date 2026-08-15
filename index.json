@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786657118179,
-  "publishedAt": "2026-08-13T21:38:38.179Z",
+  "manifestVersion": 1786753209708,
+  "publishedAt": "2026-08-15T00:20:09.708Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
     "en",
@@ -50,6 +50,97 @@
         "en": {
           "title": "The fox and the moon",
           "summary": "A curious little fox wants to reach the moon and discovers something prettier on the way."
+        }
+      }
+    },
+    {
+      "id": "la-ballena-cantora",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-ballena-cantora.es.json",
+        "en": "stories/la-ballena-cantora.en.json"
+      },
+      "cover": "covers/la-ballena-cantora.webp",
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 6,
+      "categories": [
+        "animales",
+        "naturaleza",
+        "amistad"
+      ],
+      "mood": "calmado",
+      "music": "gentle_piano",
+      "tags": [
+        "océano",
+        "música",
+        "amistad",
+        "autoestima"
+      ],
+      "premium": false,
+      "preload": [
+        "music/gentle_piano",
+        "sfx/whale_song",
+        "sfx/bubbles"
+      ],
+      "preview": {
+        "es": {
+          "title": "La ballena cantora",
+          "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano."
+        },
+        "en": {
+          "title": "The little singing whale",
+          "summary": "A tiny whale discovers her voice is the most beautiful gift in the ocean."
+        }
+      }
+    },
+    {
+      "id": "el-dragon-que-olvidaba-volar",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/el-dragon-que-olvidaba-volar.es.json",
+        "en": "stories/el-dragon-que-olvidaba-volar.en.json"
+      },
+      "cover": "covers/el-dragon-que-olvidaba-volar.webp",
+      "ageMin": 4,
+      "ageMax": 9,
+      "durationMin": 6,
+      "categories": [
+        "valores",
+        "aventuras",
+        "mitos"
+      ],
+      "mood": "valores",
+      "music": "adventure_soft",
+      "tags": [
+        "dragón",
+        "paciencia",
+        "volar",
+        "calma"
+      ],
+      "premium": true,
+      "preload": [
+        "music/adventure_soft",
+        "sfx/whoosh",
+        "sfx/thud",
+        "sfx/sparkle"
+      ],
+      "preview": {
+        "es": {
+          "title": "El dragón que olvidaba volar",
+          "summary": "Un dragoncito nervioso aprende que con calma todo se logra."
+        },
+        "en": {
+          "title": "The dragon who forgot how to fly",
+          "summary": "A nervous little dragon learns that with calm, anything is possible."
         }
       }
     },
@@ -139,6 +230,229 @@
         "en": {
           "title": "The paper rocket",
           "summary": "Mateo builds a paper rocket and flies all the way to a yellow star."
+        }
+      }
+    },
+    {
+      "id": "la-noche-de-las-luciernagas",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-noche-de-las-luciernagas.es.json",
+        "en": "stories/la-noche-de-las-luciernagas.en.json"
+      },
+      "cover": "covers/la-noche-de-las-luciernagas.webp",
+      "ageMin": 3,
+      "ageMax": 6,
+      "durationMin": 4,
+      "categories": [
+        "dormir",
+        "naturaleza"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "noche",
+        "sueños",
+        "abuela"
+      ],
+      "premium": false,
+      "preload": [
+        "music/lullaby_piano",
+        "sfx/sparkle",
+        "sfx/twinkle"
+      ],
+      "preview": {
+        "es": {
+          "title": "La noche de las luciérnagas",
+          "summary": "Un cuento muy corto y calmado, perfecto para ojos pesados."
+        },
+        "en": {
+          "title": "The night of the fireflies",
+          "summary": "A very short and calm story, perfect for sleepy eyes."
+        }
+      }
+    },
+    {
+      "id": "la-tortuga-que-quiso-correr",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-tortuga-que-quiso-correr.es.json",
+        "en": "stories/la-tortuga-que-quiso-correr.en.json"
+      },
+      "cover": "covers/la-tortuga-que-quiso-correr.webp",
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 7,
+      "categories": [
+        "animales",
+        "valores"
+      ],
+      "mood": "valores",
+      "music": "playful_flute",
+      "tags": [
+        "paciencia",
+        "autoaceptación",
+        "ritmo"
+      ],
+      "premium": false,
+      "preload": [
+        "music/playful_flute",
+        "sfx/whoosh",
+        "sfx/thud",
+        "sfx/bee_buzz"
+      ],
+      "preview": {
+        "es": {
+          "title": "La tortuga que quiso correr",
+          "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es."
+        },
+        "en": {
+          "title": "The turtle who wanted to run",
+          "summary": "Tina the turtle learns that her pace is perfect just the way it is."
+        }
+      }
+    },
+    {
+      "id": "pancho-el-perro-valiente",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/pancho-el-perro-valiente.es.json",
+        "en": "stories/pancho-el-perro-valiente.en.json"
+      },
+      "cover": "covers/pancho-el-perro-valiente.webp",
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 6,
+      "categories": [
+        "animales",
+        "valores",
+        "amistad"
+      ],
+      "mood": "valores",
+      "music": "gentle_piano",
+      "tags": [
+        "valentía",
+        "ayudar",
+        "miedo"
+      ],
+      "premium": true,
+      "preload": [
+        "music/gentle_piano",
+        "sfx/thunder",
+        "sfx/bark",
+        "sfx/cat_meow"
+      ],
+      "preview": {
+        "es": {
+          "title": "Pancho el perro valiente",
+          "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante."
+        },
+        "en": {
+          "title": "Pancho the brave dog",
+          "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway."
+        }
+      }
+    },
+    {
+      "id": "rex-el-pequeno-dinosaurio",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/rex-el-pequeno-dinosaurio.es.json",
+        "en": "stories/rex-el-pequeno-dinosaurio.en.json"
+      },
+      "cover": "covers/rex-el-pequeno-dinosaurio.webp",
+      "ageMin": 3,
+      "ageMax": 7,
+      "durationMin": 6,
+      "categories": [
+        "dinosaurios",
+        "valores",
+        "amistad"
+      ],
+      "mood": "aventura",
+      "music": "adventure_soft",
+      "tags": [
+        "dinosaurio",
+        "fuerza",
+        "ayudar"
+      ],
+      "premium": true,
+      "preload": [
+        "music/adventure_soft",
+        "sfx/thud",
+        "sfx/breathe_in",
+        "sfx/whoosh"
+      ],
+      "preview": {
+        "es": {
+          "title": "Rex, el pequeño dinosaurio",
+          "summary": "Rex es chiquito pero tiene un rugido enorme que asusta hasta a las nubes."
+        },
+        "en": {
+          "title": "Rex, the little dinosaur",
+          "summary": "Rex is tiny but has a huge roar that scares even the clouds."
+        }
+      }
+    },
+    {
+      "id": "la-princesa-y-el-dragon-triston",
+      "version": 4,
+      "locales": [
+        "es",
+        "en"
+      ],
+      "json": {
+        "es": "stories/la-princesa-y-el-dragon-triston.es.json",
+        "en": "stories/la-princesa-y-el-dragon-triston.en.json"
+      },
+      "cover": "covers/la-princesa-y-el-dragon-triston.webp",
+      "ageMin": 4,
+      "ageMax": 8,
+      "durationMin": 7,
+      "categories": [
+        "princesas",
+        "mitos",
+        "amistad",
+        "valores"
+      ],
+      "mood": "magico",
+      "music": "adventure_soft",
+      "tags": [
+        "princesa",
+        "dragón",
+        "empatía"
+      ],
+      "premium": true,
+      "preload": [
+        "music/adventure_soft",
+        "sfx/thud",
+        "sfx/sparkle",
+        "sfx/twinkle"
+      ],
+      "preview": {
+        "es": {
+          "title": "La princesa y el dragón tristón",
+          "summary": "Una princesa descubre que el dragón rugía porque tenía una piedrita en la pata."
+        },
+        "en": {
+          "title": "The princess and the sad dragon",
+          "summary": "A princess discovers that the dragon was roaring because he had a thorn in his paw."
         }
       }
     },
@@ -526,52 +840,6 @@
         "en": {
           "title": "The Dinosaur Who Kept an Egg",
           "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can."
-        }
-      }
-    },
-    {
-      "id": "el-dragon-que-olvidaba-volar",
-      "version": 4,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/el-dragon-que-olvidaba-volar.es.json",
-        "en": "stories/el-dragon-que-olvidaba-volar.en.json"
-      },
-      "cover": "covers/el-dragon-que-olvidaba-volar.webp",
-      "ageMin": 4,
-      "ageMax": 9,
-      "durationMin": 6,
-      "categories": [
-        "valores",
-        "aventuras",
-        "mitos"
-      ],
-      "mood": "valores",
-      "music": "adventure_soft",
-      "tags": [
-        "dragón",
-        "paciencia",
-        "volar",
-        "calma"
-      ],
-      "premium": true,
-      "preload": [
-        "music/adventure_soft",
-        "sfx/whoosh",
-        "sfx/thud",
-        "sfx/sparkle"
-      ],
-      "preview": {
-        "es": {
-          "title": "El dragón que olvidaba volar",
-          "summary": "Un dragoncito nervioso aprende que con calma todo se logra."
-        },
-        "en": {
-          "title": "The dragon who forgot how to fly",
-          "summary": "A nervous little dragon learns that with calm, anything is possible."
         }
       }
     },
@@ -1222,51 +1490,6 @@
       }
     },
     {
-      "id": "la-ballena-cantora",
-      "version": 4,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/la-ballena-cantora.es.json",
-        "en": "stories/la-ballena-cantora.en.json"
-      },
-      "cover": "covers/la-ballena-cantora.webp",
-      "ageMin": 3,
-      "ageMax": 7,
-      "durationMin": 6,
-      "categories": [
-        "animales",
-        "naturaleza",
-        "amistad"
-      ],
-      "mood": "calmado",
-      "music": "gentle_piano",
-      "tags": [
-        "océano",
-        "música",
-        "amistad",
-        "autoestima"
-      ],
-      "premium": false,
-      "preload": [
-        "music/gentle_piano",
-        "sfx/whale_song",
-        "sfx/bubbles"
-      ],
-      "preview": {
-        "es": {
-          "title": "La ballena cantora",
-          "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano."
-        },
-        "en": {
-          "title": "The little singing whale",
-          "summary": "A tiny whale discovers her voice is the most beautiful gift in the ocean."
-        }
-      }
-    },
-    {
       "id": "la-biblioteca-de-medianoche",
       "version": 2,
       "locales": [
@@ -1652,49 +1875,6 @@
       }
     },
     {
-      "id": "la-noche-de-las-luciernagas",
-      "version": 4,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/la-noche-de-las-luciernagas.es.json",
-        "en": "stories/la-noche-de-las-luciernagas.en.json"
-      },
-      "cover": "covers/la-noche-de-las-luciernagas.webp",
-      "ageMin": 3,
-      "ageMax": 6,
-      "durationMin": 4,
-      "categories": [
-        "dormir",
-        "naturaleza"
-      ],
-      "mood": "calmado",
-      "music": "lullaby_piano",
-      "tags": [
-        "noche",
-        "sueños",
-        "abuela"
-      ],
-      "premium": false,
-      "preload": [
-        "music/lullaby_piano",
-        "sfx/sparkle",
-        "sfx/twinkle"
-      ],
-      "preview": {
-        "es": {
-          "title": "La noche de las luciérnagas",
-          "summary": "Un cuento muy corto y calmado, perfecto para ojos pesados."
-        },
-        "en": {
-          "title": "The night of the fireflies",
-          "summary": "A very short and calm story, perfect for sleepy eyes."
-        }
-      }
-    },
-    {
       "id": "la-noche-que-nevo-en-el-desierto",
       "version": 2,
       "locales": [
@@ -1865,52 +2045,6 @@
       }
     },
     {
-      "id": "la-princesa-y-el-dragon-triston",
-      "version": 4,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/la-princesa-y-el-dragon-triston.es.json",
-        "en": "stories/la-princesa-y-el-dragon-triston.en.json"
-      },
-      "cover": "covers/la-princesa-y-el-dragon-triston.webp",
-      "ageMin": 4,
-      "ageMax": 8,
-      "durationMin": 7,
-      "categories": [
-        "princesas",
-        "mitos",
-        "amistad",
-        "valores"
-      ],
-      "mood": "magico",
-      "music": "adventure_soft",
-      "tags": [
-        "princesa",
-        "dragón",
-        "empatía"
-      ],
-      "premium": true,
-      "preload": [
-        "music/adventure_soft",
-        "sfx/thud",
-        "sfx/sparkle",
-        "sfx/twinkle"
-      ],
-      "preview": {
-        "es": {
-          "title": "La princesa y el dragón tristón",
-          "summary": "Una princesa descubre que el dragón rugía porque tenía una piedrita en la pata."
-        },
-        "en": {
-          "title": "The princess and the sad dragon",
-          "summary": "A princess discovers that the dragon was roaring because he had a thorn in his paw."
-        }
-      }
-    },
-    {
       "id": "la-semilla-valiente",
       "version": 2,
       "locales": [
@@ -1950,50 +2084,6 @@
         "en": {
           "title": "The Brave Little Seed",
           "summary": "A tiny seed is afraid of the dark under the ground… will she find the courage to grow?"
-        }
-      }
-    },
-    {
-      "id": "la-tortuga-que-quiso-correr",
-      "version": 4,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/la-tortuga-que-quiso-correr.es.json",
-        "en": "stories/la-tortuga-que-quiso-correr.en.json"
-      },
-      "cover": "covers/la-tortuga-que-quiso-correr.webp",
-      "ageMin": 4,
-      "ageMax": 8,
-      "durationMin": 7,
-      "categories": [
-        "animales",
-        "valores"
-      ],
-      "mood": "valores",
-      "music": "playful_flute",
-      "tags": [
-        "paciencia",
-        "autoaceptación",
-        "ritmo"
-      ],
-      "premium": false,
-      "preload": [
-        "music/playful_flute",
-        "sfx/whoosh",
-        "sfx/thud",
-        "sfx/bee_buzz"
-      ],
-      "preview": {
-        "es": {
-          "title": "La tortuga que quiso correr",
-          "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es."
-        },
-        "en": {
-          "title": "The turtle who wanted to run",
-          "summary": "Tina the turtle learns that her pace is perfect just the way it is."
         }
       }
     },
@@ -2082,96 +2172,6 @@
         "en": {
           "title": "Mission to the Ice Moon",
           "summary": "A young astronaut and her robot travel all the way to an ice moon to find out where a faraway, very gentle sound is coming from."
-        }
-      }
-    },
-    {
-      "id": "pancho-el-perro-valiente",
-      "version": 4,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/pancho-el-perro-valiente.es.json",
-        "en": "stories/pancho-el-perro-valiente.en.json"
-      },
-      "cover": "covers/pancho-el-perro-valiente.webp",
-      "ageMin": 4,
-      "ageMax": 8,
-      "durationMin": 6,
-      "categories": [
-        "animales",
-        "valores",
-        "amistad"
-      ],
-      "mood": "valores",
-      "music": "gentle_piano",
-      "tags": [
-        "valentía",
-        "ayudar",
-        "miedo"
-      ],
-      "premium": true,
-      "preload": [
-        "music/gentle_piano",
-        "sfx/thunder",
-        "sfx/bark",
-        "sfx/cat_meow"
-      ],
-      "preview": {
-        "es": {
-          "title": "Pancho el perro valiente",
-          "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante."
-        },
-        "en": {
-          "title": "Pancho the brave dog",
-          "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway."
-        }
-      }
-    },
-    {
-      "id": "rex-el-pequeno-dinosaurio",
-      "version": 4,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/rex-el-pequeno-dinosaurio.es.json",
-        "en": "stories/rex-el-pequeno-dinosaurio.en.json"
-      },
-      "cover": "covers/rex-el-pequeno-dinosaurio.webp",
-      "ageMin": 3,
-      "ageMax": 7,
-      "durationMin": 6,
-      "categories": [
-        "dinosaurios",
-        "valores",
-        "amistad"
-      ],
-      "mood": "aventura",
-      "music": "adventure_soft",
-      "tags": [
-        "dinosaurio",
-        "fuerza",
-        "ayudar"
-      ],
-      "premium": true,
-      "preload": [
-        "music/adventure_soft",
-        "sfx/thud",
-        "sfx/breathe_in",
-        "sfx/whoosh"
-      ],
-      "preview": {
-        "es": {
-          "title": "Rex, el pequeño dinosaurio",
-          "summary": "Rex es chiquito pero tiene un rugido enorme que asusta hasta a las nubes."
-        },
-        "en": {
-          "title": "Rex, the little dinosaur",
-          "summary": "Rex is tiny but has a huge roar that scares even the clouds."
         }
       }
     }

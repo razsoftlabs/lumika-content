@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786753209708,
-  "publishedAt": "2026-08-15T00:20:09.708Z",
+  "manifestVersion": 1786754320881,
+  "publishedAt": "2026-08-15T00:38:40.881Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
     "en",
@@ -126,7 +126,7 @@
         "volar",
         "calma"
       ],
-      "premium": true,
+      "premium": false,
       "preload": [
         "music/adventure_soft",
         "sfx/whoosh",
@@ -171,7 +171,7 @@
         "cooperación",
         "compartir"
       ],
-      "premium": true,
+      "premium": false,
       "preload": [
         "music/playful_flute",
         "sfx/footsteps",
@@ -216,7 +216,7 @@
         "estrellas",
         "soñar"
       ],
-      "premium": true,
+      "premium": false,
       "preload": [
         "music/space_dream",
         "sfx/rocket",
@@ -347,7 +347,7 @@
         "ayudar",
         "miedo"
       ],
-      "premium": true,
+      "premium": false,
       "preload": [
         "music/gentle_piano",
         "sfx/thunder",
@@ -392,7 +392,7 @@
         "fuerza",
         "ayudar"
       ],
-      "premium": true,
+      "premium": false,
       "preload": [
         "music/adventure_soft",
         "sfx/thud",
@@ -438,7 +438,7 @@
         "dragón",
         "empatía"
       ],
-      "premium": true,
+      "premium": false,
       "preload": [
         "music/adventure_soft",
         "sfx/thud",
@@ -484,7 +484,7 @@
         "dormir",
         "imaginación"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/guitar_warm"
       ],
@@ -527,7 +527,7 @@
         "charco",
         "amistad"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/ukulele_happy"
       ],
@@ -570,7 +570,7 @@
         "jardín",
         "dormir"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/marimba_playful"
       ],
@@ -613,7 +613,7 @@
         "parque",
         "ternura"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/music_box"
       ],
@@ -656,7 +656,7 @@
         "bosque",
         "calma"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/gentle_piano"
       ],
@@ -699,7 +699,7 @@
         "valentía",
         "hogar"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/strings_hopeful"
       ],
@@ -742,7 +742,7 @@
         "autoestima",
         "amistad"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/marimba_playful"
       ],
@@ -785,7 +785,7 @@
         "alegria",
         "dormir"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/harp_dreams"
       ],
@@ -828,7 +828,7 @@
         "familia",
         "huevo"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/guitar_warm"
       ],
@@ -871,7 +871,7 @@
         "amabilidad",
         "dormir"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/marimba_playful"
       ],
@@ -912,7 +912,7 @@
         "amistad",
         "calma"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/strings_hopeful"
       ],
@@ -955,7 +955,7 @@
         "amistad",
         "calma"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/harp_dreams"
       ],
@@ -998,7 +998,7 @@
         "mar",
         "oficios"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/harp_dreams"
       ],
@@ -1041,7 +1041,7 @@
         "volver a casa",
         "olfato"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/adventure_soft"
       ],
@@ -1084,7 +1084,7 @@
         "verano",
         "hermanos"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/guitar_warm"
       ],
@@ -1127,7 +1127,7 @@
         "amigos",
         "sabana"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/marimba_playful"
       ],
@@ -1170,7 +1170,7 @@
         "valentia",
         "hora de dormir"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/lullaby_piano"
       ],
@@ -1213,7 +1213,7 @@
         "calma",
         "osito"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/strings_hopeful"
       ],
@@ -1256,7 +1256,7 @@
         "amistad",
         "descanso"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/celesta_snow"
       ],
@@ -1345,7 +1345,7 @@
         "amistad",
         "risas"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/playful_flute"
       ],
@@ -1388,7 +1388,7 @@
         "bosque",
         "tesoro"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/guitar_warm"
       ],
@@ -1431,7 +1431,7 @@
         "dormir",
         "viaje"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/music_box"
       ],
@@ -1474,7 +1474,7 @@
         "dormir",
         "cielo nocturno"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/music_box"
       ],
@@ -1517,7 +1517,7 @@
         "amistad",
         "imaginacion"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/music_box"
       ],
@@ -1560,7 +1560,7 @@
         "hechizos",
         "amistad"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/harp_dreams"
       ],
@@ -1603,7 +1603,7 @@
         "carrera",
         "compartir"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/guitar_warm"
       ],
@@ -1645,7 +1645,7 @@
         "amanecer",
         "canto"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/space_dream"
       ],
@@ -1688,7 +1688,7 @@
         "río",
         "naturaleza"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/adventure_soft"
       ],
@@ -1730,7 +1730,7 @@
         "pedir ayuda",
         "compartir"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/marimba_playful"
       ],
@@ -1773,7 +1773,7 @@
         "autoestima",
         "amistad"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/guitar_warm"
       ],
@@ -1816,7 +1816,7 @@
         "nana",
         "ternura"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/harp_dreams"
       ],
@@ -1859,7 +1859,7 @@
         "amistad",
         "risas"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/ukulele_happy"
       ],
@@ -1902,7 +1902,7 @@
         "recuerdos",
         "pueblo"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/celesta_snow"
       ],
@@ -1943,7 +1943,7 @@
         "colores",
         "cielo"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/ukulele_happy"
       ],
@@ -1986,7 +1986,7 @@
         "agua",
         "trabajo en equipo"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/adventure_soft"
       ],
@@ -2029,7 +2029,7 @@
         "libertad",
         "risas"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/playful_flute"
       ],
@@ -2072,7 +2072,7 @@
         "crecer",
         "árbol"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/music_box"
       ],
@@ -2160,7 +2160,7 @@
         "hielo",
         "valentía"
       ],
-      "premium": false,
+      "premium": true,
       "preload": [
         "music/celesta_snow"
       ],

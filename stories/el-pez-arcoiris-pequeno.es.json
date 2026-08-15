@@ -2,17 +2,17 @@
   "id": "el-pez-arcoiris-pequeno",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "El pez arcoíris pequeño",
-  "summary": "Un pececito tímido encuentra amigos en el fondo del mar.",
+  "summary": "Un pez tímido encuentra amigos en el fondo del mar.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más hondo del mar, mucho más abajo de donde llegan los barcos, donde el agua es azulita, azulita, y fresquita, nadaba un pez muy especial. Era chiquito, del tamaño de una manzana, con la colita en forma de abanico. Pero lo más mágico de él eran sus escamas: brillaban con todos los colores del arcoíris al mismo tiempo. Rojo en la cola, naranja en la pancita, amarillo en el lomo, verde en las aletas, azul en el cuello y violeta en la cabecita. Cuando un rayito de sol bajaba hasta el fondo del mar y le pegaba en una escama, se reflejaban miles de chispitas de colores en el agua. Pero —y este es el \"pero\" de nuestra historia— el pececito era muy, muy tímido. Cuando otros peces pasaban cerca, riéndose o jugando, él se escondía atrás de los corales y se quedaba quietito, quietito, casi sin respirar. Tenía miedo de hablar, miedo de jugar, miedo de que se rieran de él. Pasaba sus días solito, mirando las burbujas subir hasta la superficie, contándolas: una, dos, tres, cuatro, cinco. El océano era su casa, pero también su escondite.",
+      "text": "En lo más hondo del mar, mucho más abajo de donde llegan los barcos, donde el agua es azul, azul, y fresca, nadaba un pez muy especial. Era pequeño, del tamaño de una manzana, con la cola en forma de abanico. Pero lo más mágico de él eran sus escamas: brillaban con todos los colores del arcoíris al mismo tiempo. Rojo en la cola, naranja en la panza, amarillo en el lomo, verde en las aletas, azul en el cuello y violeta en la cabeza. Cuando un rayo de sol bajaba hasta el fondo del mar y le pegaba en una escama, el agua entera se llenaba de chispas. Pero —y este es el \"pero\" de nuestra historia— el pez era muy, muy tímido. Cuando otros peces pasaban cerca, riéndose o jugando, él se escondía atrás de los corales y se quedaba quieto, muy quieto, casi sin respirar. Tenía miedo de hablar, miedo de jugar, miedo de que se rieran de él. Pasaba sus días solo, mirando cómo subían hasta la superficie las burbujas. Las contaba una por una: una, dos, tres, cuatro, cinco. El océano era su casa, pero también su escondite.",
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "arcoíris",
+          "anchor": "chispas",
           "sfx": "sparkle"
         },
         {
@@ -23,21 +23,21 @@
     },
     {
       "id": "s2",
-      "text": "Una mañana de aguas calmadas, mientras el pececito contaba burbujas como siempre, un pulpo lila con ocho bracitos largos se acercó al coral donde se escondía. Era un pulpo amistoso, con dos ojitos saltones y una sonrisa chueca. \"¡Hola, hola, hola!\", le dijo agitando todos sus tentáculos al mismo tiempo. El pececito, asustado, se metió más adentro del coral, casi temblando. \"Quiero jugar\", quería decir. Pero la palabra se le quedó atrapada. El pulpo, sin moverse de donde estaba, esperó pacientemente. \"Vi tus colores desde lejos. Son hermosísimos. Son como un arcoíris en el agua, ¿sabías?\". El pececito asomó un ojito por entre el coral. El pulpo no se acercaba más, no insistía, solo le sonreía. \"¿Querés jugar conmigo? Conozco un juego muy divertido\", le ofreció el pulpo, ladeando la cabeza. El pececito asomó la cabecita entera, dudó un segundito, miró para todos lados, y por fin, en un susurro, contestó: \"Bueno... pero un poco nada más\".",
+      "text": "Una mañana de aguas calmadas, el pez estaba en su coral contando burbujas. Entonces llegó un pulpo lila de ocho brazos largos y se detuvo justo enfrente. Era un pulpo amistoso, con dos ojos saltones y una sonrisa chueca. \"¡Hola, hola, hola!\", le dijo agitando todos sus tentáculos al mismo tiempo. El pez, asustado, se metió más adentro del coral, casi temblando. \"Quiero jugar\", quería decir. Pero la palabra se le quedó atrapada. El pulpo, sin moverse de donde estaba, esperó con mucha paciencia. \"Vi tus colores desde lejos. Son hermosísimos. Son como un arcoíris en el agua, ¿sabías?\". El pez asomó un ojo por entre el coral. El pulpo no se acercaba más, no insistía, solo le sonreía. \"¿Quieres jugar conmigo? Conozco un juego muy divertido\", le ofreció, ladeando la cabeza. El pez asomó la cabeza entera, dudó un segundo, miró para todos lados, y por fin contestó en un susurro: \"Bueno... pero un poco nada más\".",
       "cues": [
         {
-          "anchor": "pulpo",
+          "anchor": "burbujas",
           "sfx": "bubbles"
         },
         {
-          "anchor": "jugar",
-          "sfx": "giggle"
+          "anchor": "susurro",
+          "sfx": "whisper"
         }
       ]
     },
     {
       "id": "s3",
-      "text": "El pulpo le enseñó un juego de las escondidas entre las algas verdes que se mecían como bailarinas. \"Yo cuento hasta diez y vos te escondés\", le explicó. Al principio, el pececito jugaba pegado al coral, sin alejarse mucho, mirando hacia atrás cada dos segundos por si algo lo asustaba. Pero el pulpo era un escondedor pésimo, tan, tan cómico, que el pececito no pudo aguantar más: el pulpo se escondía detrás de una piedra, pero le sobresalían los ocho bracitos por todos lados, como si fuera una flor con tentáculos. ¡El pececito soltó la primera risa de su vida! Una risita chiquita primero, ji ji. Después una más grande, ja ja ja. Y al final una carcajada de burbujas que subió hasta la superficie, ¡jajajaja!, llevando burbujitas de colores hasta donde el sol. Las escamas del pececito le brillaron tanto que parecía un fuego artificial bajo el agua. Por primera vez en su vida, sintió calorcito en el corazón. El pulpo se rió con él, contagiado, y los dos terminaron rodando por el suelo arenoso del mar.",
+      "text": "El pulpo le enseñó un juego de las escondidas entre las algas verdes que se mecían como bailarinas. \"Yo cuento hasta diez y tú te escondes\", le explicó. Al principio, el pez jugaba pegado al coral, sin alejarse mucho, mirando hacia atrás cada dos segundos por si algo lo asustaba. Pero el pulpo era un escondedor pésimo, tan cómico que el pez no pudo aguantar más: el pulpo se metía detrás de una piedra, pero le sobresalían los ocho brazos por todos lados, como si fuera una flor con tentáculos. Y entonces, por primera vez en su vida, al pez se le escapó una risa. Primero fue un sonido corto, ji ji. Después uno más grande, ja ja ja. Y al final una carcajada enorme que subió hasta la superficie, ¡jajajaja!, cargada de burbujas. Las escamas del pez brillaron tanto que parecía un fuego artificial bajo el agua. Por primera vez en su vida, sintió un calor suave en el corazón. El pulpo se rió con él, contagiado, y los dos terminaron rodando por el suelo arenoso del mar.",
       "cues": [
         {
           "anchor": "risa",
@@ -46,24 +46,20 @@
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
-        },
-        {
-          "anchor": "arenoso",
-          "sfx": "water_splash"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "Las risas y las burbujas brillantes atrajeron a otros vecinos del fondo del mar, curiosos. Primero apareció una estrella de mar rosada, con cinco puntitas que se movían como dedos pequeños. \"¿Qué pasa por acá tan divertido?\", preguntó. Después llegó un caballito de mar verde, todo elegante con su cola enroscada. Después un cangrejito amarillo caminando de costadito, plic, plic, plic. Después una sardinita platineada y un pulpito chiquito que era hijo del pulpo grande. Pronto se armó un grupo de amigos en pleno fondo del mar, todos jugando juntos entre los corales. Jugaron a las escondidas, a la mancha, a quién hace más burbujas. El pececito arcoíris ya no estaba solo. Sus colores iluminaban el grupo entero, como si fuera una linterna alegre. Aprendió tres cosas importantes esa mañana: que sus colores no eran para esconder, eran un regalo para alegrar a los demás. Que la timidez se va de a poquito, jugando. Y que tener un amigo paciente es la cosa más linda del mundo. Desde ese día, siempre que algún pez nuevo se sentía solito o asustado en el fondo del mar, el pececito arcoíris era el primero en acercarse y decirle, con una sonrisa: \"¿Querés jugar conmigo?\".",
+      "text": "Las carcajadas y las luces de colores atrajeron a otros vecinos del fondo del mar, curiosos. Primero apareció una estrella de mar rosada, con cinco puntas que se movían como dedos pequeños. \"¿Qué pasa por acá tan divertido?\", preguntó. Después llegó un caballito de mar verde, todo elegante con su cola enroscada. Después un cangrejo amarillo caminando de lado, plic, plic, plic. Después una sardina plateada y un pulpo pequeño que era hijo del pulpo grande. Pronto se armó un grupo de amigos en pleno fondo del mar, todos jugando juntos entre los corales. Jugaron a las escondidas, a perseguirse, a quién hace más burbujas. El agua entera se llenó de risas. El pez arcoíris ya no estaba solo. Sus colores iluminaban el grupo entero, como si fuera una linterna alegre. Aprendió tres cosas importantes esa mañana: que sus colores no eran para esconder, eran un regalo para alegrar a los demás. Que la timidez se va poco a poco, jugando. Y que tener un amigo paciente es la cosa más linda del mundo. Desde ese día, siempre que algún pez nuevo se sentía solo o asustado en el fondo del mar, el pez arcoíris era el primero en acercarse y decirle, con una sonrisa: \"¿Quieres jugar conmigo?\".",
       "cues": [
         {
-          "anchor": "estrella",
-          "sfx": "twinkle"
+          "anchor": "burbujas",
+          "sfx": "bubbles"
         },
         {
-          "trigger": "atSceneExit",
-          "sfx": "water_splash"
+          "anchor": "risas",
+          "sfx": "giggle"
         }
       ]
     }

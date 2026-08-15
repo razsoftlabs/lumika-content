@@ -2,32 +2,28 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "Misión a la luna de hielo",
   "summary": "Una niña astronauta y su robot viajan hasta una luna de hielo para averiguar de dónde viene un sonido lejano y suavísimo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Lía tenía siete años, un casco con su nombre pintado y un sueño del tamaño del cielo. En la sala de entrenamiento le mostraron una grabación cortita: un sonido lejano y suavísimo que venía de Cristal, una luna de hielo que daba vueltas alrededor de un planeta gigante. Nadie sabía qué era ese sonido. 'Alguien tiene que ir a escucharlo de cerca', dijeron los científicos. 'Yo voy', contestó Lía, y lo dijo tan rápido que se le adelantó al corazón. Desde ese día entrenó todas las mañanas. Nadaba con el traje puesto en una piscina enorme, aprendía a moverse despacio, aprendía a respirar tranquila cuando el pecho le iba deprisa. A su lado siempre estaba Chispa, su robot ayudante: del tamaño de un perro, con ruedas anchas y una lucecita azul en la frente. 'Uno, dos, tres... siete', contaba Chispa mientras ella flotaba en el agua. 'Te saltaste unos números', le decía Lía, y a los dos les daba risa.",
+      "text": "Lía tenía siete años, un casco con su nombre pintado y un sueño del tamaño del cielo. En la sala de entrenamiento le mostraron una grabación muy corta: un sonido lejano y suavísimo que venía de Cristal, una luna de hielo que daba vueltas alrededor de un planeta gigante. Nadie sabía qué era ese sonido. 'Alguien tiene que ir a escucharlo de cerca', dijeron los científicos. 'Yo voy', contestó Lía, y lo dijo tan rápido que se le adelantó al corazón. Desde ese día entrenó todas las mañanas. Nadaba con el traje puesto en una piscina enorme, aprendía a moverse despacio, aprendía a respirar tranquila cuando el pecho se le aceleraba. A su lado siempre estaba Chispa, su robot ayudante: del tamaño de un perro, con ruedas anchas y una luz azul en la frente. 'Uno, dos, tres... siete', contaba Chispa mientras ella flotaba en el agua. 'Te saltaste unos números', le decía Lía, y a los dos les daba risa.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "respirar",
-          "sfx": "breathe_in"
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         },
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "La última noche antes del viaje, Lía cenó en su casa. Su abuela hizo sopa y no habló mucho, pero le apretó la mano fuerte cuando le sirvió el plato. Su papá le regaló una foto pequeña de los tres, del tamaño de una galleta, para que la llevara en el bolsillo del traje. Su mamá le puso el gorro de lana y le dijo al oído: 'Escucha bien, mi amor, y vuelve'. Al amanecer caminaron juntos hasta la plataforma. El aire de la madrugada olía a metal frío y a café. Lía subió una escalera larguísima contando sus pasos, uno por uno, para no pensar en el hueco que sentía en la barriga. Arriba la esperaba la nave, blanca y enorme como una torre. Se abrazó con su familia una vez, dos veces, tres. Después entró, y la puerta se cerró con un sonido redondo y suave, como cuando se guarda un secreto en una caja de madera. Chispa encendió su lucecita azul.",
+      "text": "La última noche antes del viaje, Lía cenó en su casa. Su abuela hizo sopa y no habló mucho, pero le apretó la mano fuerte cuando le sirvió el plato. Su papá le regaló una foto pequeña de los tres, del tamaño de una galleta, para que la llevara en el bolsillo del traje. Su mamá le puso el gorro de lana y le dijo al oído: 'Escucha bien, mi amor, y vuelve'. Al amanecer caminaron juntos hasta la plataforma. El aire de la madrugada olía a metal frío y a café. Lía subió una escalera larguísima. Para no pensar en el hueco que sentía en la barriga, fue contando uno por uno todos sus pasos. Arriba la esperaba la nave, blanca y enorme como una torre. Se abrazó con su familia una vez, dos veces, tres. Después entró y, detrás de ella, se cerró la puerta. Sonó redonda y suave, como cuando se guarda un secreto en una caja de madera. Chispa encendió su luz azul.",
       "cues": [
         {
           "anchor": "pasos",
@@ -41,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "Lía se acostó en su silla y se abrochó las correas. Por la ventanilla todavía se veía el cielo rosado del amanecer. Una voz muy tranquila empezó a contar desde diez, y con cada número el suelo temblaba un poquito más. 'Tres, dos, uno...' El cohete rugió. No fue un ruido cualquiera: fue como un trueno larguísimo que nacía debajo de ella y le subía por la espalda hasta los dientes. La nave se movió, primero despacio, después rapidísimo. Lía sintió una mano invisible apretándole el pecho e hizo justo lo que había practicado tantas veces: respirar hondo y sonreír. Por la ventanilla, el mundo se fue haciendo pequeño. Las nubes quedaron abajo. El cielo pasó de azul a azul oscuro, y de azul oscuro a negro con puntitos brillantes. Y de repente, silencio. El rugido se apagó y no quedó nada. Lía soltó el aire y vio que su cabello flotaba, suave, como las algas dentro del agua. 'Estamos arriba', dijo Chispa.",
+      "text": "Lía se acostó en su silla y se abrochó las correas. Por la ventanilla todavía se veía el cielo rosado del amanecer. Una voz muy tranquila empezó a contar desde diez, y con cada número el suelo temblaba un poco más. 'Tres, dos, uno...' Y entonces rugió el cohete. No fue un ruido cualquiera: nació debajo de ella y le subió por la espalda hasta los dientes, largo y hondo como un trueno. La nave se movió, primero despacio, después rapidísimo. Lía sintió una mano invisible apretándole el pecho e hizo justo lo que había practicado tantas veces: respirar hondo y sonreír. Por la ventanilla, el mundo se fue haciendo pequeño. Las nubes quedaron abajo. El cielo pasó de azul a azul oscuro, y de azul oscuro a negro con puntos brillantes. Y de repente, silencio. El rugido se apagó y no quedó nada. Lía soltó el aire y vio que su cabello flotaba, suave, como las algas dentro del agua. 'Estamos arriba', dijo Chispa.",
       "cues": [
         {
           "anchor": "cohete",
@@ -55,7 +51,7 @@
     },
     {
       "id": "s4",
-      "text": "Flotar era lo mejor del mundo. Lía aprendió a empujarse con un solo dedo y cruzar la nave entera. Aprendió a beber agua de una bolsita con pajita, a lavarse el pelo con una toalla húmeda, a dejar el lápiz quieto en el aire y encontrarlo ahí mismo cuando lo necesitaba. La primera noche pegó la foto de su familia junto a la ventanilla. Afuera, la Tierra era una canica azul con nubes blancas encima, y más allá había miles de estrellas que no titilaban: brillaban firmes, como si nunca se cansaran de brillar. 'Chispa, ¿ya llegamos?' 'Faltan diecinueve días.' '¿Y ahora?' 'Faltan diecinueve días y seis segundos.' Lía se tapó la boca con las dos manos, porque en el espacio la risa suena distinta, más chiquita y más cerca, como si te la contaran al oído. Después se quedó mirando su canica azul un rato larguísimo, hasta que los ojos se le pusieron pesados.",
+      "text": "Flotar era lo mejor del mundo. Lía aprendió a empujarse con un solo dedo y cruzar la nave entera. Aprendió a beber agua de una bolsa con un tubo delgado, a lavarse el pelo con una toalla húmeda, a dejar el lápiz quieto en el aire y encontrarlo ahí mismo cuando lo necesitaba. La primera noche pegó la foto de su familia junto a la ventanilla. Afuera, la Tierra era una canica azul con nubes blancas encima, y más allá, en el fondo negro, había miles de estrellas. No titilaban: brillaban firmes, como si nunca se cansaran de brillar. 'Chispa, ¿ya llegamos?' 'Faltan diecinueve días.' '¿Y ahora?' 'Faltan diecinueve días y seis segundos.' Lía se tapó la boca con las dos manos, porque en el espacio suena distinta la risa. Se oye más pequeña y más cerca, como si te la contaran al oído. Después se quedó mirando su canica azul un rato larguísimo, hasta que los ojos se le pusieron pesados.",
       "cues": [
         {
           "anchor": "estrellas",
@@ -69,22 +65,22 @@
     },
     {
       "id": "s5",
-      "text": "Después llegaron los días largos. Muy largos. En el espacio no llueve, no anochece, no pasa ningún perro por la calle. Lía hacía ejercicio agarrada de unas cintas elásticas, dibujó la luna de hielo veinte veces, jugó a las cartas con Chispa, que siempre ganaba y siempre avisaba: 'gané otra vez'. Y escuchó la grabación del sonido misterioso una y otra vez, tratando de adivinar qué era. 'Parece alguien cantando muy lejos', decía ella. 'Parece hielo moviéndose', decía Chispa. Algunas tardes se aburría tanto que le dolía un poquito el pecho de extrañar su cama. Entonces se metía en su bolsa de dormir, que iba colgada de la pared como un capullo, se ponía la foto sobre el corazón y cerraba los ojos. Cuando uno flota, dormir se siente como estar en el agua sin mojarse. Lía roncaba bajito. Chispa apagaba las luces y cuidaba los números toda la noche.",
+      "text": "Después llegaron los días largos. Muy largos. En el espacio no llueve, no anochece, no pasa ningún perro por la calle. Lía hacía ejercicio agarrada de unas cintas elásticas, dibujó la luna de hielo veinte veces, jugó a las cartas con Chispa, que siempre ganaba y siempre avisaba: 'gané otra vez'. Y escuchó la grabación del sonido misterioso una y otra vez, tratando de adivinar qué era. 'Parece alguien cantando muy lejos', decía ella. 'Parece hielo moviéndose', decía Chispa. Algunas tardes se aburría tanto que le dolía un poco el pecho de extrañar su cama. Entonces se metía en su bolsa de dormir, que iba colgada de la pared como un capullo, y se ponía la foto encima del corazón. Después cerraba los ojos. Cuando uno flota, dormir se siente como estar en el agua sin mojarse. Y al rato, en medio de tanto silencio, a Lía se le escapaba un ronquido. Chispa apagaba las luces y cuidaba los números toda la noche.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "roncaba",
-          "sfx": "snore_soft"
-        },
-        {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "ronquido",
+          "sfx": "snore_soft"
         }
       ]
     },
     {
       "id": "s6",
-      "text": "El día diecinueve, Chispa la despertó temprano. 'Lía. Mira por la ventanilla.' Ahí estaba. Cristal ya no era un puntito en un dibujo: la luna de hielo era enorme, redonda, de un blanco azulado, con rayas finitas que la cruzaban como las venas de una hoja. Detrás, el planeta gigante ocupaba media ventanilla con sus anillos delgados, como un sombrero de otro mundo. La luz del sol llegaba desde muy lejos, cansada, y hacía que todo pareciera pintado con acuarela. Lía se quedó sin palabras. Apoyó la mano en el vidrio frío, muy despacio, igual que se saluda a un animal que uno todavía no conoce. 'Hola', susurró. 'Vinimos a escucharte.' La luna no contestó, claro que no. Pero por dentro Lía sintió una cosquilla, esa cosquilla de cuando una estrella se enciende justo donde estabas mirando. Chispa grabó todo con su cámara chiquita, sin decir nada.",
+      "text": "El día diecinueve, Chispa la despertó temprano. 'Lía. Mira por la ventanilla.' Ahí estaba. Cristal ya no era un punto en un dibujo: ahí, llenando la ventanilla, estaba la luna. Enorme, redonda, de un blanco azulado, con rayas finas que la cruzaban como las venas de una hoja. Detrás, el planeta gigante ocupaba media ventanilla con sus anillos delgados, como un sombrero de otro mundo. La luz del sol llegaba desde muy lejos, cansada, y hacía que todo pareciera pintado con acuarela. Lía se quedó sin palabras. Apoyó la mano en el vidrio frío, muy despacio, igual que se saluda a un animal que uno todavía no conoce. 'Hola', susurró. 'Vinimos a escucharte.' Cristal no contestó, claro que no. Pero por dentro Lía sintió una cosquilla, esa cosquilla de cuando una estrella se enciende justo donde estabas mirando. Chispa grabó todo con su cámara pequeña, sin decir nada.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -99,7 +95,7 @@
     },
     {
       "id": "s7",
-      "text": "Bajar no fue fácil. Cristal no tiene aire para frenar, así que la nave tuvo que frenarse sola con sus motores, y el suelo estaba lleno de grietas y de bultos de hielo. Lía se agarró de los brazos de su silla. 'Zona uno: demasiadas grietas', dijo Chispa. 'Zona dos: montañas. Zona tres... podría servir.' 'Vamos a la tres.' La nave bajó de costado con un silbido largo, se enderezó y quedó flotando unos segundos sobre una llanura brillante. El polvo de hielo se levantó en una nube blanca que tapó las ventanillas. Entonces las patas tocaron el suelo con un golpe seco que hizo saltar todo dentro de la cabina: ¡pum! Después, silencio. Lía se soltó las correas con los dedos temblorosos y miró a su robot. '¿Estamos enteros?' 'Estamos enteros', contestó Chispa. 'Y aterrizamos un poco torcidos.' Lía se rio bajito, aliviada. Afuera, el hielo la esperaba, quieto y azul.",
+      "text": "Bajar no fue fácil. Cristal no tiene aire para frenar, así que hubo que frenar con los motores, y el suelo estaba lleno de grietas y de bultos de hielo. Lía se agarró de los brazos de su silla. 'Zona uno: demasiadas grietas', dijo Chispa. 'Zona dos: montañas. Zona tres... podría servir.' 'Vamos a la tres.' Con un silbido largo bajó de costado la nave. Después se enderezó y quedó flotando unos segundos sobre una llanura brillante. El polvo de hielo se levantó en una nube blanca que tapó las ventanillas. Entonces las patas tocaron el suelo con un golpe. Todo saltó dentro de la cabina: ¡pum! Después, silencio. Lía se soltó las correas con los dedos temblorosos y miró a su robot. '¿Estamos enteros?' 'Estamos enteros', contestó Chispa. 'Y aterrizamos un poco torcidos.' Lía se rió, aliviada. Afuera, el hielo la esperaba, quieto y azul.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -114,7 +110,7 @@
     },
     {
       "id": "s8",
-      "text": "Se puso el traje despacio, revisando cada cierre dos veces, tal como en el entrenamiento. La puerta se abrió y Lía bajó la escalerilla con mucho cuidado. El hielo era azul. Azul de verdad, azul de vidrio, con burbujitas blancas atrapadas adentro como estrellas dormidas. Cada vez que apoyaba una bota, el suelo hacía un crujido bajito que ella escuchaba por dentro del casco, y sus pasos iban dejando huellas perfectas: las primeras huellas de la historia en ese lugar. Arriba, el planeta gigante colgaba enorme y callado. No había viento, no había pájaros, no había nada de nada. Solo un silencio tan grande que Lía podía escuchar su propia respiración. 'Chispa, ¿lo estás grabando todo?' 'Todo.' Caminaron juntos hacia el punto marcado en el mapa, ella con pasos de astronauta, él con sus ruedas dibujando una línea larga detrás. Y debajo de sus botas, muy abajo, algo enorme guardaba un secreto.",
+      "text": "Se puso el traje despacio, revisando cada cierre dos veces, tal como en el entrenamiento. La puerta se abrió y Lía bajó la escalerilla con mucho cuidado. El hielo era azul. Azul de verdad, azul de vidrio, con burbujas blancas atrapadas adentro como estrellas dormidas. Cada vez que apoyaba una bota, el suelo soltaba un crujido. Lo escuchaba muy claro por dentro del casco, y detrás de ella iban quedando las primeras huellas de la historia en ese lugar. Arriba, el planeta gigante colgaba enorme y callado. No había viento, no había pájaros, no había nada de nada. Solo un silencio tan grande que Lía podía escuchar su propia respiración. 'Chispa, ¿lo estás grabando todo?' 'Todo.' Caminaron juntos hacia el punto marcado en el mapa: el robot dibujaba una línea larga con sus ruedas y ella avanzaba contando sus pasos. Y debajo de sus botas, muy abajo, algo enorme guardaba un secreto.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -129,22 +125,22 @@
     },
     {
       "id": "s9",
-      "text": "El frío de Cristal no es un frío normal. Es un frío que muerde los metales. A los veinte minutos de caminata, Chispa empezó a hablar raro. 'Lía... la tempe... ratura...', dijo, y su lucecita azul parpadeó dos veces y se apagó. El robot se quedó quieto en medio del hielo, con las ruedas torcidas, sin decir nada más. 'Chispa. Chispa, contéstame.' Nada. Solo el silencio enorme y el planeta gigante mirando desde arriba. Por primera vez en todo el viaje, Lía sintió ganas de llorar. Estaba sola, sola de verdad, más lejos de su casa de lo que nadie había estado nunca, y su único amigo estaba apagado a sus pies. Cerró los ojos dentro del casco. Se acordó de su mamá diciéndole 'escucha bien, y vuelve'. Se acordó de la piscina y del casco con su nombre pintado. Y entonces hizo lo único que sabía hacer cuando el corazón corría: respirar. Muy hondo. Muy despacio.",
+      "text": "El frío de Cristal no es un frío normal. Es un frío que muerde los metales. A los veinte minutos de caminata, Chispa empezó a hablar raro. 'Lía... la tempe... ratura...', dijo, y su luz azul parpadeó dos veces y se apagó. El robot se quedó quieto en medio del hielo, con las ruedas torcidas, sin decir nada más. 'Chispa. Chispa, contéstame.' Nada. Solo el silencio enorme y el planeta gigante mirando desde arriba. Por primera vez en todo el viaje, Lía sintió ganas de llorar. Estaba sola, sola de verdad, más lejos de su casa de lo que nadie había estado nunca, y su único amigo estaba apagado a sus pies. Cerró los ojos dentro del casco. Se acordó de su mamá diciéndole 'escucha bien, y vuelve'. Se acordó de la piscina y del casco con su nombre pintado. Y entonces hizo lo único que sabía hacer cuando se le aceleraba el corazón. Respirar. Muy hondo. Muy despacio.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "respirar",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "Respirar",
+          "sfx": "breathe_in"
         }
       ]
     },
     {
       "id": "s10",
-      "text": "Lía abrió la mochila y sacó la caja de herramientas. Los guantes eran gordos y las manos le temblaban, así que lo primero que hizo fue arrodillarse en el hielo y quedarse quietecita hasta que los dedos le hicieran caso. 'Bueno, Chispa', dijo en voz alta, para no sentirse tan sola. 'Vamos a ver qué te pasa.' Abrió la tapita de la espalda del robot. Adentro, una piecita estaba cubierta de escarcha, blanca como el azúcar. La limpió con un pañito, con muchísimo cuidado, soplando lo que no se podía tocar. Le puso una manta térmica alrededor, apretó dos tornillos que el frío había aflojado y cambió la batería pequeña por la de repuesto que llevaba en el bolsillo, junto a la foto. Contó hasta diez. La lucecita azul se encendió como una estrella que despierta. 'Repor... reportando', dijo Chispa. 'Estoy bien. Gracias, Lía.' Ella apoyó la frente en el casco del robot, sonriendo dentro del suyo.",
+      "text": "Lía abrió la mochila y sacó la caja de herramientas. Los guantes eran gordos y las manos le temblaban, así que lo primero que hizo fue arrodillarse en el hielo y quedarse muy quieta hasta que los dedos le hicieran caso. 'Bueno, Chispa', dijo en voz alta, para no sentirse tan sola. 'Vamos a ver qué te pasa.' Abrió la tapa de la espalda del robot. Adentro, una pieza estaba cubierta de escarcha, blanca como el azúcar. La limpió con un paño, con muchísimo cuidado, soplando lo que no se podía tocar. Le puso una manta térmica alrededor, apretó dos tornillos que el frío había aflojado y cambió la batería pequeña por la de repuesto que llevaba en el bolsillo, junto a la foto. Contó hasta diez y la luz azul se encendió despacio, como una estrella. 'Repor... reportando', dijo Chispa. 'Estoy bien. Gracias, Lía.' Ella apoyó la frente en el casco del robot, sonriendo dentro del suyo.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -155,7 +151,7 @@
     },
     {
       "id": "s11",
-      "text": "Después vino la parte lenta. Para escuchar lo que había debajo, tenían que hacer un agujerito en el hielo: un agujero finito como un espagueti, nada más. Lía armó la perforadora y la encendió. El taladro giraba despacio, muy despacio, y en cada vuelta hacía un crujido pequeñito que le subía por las botas hasta las rodillas. Un centímetro. Dos. Diez. Una hora entera para atravesar el grosor de un libro. 'Sin apurarse', repetía Chispa. 'Si nos apuramos, el hielo se raja.' 'Sin apurarse', contestaba Lía, y le daba una vuelta más. El sol lejano se movió un poquito en el cielo negro. A ella le dolían los brazos y le brillaban los ojos. Cuando ya llevaban muchísimo rato, el taladro se hundió un dedito de repente, y del agujero salió un chorrito fino de agua que se congeló en el aire, en bolitas diminutas y brillantes.",
+      "text": "Después vino la parte lenta. Para escuchar lo que había debajo, tenían que hacer un agujero muy fino en el hielo: fino como un espagueti, nada más. Lía armó la perforadora y la encendió. El taladro giraba despacio, muy despacio, y en cada vuelta le subía por las botas hasta las rodillas un crujido. Un centímetro. Dos. Diez. Una hora entera para atravesar el grosor de un libro. 'Sin apurarse', repetía Chispa. 'Si nos apuramos, el hielo se raja.' 'Sin apurarse', contestaba Lía, y le daba una vuelta más. El sol lejano se movió un poco en el cielo negro. A ella le dolían los brazos y le brillaban los ojos. Cuando ya llevaban muchísimo rato, el taladro se hundió de repente y por el agujero salió un chorro de agua. Se congeló en el aire, en bolas diminutas y brillantes.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -170,7 +166,7 @@
     },
     {
       "id": "s12",
-      "text": "Bajaron el micrófono por el agujerito, atado a un cable finito, y esperaron. Lía se sentó en el hielo con las rodillas contra el pecho y se puso los audífonos. Al principio solo se oyó un rumor, parecido al de una caracola pegada a la oreja. Después llegó lo otro. Cantos. Muchísimos cantos. Debajo del hielo había un océano entero, más profundo que todos los mares de la Tierra juntos, y estaba lleno de voces que subían y bajaban. Algunas eran graves y larguísimas, como una ballena que cuenta un cuento sin apurarse. Otras sonaban a gotas, a campanitas, a burbujas que se persiguen. Se llamaban, se contestaban, se cruzaban y volvían a empezar. Lía se quedó con la boca abierta, sin moverse, con los ojos llenos de lágrimas calientes. 'Chispa', dijo bajito. 'No es hielo moviéndose.' 'No', contestó el robot, con la lucecita temblando. 'Están cantando. Están cantando ahí abajo.'",
+      "text": "Bajaron el micrófono por el agujero, atado a un cable delgado, y esperaron. Lía se sentó en el hielo con las rodillas contra el pecho y se puso los audífonos. Al principio solo se oyó un rumor, parecido al de una caracola pegada a la oreja. Después llegó lo otro. Cantos. Muchísimos cantos. Debajo del hielo había un océano entero, más profundo que todos los mares de la Tierra juntos, y estaba lleno de voces que subían y bajaban. Algunas eran graves y larguísimas, como el cuento que contaría, sin ninguna prisa, una ballena. Otras sonaban a gotas, a campanas, a burbujas. Se llamaban, se contestaban, se cruzaban y volvían a empezar. Lía se quedó con la boca abierta, sin moverse, con los ojos llenos de lágrimas calientes. 'Chispa', dijo en voz baja. 'No es hielo moviéndose.' 'No', contestó el robot, con la luz azul temblando. 'Están cantando. Están cantando ahí abajo.'",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -185,7 +181,7 @@
     },
     {
       "id": "s13",
-      "text": "En la mochila, Lía llevaba una linterna potente, una cámara para meter por el agujero y una sonda con un brazo pequeñito. Podía bajarlas. Podía mirar. Podía tocar. Se quedó pensando un rato largo, escuchando. 'Si metemos la luz, se van a asustar', dijo por fin. 'Y si metemos el brazo, se van a callar.' 'Es tu misión', dijo Chispa. 'Tú decides.' Lía miró el agujerito, tan chiquito, y pensó en el océano enorme y oscuro que había debajo. Pensó en cuando alguien enciende la lámpara sin avisar mientras uno duerme. 'Hoy solo vamos a escuchar', dijo. 'Y a grabar. Nada más.' Guardó la linterna. Guardó el brazo. Encendió la grabadora y se quedó ahí, quieta como una piedra, mientras las voces del agua le llenaban los oídos. Grabó tres horas enteras. Cuando por fin subieron el micrófono, tapó el agujerito con nieve, despacito, como se cierra una puerta para no despertar a nadie.",
+      "text": "En la mochila, Lía llevaba una linterna potente, una cámara para meter por el agujero y una sonda con un brazo pequeño. Podía bajarlas. Podía mirar. Podía tocar. Se quedó pensando un rato largo, escuchando. 'Si metemos la luz, se van a asustar', dijo por fin. 'Y si metemos el brazo, se van a callar.' 'Es tu misión', dijo Chispa. 'Tú decides.' Lía miró el agujero, tan pequeño, y pensó en el océano enorme y oscuro que había debajo. Pensó en cuando alguien enciende la lámpara sin avisar mientras uno duerme. 'Hoy solo vamos a escuchar', dijo. 'Y a grabar. Nada más.' Guardó la linterna. Guardó el brazo. Encendió la grabadora y se quedó ahí, quieta como una piedra, mientras las voces del agua le llenaban los oídos. Grabó tres horas enteras. Cuando por fin subieron el micrófono, tapó el agujero con nieve, despacio, como se cierra, para no despertar a nadie, una puerta.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -200,20 +196,16 @@
     },
     {
       "id": "s14",
-      "text": "Volver fue mucho más tranquilo. Cerraron todo, subieron a la nave y el despegue de Cristal fue apenas un empujoncito suave, porque esa luna pequeña casi no tira hacia abajo. Por la ventanilla, el hielo azul se fue haciendo chiquito hasta parecer una perla en un mar negro. Durante el viaje de regreso, Lía escuchó la grabación todos los días. Les puso nombre a las voces: la Grave, la Campanita, la que Siempre Contesta. Y escribió en su cuaderno, con letra grande: 'Hay un océano lleno de canciones. No lo molestamos.' La última noche antes de llegar, se metió en su bolsa de dormir con la memoria de la grabación apretada contra el pecho, como se abraza un peluche. Puso las voces bajito. Afuera, la Tierra crecía despacio, azul y tibia, y su casa la esperaba en algún punto de esa canica. Lía sonrió, se acomodó y se durmió flotando, abrazada a una canción que nadie había escuchado antes.",
+      "text": "Volver fue mucho más tranquilo. Cerraron todo, subieron a la nave y el despegue de Cristal fue apenas un empujón suave, porque esa luna pequeña casi no tira hacia abajo. Por la ventanilla, el hielo azul se fue haciendo pequeño hasta parecer una perla en un mar negro. Durante el viaje de regreso, Lía escuchó la grabación todos los días. Les puso nombre a las voces: la que Siempre Contesta, la Grave y la Campana. Y escribió en su cuaderno, con letra grande: 'Hay un océano lleno de canciones. No lo molestamos.' La última noche antes de llegar, se metió en su bolsa de dormir con la memoria de la grabación apretada contra el pecho, como se abraza un peluche. Dejó las voces sonando muy suave. Afuera, la Tierra crecía despacio, azul y tibia, y su casa la esperaba en algún punto de esa canica. Lía sonrió, se acomodó, se abrazó a una canción que nadie había escuchado antes y se durmió.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "nave",
-          "sfx": "rocket"
+          "anchor": "Campana",
+          "sfx": "bell_soft"
         },
         {
           "anchor": "durmió",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "Campanita",
-          "sfx": "bell_soft"
         }
       ]
     }

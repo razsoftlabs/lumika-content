@@ -2,28 +2,28 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Hugging Tree",
   "summary": "A very old, lonely tree in the park holds the tenderest secret in the world among its branches.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a quiet corner of the park lived a very old tree. Its branches were long and soft, and its leaves whispered with the wind. For many years, nobody sat under its shade. The tree watched the children play far away and sighed softly. 'I wish someone wanted to stay with me,' it thought. When evening fell, it moved its leaves gently, waiting for a friend. But night came and the tree stayed all alone, counting stars so it wouldn't feel so quiet.",
+      "text": "In a quiet corner of the park lived a very old tree. Its branches were long and soft. Among them, when evening fell, sang the wind. And when it sang, so did the leaves. For many years, nobody sat under its shade. The tree watched the children play far away and sighed softly. 'I wish someone wanted to stay with me,' it thought. It moved its branches gently, waiting for a friend. But night came and the tree stayed all alone, counting stars so it wouldn't feel so quiet.",
       "ambient": "forest_birds",
       "cues": [
         {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        },
-        {
           "anchor": "wind",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "One afternoon, a girl named Lía came closer, following the sound of the leaves. Tired from running, she leaned against the trunk. Then, very slowly, a branch came down and wrapped around her gently. It was a hug! Lía laughed in surprise and hugged the tree back. 'You give the most beautiful hugs in the world,' she said. The tree felt a warm tingle rise up its trunk. For the first time in a long while, it didn't feel alone. Lía promised to come back the next day.",
+      "text": "One afternoon, a girl named Lía came closer, following the sound of the leaves. Tired from running, she leaned against the trunk. Then, very slowly, a branch came down and wrapped around her gently. It was a hug! Lía laughed. Surprised and happy, she hugged the tree back. 'You give the most beautiful hugs in the world,' she said. The tree felt a warm tingle rise up its trunk. For the first time in a long while, it didn't feel alone. Lía promised to come back the next day.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "The next day, Lía came back with her friends from the neighborhood. 'Come meet the tree that hugs,' she told them. The children arrived running, and their footsteps made the little leaves tremble with joy. One by one, the tree hugged them with its long branches. They laughed, climbed, and played all afternoon under its cool shade. The wind rocked the branches as if the tree wanted to play too. When the sun hid away, everyone said goodbye with a huge hug. The tree had never been so happy.",
+      "text": "The next day, Lía came back with her friends from the neighborhood. 'Come meet the tree that hugs,' she told them. The children arrived running, and the leaves trembled with joy at their footsteps. One by one, the tree hugged them with its long branches. They laughed, climbed, and played all afternoon under its cool shade. The branches rocked as if the tree wanted to play too: they were moved by the wind. When the sun hid away, everyone said goodbye with a huge hug. The tree had never been so happy.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -53,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "From then on, the children cared for the tree like a great friend. They brought it water when the sun grew hot and gently removed the dry little twigs. They hung a swing from a strong branch and placed a small lantern for the nights. An owl came to live among the leaves and greeted everyone with a soft hoot. The tree felt loved and cared for. Each drop of water was like a 'thank you' returned to it. It no longer counted stars to feel less alone; now it counted all its friends.",
+      "text": "From then on, the children cared for the tree like a great friend. When the sun grew hot, they brought it water. They carefully removed the dry twigs. They hung a swing from a strong branch and placed a lantern for the nights. Among the leaves came to live an owl. It greeted everyone with a soft hoot. The tree felt loved and cared for. Each drop of water was like a 'thank you' returned to it. It no longer counted stars to feel less alone; now it counted all its friends.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "That night, the moon peeked between the branches and bathed the tree in its silver light. The children were already sleeping in their beds, and the tree watched over them from afar, moving its leaves like a lullaby. 'Good night, little ones,' it whispered very softly. It knew that tomorrow they would come to hug it again. The wind blew slowly and the tree closed its wooden eyes, calm and happy. It would never be alone again. And under the moon, the whole park rested in peace. You sleep too, for tomorrow there are hugs waiting.",
+      "text": "That night, between the branches peeked the moon. It bathed the tree in silver light. The children were already sleeping in their beds, and the tree watched over them from afar, moving its branches like a lullaby. 'Good night, little ones,' it whispered. It knew that tomorrow they would come to hug it again. The wind blew slowly and the tree closed its wooden eyes, calm and happy. It would never be alone again. And under that silver light, the whole park rested in peace. You sleep too, for tomorrow there are hugs waiting.",
       "ambient": "forest_night",
       "cues": [
         {

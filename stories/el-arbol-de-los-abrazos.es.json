@@ -2,28 +2,28 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El árbol de los abrazos",
-  "summary": "Un árbol viejo y solito del parque guarda entre sus ramas el secreto más tierno del mundo.",
+  "summary": "Un árbol viejo y solo del parque guarda entre sus ramas el secreto más tierno del mundo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En una esquina tranquila del parque vivía un árbol muy viejo. Sus ramas eran largas y suaves, y sus hojas susurraban con el viento. Durante muchos años, nadie se sentaba bajo su sombra. El árbol miraba a los niños jugar a lo lejos y suspiraba despacito. 'Ojalá alguien quisiera quedarse conmigo', pensaba. Cuando caía la tarde, movía sus hojas con cariño, esperando a un amigo. Pero la noche llegaba y el árbol se quedaba solito, contando estrellas para no sentirse tan callado.",
+      "text": "En una esquina tranquila del parque vivía un árbol muy viejo. Sus ramas eran largas y suaves. Entre ellas, al caer la tarde, cantaba el viento. Y entonces susurraban las hojas. Durante muchos años, nadie se sentó bajo su sombra. El árbol miraba a los niños jugar a lo lejos y suspiraba despacio. 'Ojalá alguien quisiera quedarse conmigo', pensaba. Movía sus ramas con cariño, esperando a un amigo. Pero la noche llegaba y el árbol se quedaba solo, contando estrellas para no sentirse tan callado.",
       "ambient": "forest_birds",
       "cues": [
         {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        },
-        {
           "anchor": "viento",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "Una tarde, una niña llamada Lía se acercó siguiendo el sonido de las hojas. Cansada de correr, se apoyó en el tronco. Entonces, muy despacito, una rama bajó y la rodeó con suavidad. ¡Era un abrazo! Lía se rió sorprendida y abrazó al árbol de vuelta. 'Das los abrazos más bonitos del mundo', le dijo. El árbol sintió un cosquilleo cálido subir por su tronco. Por primera vez en mucho tiempo, no se sentía solo. Lía prometió volver al día siguiente.",
+      "text": "Una tarde, una niña llamada Lía se acercó siguiendo el sonido de las hojas. Cansada de correr, se apoyó en el tronco. Entonces, muy despacio, una rama bajó y la rodeó con suavidad. ¡Era un abrazo! Lía se rió. Sorprendida y feliz, abrazó al árbol de vuelta. 'Das los abrazos más bonitos del mundo', le dijo. El árbol sintió un cosquilleo cálido subir por su tronco. Por primera vez en mucho tiempo, no se sentía solo. Lía prometió volver al día siguiente.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Al día siguiente, Lía volvió con sus amigos del barrio. 'Vengan a conocer al árbol que abraza', les dijo. Los niños llegaron corriendo, y sus pasos hicieron temblar las hojitas de alegría. Uno a uno, el árbol los abrazó con sus ramas largas. Se rieron, treparon y jugaron toda la tarde bajo su sombra fresca. El viento mecía las ramas como si el árbol también quisiera jugar. Cuando el sol se escondió, todos se despidieron con un abrazo enorme. El árbol nunca había estado tan feliz.",
+      "text": "Al día siguiente, Lía volvió con sus amigos del barrio. 'Vengan a conocer al árbol que abraza', les dijo. Los niños llegaron corriendo, y las hojas temblaron de alegría con sus pasos. Uno a uno, el árbol los abrazó con sus ramas largas. Se rieron, treparon y jugaron toda la tarde bajo su sombra fresca. Las ramas se mecieron como si el árbol también quisiera jugar: las movía el viento. Cuando el sol se escondió, todos se despidieron con un abrazo enorme. El árbol nunca había estado tan feliz.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -53,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "Desde entonces, los niños cuidaron al árbol como a un gran amigo. Le llevaban agua cuando el sol calentaba y quitaban las ramitas secas con cuidado. Colgaron un columpio de una rama fuerte y colocaron un farolito para las noches. Un búho vino a vivir entre las hojas y saludaba con un suave ulular. El árbol se sentía querido y cuidado. Cada gota de agua era como un 'gracias' que le devolvían. Ya no contaba estrellas para no sentirse solo; ahora contaba a todos sus amigos.",
+      "text": "Desde entonces, los niños cuidaron al árbol como a un gran amigo. Cuando el sol calentaba, le llevaban agua. Quitaban con cuidado las ramas secas. Colgaron un columpio de una rama fuerte y pusieron un farol para las noches. Entre las hojas vino a vivir un búho. Saludaba a todos con un suave ulular. El árbol se sentía querido y cuidado. Cada gota de agua era como un 'gracias' que le devolvían. Ya no contaba estrellas para no sentirse solo; ahora contaba a todos sus amigos.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "Esa noche, la luna asomó entre las ramas y bañó al árbol con su luz plateada. Los niños ya dormían en sus camas, y el árbol los cuidaba desde lejos, moviendo sus hojas como una nana. 'Buenas noches, pequeños', susurró muy bajito. Sabía que mañana volverían a abrazarlo. El viento sopló despacio y el árbol cerró sus ojos de madera, tranquilo y feliz. Ya nunca más estaría solo. Y bajo la luna, todo el parque descansó en paz. Duerme tú también, que mañana hay abrazos esperando.",
+      "text": "Esa noche, entre las ramas asomó la luna. Bañó al árbol con su luz plateada. Los niños ya dormían en sus camas, y el árbol los cuidaba desde lejos, moviendo sus ramas como una nana. 'Buenas noches, pequeños', susurró. Sabía que mañana volverían a abrazarlo. El viento sopló despacio y el árbol cerró sus ojos de madera, tranquilo y feliz. Ya nunca más estaría solo. Y bajo la luz plateada, todo el parque descansó en paz. Duerme tú también, que mañana hay abrazos esperando.",
       "ambient": "forest_night",
       "cues": [
         {

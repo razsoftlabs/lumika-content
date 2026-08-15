@@ -2,13 +2,13 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "Chispa, la estrella fugaz tímida",
-  "summary": "Una estrellita tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
+  "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más alto de la noche vivía una estrellita llamada Chispa. Cada noche, las otras estrellas cruzaban el cielo dejando colas de luz, y los niños dormidos pedían deseos. La Luna, redonda y amable, las saludaba a todas. Pero Chispa se quedaba quietita en su rincón, brillando muy despacito. Le encantaba mirar el mundo dormido allá abajo, los tejados, los árboles y los ríos. Soñaba con cruzar el cielo algún día... pero solo de pensarlo, su lucecita temblaba un poquito. Todavía no se animaba.",
+      "text": "En lo más alto de la noche vivía una estrella llamada Chispa. Cada noche, dejando colas de luz, cruzaban el cielo las demás estrellas. Abajo, los niños dormidos pedían deseos. Y a todas las saludaba, redonda y amable, la Luna. Pero Chispa se quedaba quieta en su rincón, brillando muy despacio. Le encantaba mirar el mundo dormido allá abajo: los tejados, los árboles y los ríos. Soñaba con cruzar el cielo algún día... pero solo de pensarlo, su luz temblaba un poco. Todavía no se animaba.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "¿Por qué tenía tanto miedo Chispa? Ella pensaba: «¿Y si un niño pide un deseo y yo lo confundo? ¿Y si pide un abrazo y le doy un globo?». Solo de imaginarlo, se escondía detrás de una nube. Una noche, un viento tibio pasó cerca y le acarició la carita. —No pasa nada, pequeña —le susurró el viento—. Nadie pide deseos perfectos. Pero Chispa, tímida, cerró los ojitos y siguió temblando en silencio. Prefería mirar desde lejos, sin que nadie la viera cruzar.",
+      "text": "¿Por qué tenía tanto miedo Chispa? Ella pensaba: «¿Y si un niño pide un deseo y yo lo confundo? ¿Y si pide un abrazo y le doy un globo?». Solo de imaginarlo, se escondía detrás de una nube. Una noche se le acercó, tibio y despacio, un viento. Le acarició la cara con mucho cuidado. —No pasa nada, pequeña. Nadie pide deseos perfectos —le susurró. Pero Chispa, tímida, cerró los ojos y siguió temblando en silencio. Prefería mirar desde lejos, sin que nadie la viera cruzar.",
       "cues": [
         {
           "anchor": "viento",
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "Esa misma noche, la Luna la vio temblar. Con su voz suave, le preguntó: —Chispita, ¿por qué nunca cruzas el cielo? Desde una rama, un búho viejo escuchaba con sus ojos grandes. Chispa, muy bajito, confesó su secreto: —Tengo miedo de darle a un niño el deseo equivocado. La Luna sonrió como solo sabe sonreír la Luna. —Ay, mi estrellita —dijo—. Ven, acércate. Deja que te cuente cómo funcionan de verdad los deseos. Y Chispa, curiosa, se acercó un poquito más.",
+      "text": "Esa misma noche la vio temblar la Luna. Con su voz suave, le preguntó: —Chispa, ¿por qué nunca cruzas el cielo? Desde una rama, con sus ojos grandes, escuchaba un búho. Chispa, en voz baja, confesó su secreto: —Tengo miedo de darle a un niño el deseo equivocado. Ella sonrió despacio, con esa sonrisa ancha y calmada de las noches claras. —Ay, mi estrella —dijo—. Ven, acércate. Deja que te cuente cómo funcionan de verdad los deseos. Y Chispa, curiosa, se acercó un poco más.",
       "cues": [
         {
           "anchor": "Luna",
@@ -51,25 +51,21 @@
     },
     {
       "id": "s4",
-      "text": "—Los deseos no viven en ti —dijo la Luna—. Viven en el corazón de quien sueña. Tú solo llevas tu luz; el niño pone el deseo. Nunca puedes equivocarte, porque tú regalas brillo, no órdenes. Chispa lo pensó despacito. Respiró hondo, como quien se llena de valor. El búho ululó bajito, como diciendo «tú puedes». Por primera vez, la estrellita sintió que su miedo era pequeñito, del tamaño de una miga. Y por dentro, muy calladita, empezó a nacer una chispa de valentía.",
+      "text": "Y entonces, con esa voz que calma, se lo explicó despacio. —Los deseos no viven en ti. Viven en quien sueña, muy dentro de su corazón. Tú solo llevas tu luz; el niño pone el deseo. Nunca puedes equivocarte, porque tú regalas brillo, no órdenes. Chispa lo pensó despacio. Se llenó de aire y respiró. Fue como llenarse de valor. Desde su rama, alguien ululó en voz baja, como diciendo «tú puedes». Por primera vez, la estrella sintió que su miedo era pequeño, del tamaño de una miga. Y por dentro, muy callada, empezó a nacer una chispa de valentía.",
       "cues": [
-        {
-          "anchor": "Respiró",
-          "sfx": "breathe_in"
-        },
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        },
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "respiró",
+          "sfx": "breathe_in"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "Entonces, con el corazón calentito, Chispa se atrevió. Abrió sus alas de luz y cruzó el cielo entero, dejando una cola dorada y suave. Allá abajo, una niña medio dormida la vio por la ventana y susurró un deseo pequeñito. Chispa no supo cuál fue... y entendió que no importaba. La niña sonrió y se acurrucó en su cama. La Luna guiñó un ojo. Y Chispa, por fin tranquila, volvió a su rincón a descansar, brillando bajito. Buenas noches, estrellita. Buenas noches. A dormir.",
+      "text": "Entonces, por fin, Chispa se atrevió. Abrió sus alas de luz y, de una punta a la otra del cielo, cruzó. Detrás dejó una cola dorada y suave. Allá abajo, una niña medio dormida la vio por la ventana. Pidió un deseo pequeño y lo susurró. Chispa no supo cuál fue... y entendió que no importaba. La niña sonrió y se acurrucó en su cama. Le guiñó un ojo la Luna. Y Chispa, tranquila al fin, volvió a su rincón a descansar, brillando en calma. Buenas noches, estrella. Buenas noches. A dormir.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -79,10 +75,6 @@
         {
           "anchor": "susurró",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     }

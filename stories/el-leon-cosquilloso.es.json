@@ -2,13 +2,13 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El león cosquilloso",
   "summary": "El rey de la sabana guarda un secreto muy divertido que aparece justo cuando intenta rugir.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Cada mañana, cuando el sol asomaba sobre la sabana, todos los animales esperaban el gran rugido de Leo, el león. Su rugido despertaba al mundo entero: fuerte, valiente, como un trueno amistoso. Leo respiró hondo, infló el pecho y abrió la boca bien grande. Pero en lugar de un rugido, le salió una risa chiquita: '¡Ji, ji, ji!'. Los animales se quedaron confundidos. Leo se tapó el hocico con las dos patas, coloradito de vergüenza, y salió corriendo a esconderse detrás de una roca grande. ¿Qué le pasaba al rey de la sabana?",
+      "text": "Cada mañana, cuando el sol asomaba sobre la sabana, todos los animales esperaban el gran rugido de Leo, el león. Su rugido despertaba al mundo entero: fuerte, valiente, como un trueno amistoso. Leo respiró hondo, infló el pecho y abrió la boca bien grande. Pero en lugar de un rugido le salió una risa. '¡Ji, ji, ji!'. Los animales se quedaron confundidos. Leo se tapó el hocico con las dos patas, colorado de vergüenza, y salió corriendo a esconderse detrás de una roca grande. ¿Qué le pasaba al rey de la sabana?",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "Detrás de la roca, Leo lo intentó otra vez, él solito. Cerró los ojos, apretó las patas y tomó aire para soltar el rugido más grande de la historia. Pero justo entonces, una brisa suave le acarició la panza. ¡Ay! A Leo le dio muchísima cosquilla, y en vez de rugir soltó otra risa enorme: '¡Ja, ja, ja!'. Rodó por el pasto sin poder parar. '¿Qué clase de rey soy?', suspiró, tapándose la cara. 'Un rey debe rugir, no reírse'. Pobre Leo, no sabía que su secreto pronto haría feliz a todos.",
+      "text": "Detrás de la roca, Leo lo intentó otra vez, él solo. Cerró los ojos, apretó las patas y tomó aire para soltar el rugido más grande de la historia. Pero justo entonces le acarició la panza una brisa. ¡Ay! A Leo le dio muchísima cosquilla, y en vez de rugir soltó otra risa. '¡Ja, ja, ja!'. Rodó por el pasto sin poder parar. '¿Qué clase de rey soy?', suspiró, tapándose la cara. 'Un rey debe rugir, no reírse'. Pobre Leo, no sabía que su secreto pronto haría feliz a todos.",
       "cues": [
         {
           "anchor": "brisa",
@@ -33,7 +33,7 @@
     },
     {
       "id": "s3",
-      "text": "Tres amigos habían visto a Leo escaparse: Mona la monita, Pío el pajarito y una abeja muy curiosa. '¿Por qué el rey se esconde?', se preguntaron. Sin hacer ruido, se acercaron de puntillas hasta la roca. Sus pasos eran suaves, muy suaves: tip, tip, tip. La abeja volaba alrededor haciendo bzzz, bzzz. Se asomaron despacito por un lado de la roca, conteniendo la respiración. Y entonces, los tres vieron algo que jamás imaginaron. Leo, el león más grande de la sabana, estaba tumbado en el suelo, muerto de risa.",
+      "text": "Tres amigos habían visto a Leo escaparse: la mona Mona, el pájaro Pío y una abeja. '¿Por qué el rey se esconde?', se preguntaron. Sin hacer ruido, se acercaron de puntillas hasta la roca. Nadie alcanzó a oír sus pasos. Alrededor de ellos, haciendo bzzz, bzzz, volaba la abeja. Se asomaron despacio por un lado de la roca, conteniendo la respiración. Y entonces, los tres vieron algo que jamás imaginaron. Leo, el león más grande de la sabana, estaba tumbado en el suelo, muerto de risa.",
       "cues": [
         {
           "anchor": "pasos",
@@ -47,7 +47,7 @@
     },
     {
       "id": "s4",
-      "text": "La abeja se posó suavecita en la punta de su nariz. ¡Y Leo estalló en una carcajada gigante! '¡JA, JA, JA!'. Se revolcó feliz entre las hojas secas, pataleando de alegría. Entonces los amigos comprendieron el secreto del rey: ¡Leo era el león más cosquilloso del mundo! No podía rugir porque todo, el viento, el pasto, una pluma, le hacía demasiada cosquilla. Y al verlo tan contento, los tres amigos ya no aguantaron más. Mona se rió, Pío se rió, la abeja se rió, y la sabana entera se llenó de carcajadas.",
+      "text": "La abeja se posó con mucha suavidad en la punta de su nariz. ¡Y Leo estalló en una carcajada! '¡JA, JA, JA!'. Pataleando de alegría, se revolcó feliz entre las hojas. Entonces los amigos comprendieron el secreto del rey: ¡Leo era el león más cosquilloso del mundo! No podía rugir porque todo, el viento, el pasto, una pluma, le hacía demasiada cosquilla. Y al verlo tan contento, los tres amigos ya no aguantaron más. Mona se rió, Pío se rió, la abeja se rió, y la sabana entera se llenó de risas.",
       "cues": [
         {
           "anchor": "carcajada",
@@ -61,7 +61,7 @@
     },
     {
       "id": "s5",
-      "text": "Leo abrió los ojos y vio a sus amigos riendo con él, no de él. 'Tu risa es más linda que cualquier rugido', dijo Mona. 'Despiertas la sabana con alegría'. Leo sonrió, y por primera vez no sintió vergüenza. Poco a poco el sol se escondió y salieron las estrellas, brillando como chispitas de plata. Los cuatro amigos se acurrucaron juntos sobre la hierba tibia, bostezando despacito. Y una tras otra, se quedaron dormidos bajo el cielo, con una sonrisa en la cara. Esa noche, la sabana durmió feliz, mecida por el eco suave de las risas del día.",
+      "text": "Leo abrió los ojos y vio a sus amigos riendo con él, no de él. 'Tu risa es más linda que cualquier rugido', dijo Mona. 'Despiertas la sabana con alegría'. Leo sonrió, y por primera vez no sintió vergüenza. Poco a poco el sol se escondió y salieron las estrellas. Brillaban como chispas de plata. Los cuatro amigos se acurrucaron juntos sobre la hierba tibia, bostezando despacio. Y uno tras otro, bajo el cielo y con una sonrisa en la cara, se quedaron dormidos. Esa noche, la sabana durmió feliz, mecida por el eco suave de las risas del día.",
       "ambient": "forest_night",
       "cues": [
         {

@@ -2,13 +2,13 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Night It Snowed in the Desert",
   "summary": "In a village where it has never snowed, Amira dreams of seeing real snow… and one winter afternoon the wind changes sides.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In Moon Well, the village where Amira lived, the heat was like an old grandfather: it had been there so many years that nobody said hello to it anymore. The stones kept the sun until midnight. The earth smelled of warm dust and fresh bread. Cicadas sang inside the cactus, and the wind that came down from the hills arrived hot, like the breath of a sleeping animal.\nAmira slept out on the porch, with a wet cloth on her forehead and a dog curled against her feet. Her dog Canela barked at the shadows and then sighed.\nUnder her pillow, Amira kept a page torn out of an old magazine: a white street, white roofs, trees with sugar on their branches. Snow. She had never seen snow. Nobody in the village had ever seen it, and that is why Amira dreamed about it almost every night, with her eyes open.",
+      "text": "In Moon Well, the village where Amira lived, the heat was like an old grandfather: it had been there so many years that nobody said hello to it anymore. The stones kept the sun until midnight. The earth smelled of warm dust and fresh bread. Cicadas sang inside the cactus, and over the village passed something as hot as the breath of a sleeping animal: the wind.\nAmira slept out on the porch, with a wet cloth on her forehead. Curled at the foot of the bed, watching the shadows of the yard, lay her dog. Every now and then Canela barked at nothing and then sighed.\nUnder her pillow, Amira kept a page torn out of an old magazine: a white street, white roofs, trees with sugar on their branches. Snow. She had never seen snow. Nobody in the village had ever seen it, and that is why Amira dreamed about it almost every night, with her eyes open.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "“Grandpa,” she said that night, “is snow really cold?”\nGrandpa Simón was in his wooden chair, fanning himself with his hat. Up above, the moon had climbed into the sky like a silver coin, and the night moths were circling around the lantern. On the fence post by the corral, an owl opened and closed its eyes very slowly.\n“Cold as a glass of water from the well,” said Grandpa. “Cold and soft at the same time. And when you squeeze it in your hand, it crunches.”\nAmira sat down on the dirt floor, hugging her knees.\n“And how do you know, Grandpa? It never snows here.”\nGrandpa stayed quiet for a long moment, the kind of moment when older people go looking for a memory they keep very carefully put away.\n“Because it snowed here once,” he said slowly. “A hundred years ago. And my grandmother was there.”",
+      "text": "“Grandpa,” she said that night, “is snow really cold?”\nGrandpa Simón was in his wooden chair, fanning himself with his hat. Up above, the sky had a silver coin hanging from it, and that coin was the moon. Around the lantern circled the night moths. On the fence post by the corral, opening and closing its eyes very slowly, sat an owl.\n“Cold as a glass of water from the well,” said Grandpa. “Cold and soft at the same time. And when you squeeze it in your hand, it crunches.”\nAmira sat down on the dirt floor, hugging her knees.\n“And how do you know, Grandpa? It never snows here.”\nGrandpa stayed quiet for a long moment, the kind of moment when older people go looking for a memory they keep very carefully put away.\n“Because it snowed here once,” he said slowly. “A hundred years ago. And my grandmother was there.”",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "“She was six years old, almost like you,” Grandpa said. “It was a night in January, and the wind changed sides. It came down from the mountains smelling of wet stone. People pulled the blankets out of their trunks and nobody understood a thing.\nAnd then the sky turned white.\n“White, my girl. Something was falling that was not rain and was not dust. It fell slowly, as if the sky were pulling the petals off an enormous flower. The square filled up with people in pajamas. The old men took off their hats. The children laughed and stuffed snow into their pockets to keep it, and in their pockets it turned into water.\n“My grandmother filled a jar and put it under her bed. In the morning there was only water left, and she cried. But she told that night every single day of her life. And that is why I am telling it to you.”",
+      "text": "“She was six years old, almost like you,” Grandpa said. “It was a night in January. Down from the mountains came something that smelled of wet stone: a new wind. People pulled the blankets out of their trunks and nobody understood a thing.\nAnd then the sky turned white.\n“White, my girl. Something was falling that was not rain and was not dust. It fell slowly, as if the sky were pulling the petals off an enormous flower. The square filled up with people in pajamas. The old men took off their hats. The children stuffed snow into their pockets to keep it, and while it turned into water in there, they laughed.\n“My grandmother filled a jar and put it under her bed. In the morning there was only water left, and she cried. But she told that night every single day of her life. And that is why I am telling it to you.”",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -53,10 +53,10 @@
     },
     {
       "id": "s4",
-      "text": "The next day, Amira took out her pencils and started drawing the snowfall from a hundred years ago.\nShe drew the village seen from above: the church, the well, the roofs, doña Rosalía’s bakery. Then she painted it all white with a worn-down pencil, pressing hard, sharpening it with a knife every time it broke. She put little white dots in the air. Many of them. Hundreds. Thousands. The white pencil ended up as tiny as a bean.\nThe cat of the house, whose name was Higo, climbed onto the table and sat down right on top of the drawing, the way cats always do.\n“Move, Higo,” Amira said, laughing. “You are sitting on the square.”\nThat night she taped the drawing to the wall, next to the window. Before falling asleep she spoke to it in a whisper, very softly, the way you speak to important things:\n“One day I am going to see you for real.”",
+      "text": "The next day, Amira took out her pencils and started drawing the snowfall from a hundred years ago.\nShe drew the village seen from above: the church, the well, the roofs, doña Rosalía’s bakery. Then she painted it all white with a worn-down pencil, pressing hard, sharpening it with a knife every time it broke. She put little white dots in the air. Many of them. Hundreds. Thousands. The white pencil ended up as tiny as a bean.\nThe cat of the house was named Higo. He climbed onto the table and sat down right on top of the drawing, because tables and drawings belong to cats.\n“Move, Higo,” Amira said, laughing. “You are sitting on the square.”\nThat night she taped the drawing to the wall, next to the window. Before falling asleep she spoke to it the way you speak to important things, in a whisper:\n“One day I am going to see you for real.”",
       "cues": [
         {
-          "anchor": "cat",
+          "anchor": "cats",
           "sfx": "cat_meow"
         },
         {
@@ -67,7 +67,7 @@
     },
     {
       "id": "s5",
-      "text": "The days went by, and Amira learned to watch the sky the way the grown-ups did.\nEvery afternoon she went out to the yard, put her hand over her eyes like a visor, and studied the clouds. Grandpa taught her their names: the fat clouds that bring nothing, the ones with grey bellies that do, the ones that race up high and are only passing through. He taught her to wet her finger and hold it up to find out where the air was coming from.\nAt midday, when the heat pressed down, a big bee buzzed among the cactus flowers, and its clumsiness made Amira laugh.\nAnd at night, lying on the porch, she counted stars until she lost count.\n“What if it snows while I am asleep?” she asked.\n“Then I will wake you up,” Grandpa promised. “Grandfather’s word.”\nAmira closed her eyes and imagined her village white, so white it looked drawn with sugar.",
+      "text": "The days went by, and Amira learned to watch the sky the way the grown-ups did.\nEvery afternoon she went out to the yard, put her hand over her eyes like a visor, and studied the clouds. Grandpa taught her their names: the fat clouds that bring nothing, the ones with grey bellies that do, the ones that race up high and are only passing through. He taught her to wet her finger and hold it up to find out where the air was coming from.\nAt midday, when the heat pressed down, among the cactus flowers buzzed a big bee. Its clumsiness made Amira laugh.\nAnd at night, lying on the porch, she counted stars. She always lost count.\n“What if it snows while I am asleep?” she asked.\n“Then I will wake you up,” Grandpa promised. “Grandfather’s word.”\nAmira closed her eyes and imagined her village white, so white it looked drawn with sugar.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -82,7 +82,7 @@
     },
     {
       "id": "s6",
-      "text": "And then, one winter afternoon, something strange happened.\nAmira was sweeping the porch when she felt a shiver run along her arms. She lifted her face. The wind had changed sides: it no longer rose warm from the desert, now it came down from the mountains, thin and icy, and it smelled of wet stone.\nThe dry leaves in the yard began to spin in circles, all together, as if they were rehearsing a dance. The clothes on the line puffed up like the sails of a boat. The sky turned a colour Amira did not know: grey with a little violet, just like the inside of a shell.\nDoña Rosalía ran out to take down her sheets. The thermometer at the shop, which always showed high numbers, went down, and down, and down.\nGrandpa came out to the yard without his hat. He smelled the air slowly, like an old dog, and said nothing. But his eyes shone.",
+      "text": "And then, one winter afternoon, something strange happened.\nAmira was sweeping the porch when she felt a shiver run along her arms. She lifted her face. Something thin and icy was coming down from the mountains, and it smelled of wet stone. It no longer rose warm from the desert. It had changed sides, the wind.\nIn the yard, as if they were rehearsing a dance, round and round in circles went the dry leaves. The clothes on the line puffed up like the sails of a boat. The sky turned a colour Amira did not know: grey with a little violet, just like the inside of a shell.\nDoña Rosalía ran out to take down her sheets. The thermometer at the shop, which always showed high numbers, went down, and down, and down.\nGrandpa came out to the yard without his hat. He smelled the air slowly, like an old dog, and said nothing. But his eyes shone.",
       "cues": [
         {
           "anchor": "wind",
@@ -96,7 +96,7 @@
     },
     {
       "id": "s7",
-      "text": "The animals knew before the people did.\nCanela, who never came inside the house, walked in without permission and lay down under Amira’s bed, trembling and twitching her ears. Every now and then the dog barked at the closed door, as if warning about something she could not explain.\nThe hens squeezed together into one corner of the coop and turned into a single big, warm hen. Higo climbed onto the clay oven and stayed there, on the toasty part, curled up in a ring.\nThe ants sealed the entrance of their nest with tiny little stones.\nAnd down in the well, a frog that had been quiet for weeks began to sing as if it were the only singer in the whole world.\n“Grandpa, why is everything so strange?”\n“Because something is coming,” Grandpa said, and put a blanket over her shoulders. “The animals can smell it. We only wait.”",
+      "text": "The animals knew before the people did.\nCanela, who never came inside the house, walked in without permission and lay down under Amira’s bed, trembling and twitching her ears. At the closed door, every now and then, barked the dog.\nThe hens squeezed together into one corner of the coop and turned into a single big, warm hen. Higo climbed onto the clay oven and stayed there, on the hottest part, curled up in a ring.\nThe ants sealed the entrance of their nest with tiny little stones.\nAnd down in the well something that had been quiet for weeks began to sing as if it were the only singer in the whole world: a frog.\n“Grandpa, why is everything so strange?”\n“Because something is coming,” Grandpa said, and put a blanket over her shoulders. “The animals can smell it. We only wait.”",
       "cues": [
         {
           "anchor": "dog",
@@ -110,7 +110,7 @@
     },
     {
       "id": "s8",
-      "text": "That night the house went to bed early, because the cold made everyone sleepy.\nNot Amira. Amira stayed awake with her nose pressed against the window glass, wrapped in two blankets, watching the empty street. The lamp on the corner made a circle of yellow light on the ground. The kitchen clock was ticking. Nothing else.\nHer eyes kept closing. Amira breathed on the glass and fogged it up, and with one finger she drew a little house with smoke.\nAnd right at that moment, inside the circle of lamplight, something came down.\nIt came down slowly, turning and turning, as if it were in no hurry at all. It was small and white, and it shone for one instant as it passed through the light.\nA flake.\nAmira went completely still, with her mouth open. Behind the first one came another. And another. And one more.\nIt was snowing in Moon Well.",
+      "text": "That night the house went to bed early, because the cold made everyone sleepy.\nNot Amira. Amira stayed awake with her nose pressed against the window glass, wrapped in two blankets, watching the empty street. The lamp on the corner made a circle of yellow light on the ground. The kitchen clock was ticking. Nothing else.\nHer eyes kept closing. Onto the cold glass, to fog it up, Amira breathed. Then with one finger she drew a little house with smoke.\nAnd right at that moment, inside the circle of lamplight, something came down.\nIt came down slowly, turning and turning, as if it were in no hurry at all. It was small and white, and as it crossed the light it gave off a gleam.\nA flake.\nAmira went completely still, with her mouth open. Behind the first one came another. And another. And one more.\nIt was snowing in Moon Well.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -118,14 +118,14 @@
           "sfx": "breathe_in"
         },
         {
-          "anchor": "flake",
+          "anchor": "gleam",
           "sfx": "sparkle"
         }
       ]
     },
     {
       "id": "s9",
-      "text": "Amira came running out of her room, barefoot.\n“Grandpa! Grandpa, Grandpa, GRANDPA!”\nHer footsteps rang all down the hallway, so fast that they sounded like many more feet than she actually had. She banged on Grandpa’s door with both hands. The door opened and there he was, his white hair all messy and his eyes small with sleep.\n“What is it, my girl?”\n“It is falling! Out of the sky! White!”\nGrandpa did not ask anything else. He pulled his boots on without socks, grabbed the blanket off his bed, and came out right behind her. Amira woke her mother, woke her father, woke her little brother who slept with his mouth open, and even woke Canela, who was already wide awake.\n“Everybody outside!” she shouted. “Everybody outside, now!”\nAnd the whole family, in pajamas and with sleepy eyes, went out to the yard to look at the sky.",
+      "text": "Amira came running out of her room, barefoot.\n“Grandpa! Grandpa, Grandpa, GRANDPA!”\nAll down the hallway rang her footsteps. They were so fast that they sounded like many more feet than she actually had. With both hands she banged on Grandpa’s door. It opened, and there he was, his white hair all messy and his eyes small with sleep.\n“What is it, my girl?”\n“It is falling! Out of the sky! White!”\nGrandpa did not ask anything else. He pulled his boots on without socks, grabbed the blanket off his bed, and came out right behind her. Amira woke her mother, woke her father, woke her little brother who slept with his mouth open, and even woke Canela, who was already wide awake.\n“Everybody outside!” she shouted. “Everybody outside, now!”\nAnd the whole family, in pajamas and with sleepy eyes, went out to the yard to look at the sky.",
       "cues": [
         {
           "anchor": "footsteps",
@@ -139,7 +139,7 @@
     },
     {
       "id": "s10",
-      "text": "In Moon Well, news does not need a telephone.\nFirst one window lit up. Then another. Then the doors began to open one by one all along the street, and out of every house came people in pajamas, with coats thrown over them, with blankets, with woollen hats nobody had ever used.\nNobody spoke loudly. At first there were only whispers, as if they were in church. The square was changing colour: the brown ground turned white, the roofs turned white, and the edge of the well wore a little hat of snow.\nThe dogs barked out of pure excitement without knowing why.\nAnd then somebody laughed. It was the baker, who opened his mouth so that a flake would land on his tongue. And the laughter spread from one end of the village to the other, like fire in dry firewood.",
+      "text": "In Moon Well, news does not need a telephone.\nFirst one window lit up. Then another. Then, all along the street, one by one, began to open the doors. Out of every house came people in pajamas, with coats thrown over them, with blankets, with woollen hats nobody had ever used.\nNobody spoke loudly. At first there were only whispers, as if they were in church. The square was changing colour: the brown ground turned white, the roofs turned white, and the edge of the well wore a little hat of snow.\nThe dogs barked out of pure excitement without knowing why.\nAnd then somebody laughed. It was the baker, who opened his mouth so that a flake would land on his tongue. And from one end of the village to the other, like fire in dry firewood, spread the laughter.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -154,7 +154,7 @@
     },
     {
       "id": "s11",
-      "text": "What happened next, Amira never forgot.\nThe whole village started playing in the middle of the night. The children went running down the middle of the street, leaving footprints and stepping on them again. The snow crunched under their shoes, a brand-new little sound, tiny and perfect: crick, crick, crick.\nAmira learned that night that snow can be caught with your tongue, that it melts in your hand and leaves your palm wet, and that if you blow on it, it flies.\nHer father made a soft ball and tossed it at her little brother, who looked very serious for one second and then laughed so hard that he sat down.\nThe teacher came down in his slippers. The woman from the post office danced by herself. Somebody played music out of a window.\nAnd Grandpa, who almost never ran, took three running steps across the square just to make footprints.",
+      "text": "What happened next, Amira never forgot.\nThe whole village started playing in the middle of the night. Down the middle of the street, leaving footprints and stepping on them again, the children went running. Under their shoes, with a brand-new and perfect little sound, the snow crunched. Crick, crick, crick.\nAmira learned that night that snow can be caught with your tongue, that it melts in your hand and leaves your palm wet, and that if you blow on it, it flies.\nHer father made a soft ball and tossed it at her little brother, who looked very serious for one second and then laughed so hard that he sat down.\nThe teacher came down in his slippers. The woman from the post office danced by herself. Somebody played music out of a window.\nAnd Grandpa, who almost never ran, crossed the square at a run just to make footprints.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -169,7 +169,7 @@
     },
     {
       "id": "s12",
-      "text": "“We have to make a snowman,” said Amira.\nThe problem was that there was very little snow. So the whole village helped: they gathered the snow from the ground with their hands, and the snow from the benches, and the snow from the edge of the well, and carried it to the middle of the square like someone carrying a treasure on a plate.\nThe snowman only came up to Amira’s knee. He was small and round and a little bit crooked.\nThey gave him two coffee beans for eyes and a dried chilli for a nose. Grandpa tied his own striped scarf around him. Somebody stuck two mesquite twigs in for arms.\nAmira patted his belly to settle him — thud — and the snowman stood firm.\n“And what is his name?” her brother asked.\n“Flake,” said Amira, and her laugh came out like water from a bucket.",
+      "text": "“We have to make a snowman,” said Amira.\nThe problem was that there was very little snow. So the whole village helped: they gathered the snow from the ground with their hands, and the snow from the benches, and the snow from the edge of the well, and carried it to the middle of the square like someone carrying a treasure on a plate.\nThe snowman only came up to Amira’s knee. He was small and round and a little bit crooked.\nThey gave him two coffee beans for eyes and a dried chilli for a nose. Grandpa tied his own striped scarf around him. Somebody stuck two mesquite twigs in for arms.\nTo settle him, Amira gave his belly a soft thud. And the snowman stood firm.\n“And what is his name?” her brother asked.\n“Flake,” said Amira, and out of her came a laugh. It came out like water from a bucket.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -184,7 +184,7 @@
     },
     {
       "id": "s13",
-      "text": "When the snow stopped falling, the clouds opened slowly and the stars appeared, clean and wet, as if they had just been washed.\nThat was when Amira looked at the old people of the village.\nDon Efraín, who was ninety-two years old and had a wooden cane, was standing in the middle of the square with his hands open, and tears were rolling down his face without him making any sound at all.\n“A whole life waiting for this,” he said in a whisper. “A whole life.”\nDoña Rosalía cried and laughed at the same time, which is the most beautiful way of crying.\nAnd Grandpa Simón, the same grandpa as always, the one who fixed everything and never complained, had shining eyes.\n“My grandmother was right,” he said. “It is exactly like this.”\nAmira took his hand. It was cold on the outside and warm on the inside, like all grandfathers’ hands.",
+      "text": "When the snow stopped falling, the clouds opened slowly and, clean and wet as if they had just been washed, out came the stars.\nThat was when Amira looked at the old people of the village.\nDon Efraín, who was ninety-two years old and had a wooden cane, was standing in the middle of the square with his hands open, and tears were rolling down his face without him making any sound at all. What he said, he said in a whisper:\n“A whole life waiting for this. A whole life.”\nDoña Rosalía cried and laughed at the same time, which is the most beautiful way of crying.\nAnd Grandpa Simón, the same grandpa as always, the one who fixed everything and never complained, had shining eyes.\n“My grandmother was right,” he said. “It is exactly like this.”\nAmira took his hand. It was cold on the outside and warm on the inside, like all grandfathers’ hands.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -199,7 +199,7 @@
     },
     {
       "id": "s14",
-      "text": "The sky turned pink behind the hills, and then the same old sun came up.\nAnd the sun, which knew nothing about legends, began to melt the snow.\nFirst came the sound of the drops falling from the roofs: plip, plip, plip, into the puddles that were forming in the dirt. Then the square began to show brown patches, like a white tablecloth full of holes. Flake got skinny, leaned over to one side, and in the end all that was left were two coffee beans, a dried chilli, and a striped scarf, all wet.\nAmira’s chest hurt.\n“I do not want it to go,” she said, and her voice shook.\nGrandpa crouched down to her height and breathed in deeply, looking at the puddle where Flake had been.\n“Come here, my girl. I am going to tell you something my grandmother told me.”",
+      "text": "The sky turned pink behind the hills, and then the same old sun came up.\nAnd the sun, which knew nothing about legends, began to melt the snow.\nFirst, from the roofs, began to fall the drops. Plip, plip, plip, into the puddles that were forming in the dirt. Then the square began to show brown patches, like a white tablecloth full of holes. Flake got skinny, leaned over to one side, and in the end all that was left were two coffee beans, a dried chilli, and a striped scarf, all wet.\nAmira’s chest hurt.\n“I do not want it to go,” she said, and her voice shook.\nGrandpa crouched down to her height, looked at the puddle where Flake had been, and slowly breathed.\n“Come here, my girl. I am going to tell you something my grandmother told me.”",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -214,7 +214,7 @@
     },
     {
       "id": "s15",
-      "text": "“Beautiful things do not have to last to be beautiful,” said Grandpa. “The snow is gone, yes. But look: you saw it. It is already kept in here, and nobody can melt it. My grandmother kept her snowfall for a hundred years. You are going to keep yours, and one day you will tell it to somebody small.”\nAmira thought about that. Then she dried her face with her sleeve and smiled.\nThey walked home slowly, holding hands, stepping in the puddles on purpose. Mama made hot chocolate. Grandpa hung the wet scarf on a chair so it would dry.\nAmira went to bed when it was already daytime, with a golden sky in the window and a warm wind moving the curtain. She closed her eyes. She saw the white square again, and Flake, and the whole village laughing before dawn.\nAnd she fell asleep with a tiny little snore, happy, hugging the memory of the night it snowed in the desert.",
+      "text": "“Beautiful things do not have to last to be beautiful,” said Grandpa. “The snow is gone, yes. But look: you saw it. It is already kept in here, and nobody can melt it. My grandmother kept her snowfall for a hundred years. You are going to keep yours, and one day you will tell it to somebody small.”\nAmira thought about that. Then she dried her face with her sleeve and smiled.\nThey walked home slowly, holding hands, stepping in the puddles on purpose. Mama made hot chocolate. Grandpa hung the wet scarf on a chair so it would dry.\nAmira went to bed when it was already daytime, with a golden sky in the window and the curtain moving slowly in the warm wind. She closed her eyes. She saw the white square again, and Flake, and the whole village laughing before dawn.\nAnd happy, hugging the memory of the night it snowed in the desert, she fell asleep with a tiny snore.",
       "ambient": "snow_wind",
       "cues": [
         {

@@ -2,13 +2,13 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El faro que guiaba ballenas",
   "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo, hasta que una noche de niebla descubre quién espera su luz.",
   "scenes": [
     {
       "id": "s1",
-      "text": "La camioneta se detuvo al final del camino de piedras y Aitana bajó con su maleta pequeña. Frente a ella, en lo alto del acantilado, se levantaba el faro de su abuelo: blanco, altísimo, con una franja roja arriba como un gorro de lana. Olía a sal, a pan tostado y a madera mojada. Abajo, muy abajo, las olas se abrían contra las rocas y volvían a juntarse, una y otra vez, sin cansarse nunca.\n\n—Bienvenida a mi casa —dijo el abuelo Nicolás, y empujó la puerta azul, que sonó como un bostezo largo.\n\nAitana miró adentro. Una mesa, dos sillas, una tetera y una escalera que subía y subía. Ni televisor, ni vecinos, ni parque.\n\n—¿Y qué se hace aquí? —preguntó, arrastrando los pies.\n\n—Se cuida la luz —contestó el abuelo—. Es el trabajo más silencioso del mundo.\n\nAitana suspiró. A ella el silencio le parecía, sobre todo, aburrido.",
+      "text": "La camioneta se detuvo al final del camino de piedras y Aitana bajó con su maleta pequeña. Frente a ella, en lo alto del acantilado, se levantaba el faro de su abuelo: blanco, altísimo, con una franja roja arriba como un gorro de lana. Olía a sal, a pan tostado y a madera mojada. Abajo, muy abajo, contra las rocas rompían las olas. Se abrían y volvían a juntarse, una y otra vez, sin cansarse nunca.\n\n—Bienvenida a mi casa —dijo el abuelo Nicolás, y empujó con las dos manos la puerta. Era azul, vieja, y sonó como un bostezo largo.\n\nAitana miró adentro. Una mesa, dos sillas, una tetera y una escalera que subía y subía. Ni televisor, ni vecinos, ni parque.\n\n—¿Y qué se hace aquí? —preguntó, arrastrando los pies.\n\n—Se cuida la luz —contestó el abuelo—. Es el trabajo más silencioso del mundo.\n\nAitana suspiró. A ella el silencio le parecía, sobre todo, aburrido.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "Después de la sopa caliente, el abuelo colgó su gorra en un clavo y dijo:\n\n—Ven, te presento a la señora del faro.\n\nSubieron juntos. La escalera era de caracol, de hierro frío, y los pasos de los dos sonaban como un tambor lento: tan, tan, tan. Aitana contó veinte, cuarenta, sesenta escalones. En las paredes había caracolas pegadas con cinta, dibujos antiguos de barcos y una lista larga de nombres que ella no conocía. Todo olía a aceite, a metal y a mar dormido.\n\n—¿Cuántos escalones son? —preguntó, un poco sin aire.\n\n—Ciento veinte —dijo el abuelo—. Los subo dos veces cada noche, con lluvia o con calma. Por eso tengo estas piernas de cangrejo viejo.\n\nA Aitana se le escapó una risa que rebotó por el hueco de la torre y volvió, más pequeñita, desde arriba.\n\n—¿Oíste eso? —dijo el abuelo, guiñando un ojo—. El faro también se ríe. Solo hay que hacerle cosquillas en el momento justo.",
+      "text": "Después de la sopa caliente, el abuelo colgó su gorra en un clavo y dijo:\n\n—Ven, te presento a la señora del faro.\n\nSubieron juntos. La escalera era de caracol, de hierro frío, y como un tambor lento sonaban los pasos. Tan, tan, tan. Aitana contó veinte, cuarenta, sesenta escalones. En las paredes había caracolas pegadas con cinta, dibujos antiguos de barcos y una lista larga de nombres que ella no conocía. Todo olía a aceite, a metal y a mar dormido.\n\n—¿Cuántos escalones son? —preguntó, un poco sin aire.\n\n—Ciento veinte —dijo el abuelo—. Los subo dos veces cada noche, con lluvia o con calma. Por eso tengo estas piernas de cangrejo viejo.\n\nA Aitana se le escapó una risa. Rebotó por el hueco de la torre y volvió desde arriba, más pequeña.\n\n—¿Oíste eso? —dijo el abuelo, guiñando un ojo—. El faro también se ríe. Solo hay que hacerle cosquillas en el momento justo.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Arriba, la sala de la lámpara era toda de vidrio. Aitana se quedó quieta. Alrededor de ella, cientos de cristales cortados como diamantes envolvían una lámpara del tamaño de un balón. Afuera, el viento pasaba silbando y las ventanas temblaban un poquito, como si tuvieran frío. Olía a limón y a aceite limpio.\n\nEl abuelo sacó un trapo suave del bolsillo.\n\n—Primero se limpia el vidrio. Sin prisa. Un dedo sucio y la luz se pone tímida.\n\nLuego movió una manivela de bronce, contando bajito, y el corazón del faro empezó a girar. La luz salió al aire, larguísima, y barrió la noche: un lado, el otro, un lado, el otro.\n\n—Es como una estrella que no se queda quieta —susurró Aitana.\n\n—Es exactamente eso —dijo el abuelo—. Una estrella con horario de trabajo.\n\nAitana apoyó la frente en el cristal tibio y, sin darse cuenta, dejó de pensar en el televisor.",
+      "text": "Arriba, la sala de la lámpara era toda de vidrio. Aitana se quedó quieta. Alrededor de ella, cientos de cristales cortados como diamantes envolvían una lámpara del tamaño de un balón. Afuera, las ventanas temblaban un poco, como si tuvieran frío, y alrededor de la torre pasaba silbando el viento. Olía a limón y a aceite limpio.\n\nEl abuelo sacó un trapo suave del bolsillo.\n\n—Primero se limpia el vidrio. Sin prisa. Un dedo sucio y la luz se pone tímida.\n\nLuego movió una manivela de bronce, contando en voz baja, y el corazón del faro empezó a girar. La luz salió al aire, larguísima, y barrió la noche: un lado, el otro, un lado, el otro.\n\n—No se queda quieta —susurró Aitana—. Es como una estrella.\n\n—Es exactamente eso —dijo el abuelo—. Y además tiene horario de trabajo.\n\nAitana apoyó la frente en el cristal tibio y, sin darse cuenta, dejó de pensar en el televisor.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -48,20 +48,16 @@
         {
           "anchor": "estrella",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "—¿Y para quién es la luz? —preguntó Aitana esa noche, tapada hasta la nariz.\n\nEl abuelo se sentó en el borde de la cama con su cuaderno de tapas gastadas.\n\n—Para los barcos de pesca, que vuelven tarde. Para el bote de don Elías, que ya no ve bien. Y desde hace tres inviernos, para alguien más.\n\nAbrió el cuaderno y le mostró un dibujo torcido: dos lomos grandes y uno chiquito.\n\n—Ballenas —dijo—. Una madre, un padre y una cría. Pasan por aquí cuando el agua se enfría, y este canal está lleno de rocas escondidas. Cuando la luz gira, ellas la ven desde abajo, como un resplandor blando en el techo del mar, y siguen el camino correcto.\n\nAfuera, la luna se asomó entre las nubes y todo el cuarto se puso plateado.\n\n—¿Y si un día la luz no está? —preguntó Aitana.\n\nEl abuelo cerró el cuaderno despacio.\n\n—Por eso yo siempre estoy.",
+      "text": "—¿Y para quién es la luz? —preguntó Aitana esa noche, tapada hasta la nariz.\n\nEl abuelo se sentó en el borde de la cama con su cuaderno de tapas gastadas.\n\n—Para los barcos de pesca, que vuelven tarde. Para el bote de don Elías, que ya no ve bien. Y desde hace tres inviernos, para alguien más.\n\nAbrió el cuaderno y le mostró un dibujo torcido: dos lomos grandes y uno pequeño. Eran ballenas.\n\n—Una madre, un padre y una cría —dijo el abuelo—. Pasan por aquí cuando el agua se enfría, y este canal está lleno de rocas escondidas. Cuando la luz gira, ellas la ven desde abajo, como un resplandor blando en el techo del mar, y siguen el camino correcto.\n\nAfuera, entre las nubes, se asomó la luna. Todo el cuarto se puso plateado.\n\n—¿Y si un día la luz no está? —preguntó Aitana.\n\nEl abuelo cerró el cuaderno despacio.\n\n—Por eso yo siempre estoy.",
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "Ballenas",
+          "anchor": "ballenas",
           "sfx": "whale_song"
         },
         {
@@ -72,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "Tres noches después llegó la niebla. No una niebla cualquiera: una espesa, blanca, callada, que se tragó las rocas, el camino y hasta la punta del faro. Aitana no podía ver su propia mano estirada. El viento se volvió tibio y lento, como una manta mojada. Muy lejos, un motor de barco tosía en la oscuridad.\n\n—Noche de trabajo doble —dijo el abuelo, y subieron los ciento veinte escalones.\n\nLa luz giraba, valiente, abriendo túneles en el vapor. Aitana empezaba a entender el ritmo: un lado, el otro, un lado, el otro. Entonces el faro hizo un crujido raro, como cuando uno muerde una galleta demasiado dura.\n\nLa luz se detuvo. Quedó apuntando a la nada, quieta como un ojo dormido.\n\n—Abuelo... —dijo Aitana, y su voz salió chiquita.\n\nEl abuelo no gritó, no corrió. Se quitó la gorra, se agachó junto al mecanismo y dijo, muy tranquilo:\n\n—Nieta, necesito tus manos.",
+      "text": "Tres noches después llegó la niebla. No una niebla cualquiera: una espesa, blanca, callada, que se tragó las rocas, el camino y hasta la punta del faro. Aitana no podía ver su propia mano estirada. Tibio y lento, como una manta mojada, se puso el viento. Muy lejos, un motor de barco tosía en la oscuridad.\n\n—Noche de trabajo doble —dijo el abuelo, y subieron los ciento veinte escalones.\n\nLa luz giraba, valiente, abriendo túneles en el vapor. Aitana empezaba a entender el ritmo: un lado, el otro, un lado, el otro. Entonces, como cuando uno muerde una galleta demasiado dura, el faro hizo un crujido.\n\nLa luz se detuvo. Quedó apuntando a la nada, quieta como un ojo dormido.\n\n—Abuelo... —dijo Aitana, y su voz salió muy pequeña.\n\nEl abuelo no gritó, no corrió. Se quitó la gorra, se agachó junto al mecanismo y dijo, muy tranquilo:\n\n—Nieta, necesito tus manos.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -87,7 +83,7 @@
     },
     {
       "id": "s6",
-      "text": "Se arrodillaron los dos en el piso de madera. El abuelo levantó una tapa redonda y apareció el corazón del faro: ruedas dentadas, un resorte enrollado y una cadena con un peso al final, como el de un reloj gigante.\n\n—Mira: aquí hay una rueda con un diente roto —explicó, y le puso la linterna en la mano—. El motor no la puede mover. Pero nosotros sí. Con paciencia.\n\nAfuera, en los pinos de atrás, un búho preguntó algo que nadie contestó. Aitana escuchó los pasos del abuelo yendo y viniendo, buscando su caja de herramientas, y sintió que el faro entero esperaba.\n\n—¿Podemos hacerlo sin la máquina? —preguntó.\n\n—Podemos hacerlo con las manos. Como en los tiempos de mi bisabuelo —dijo él, y sonrió—. Tú vas a contar, yo voy a empujar. La luz tiene que dar una vuelta cada diez segundos. Ni más, ni menos.",
+      "text": "Se arrodillaron los dos en el piso de madera. El abuelo levantó una tapa redonda y apareció el corazón del faro: ruedas dentadas, un resorte enrollado y una cadena con un peso al final, como el de un reloj gigante.\n\n—Mira: aquí hay una rueda con un diente roto —explicó, y le puso la linterna en la mano—. El motor no la puede mover. Pero nosotros sí. Con paciencia.\n\nAfuera, en los pinos de atrás, preguntó algo un búho. Nadie le contestó. Mientras el abuelo iba y venía buscando su caja de herramientas, Aitana escuchó sus pasos. Sintió que el faro entero esperaba.\n\n—¿Podemos hacerlo sin la máquina? —preguntó.\n\n—Podemos hacerlo con las manos. Como en los tiempos de mi bisabuelo —dijo él, y sonrió—. Tú vas a contar, yo voy a empujar. La luz tiene que dar una vuelta cada diez segundos. Ni más, ni menos.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -97,16 +93,12 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s7",
-      "text": "Y así empezó la noche más larga y más bonita de la vida de Aitana.\n\nEl abuelo apoyó las dos manos en la rueda grande y empujó. La rueda se quejó con un crujido y cedió un poquito. Aitana contaba en voz alta, despacio, marcando el ritmo con la palma en la rodilla: uno, dos, tres, cuatro...\n\n—Ahora —decía, y el abuelo empujaba otra vez.\n\nLa luz volvió a girar. No sola: girando porque ellos dos la estaban girando.\n\nAl rato, los brazos del abuelo temblaban.\n\n—Respira conmigo —le pidió él—. Adentro cuando descansamos, afuera cuando empujamos. Así no se gasta la fuerza.\n\nAitana se paró en un cajón de madera, puso sus manos pequeñas junto a las grandes y empujó también. Olía a bronce, a niebla y a sudor limpio. Afuera, el mar seguía moviéndose, y la luz seguía saliendo al mundo cada diez segundos, exacta, como una promesa.",
+      "text": "Y así empezó la noche más larga y más bonita de la vida de Aitana.\n\nEl abuelo apoyó las dos manos en la rueda grande y empujó. La rueda cedió un poco y se quejó con un crujido. Aitana contaba en voz alta, despacio, marcando el ritmo con la palma en la rodilla: uno, dos, tres, cuatro...\n\n—Ahora —decía, y el abuelo empujaba otra vez.\n\nLa luz volvió a girar. No sola: girando porque ellos dos la estaban girando.\n\nAl rato, los brazos del abuelo temblaban. Entonces le enseñó a Aitana el secreto para no cansarse: había que respirar.\n\n—Adentro cuando descansamos, afuera cuando empujamos —dijo—. Así no se gasta la fuerza.\n\nAitana se paró en un cajón de madera, puso sus manos pequeñas junto a las grandes y empujó también. Olía a bronce, a niebla y a sudor limpio. Afuera, el mar seguía moviéndose, y la luz seguía saliendo al mundo cada diez segundos, exacta, como una promesa.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -114,7 +106,7 @@
           "sfx": "crunch"
         },
         {
-          "anchor": "Respira",
+          "anchor": "respirar",
           "sfx": "breathe_in",
           "delayMs": 200
         }
@@ -122,7 +114,7 @@
     },
     {
       "id": "s8",
-      "text": "Cerca de la medianoche, la niebla empezó a soltarse en jirones, como algodón que se abre. La luz del faro atravesó el aire y llegó lejísimo, muy limpia, y allá abajo el bote de don Elías hizo sonar su bocina dos veces: bu-buuu. Aitana entendió que era un gracias.\n\n—Mira el agua —dijo el abuelo, sin dejar de empujar.\n\nAitana pegó la cara al vidrio. Entre las olas, tres formas oscuras avanzaban en fila junto a las rocas: dos grandes y una pequeña en el medio. Cada vez que la luz pasaba sobre ellas, sus lomos mojados brillaban un instante, como si alguien hubiera dejado caer una estrella en el mar.\n\n—Están ahí —susurró Aitana, y sintió un cosquilleo en toda la barriga—. Nos estaban esperando.\n\n—Te estaban esperando a ti también —dijo el abuelo—. Ahora tú también cuidas la luz.\n\nY siguieron empujando, los dos, sonriendo en la oscuridad.",
+      "text": "Cerca de la medianoche, la niebla empezó a soltarse en jirones, como algodón que se abre. La luz del faro atravesó el aire y llegó lejísimo, muy limpia, y allá abajo el bote de don Elías hizo sonar su bocina dos veces: bu-buuu. Aitana entendió que era un gracias.\n\n—Mira el agua —dijo el abuelo, sin dejar de empujar.\n\nAitana pegó la cara al vidrio. Junto a las rocas, tres formas oscuras avanzaban en fila entre las olas. Dos grandes y una pequeña en el medio. Cada vez que la luz pasaba sobre ellas, sus lomos mojados brillaban un instante, como si alguien hubiera dejado caer en el mar una estrella.\n\n—Están ahí —susurró Aitana, y sintió un cosquilleo en toda la barriga—. Nos estaban esperando.\n\n—Te estaban esperando a ti también —dijo el abuelo—. Ahora tú también cuidas la luz.\n\nY siguieron empujando, los dos, sonriendo en la oscuridad.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -137,7 +129,7 @@
     },
     {
       "id": "s9",
-      "text": "Entonces llegó el sonido.\n\nPrimero fue como un suspiro largo dentro del acantilado. Después subió por las piedras, por el hierro de la escalera, por los pies de Aitana, hasta su pecho: un canto grave, redondo, con curvas, que duraba y duraba sin romperse.\n\n—¿Qué es eso? —preguntó, con los ojos enormes.\n\n—Son las ballenas —dijo el abuelo, y se le puso la voz suave—. Cantan cuando el camino está claro.\n\nLa cría contestó a la madre con una nota más aguda, y las tres cantaron juntas, una encima de otra, como campanas debajo del agua. Al pasar cerca de las rocas, la pequeña sopló y dejó una fila de burbujas plateadas que subieron a la superficie y se rompieron con un chasquido diminuto.\n\nAitana no se movió. Le pareció que el faro, el mar y ella eran una sola cosa que respiraba muy lento.",
+      "text": "Entonces llegó el sonido.\n\nPrimero fue como un suspiro largo dentro del acantilado. Después subió por las piedras, por el hierro de la escalera, por los pies de Aitana, hasta su pecho: un canto grave, redondo, con curvas, que duraba y duraba sin romperse.\n\n—¿Qué es eso? —preguntó, con los ojos enormes.\n\nAl abuelo se le puso la voz suave cuando contestó. Eran ballenas.\n\n—Cantan cuando el camino está claro —dijo—. Es su manera de decir que llegaron bien.\n\nLa cría contestó a la madre con una nota más aguda, y las tres cantaron juntas, una encima de otra, como campanas debajo del agua. Al pasar cerca de las rocas, la más pequeña sopló y dejó una fila de burbujas. Subieron plateadas hasta la superficie y se rompieron con un chasquido pequeño.\n\nAitana no se movió. Le pareció que el faro, el mar y ella eran una sola cosa que respiraba muy lento.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -148,16 +140,12 @@
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
-        },
-        {
-          "anchor": "campanas",
-          "sfx": "bell_soft"
         }
       ]
     },
     {
       "id": "s10",
-      "text": "Cuando el motor volvió a funcionar, ya casi amanecía por dentro de la niebla. El abuelo bajó a Aitana en brazos, escalón por escalón, y la acostó junto a la ventana pequeña, con dos mantas y una caracola en la mano.\n\n—Ya sé por qué haces esto —dijo ella, con la voz pastosa—. No es un trabajo aburrido. Es un trabajo que cuida.\n\nEl abuelo le besó la frente.\n\n—Mañana te enseño a limpiar el vidrio.\n\nLa luna asomó un momento sobre el agua, la luz del faro pasó despacio por la pared —un lado, el otro, un lado, el otro—, y afuera el mar siguió respirando, tranquilo, como alguien que también se va a dormir.\n\nMuy lejos, las ballenas cantaron una última nota bajita.\n\nAitana la escuchó, sonrió con los ojos cerrados y se quedó dormida, mecida por el sonido del mar.",
+      "text": "Cuando el motor volvió a funcionar, ya casi amanecía por dentro de la niebla. El abuelo bajó a Aitana en brazos, escalón por escalón, y la acostó junto a la ventana pequeña, con dos mantas y una caracola en la mano.\n\n—Ya sé por qué haces esto —dijo ella, con la voz pastosa—. No es un trabajo aburrido. Es un trabajo que cuida.\n\nEl abuelo le besó la frente.\n\n—Mañana te enseño a limpiar el vidrio.\n\nSobre el agua asomó un momento la luna. La luz del faro pasó despacio por la pared —un lado, el otro, un lado, el otro—, y afuera el mar siguió respirando, tranquilo, como alguien que también se va a dormir.\n\nMuy lejos, las ballenas cantaron una última nota muy suave.\n\nAitana la escuchó, sonrió con los ojos cerrados y se quedó dormida, mecida por el sonido del mar.",
       "ambient": "ocean_waves",
       "cues": [
         {

@@ -2,13 +2,13 @@
   "id": "el-buho-dormilon",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Sleepy Little Owl",
   "summary": "A little owl isn't sleepy at night, and his mama teaches him a very gentle secret for waiting until morning.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High in an old tree lived a tiny owl named Uli. When the moon climbed into the sky, all the animals of the forest closed their eyes. But Uli opened his very wide. 'I'm not sleepy!' he said, flapping his wings. The wind slipped softly through the leaves and tickled his feathers. Uli wanted to play, he wanted to fly, he wanted to count every star in the sky. His mama watched him tenderly from the branch beside him, and smiled very slowly.",
+      "text": "High in an old tree lived a small owl named Uli. Every night, when the forest grew quiet, up into the sky climbed the moon. Then all the animals closed their eyes, but Uli opened his very wide. 'I'm not sleepy!' he said, flapping his wings. Through the leaves of the tree slipped a soft wind. It tickled his feathers, and Uli wanted to play, he wanted to fly, he wanted to count every star in the sky. His mama watched him tenderly from the branch beside him and smiled slowly.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "'Mama, why must I sleep now?' asked Uli. 'The night is for flying.' Mama Owl wrapped him in her warm wings. 'Long ago, we owls flew at night,' she said. 'But you are special, my little one. You can rest when the darkness comes, just like children do.' Uli puffed out his chest. 'But I want to see everything!' A frog sang down below, near the river, and a cricket answered back. Uli wanted to go and greet them. Mama gave him a little kiss between the eyes. 'The forest is sleeping too,' she whispered. 'Listen how quiet everything is.'",
+      "text": "'Mama, why must I sleep now?' asked Uli. 'The night is for flying.' Mama Owl wrapped him in her warm wings. 'Long ago, we owls flew at night,' she said. 'But you are special, my little one. You can rest when the darkness comes, just like children do.' Uli puffed out his chest. 'But I want to see everything!' Down below, near the river, sang a frog. A cricket answered back, and Uli wanted to go and greet them. Mama gave him a kiss between the eyes. 'The forest is sleeping too. Listen how quiet everything is,' she whispered.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "'I'll teach you a secret,' said Mama Owl. 'Close your little eyes and breathe slowly, like the forest.' Uli closed one eye, then the other. He breathed in deep once, and again, very softly. The wind rocked the branch like a cradle. 'Very good, my love,' said Mama. 'Now imagine your wings are warm little blankets.' Uli tucked in his feathers. He felt his mama's heart beating close by: thump, thump, thump. Outside, a little owl no longer wanted to fly. He only wanted to stay there, cozy and warm, listening to the night breathe along with him.",
+      "text": "'I'll teach you a secret,' said Mama Owl. 'Close your eyes, stay still like the forest, and breathe.' Uli closed one eye, then the other. He took a deep breath once, and then once more. The branch rocked like a cradle. 'Very good, my love,' said Mama. 'Now imagine your wings are two warm blankets.' Uli tucked in his feathers. He leaned against his mama's chest and listened very closely to her heart. Thump, thump, thump. Outside, a small owl no longer wanted to fly. He only wanted to stay there, warm and calm, listening to the sleeping forest.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -53,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "'But what if I miss something pretty?' yawned Uli, his voice already soft. 'Don't worry,' said Mama. 'The stars watch over the sky while you sleep, and the moon stays on guard. When you open your eyes, the sun will bring a brand-new day just for you.' Uli imagined the morning: the drops of dew shining, the little birds singing, the forest waking up bit by bit. 'Do you promise?' he asked quietly. 'I promise, my treasure. Morning always comes.' Uli smiled with his eyes closed, while the moon covered them both with its silver light, quiet and kind.",
+      "text": "'But what if I miss something pretty?' yawned Uli, his voice already soft. 'Don't worry,' said Mama. 'While you sleep, the sky is watched over by the stars. And keeping watch all night is the moon. When you open your eyes, the sun will bring a brand-new day just for you.' Uli imagined the morning: the drops of dew shining, the birds singing, the forest waking up bit by bit. 'Do you promise?' he asked quietly. 'I promise, my treasure. Morning always comes.' Uli smiled with his eyes closed, while a silver light, quiet and kind, covered them both.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "Little by little, Uli's breathing grew slow and calm. His feathers rose and fell, rose and fell. And then, very softly, a tiny snore could be heard: pfff... pfff... The little owl was finally asleep. Mama Owl covered him with one wing and looked at the sky. Far away, behind the mountains, a warm little light was beginning to peek out. Morning was on its way, just as she had promised. 'Goodnight, my Uli,' she whispered. 'I'll wake you when the sun comes up.' And in the old tree, the two of them slept happily until the new day.",
+      "text": "Little by little, Uli's breathing grew slow and calm. His feathers rose and fell, rose and fell. And then, very softly, they heard a snore. Pfff... pfff... The little owl was finally asleep. Mama Owl covered him with one wing and looked at the sky. Far away, behind the mountains, a warm light was beginning to peek out. Morning was on its way, just as she had promised. 'Goodnight, my Uli. I'll wake you when the sun comes up,' she whispered. And in the old tree, the two of them slept happily until the new day.",
       "ambient": "forest_night",
       "cues": [
         {

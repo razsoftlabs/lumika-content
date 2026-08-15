@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786754320881,
-  "publishedAt": "2026-08-15T00:38:40.881Z",
+  "manifestVersion": 1786826754007,
+  "publishedAt": "2026-08-15T20:45:54.007Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
     "en",
@@ -10,7 +10,7 @@
   "stories": [
     {
       "id": "el-zorro-y-la-luna",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -45,7 +45,7 @@
       "preview": {
         "es": {
           "title": "El zorro y la luna",
-          "summary": "Un zorrito curioso quiere alcanzar la luna y descubre algo más bonito en el camino."
+          "summary": "Un zorro curioso quiere alcanzar la luna y descubre algo más bonito en el camino."
         },
         "en": {
           "title": "The fox and the moon",
@@ -55,7 +55,7 @@
     },
     {
       "id": "la-ballena-cantora",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -100,7 +100,7 @@
     },
     {
       "id": "el-dragon-que-olvidaba-volar",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -136,7 +136,7 @@
       "preview": {
         "es": {
           "title": "El dragón que olvidaba volar",
-          "summary": "Un dragoncito nervioso aprende que con calma todo se logra."
+          "summary": "Un dragón nervioso aprende que con calma todo se logra."
         },
         "en": {
           "title": "The dragon who forgot how to fly",
@@ -146,7 +146,7 @@
     },
     {
       "id": "los-tres-amigos-del-bosque",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -191,7 +191,7 @@
     },
     {
       "id": "el-cohete-de-papel",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -235,7 +235,7 @@
     },
     {
       "id": "la-noche-de-las-luciernagas",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -278,7 +278,7 @@
     },
     {
       "id": "la-tortuga-que-quiso-correr",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -322,7 +322,7 @@
     },
     {
       "id": "pancho-el-perro-valiente",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -367,7 +367,7 @@
     },
     {
       "id": "rex-el-pequeno-dinosaurio",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -402,17 +402,17 @@
       "preview": {
         "es": {
           "title": "Rex, el pequeño dinosaurio",
-          "summary": "Rex es chiquito pero tiene un rugido enorme que asusta hasta a las nubes."
+          "summary": "Rex es el más pequeño de su familia, pero tiene un rugido enorme que asusta hasta a las nubes."
         },
         "en": {
           "title": "Rex, the little dinosaur",
-          "summary": "Rex is tiny but has a huge roar that scares even the clouds."
+          "summary": "Rex is the smallest in his family, but he has a huge roar that scares even the clouds."
         }
       }
     },
     {
       "id": "la-princesa-y-el-dragon-triston",
-      "version": 4,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -448,7 +448,7 @@
       "preview": {
         "es": {
           "title": "La princesa y el dragón tristón",
-          "summary": "Una princesa descubre que el dragón rugía porque tenía una piedrita en la pata."
+          "summary": "Una princesa descubre que el dragón rugía porque tenía una espina clavada en la pata."
         },
         "en": {
           "title": "The princess and the sad dragon",
@@ -458,7 +458,7 @@
     },
     {
       "id": "astronauta-en-pijama",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -501,7 +501,7 @@
     },
     {
       "id": "dino-que-le-tenia-miedo-al-charco",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -534,7 +534,7 @@
       "preview": {
         "es": {
           "title": "El dino que le tenía miedo al charco",
-          "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeñita que te puedas imaginar."
+          "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeña que te puedas imaginar."
         },
         "en": {
           "title": "The dino who was scared of the puddle",
@@ -544,7 +544,7 @@
     },
     {
       "id": "dos-caracoles-y-una-carrera",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -587,7 +587,7 @@
     },
     {
       "id": "el-arbol-de-los-abrazos",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -620,7 +620,7 @@
       "preview": {
         "es": {
           "title": "El árbol de los abrazos",
-          "summary": "Un árbol viejo y solito del parque guarda entre sus ramas el secreto más tierno del mundo."
+          "summary": "Un árbol viejo y solo del parque guarda entre sus ramas el secreto más tierno del mundo."
         },
         "en": {
           "title": "The Hugging Tree",
@@ -630,7 +630,7 @@
     },
     {
       "id": "el-buho-dormilon",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -663,7 +663,7 @@
       "preview": {
         "es": {
           "title": "El búho dormilón",
-          "summary": "Un pequeño búho no tiene sueño de noche, y su mamá le enseña un secreto muy suave para esperar la mañana."
+          "summary": "Un búho pequeño no tiene sueño de noche, y su mamá le enseña un secreto muy suave para esperar la mañana."
         },
         "en": {
           "title": "The Sleepy Little Owl",
@@ -673,7 +673,7 @@
     },
     {
       "id": "el-caballito-de-mar-perdido",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -706,7 +706,7 @@
       "preview": {
         "es": {
           "title": "El caballito de mar perdido",
-          "summary": "Cuando unas burbujas juguetonas lo alejan de casa, un pequeño caballito de mar descubre que el océano está lleno de amigos dispuestos a ayudar."
+          "summary": "Cuando unas burbujas juguetonas lo alejan de casa, un caballito de mar descubre que el océano está lleno de amigos dispuestos a ayudar."
         },
         "en": {
           "title": "The Lost Little Seahorse",
@@ -716,7 +716,7 @@
     },
     {
       "id": "el-cangrejo-que-caminaba-derecho",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -749,7 +749,7 @@
       "preview": {
         "es": {
           "title": "El cangrejo que caminaba derecho",
-          "summary": "Kiko el cangrejito quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa."
+          "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa."
         },
         "en": {
           "title": "The crab who wanted to walk straight",
@@ -759,7 +759,7 @@
     },
     {
       "id": "el-conejo-que-perdio-su-brinco",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -792,7 +792,7 @@
       "preview": {
         "es": {
           "title": "El conejo que perdió su brinco",
-          "summary": "Una mañana, Tobi el conejito despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?"
+          "summary": "Una mañana, Tobi el conejo despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?"
         },
         "en": {
           "title": "The rabbit who lost his hop",
@@ -802,7 +802,7 @@
     },
     {
       "id": "el-dinosaurio-que-guardaba-un-huevo",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -835,7 +835,7 @@
       "preview": {
         "es": {
           "title": "El dinosaurio que guardaba un huevo",
-          "summary": "Tobi encuentra un huevo solito junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda."
+          "summary": "Tobi encuentra un huevo abandonado junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda."
         },
         "en": {
           "title": "The Dinosaur Who Kept an Egg",
@@ -845,7 +845,7 @@
     },
     {
       "id": "el-dragoncito-de-las-nubes",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -888,7 +888,7 @@
     },
     {
       "id": "el-elefante-que-no-hacia-ruido",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -929,7 +929,7 @@
     },
     {
       "id": "el-erizo-que-queria-abrazar",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -972,7 +972,7 @@
     },
     {
       "id": "el-faro-que-guiaba-ballenas",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1015,7 +1015,7 @@
     },
     {
       "id": "el-gato-que-cruzo-la-ciudad",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "el-jardin-secreto-de-la-abuela",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1091,7 +1091,7 @@
       "preview": {
         "es": {
           "title": "El jardín secreto de la abuela",
-          "summary": "Dos hermanos llegan aburridos a pasar el verano en el campo, hasta que el viento mueve la hiedra y aparece una puertecita azul que llevaba años esperándolos."
+          "summary": "Dos hermanos llegan aburridos a pasar el verano en el campo, hasta que el viento mueve la hiedra y aparece una puerta azul que llevaba años esperándolos."
         },
         "en": {
           "title": "Grandma's Secret Garden",
@@ -1101,7 +1101,7 @@
     },
     {
       "id": "el-leon-cosquilloso",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "el-monstruo-amistoso-de-la-cama",
-      "version": 1,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1177,7 +1177,7 @@
       "preview": {
         "es": {
           "title": "El monstruo amistoso de la cama",
-          "summary": "Cuando Mateo oye un ruidito debajo de su cama, descubre que el monstruo que vive alli esconde un secreto muy parecido al suyo."
+          "summary": "Cuando Mateo oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo."
         },
         "en": {
           "title": "The Friendly Monster Under the Bed",
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "el-osito-y-la-tormenta",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1230,7 +1230,7 @@
     },
     {
       "id": "el-oso-que-no-queria-hibernar",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1273,7 +1273,7 @@
     },
     {
       "id": "el-pez-arcoiris-pequeno",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -1309,7 +1309,7 @@
       "preview": {
         "es": {
           "title": "El pez arcoíris pequeño",
-          "summary": "Un pececito tímido encuentra amigos en el fondo del mar."
+          "summary": "Un pez tímido encuentra amigos en el fondo del mar."
         },
         "en": {
           "title": "The little rainbow fish",
@@ -1319,7 +1319,7 @@
     },
     {
       "id": "el-pinguino-que-no-tenia-frio",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1362,7 +1362,7 @@
     },
     {
       "id": "el-tesoro-del-arroyo",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1405,7 +1405,7 @@
     },
     {
       "id": "el-tren-de-los-suenos",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1438,7 +1438,7 @@
       "preview": {
         "es": {
           "title": "El tren de los sueños",
-          "summary": "Cada noche, un trencito mágico recoge a los niños en pijama y los lleva despacito por paisajes de sueño."
+          "summary": "Cada noche, un tren mágico recoge a los niños en pijama y los lleva despacio por paisajes de sueño."
         },
         "en": {
           "title": "The dream train",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "estrella-fugaz-y-timida",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1481,7 +1481,7 @@
       "preview": {
         "es": {
           "title": "Chispa, la estrella fugaz tímida",
-          "summary": "Una estrellita tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado."
+          "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado."
         },
         "en": {
           "title": "Chispa, the Shy Shooting Star",
@@ -1491,7 +1491,7 @@
     },
     {
       "id": "la-biblioteca-de-medianoche",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1534,7 +1534,7 @@
     },
     {
       "id": "la-brujita-buena",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1567,17 +1567,17 @@
       "preview": {
         "es": {
           "title": "La brujita buena",
-          "summary": "Cada hechizo de la brujita Mila sale al revés, y su gato Tomás nunca sabe a quién van a terminar ayudando."
+          "summary": "Cada hechizo de Mila sale al revés, y su gato Tomás nunca sabe a quién van a terminar ayudando."
         },
         "en": {
           "title": "The Good Little Witch",
-          "summary": "Every one of little witch Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping."
+          "summary": "Every one of Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping."
         }
       }
     },
     {
       "id": "la-carrera-de-los-farolillos",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1620,7 +1620,7 @@
     },
     {
       "id": "la-flor-que-cantaba",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1652,17 +1652,17 @@
       "preview": {
         "es": {
           "title": "La flor que cantaba",
-          "summary": "Una florecita demasiado tímida para cantar esconde una vocecita que quizás el jardín entero necesita escuchar."
+          "summary": "Una flor demasiado tímida para cantar esconde una voz que quizás el jardín entero necesita escuchar."
         },
         "en": {
           "title": "The Flower That Sang",
-          "summary": "A little flower far too shy to sing hides a tiny voice the whole garden just might need to hear."
+          "summary": "A little flower far too shy to sing hides a voice the whole garden just might need to hear."
         }
       }
     },
     {
       "id": "la-gotita-que-queria-ser-mar",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1695,7 +1695,7 @@
       "preview": {
         "es": {
           "title": "La gotita que quería ser mar",
-          "summary": "Una gotita de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo."
+          "summary": "Una gota de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo."
         },
         "en": {
           "title": "The Little Drop Who Wanted to Be the Sea",
@@ -1705,7 +1705,7 @@
     },
     {
       "id": "la-hormiga-y-la-miga-gigante",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1780,7 +1780,7 @@
       "preview": {
         "es": {
           "title": "La luciérnaga que perdió su luz",
-          "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la lucecita de Lumi no quiere encender."
+          "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la luz de Lumi no quiere encender."
         },
         "en": {
           "title": "The Firefly Who Lost Her Light",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "la-luna-le-canta-al-nino",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1833,7 +1833,7 @@
     },
     {
       "id": "la-nave-de-caramelo",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1866,7 +1866,7 @@
       "preview": {
         "es": {
           "title": "La nave de caramelo",
-          "summary": "Tres amigos despegan en una nave de galletas y caramelo, y allá arriba encuentran a una estrellita que necesita su ayuda."
+          "summary": "Tres amigos despegan en una nave de galletas y caramelo, y allá arriba encuentran a una estrella que necesita su ayuda."
         },
         "en": {
           "title": "The Candy Rocket",
@@ -1876,7 +1876,7 @@
     },
     {
       "id": "la-noche-que-nevo-en-el-desierto",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1919,7 +1919,7 @@
     },
     {
       "id": "la-nube-que-queria-colores",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -1950,7 +1950,7 @@
       "preview": {
         "es": {
           "title": "La nube que quería colores",
-          "summary": "Nube es blanca y quiere ser de colores. Un chaparrón travieso le enseña de dónde salen los arcoíris."
+          "summary": "Nube es blanca y quiere ser de colores. Una lluvia traviesa le enseña de dónde salen los arcoíris."
         },
         "en": {
           "title": "The Cloud Who Wanted Colors",
@@ -1960,7 +1960,7 @@
     },
     {
       "id": "la-princesa-ingeniera",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -2003,7 +2003,7 @@
     },
     {
       "id": "la-princesa-que-queria-ensuciarse",
-      "version": 1,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "la-semilla-valiente",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -2078,8 +2078,8 @@
       ],
       "preview": {
         "es": {
-          "title": "La semillita valiente",
-          "summary": "Una semillita muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?"
+          "title": "La semilla valiente",
+          "summary": "Una semilla muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?"
         },
         "en": {
           "title": "The Brave Little Seed",
@@ -2089,7 +2089,7 @@
     },
     {
       "id": "mia-y-la-nube-viajera",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -2134,7 +2134,7 @@
     },
     {
       "id": "mision-a-la-luna-de-hielo",
-      "version": 2,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -2202,6 +2202,11 @@
         "id": "harp_dreams",
         "version": 1,
         "url": "audio/music/harp_dreams.mp3"
+      },
+      {
+        "id": "intro_lumika",
+        "version": 1,
+        "url": "audio/music/intro_lumika.mp3"
       },
       {
         "id": "lullaby_piano",

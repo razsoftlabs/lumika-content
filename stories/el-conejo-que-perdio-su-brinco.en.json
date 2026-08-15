@@ -2,13 +2,13 @@
   "id": "el-conejo-que-perdio-su-brinco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The rabbit who lost his hop",
   "summary": "One morning, Tobi the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?",
   "scenes": [
     {
       "id": "s1",
-      "text": "That morning, Tobi the little rabbit opened the door of his burrow and sighed. He almost always came out hopping, but today his little legs felt heavy, heavy. He didn't feel like jumping. Outside, the breeze moved the leaves with a soft rustle, and the meadow waited for him, golden with sun. Tobi only took one small step and sat down. “Where did my hop go?” he wondered, looking at his feet. In his heart there was a little gray cloud. And he didn't know how to push it aside.",
+      "text": "That morning, Tobi the little rabbit woke up in his burrow, sighed, and opened the door. He almost always came out hopping, but today his legs felt heavy, heavy. He didn't feel like jumping. Outside, the meadow waited for him, golden with sun, and the breeze moved the leaves. Tobi only took one small step and sat down. “Where did my hop go?” he wondered, looking at his feet. In his chest there was a gray cloud, and he didn't know how to push it aside.",
       "ambient": "meadow_day",
       "cues": [
         {
@@ -18,19 +18,15 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "Very soon a yellow bee came buzzing by. “Good morning, Tobi,” she said, spinning in little circles. “Come see the new flowers, they all opened last night.” Tobi didn't feel much like it, but the bee was so cheerful that he took a few slow steps behind her. The grass tickled his paws. Among the flowers there were dewdrops that shone like tiny diamonds. “You don't have to jump yet,” the bee told him sweetly. “Just walk with me.” And Tobi, without noticing, smiled a little for the first time all day.",
+      "text": "Very soon, yellow and round as a drop of sun, a bee arrived with her buzz. “Good morning, Tobi,” she said, spinning circles in the air. “Come see the new flowers, they all opened last night.” Tobi didn't feel much like it, but she was so cheerful that he followed her with a few slow steps. The grass tickled his paws. Among the flowers there were beads of dew that shone like tiny diamonds. “You don't have to jump yet,” the bee told him sweetly. “Just walk with me.” And Tobi, without noticing, smiled for the first time all day.",
       "cues": [
         {
-          "anchor": "bee",
+          "anchor": "buzz",
           "sfx": "bee_buzz"
         },
         {
@@ -41,25 +37,25 @@
     },
     {
       "id": "s3",
-      "text": "Beside a puddle of clear water, a green frog waited for them, sitting on a stone. “Hi, Tobi,” she croaked happily. “Watch what I can do.” The frog jumped and splash!, she splashed the puddle, and the drops flew like little stars of water. Tobi smiled without meaning to. “You try,” said the frog. The little rabbit came closer slowly and dipped in one paw. The water was cool and tickled him. He dipped in the other paw, and then both. He paddled softly, carefully, and felt something warm begin to wake up inside his chest.",
+      "text": "On a mossy stone, beside the clear water, there waited a green frog. “Hi, Tobi,” she greeted him with a croak. “Watch what I can do.” She took a huge jump and splash!, she landed right in the middle of the puddle. The drops leaped everywhere and Tobi smiled without meaning to. “You try,” said the frog. The little rabbit came closer slowly and dipped in one paw. The water was cool and it tickled him. He dipped in the other, and then both. He paddled carefully, very slowly, and felt something warm begin to wake up inside his chest.",
       "cues": [
+        {
+          "anchor": "croak",
+          "sfx": "frog_croak"
+        },
         {
           "anchor": "puddle",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "The sun was high now and the warm wind stroked his ears. The bee, the frog, and Tobi played among the flowers all morning. And then, without thinking, a hop popped right out of Tobi. A tiny one! Then a bigger one, and another, and another. His little legs didn't feel heavy anymore: they were flying. The little rabbit laughed a big, round laugh, the laugh he had lost. “My hop came back!” he cried happily. His friends hopped with him, and the whole meadow seemed to laugh too, swaying with the wind.",
+      "text": "The sun was high now and a warm breeze stroked his ears. The bee, the frog, and Tobi played among the flowers all morning. And then, without thinking, a hop popped right out of Tobi. A tiny one! Then a bigger one, and another, and another. His legs didn't feel heavy anymore: they were flying. The little rabbit opened his mouth wide and out came his big, round, long-lost laugh. “My hop came back!” he cried happily. His friends hopped with him, and the whole meadow seemed to join in, swaying with the wind.",
       "ambient": "meadow_day",
       "cues": [
         {
-          "anchor": "laughed",
+          "anchor": "laugh",
           "sfx": "giggle"
         },
         {
@@ -70,7 +66,7 @@
     },
     {
       "id": "s5",
-      "text": "When the sky turned peach-colored, an owl peeked out from his tree. “It's time to rest, little ones,” he said in a soft voice. Tobi said goodbye to the bee and the frog with a hug. He went back to his burrow in tired, happy little hops. He curled up, closed his eyes, and breathed in deep, very deep. Up above, the stars lit up one by one, like little lights wishing him good night. Tobi no longer had the little gray cloud. He knew that sometimes joy hides for a while, but always, always comes back. And he fell asleep dreaming of tomorrow's hop.",
+      "text": "When the sky turned peach-colored, out of the tallest tree peeked an owl. “It's time to rest, little ones,” he said in a soft voice. Tobi said goodbye to the bee and the frog with a hug. He went back to his burrow in tired, happy hops. He curled up, closed his eyes, and breathed in deep, very deep. Up above, one by one, out came the stars. They were like warm lights wishing him good night. Tobi no longer carried the gray cloud in his chest. He knew that sometimes joy hides for a while, but always, always comes back. And he fell asleep dreaming of tomorrow's hop.",
       "ambient": "forest_night",
       "cues": [
         {

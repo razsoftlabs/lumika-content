@@ -2,13 +2,13 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Good Little Witch",
-  "summary": "Every one of little witch Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping.",
+  "summary": "Every one of Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Deep in the forest, in a crooked little house with a roof made of leaves, lived a good little witch named Mila. She had a hat that was a bit too big, a wand that was a bit too bent, and a black cat named Tomás who followed her everywhere. Mila wanted to make beautiful magic, but her spells always came out a little clumsy. Instead of flowers, butterflies appeared. Instead of rain, petals fell. Tomás watched her and swished his tail, patient. 'Never mind, Tomás,' said Mila, laughing. 'We'll get it right someday.' And the leaves on the roof rustled, as if to say yes.",
+      "text": "Deep in the forest, in a crooked house with a roof made of straw, lived a good witch named Mila. She had a hat that was a bit too big, a wand that was a bit too bent, and one faithful friend: Tomás, her cat. Mila wanted to make beautiful magic, but her spells always came out a little clumsy. Instead of flowers, butterflies appeared. Instead of rain, petals fell. Tomás watched her and swished his tail, patient. 'Never mind, Tomás,' said Mila, laughing. 'We'll get it right someday.' And up on the roof, as if to say yes, rustled the leaves.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -18,25 +18,17 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "magic",
-          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "That afternoon, Mila found some very sad bees. The wind had blown away all the petals, and there were no flowers left to visit. 'Don't cry, I'll help you,' said Mila. She raised her wand to make a jar of honey... but the spell hiccuped. Instead of honey, a warm, gentle wind blew out of her hat and scattered the seeds Mila kept in her pocket. Wherever a seed landed, pop!, a flower sprang up. Very soon the whole meadow filled with colors, and the bees buzzed with joy, flying from flower to flower.",
+      "text": "That afternoon, out in the meadow, Mila came across some bees. They were terribly sad: the wind had blown away all the petals, and there were no flowers left to visit. 'Don't cry, I'll help you,' said Mila. She raised her wand to make a jar of honey... but something odd happened to the spell. Instead of honey, a warm, gentle wind blew out of her hat and scattered the seeds Mila kept in her pocket. Wherever a seed landed, pop!, a flower sprang up. Very soon the whole meadow filled with colors, and they buzzed with joy, flying from flower to flower.",
       "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "bees",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         },
         {
           "anchor": "spell",
@@ -46,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "As evening fell, Mila heard a frog crying beside a puddle that had almost dried up. 'My puddle dried out and now I can't swim,' said the frog in a sad little voice. 'Wait, I'll fix it,' smiled Mila, and she waved her wand over her cauldron. She wanted to make a tiny trickle of water... but far too much came out. Splash! A wave of cool water burst forth and filled the puddle to the brim, soaking everyone. Tomás got drenched and hissed. But the frog gave a happy hop and croaked: 'Now it's the loveliest puddle in the forest!' Mila laughed and hugged Tomás to say sorry.",
+      "text": "As evening fell, beside a puddle that had almost dried up, Mila heard the crying of a frog. 'My puddle dried out and now I can't swim,' she said in a sad voice. 'Wait, I'll fix it,' smiled Mila, and she waved her wand over her cauldron. She wanted a thin trickle, just a few drops... but out of the cauldron came a whole river of water. Splash! The puddle filled to the brim and soaked everyone. Tomás got drenched and hissed. But she gave a happy hop and croaked: 'Now it's the loveliest puddle in the forest!' Mila laughed and hugged Tomás to say sorry.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -61,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "Night came very dark, without a single light. Among the branches, a little owl couldn't find his tree. 'I'm lost,' he hooted softly, very frightened. 'I'll light your way,' said Mila. She wanted to light one small lantern, just one... but her wand let out a sneeze of magic. Instead of a lantern, a hundred tiny stars flew out and rose up into the branches, glowing like little golden lights. The whole forest lit up with their warm glow. The owl flapped his wings, happy, and flew straight to his tree. 'Thank you, little witch,' he said from his nest. And the stars stayed there, watching over the forest.",
+      "text": "Night came very dark, without a single light. Among the branches, lost and frightened, sat a little owl. 'I can't find my tree,' he hooted softly. 'I'll light your way,' said Mila. She wanted to light one lantern, just one... but her wand let out a sneeze of magic. Instead of the lantern, out of her hat flew a hundred tiny stars. They rose up into the branches and stayed there glowing, golden and still. The whole forest filled with a warm light. He flapped his wings, happy, and flew straight to his tree. 'Thank you, little witch,' he said from his nest. And there they remained, watching over the forest.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -71,16 +63,12 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "magic",
-          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "That night, all the forest friends came to see Mila. The bees, the frog, and the owl thanked her, and their laughter filled the air like little bells. 'Your spells are not clumsy,' said the frog. 'They are magical, because your heart is good.' Mila smiled and hugged Tomás. Slowly, the moon peeked out between the trees, round and silver, and everything grew calm. The owl closed his eyes in his nest. The frog curled up in his puddle. And Mila and Tomás fell asleep together under a warm blanket, dreaming of the beautiful magic of the next day.",
+      "text": "That night, all the forest friends came to see Mila. The bees, the frog, and the owl thanked her, and the air filled up with their laughter. 'Your spells are not clumsy,' said the frog. 'They are magical, because your heart is good.' Mila smiled and hugged Tomás. Between the trees, round and silver, rose the moon. Everything grew calm. The owl closed his eyes in his nest. The frog curled up in his puddle. And Mila and Tomás fell asleep together under a warm blanket, dreaming of the beautiful magic of the next day.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -90,10 +78,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     }

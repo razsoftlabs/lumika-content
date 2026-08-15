@@ -2,13 +2,13 @@
   "id": "el-elefante-que-no-hacia-ruido",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Elephant Who Made No Noise",
   "summary": "Bruno is a very quiet elephant who discovers that his calm is his most beautiful gift.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a green corner of the savanna lived a little elephant named Bruno. All the other elephants made lots and lots of noise: they trumpeted loudly, stomped on the leaves with a crash, and shook the trees. But not Bruno. Bruno walked so softly that not even the leaves noticed he had passed by. Sometimes he felt strange for being the quietest of them all.",
+      "text": "In a green corner of the savanna lived a little elephant named Bruno. All the other elephants made lots and lots of noise: they trumpeted loudly, shook the trees, and stomped on the leaves. But not Bruno. Bruno walked so softly that no one noticed he had passed by. Sometimes he felt strange for being the quietest of them all.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -19,13 +19,18 @@
     },
     {
       "id": "s2",
-      "text": "One afternoon, a little bird fell from its nest and lay trembling in the grass. The other elephants rushed to help, but with all their noise and stomping, the little bird grew more and more frightened. No one could come close without scaring it.",
+      "text": "One afternoon, a little bird fell from its nest and lay trembling in the grass. The other elephants rushed to help, but the bird grew more and more frightened with all that noise and all those footsteps. No one could come close without scaring it.",
       "ambient": "forest_birds",
-      "cues": []
+      "cues": [
+        {
+          "anchor": "footsteps",
+          "sfx": "footsteps"
+        }
+      ]
     },
     {
       "id": "s3",
-      "text": "Then Bruno came closer, slowly, slowly. In a very soft whisper he said: \"Easy, little one, you're safe now.\" Because Bruno made no noise, the bird stopped trembling and snuggled into his warm trunk.",
+      "text": "Then Bruno came closer, slowly, very slowly. He leaned down beside the fallen nest and spoke in a whisper. \"Easy, little one, you're safe now.\" Because Bruno made no noise, the bird stopped trembling and snuggled into his warm trunk.",
       "ambient": "forest_birds",
       "cues": [
         {

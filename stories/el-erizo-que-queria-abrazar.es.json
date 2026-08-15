@@ -2,13 +2,13 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El erizo que quería abrazar",
   "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más hondo del bosque, cuando la luna se asomaba entre las ramas, vivía un erizo pequeñito que se llamaba Espín. Tenía el corazón más grande y tierno de todo el bosque. Caminaba despacito sobre las hojas secas, que crujían bajo sus paticas: cris, cras, cris. Espín quería muchísimo a todos sus amigos. Jugaba con ellos, les contaba chistes y los acompañaba a casa. Pero cada noche soñaba con algo que todavía no lograba hacer. Espín quería dar un abrazo. Un abrazo de verdad, apretadito y calentito, como los que se dan cuando uno quiere mucho a alguien.",
+      "text": "En lo más hondo del bosque vivía un erizo pequeño que se llamaba Espín, y cada noche lo acompañaba desde el cielo la luna. Tenía el corazón más grande y tierno de todo el bosque. Caminaba despacio, y bajo sus patas crujían las hojas. Cris, cras, cris. Espín quería muchísimo a todos sus amigos. Jugaba con ellos, les contaba chistes y los acompañaba a casa. Pero cada noche soñaba con algo que todavía no lograba hacer. Espín quería dar un abrazo. Un abrazo de verdad, apretado y tibio, como los que se dan cuando uno quiere mucho a alguien.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -18,16 +18,12 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "Esa noche, Espín vio a su amiga la rana sentada junto al agua. \"¡Qué ganas tengo de abrazarte!\", dijo, y abrió sus bracitos bien grandes. Corrió hacia ella feliz, con los ojitos brillando. Pero apenas se acercó, sus espinas se pusieron de puntita y... ¡pincharon un poquito! La rana dio un brinco enorme y cayó de espaldas en un charco. \"¡Uy, Espín, pinchas sin querer!\", se rió ella, chorreando agua. Espín se quedó quietecito, con las orejas gachas. Él no quería pinchar a nadie. Solo quería abrazar.",
+      "text": "Esa noche, junto al agua, Espín encontró a su amiga la rana. \"¡Qué ganas tengo de abrazarte!\", dijo, y abrió los brazos bien grandes. Corrió hacia ella feliz, con los ojos brillando. Pero apenas se acercó, sus espinas se pusieron de punta y... ¡pincharon un poco! Su amiga dio un brinco enorme y cayó de espaldas en un charco. \"¡Uy, Espín, pinchas sin querer!\", se rió ella, chorreando agua. Espín se quedó quieto, con las orejas gachas. Él no quería pinchar a nadie. Solo quería abrazar.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -42,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Espín se sentó solito en una piedra a mirar el cielo. Se sentía triste, como una nubecita gris. Entonces, desde una rama alta, llegó volando el búho, el más sabio del bosque. \"¿Por qué esos ojitos tan tristes, pequeño?\", preguntó. \"Quiero abrazar a mis amigos, pero mis espinas siempre pinchan\", suspiró Espín. El búho lo miró con cariño, mientras las estrellas titilaban allá arriba. \"Escucha bien\", le dijo despacito. \"Tus espinas se ponen duras cuando tu corazón va deprisa. Si respiras suave y te calmas, tus espinas se vuelven blanditas. Entonces sí podrás abrazar\".",
+      "text": "Espín se sentó solo en una piedra a mirar el cielo. Se sentía triste, como una nube gris. Entonces bajó volando desde una rama alta el más sabio del bosque: el búho. \"¿Por qué esos ojos tan tristes, pequeño?\", preguntó. \"Quiero abrazar a mis amigos, pero mis espinas siempre pinchan\", suspiró Espín. Él lo miró con cariño, mientras allá arriba titilaban las estrellas. \"Escucha bien\", le dijo despacio. \"Tus espinas se ponen duras cuando tu corazón va deprisa. Si respiras suave y te calmas, tus espinas se vuelven blandas. Entonces sí podrás abrazar\".",
       "ambient": "forest_night",
       "cues": [
         {
@@ -52,16 +48,12 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "Al día siguiente, Espín lo intentó. Cerró los ojitos y respiró muy despacio: adentro... y afuera. Adentro... y afuera. Su corazón se puso tranquilo, tranquilo. Y entonces, poquito a poco, sus espinas se acostaron suavecitas, como pastito blando. Con muchísimo cuidado, Espín envolvió a la rana con una hoja tibia y le dio un besito en la nariz. \"¡No pincha nadita!\", dijo la rana, y soltó una risita feliz. Uno por uno, sus amigos se fueron acercando. Espín los abrazó despacito, con el corazón calmado y las espinas dormidas. Su abrazo era el más suave de todo el bosque.",
+      "text": "Al día siguiente, Espín lo intentó. Cerró los ojos y muy despacio respiró. Adentro... y afuera. Adentro... y afuera. Su corazón se puso tranquilo, tranquilo. Y entonces, poco a poco, sus espinas se acostaron suaves, como pasto blando. Con muchísimo cuidado, Espín envolvió a la rana con una hoja tibia y le dio un beso en la nariz. \"¡No pincha nada!\", dijo ella, y soltó una risa. Uno por uno, sus amigos se fueron acercando. Espín los abrazó con calma, con el corazón tranquilo y las espinas dormidas. Su abrazo era el más suave de todo el bosque.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -69,18 +61,14 @@
           "sfx": "breathe_in"
         },
         {
-          "anchor": "risita",
+          "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "Esa noche, todos los amigos se juntaron alrededor de Espín. La rana, el búho y hasta un conejito se acurrucaron contra sus espinas blanditas, calentitas como una mantita. El viento pasó entre las ramas cantando una nana muy suave. Espín repartió abrazos despacito, uno para cada uno, y un besito de nariz para terminar. Poco a poco, los ojitos de todos se fueron cerrando. Y allí quedaron dormidos, juntitos bajo la luna, con el corazón lleno de cariño. Porque el abrazo más lindo no es el más fuerte... es el más tierno. Que duermas rico, pequeño. Buenas noches.",
+      "text": "Esa noche, todos los amigos se juntaron alrededor de Espín. La rana, el búho y hasta un conejo se acurrucaron contra sus espinas blandas, tibias como una manta. Entre las ramas cantaba una nana muy suave el viento. Espín repartió abrazos, uno para cada uno, y un beso de nariz para terminar. Poco a poco, todos fueron cerrando los ojos. Y allí, juntos bajo la luna, se quedaron dormidos. Porque el abrazo más lindo no es el más fuerte... es el más tierno. Que duermas bien, pequeño. Buenas noches.",
       "ambient": "forest_night",
       "cues": [
         {

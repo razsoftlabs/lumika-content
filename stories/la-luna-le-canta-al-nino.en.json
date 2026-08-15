@@ -2,13 +2,13 @@
   "id": "la-luna-le-canta-al-nino",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Moon Sings to the Boy",
   "summary": "A boy who doesn't want to sleep discovers, with the moon by his side, that closing his eyes is the start of a beautiful adventure.",
   "scenes": [
     {
       "id": "s1",
-      "text": "It was already night, but the boy did not want to sleep. He tossed and turned in bed, with his eyes wide open. Then, through the window, a soft, silvery light came in. It was the moon, round and calm, watching him from the sky. All around her shone many stars, like tiny sparks of light. \"Still awake, little one?\" the moon whispered in a sweet voice. The boy nodded, a little shy. \"I'm not sleepy,\" he said softly. The moon smiled, and her light hugged him gently, like a warm blanket.",
+      "text": "It was already night, but the boy did not want to sleep. He tossed and turned in bed, with his eyes wide open. Then, through the window, a soft, silvery light came in. It was the moon. Round and calm, she watched him from the sky. All around her, like tiny sparks of light, shone many stars. \"Still awake, little one?\" the moon whispered in a sweet voice. The boy nodded, a little shy. \"I'm not sleepy,\" he said softly. The moon smiled, and her light hugged him gently, like a warm blanket.",
       "cues": [
         {
           "anchor": "moon",
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "\"Come, I'll tell you a secret,\" said the moon. Outside, the wind rocked the curtains gently, as if it too wanted to listen. The moon began to sing a very quiet song, made of silence and calm. In a nearby tree, an owl opened its eyes and listened closely. The song spoke of beautiful places, of dreams where everything is possible. \"Closing your eyes is not the end of the day,\" sang the moon. \"It is the start of a very special adventure.\" The boy listened, perfectly still, and felt his eyelids grow a little heavy.",
+      "text": "\"Come, I'll tell you a secret,\" said the moon. Outside, the curtains swayed in the wind. It was as if it too wanted to listen. The moon began to sing a very quiet song, made of silence and calm. In a nearby tree, something stirred awake: an owl. It opened its eyes and listened closely. The song spoke of beautiful places, of dreams where everything is possible. \"Closing your eyes is not the end of the day,\" sang the moon. \"It is the start of a very special adventure.\" The boy listened, perfectly still, and felt his eyelids grow a little heavy.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "And then, without leaving his bed, the boy began to dream. He flew slowly over a blue and shining sea, covered by the light of the moon. Below, a huge and gentle whale sang a deep melody that tickled his heart. The waves rose and fell, soft, as if they were breathing. \"See? Dreaming is traveling without fear,\" said the moon beside him. The boy laughed, happy, while the warm air carried him from side to side. He had never flown before, and it was the most beautiful thing in the world.",
+      "text": "And then, without leaving his bed, the boy began to dream. He flew slowly over a blue and shining sea, covered by the light of the moon. Below, in the water, swam a whale. Her song was deep and long, and it tickled him inside. Soft, as if they were breathing, up and down went the waves. \"See? Dreaming is traveling without fear,\" said the moon beside him. The boy laughed, happy, while the warm air carried him from side to side. He had never flown before, and it was the most beautiful thing in the world.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -47,16 +47,12 @@
         {
           "anchor": "waves",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "The dream then took him to a peaceful forest, lit by thousands of stars. The leaves of the trees whispered a lullaby with the wind. A friendly owl flew to his side and winked at him. Everything was soft, everything was safe. The boy sat on a passing cloud and felt his body become light and warm. \"Here you can rest as much as you like,\" said the moon from high above. And the boy, at last, stopped being in a hurry to wake up.",
+      "text": "The dream then took him to a peaceful forest, lit by thousands of stars. With the wind, the trees whispered a lullaby through their leaves. At his side flew a friendly owl. It winked at him and stayed with him a while. Everything was soft, everything was safe. The boy sat on a passing cloud and felt his body become light and warm. \"Here you can rest as much as you like,\" said the moon from high above. And the boy, at last, stopped being in a hurry to wake up.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -71,7 +67,7 @@
     },
     {
       "id": "s5",
-      "text": "Little by little, the moon brought him back to his warm bed. The boy breathed deeply, very slowly, once and again. His little eyes could barely stay open. \"Every night, when you sleep, a new adventure will wait for you,\" whispered the moon. \"I will watch over your dreams from the sky.\" The boy smiled, hugged his pillow, and finally fell asleep. Outside, the moon kept shining, soft and faithful, singing very quietly for all the children who, like him, were already traveling happily through the land of dreams.",
+      "text": "Little by little, the moon brought him back to his warm bed. Once and again, very slowly, the boy breathed. His little eyes could barely stay open. \"Every night, when you sleep, a new adventure will wait for you,\" whispered the moon. \"I will watch over your dreams from the sky.\" The boy smiled, hugged his pillow, and finally fell asleep. Outside, the moon kept shining, soft and faithful, singing very quietly for all the children who, like him, were already traveling happily through the land of dreams.",
       "cues": [
         {
           "anchor": "breathed",

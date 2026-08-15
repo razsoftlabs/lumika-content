@@ -2,13 +2,13 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "La carrera de los farolillos",
   "summary": "En un pueblo de montaña, dos amigos rivales suben el sendero con sus farolillos de papel, sin saber que esta noche la carrera va a cambiar de reglas.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto de la montaña, donde las nubes se sientan a descansar sobre los tejados, había un pueblo pequeñito llamado Alto Sereno. Una vez al año, cuando el aire olía a pan tibio y los pájaros volvían temprano a sus nidos, los niños hacían farolillos de papel y los subían por el sendero de piedra hasta la Roca del Mirador. No era una carrera de correr rápido: era una carrera de cuidar. El farolillo tenía que llegar arriba encendido. Mila y Teo eran vecinos, amigos de toda la vida y rivales de toda la vida. Ella había ganado el año pasado. Él, el anterior. Cada vez que se cruzaban en la plaza se sonreían con los dientes apretados. —Este año gano yo —dijo Mila, mientras el viento le movía el flequillo. —Eso ya lo veremos —contestó Teo. Y los dos se rieron sin querer, porque la luna ya asomaba redonda detrás del campanario.",
+      "text": "En lo alto de la montaña, donde las nubes se sientan a descansar sobre los tejados, había un pueblo pequeño llamado Alto Sereno. Una vez al año, cuando el aire olía a pan tibio y los pájaros volvían temprano a sus nidos, los niños hacían farolillos de papel y los subían por el sendero de piedra hasta la Roca del Mirador. No era una carrera de correr rápido: era una carrera de cuidar. El farolillo tenía que llegar arriba encendido. Mila y Teo eran vecinos, amigos de toda la vida y rivales de toda la vida. Ella había ganado el año pasado. Él, el anterior. Cada vez que se cruzaban en la plaza se sonreían con los dientes apretados. —Este año gano yo —dijo Mila, con el flequillo revuelto por el viento. —Eso ya lo veremos —contestó Teo. Y los dos se rieron sin querer, porque detrás del campanario ya asomaba, redonda, la luna.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "Esa tarde, cada uno salió a buscar sus tesoros. Mila caminó hasta el bosque pisando hojas secas que crujían como galletas, y juntó ramitas finas de sauce, las más flexibles, las que se doblan sin romperse. Teo bajó al arroyo a cortar cañas y encontró, de paso, tres piedras planas para su colección. Se encontraron de vuelta en el sendero, cada uno con su montón de palitos abrazado al pecho. —¿Vas a hacerlo cuadrado otra vez? —preguntó Mila. —Voy a hacerlo mejor que el tuyo —dijo Teo. Y a Mila se le escapó una risa que sonó como agua saltando entre piedras. Después caminaron juntos un buen rato sin hablar, hombro con hombro, porque así caminan los amigos que también son rivales: peleando por delante y acompañándose por dentro. Al llegar a las casas, cada uno entró en la suya y no se dijeron buenas noches, sino: —Mañana. —Mañana.",
+      "text": "Esa tarde, cada uno salió a buscar sus tesoros. Mila caminó hasta el bosque pisando hojas. Crujían como galletas debajo de sus botas. Juntó ramas finas de sauce, las más flexibles, las que se doblan sin romperse. Teo bajó al arroyo a cortar cañas y encontró, de paso, tres piedras planas para su colección. Se encontraron de vuelta en el sendero, cada uno con su montón de palos abrazado al pecho. —¿Vas a hacerlo cuadrado otra vez? —preguntó Mila. —Voy a hacerlo mejor que el tuyo —dijo Teo. Y a Mila se le escapó una risa. Sonó como el agua saltando entre las piedras. Después caminaron juntos un buen rato sin hablar, hombro con hombro, porque así caminan los amigos que también son rivales: peleando por delante y acompañándose por dentro. Al llegar a las casas, cada uno entró en la suya y no se dijeron buenas noches, sino: —Mañana. —Mañana.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -39,7 +39,7 @@
     },
     {
       "id": "s3",
-      "text": "En la cocina de Mila olía a canela. Su abuela le abrió la puerta del armario donde guardaba el papel de seda: hojas finísimas, azules como el cielo de la noche, que sonaban igual que un aleteo. Mila ató las ramitas de sauce una por una hasta formar una cesta redonda, tan liviana que casi flotaba en sus manos. Luego pegó el papel despacio, con la lengua entre los dientes, y pintó en cada lado una estrella pequeña. —Va a volar bonito —dijo la abuela, mirándola por encima de sus lentes. —Va a volar primero —dijo Mila. Cuando terminó, escuchó pasos del otro lado de la pared, en la casa de al lado: Teo también estaba trabajando. Mila apoyó la oreja, aguantó la respiración y sonrió sin querer. Después dejó su farolillo azul en la ventana, se metió bajo las cobijas y soñó con una lucecita subiendo la montaña.",
+      "text": "En la cocina de Mila olía a canela. Su abuela se acercó al armario del papel de seda y abrió la puerta. Adentro había hojas finísimas, azules como el cielo de la noche, que sonaban igual que un aleteo. Mila ató las ramas de sauce una por una hasta formar una cesta redonda, tan liviana que casi flotaba en sus manos. Luego pegó el papel despacio, con la lengua entre los dientes, y pintó en cada lado una estrella pequeña. —Va a volar bonito —dijo la abuela, mirándola por encima de sus lentes. —Va a volar primero —dijo Mila. Cuando terminó, del otro lado de la pared, en la casa de al lado, se escucharon pasos. Teo también estaba trabajando. Mila apoyó la oreja, aguantó la respiración y sonrió sin querer. Después dejó su farolillo azul en la ventana, se metió bajo las cobijas y soñó con una luz que subía la montaña.",
       "cues": [
         {
           "anchor": "puerta",
@@ -53,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "Al otro lado de esa misma pared, Teo trabajaba en el granero con una linterna colgada de un clavo. Su farolillo no iba a ser redondo: iba a ser una estrella de seis puntas, con las cañas cruzadas como los rayos de una rueda. Le costó tres intentos. En el segundo, una caña se partió con un crujido seco y Teo tuvo que empezar de nuevo, soplando fuerte por la nariz para no enojarse. Su papá le pasó el pegamento y le dijo bajito: —Despacio se llega antes. Teo forró la estrella con papel naranja, del color de las mandarinas, y le pintó un ojo en cada punta para que el farolillo pudiera ver el camino. Afuera, en el nogal, un búho preguntó algo dos veces y nadie le contestó. Teo miró su estrella colgando del techo y pensó, sin decirlo en voz alta, que Mila iba a abrir muy grandes los ojos cuando la viera.",
+      "text": "Al otro lado de esa misma pared, Teo trabajaba en el granero con una linterna colgada de un clavo. Su farolillo no iba a ser redondo: iba a ser una estrella de seis puntas, con las cañas cruzadas como los rayos de una rueda. Le costó tres intentos. En el segundo, una caña se partió con un crujido. Teo tuvo que empezar de nuevo, soplando fuerte por la nariz para no enojarse. Su papá le pasó el pegamento y le dijo en voz baja: —Despacio se llega antes. Teo forró la estrella con papel naranja, del color de las mandarinas, y le pintó un ojo en cada punta para que el farolillo pudiera ver el camino. Afuera, en la rama del nogal, alguien preguntó algo dos veces: era un búho. Nadie le contestó. Teo miró su estrella colgando del techo y pensó, sin decirlo en voz alta, que Mila iba a abrir muy grandes los ojos cuando la viera.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -69,11 +69,11 @@
     },
     {
       "id": "s5",
-      "text": "La noche siguiente, la plaza parecía un cofre lleno de luciérnagas. Había farolillos rojos, verdes, dorados y a rayas; olía a chocolate espeso y a maíz tostado. Arriba, entre los tejados, las estrellas estaban tan quietas que parecían pintadas. Don Nicolás, el panadero, se subió al borde de la fuente y explicó las reglas con voz de fiesta: —Se camina por el sendero hasta la Roca del Mirador. Gana el farolillo que llegue encendido. ¡Y nadie sopla el del vecino! Todos rieron. Mila y Teo se pusieron uno al lado del otro, como siempre, sin mirarse y mirándose. —Bonita estrella —dijo Mila en un susurro. —Bonita cesta —contestó Teo. Y ninguno de los dos dijo nada más, porque en el pecho les latía ese cosquilleo de las cosas que se esperan durante todo un año. Don Nicolás levantó su pañuelo blanco. La plaza entera se quedó en silencio. El pañuelo cayó.",
+      "text": "La noche siguiente, la plaza parecía un cofre lleno de luciérnagas. Había farolillos rojos, verdes, dorados y a rayas; olía a chocolate espeso y a maíz tostado. Arriba, entre los tejados, tan quietas que parecían pintadas, brillaban las estrellas. Don Nicolás, el panadero, se subió al borde de la fuente y explicó las reglas con voz de fiesta: —Se camina por el sendero hasta la Roca del Mirador. Gana el farolillo que llegue encendido. ¡Y nadie sopla el del vecino! Todos rieron. Mila y Teo se pusieron uno al lado del otro, como siempre, sin mirarse y mirándose. —Bonita estrella —dijo Mila en un susurro. —Bonita cesta —contestó Teo. Y ninguno de los dos dijo nada más, porque en el pecho les latía ese cosquilleo de las cosas que se esperan durante todo un año. Don Nicolás levantó su pañuelo blanco. La plaza entera se quedó en silencio. El pañuelo cayó.",
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "estrella",
+          "anchor": "estrellas",
           "sfx": "sparkle"
         },
         {
@@ -84,26 +84,22 @@
     },
     {
       "id": "s6",
-      "text": "Los niños salieron del pueblo como un río de luces. Al principio todos quisieron correr, pero enseguida aprendieron la lección: si corres, la llama se apaga. Entonces el río se volvió lento, cuidadoso, hermoso. Mila caminaba con su cesta azul a la altura del corazón. Teo llevaba su estrella naranja en un palo, bien alto, como una bandera. El sendero subía entre pinos oscuros y bajo los zapatos los pasos hacían un ruidito parejo: crac, crac, crac. —¿Tienes miedo? —preguntó Teo. —De ti, ninguno —dijo Mila, y los dos apuraron un poquito. A media montaña se veía el pueblo allá abajo, chiquito, con sus ventanas amarillas. El aire estaba más frío y ya se olía la piedra mojada de la Roca del Mirador. Mila imaginaba su nombre escrito en el cartel de la panadería. Teo imaginaba el suyo. Y los dos iban tan ocupados imaginando que no sintieron cómo la montaña empezaba a respirar hondo.",
+      "text": "Los niños salieron del pueblo como un río de luces. Al principio todos quisieron correr, pero enseguida aprendieron la lección: si corres, la llama se apaga. Entonces el río se volvió lento, cuidadoso, hermoso. Mila caminaba con su cesta azul a la altura del corazón. Teo llevaba su estrella naranja en un palo, bien alto, como una bandera. El sendero subía entre pinos oscuros, y sobre la tierra sonaban parejos sus pasos. Crac, crac, crac. —¿Tienes miedo? —preguntó Teo. —De ti, ninguno —dijo Mila, y los dos apuraron un poco. A media montaña se veía el pueblo allá abajo, pequeño, con sus ventanas amarillas. El aire estaba más frío y ya se olía la piedra mojada de la Roca del Mirador. Mila imaginaba su nombre escrito en el cartel de la panadería. Teo imaginaba el suyo. Y los dos iban tan ocupados imaginando que no sintieron cómo la montaña empezaba a respirar hondo.",
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "correr",
-          "sfx": "whoosh"
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
         },
         {
           "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s7",
-      "text": "Y entonces llegó. Una ráfaga bajó desde la cumbre silbando entre las ramas y agarró la estrella naranja de Teo por una punta. El papel se infló, se estiró y se rompió con un sonido triste, como cuando se abre un sobre. La velita se apagó de un soplo. El palo se le fue de las manos y cayó al sendero con un golpe blando, sobre la tierra fría. Teo se quedó parado, con las manos vacías y la boca abierta. Los demás niños siguieron pasando a su lado, iluminados, apurados, y nadie se detuvo. A Teo se le puso la cara caliente. Pensó en los tres intentos, en los ojitos pintados uno por uno, en su papá diciéndole despacio se llega antes. Todo eso, ahí, roto en el suelo. Apretó los dientes para que no se le saliera el llanto. Adelante, la lucecita azul de Mila ya casi tocaba la Roca del Mirador.",
+      "text": "Y entonces llegó. Desde la cumbre, silbando entre las ramas, bajó una ráfaga. Agarró la estrella naranja de Teo por una punta. El papel se infló, se estiró y se rompió con un sonido triste, como cuando se abre un sobre. La vela se apagó de un soplo. El palo se le fue de las manos y cayó sobre la tierra fría del sendero, con un golpe. Teo se quedó parado, con las manos vacías y la boca abierta. Los demás niños siguieron pasando a su lado, iluminados, apurados, y nadie se detuvo. A Teo se le puso la cara caliente. Pensó en los tres intentos, en los ojos pintados uno por uno, en su papá diciéndole despacio se llega antes. Todo eso, ahí, roto en el suelo. Apretó los dientes para que no se le saliera el llanto. Adelante, la luz azul de Mila ya casi tocaba la Roca del Mirador.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -119,11 +115,11 @@
     },
     {
       "id": "s8",
-      "text": "Mila lo notó antes de verlo: dejó de oír la voz de Teo detrás de ella. Se dio vuelta. Allá abajo, en la curva del sendero, había un niño quieto junto a una estrella rota. Mila miró la Roca del Mirador, tan cerca que ya distinguía las caras de la gente esperando. Miró su farolillo azul, encendido, perfecto. Respiró hondo una vez, y otra vez. Y bajó. —Se rompió —dijo Teo sin levantar la cabeza. —Ya lo vi —dijo Mila. Y entonces hizo algo raro: puso la cesta azul justo entre los dos y la sostuvo con una sola mano. —Agarra del otro lado. —¿Y tu carrera? —Es nuestra carrera. En el arroyo, una rana cantó una nota redonda, como si estuviera de acuerdo. Teo levantó la mano despacito, todavía sin creerlo, y tomó el borde de la cesta. La lucecita, que hasta ese momento era de una sola persona, se puso a iluminar dos caras.",
+      "text": "Mila lo notó antes de verlo: dejó de oír la voz de Teo detrás de ella. Se dio vuelta. Allá abajo, en la curva del sendero, había un niño quieto junto a una estrella rota. Mila miró la Roca del Mirador, tan cerca que ya distinguía las caras de la gente esperando. Miró su farolillo azul, encendido, perfecto. Se quedó quieta y respiró. Hondo, una vez, y otra vez. Y bajó. —Se rompió —dijo Teo sin levantar la cabeza. —Ya lo vi —dijo Mila. Y entonces hizo algo raro: puso la cesta azul justo entre los dos y la sostuvo con una sola mano. —Agarra del otro lado. —¿Y tu carrera? —Es nuestra carrera. Desde el arroyo llegó una nota redonda, como si estuviera de acuerdo: era una rana. Teo levantó la mano despacio, todavía sin creerlo, y tomó el borde de la cesta. La luz, que hasta ese momento era de una sola persona, se puso a iluminar dos caras.",
       "ambient": "stream_water",
       "cues": [
         {
-          "anchor": "Respiró",
+          "anchor": "respiró",
           "sfx": "breathe_in"
         },
         {
@@ -135,7 +131,7 @@
     },
     {
       "id": "s9",
-      "text": "Subieron los últimos metros juntos, hombro con hombro, con las cuatro manos alrededor de una sola luz. Tenían que ir al mismo ritmo y eso los hizo tropezar, y reírse, y al final caminar como una sola persona de dos cabezas. El viento volvió a pasar, pero esta vez despacio, curioso, y ellos taparon la llama con los cuerpos hasta que se fue. Cuando llegaron a la Roca del Mirador, toda la gente los estaba mirando. Hubo un silencio cortito, después unas risas y después un aplauso que retumbó en la montaña entera. Don Nicolás se rascó la cabeza debajo del gorro. —Bueno —dijo—. Aquí gana un farolillo, y este farolillo tiene dos dueños. Les colgó del cuello la misma cinta, una para cada uno, cortada del mismo lazo. Abajo brillaba el pueblo. Arriba brillaban las estrellas. Y en medio, una cesta azul de papel de seda, todavía encendida.",
+      "text": "Subieron los últimos metros juntos, hombro con hombro, con las cuatro manos alrededor de una sola luz. Tenían que ir al mismo ritmo y eso los hizo tropezar, y reírse, y al final caminar como una sola persona de dos cabezas. Otra vez pasó el viento. Esta vez despacio, curioso, y ellos taparon la llama con los cuerpos hasta que se fue. Cuando llegaron a la Roca del Mirador, toda la gente los estaba mirando. Hubo un silencio corto y después unas risas. Después llegó un aplauso que retumbó en la montaña entera. Don Nicolás se rascó la cabeza debajo del gorro. —Bueno —dijo—. Aquí gana un farolillo, y este farolillo tiene dos dueños. Les colgó del cuello la misma cinta, una para cada uno, cortada del mismo lazo. Abajo brillaba el pueblo. Arriba brillaban las estrellas. Y en medio, una cesta azul de papel de seda, todavía encendida.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -151,7 +147,7 @@
     },
     {
       "id": "s10",
-      "text": "Volvieron al pueblo caminando lento, porque ya nadie tenía prisa. En la cocina de la abuela tomaron chocolate en tazas con flores pintadas y se comieron el pan que había sobrado de la fiesta. Teo dejó su estrella rota encima de la mesa, con las puntas dobladas. —La arreglamos mañana —dijo Mila, con los ojos ya pesados—. Y el año que viene hacemos uno enorme, entre los dos. —Uno que no se rompa —bostezó Teo. Debajo de la mesa, el perro viejo de la casa soltó un ronquido larguísimo y los dos se rieron con esa risa flojita que sale cuando ya llega el sueño. Después cada uno cruzó el patio hasta su cama, del otro lado de la misma pared. La cesta azul quedó colgada en la ventana, apagada y tranquila. Afuera, la luna cuidaba el pueblo entero. Y Mila y Teo se durmieron al mismo tiempo, pensando lo mismo: que ganar solo es bonito, pero ganar juntos dura mucho más.",
+      "text": "Volvieron al pueblo caminando lento, porque ya nadie tenía prisa. En la cocina de la abuela tomaron chocolate en tazas con flores pintadas y se comieron el pan que había sobrado de la fiesta. Teo dejó su estrella rota encima de la mesa, con las puntas dobladas. —La arreglamos mañana —dijo Mila, con los ojos ya pesados—. Y el año que viene hacemos uno enorme, entre los dos. —Uno que no se rompa —bostezó Teo. Debajo de la mesa, el perro viejo de la casa soltó un ronquido. Uno larguísimo, y los dos se rieron con esa risa floja que sale cuando ya llega el sueño. Después cada uno cruzó el patio hasta su cama, del otro lado de la misma pared. La cesta azul quedó colgada en la ventana, apagada y tranquila. Afuera, sobre los tejados mojados, brillaba la luna. Y Mila y Teo se durmieron al mismo tiempo, pensando lo mismo: que ganar solo es bonito, pero ganar juntos dura mucho más.",
       "ambient": "forest_night",
       "cues": [
         {

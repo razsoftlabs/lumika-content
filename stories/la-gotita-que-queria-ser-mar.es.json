@@ -2,13 +2,13 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "La gotita que quería ser mar",
-  "summary": "Una gotita de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo.",
+  "summary": "Una gota de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto del cielo, dentro de una nube blanda como el algodón, vivía una gotita muy pequeña. Todas las noches miraba hacia abajo y suspiraba: quería ser grande, grandísima, quería ser el mar. Una mañana, la nube se puso gris y cosquilleó, y la gotita sintió que resbalaba. “¡Allá voy!”, gritó. El viento la meció despacito mientras caía, girando y girando como en un baile. Abajo, los árboles la esperaban con los brazos abiertos, y sus hojas verdes temblaron cuando ella pasó rozándolas. La gotita nunca había volado, y por un momento, se le olvidó que tenía miedo.",
+      "text": "En lo alto del cielo, dentro de una nube blanda como el algodón, vivía una gota muy pequeña. Todas las noches miraba hacia abajo y suspiraba: quería ser grande, grandísima, quería ser el mar. Una mañana, la nube se puso gris y cosquilleó, y ella sintió que resbalaba. “¡Allá voy!”, gritó. Mientras caía, girando y girando como en un baile, la mecía el viento. Abajo, los árboles la esperaban con los brazos abiertos, y cuando pasó rozando sus ramas temblaron todas las hojas. La gota nunca había volado y, por un momento, se le olvidó que tenía miedo.",
       "ambient": "rain",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "La gotita cayó en un arroyo de montaña y salpicó con un ¡plic! muy alegre. El agua estaba fresquita y cantaba entre las piedras. “¿Dónde estoy?”, preguntó, un poquito mareada. Desde una hoja verde, una rana de ojos grandes la saludó: “Estás en el arroyo, gotita. ¿A dónde vas?”. “Voy a ser el mar”, respondió ella con orgullo. La rana sonrió y le dijo: “Entonces déjate llevar, que el agua siempre sabe el camino”. Y así, la gotita se unió a las otras gotas, y todas juntas empezaron a correr, ligeras, montaña abajo.",
+      "text": "La gota cayó en un arroyo de montaña y salpicó. ¡Plic!, sonó el agua, fresca y clara, cantando entre las piedras. “¿Dónde estoy?”, preguntó, un poco mareada. Desde una hoja verde la saludó una rana. “Estás en el arroyo, gotita. ¿A dónde vas?”. “Voy a ser el mar”, respondió ella con orgullo. La rana sonrió y le dijo: “Entonces déjate llevar, que el agua siempre sabe el camino”. Y así, la gota se unió a las otras gotas, y todas juntas empezaron a correr, ligeras, montaña abajo.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "El arroyo se hizo río, ancho y tranquilo. Cada vez había más gotas: venían de la lluvia, de la nieve, de otros ríos lejanos. La gotita ya no estaba sola. Una abeja pasó zumbando sobre el agua, buscando flores, y las saludó con sus alitas. Las gotas se contaban chistes y se reían juntas, y su risa sonaba como el agua saltando sobre las piedras. “Somos muchas”, pensó la gotita, “pero seguimos siendo una sola cosa”. Y esa idea, tan sencilla y tan grande, le llenó el corazón de calorcito mientras el río la llevaba con cariño hacia adelante.",
+      "text": "El arroyo se hizo río, ancho y tranquilo. Cada vez había más gotas: venían de la lluvia, de la nieve, de otros ríos lejanos. La gota ya no estaba sola. Sobre el agua, buscando flores, pasó zumbando una abeja. Las saludó con las alas y siguió su camino. Las gotas se contaban chistes y llenaban el río de risa. “Somos muchas”, pensó la gota, “pero seguimos siendo una sola cosa”. Y esa idea, tan sencilla y tan grande, la llenó de calor mientras el río la llevaba con cariño hacia adelante.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -48,16 +48,12 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "Y entonces, al doblar una curva, el río se abrió... y allí estaba. El mar. Enorme, azul, brillante hasta donde alcanzaban los ojos. Una ola grande la levantó en el aire y la dejó caer entre espuma y burbujas. “¡Llegué!”, gritó la gotita, “¡soy el mar!”. Desde muy hondo, una ballena cantó una canción larga y suave para darle la bienvenida. La gotita miró a su alrededor: millones de gotitas como ella se mecían juntas, formando algo tan grande que no cabía en una sola mirada. No era el mar ella sola. Era el mar con todas las demás.",
+      "text": "Y entonces, al doblar una curva, el río se abrió... y allí estaba. El mar. Enorme, azul, brillante hasta donde alcanzaban los ojos. El mar la recibió con una ola. La levantó en el aire y la dejó caer entre espuma y burbujas. “¡Llegué!”, gritó, “¡soy el mar!”. Desde muy hondo llegó la canción larga y suave de una ballena. La gota miró a su alrededor: millones de gotas como ella se mecían juntas, formando algo tan grande que no cabía en una sola mirada. No era el mar ella sola. Era el mar con todas las demás.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -72,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "Cuando el sol salió, tibio y dorado, la gotita sintió que se volvía ligera, ligerita, como un suspiro. Sin dejar de ser ella, subió flotando por el aire, de vuelta hacia una nube nueva. “Nunca me pierdo”, entendió sonriendo, “siempre vuelvo al cielo”. Abajo, el mar la despidió con un destello. Arriba, la luna encendió su lámpara redonda, y una a una se asomaron las estrellas. La gotita se acurrucó en su nube, calientita, lista para volver a llover mañana. Cerró los ojitos. Y soñó que era pequeña y enorme al mismo tiempo, como todas las cosas que se quieren.",
+      "text": "Cuando el sol salió, tibio y dorado, la gota sintió que se volvía ligera, tan ligera como un suspiro. Sin dejar de ser ella, subió flotando por el aire, de vuelta hacia una nube nueva. “Nunca me pierdo”, entendió sonriendo, “siempre vuelvo al cielo”. Abajo, el mar la despidió con un destello. Arriba, encendió su lámpara redonda la luna. Y una a una se asomaron las estrellas. La gota se acurrucó en su nube, tibia y tranquila, lista para volver a llover mañana. Cerró los ojos. Y soñó que era pequeña y enorme al mismo tiempo, como todas las cosas que se quieren.",
       "ambient": "ocean_waves",
       "cues": [
         {

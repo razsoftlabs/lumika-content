@@ -2,32 +2,28 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "Mission to the Ice Moon",
   "summary": "A young astronaut and her robot travel all the way to an ice moon to find out where a faraway, very gentle sound is coming from.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Lía was seven years old, she had a helmet with her name painted on it, and a dream as big as the sky. In the training room they played her a very short recording: a faraway, very gentle sound coming from Cristal, an ice moon that circled around a giant planet. Nobody knew what that sound was. 'Somebody has to go and listen to it up close,' the scientists said. 'I will go,' Lía answered, and she said it so fast that she got ahead of her own heart. From that day on she trained every morning. She swam in a huge pool with her suit on, she learned to move slowly, she learned to breathe calmly when her chest was in a hurry. Chispa, her helper robot, was always beside her: the size of a dog, with wide wheels and a little blue light on his forehead. 'One, two, three... seven,' counted Chispa while she floated in the water. 'You skipped a few numbers,' Lía told him, and they both had a laugh.",
+      "text": "Lía was seven years old, she had a helmet with her name painted on it, and a dream as big as the sky. In the training room they played her a very short recording: a faraway, very gentle sound coming from Cristal, an ice moon that circled around a giant planet. Nobody knew what that sound was. 'Somebody has to go and listen to it up close,' the scientists said. 'I will go,' Lía answered, and she said it so fast that she got ahead of her own heart. From that day on she trained every morning. She swam in a huge pool with her suit on, she learned to move slowly, she learned to breathe calmly when her chest was in a hurry. Chispa, her helper robot, was always beside her: the size of a dog, with wide wheels and a blue light on his forehead. 'One, two, three... seven,' counted Chispa while she floated in the water. 'You skipped a few numbers,' Lía told him, and they both had a laugh.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "breathe",
-          "sfx": "breathe_in"
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
         },
         {
           "anchor": "laugh",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "On the last night before the trip, Lía had dinner at home. Her grandma made soup and did not say very much, but she squeezed Lía's hand tight when she served her plate. Her dad gave her a small photo of the three of them, the size of a cookie, so she could carry it in the pocket of her suit. Her mom put the wool hat on her head and said into her ear: 'Listen carefully, my love, and come back.' At sunrise they all walked together to the launch pad. The early morning air smelled like cold metal and coffee. Lía climbed a very long stairway counting her steps, one by one, so she would not think about the hollow feeling in her tummy. The ship was waiting up there, white and enormous as a tower. She hugged her family once, twice, three times. Then she went in, and the door closed with a round, soft sound, like a secret being tucked into a wooden box. Chispa switched on his little blue light.",
+      "text": "On the last night before the trip, Lía had dinner at home. Her grandma made soup and did not say very much, but she squeezed Lía's hand tight when she served her plate. Her dad gave her a small photo of the three of them, the size of a cookie, so she could carry it in the pocket of her suit. Her mom put the wool hat on her head and said into her ear: 'Listen carefully, my love, and come back.' At sunrise they all walked together to the launch pad. The early morning air smelled like cold metal and coffee. Lía climbed a very long stairway. So she would not think about the hollow feeling in her tummy, she counted her steps. The ship was waiting up there, white and enormous as a tower. She hugged her family once, twice, three times. Then she went in, and behind her came the round, soft sound of a closing door. It was like a secret being tucked into a wooden box. Chispa switched on his blue light.",
       "cues": [
         {
           "anchor": "steps",
@@ -41,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "Lía lay back in her seat and buckled her straps. Through the little window she could still see the pink sky of the sunrise. A very calm voice began to count down from ten, and with every number the floor shook a little bit more. 'Three, two, one...' The rocket roared. It was not just any noise: it was like the longest thunder in the world, born underneath her and climbing up her back all the way to her teeth. The ship moved, slowly at first, then very fast. Lía felt an invisible hand pressing on her chest, and she did exactly what she had practised so many times: breathe deeply and smile. Through the window, the world grew smaller and smaller. The clouds stayed below. The sky went from blue to dark blue, and from dark blue to black with tiny bright dots. And then, all of a sudden, silence. The roaring stopped and nothing was left. Lía let her breath out and saw her hair floating, soft as seaweed in water. 'We are up,' said Chispa.",
+      "text": "Lía lay back in her seat and buckled her straps. Through the little window she could still see the pink sky of the sunrise. A very calm voice began to count down from ten, and with every number the floor shook a little bit more. 'Three, two, one...' Then came the roar of the rocket. It was not just any noise: it was born underneath her and climbed up her back all the way to her teeth, long and deep as thunder. The ship moved, slowly at first, then very fast. Lía felt an invisible hand pressing on her chest, and she did exactly what she had practised so many times: breathe deeply and smile. Through the window, the world grew smaller and smaller. The clouds stayed below. The sky went from blue to dark blue, and from dark blue to black with tiny bright dots. And then, all of a sudden, silence. The roaring stopped and nothing was left. Lía let her breath out and saw her hair floating, soft as seaweed in water. 'We are up,' said Chispa.",
       "cues": [
         {
           "anchor": "rocket",
@@ -55,7 +51,7 @@
     },
     {
       "id": "s4",
-      "text": "Floating was the best thing in the world. Lía learned to push herself with one single finger and cross the whole ship. She learned to drink water from a little bag with a straw, to wash her hair with a damp towel, to leave her pencil still in the air and find it right there when she needed it. On the first night she stuck the photo of her family next to the window. Outside, the Earth was a blue marble with white clouds on top, and beyond it there were thousands of stars that did not twinkle: they shone steady, as if they never got tired of shining. 'Chispa, are we there yet?' 'Nineteen days to go.' 'And now?' 'Nineteen days and six seconds to go.' Lía covered her mouth with both hands, because up in space a laugh sounds different, smaller and closer, as if somebody told it into your ear. Then she watched her blue marble for a very long while, until her eyes felt heavy.",
+      "text": "Floating was the best thing in the world. Lía learned to push herself with one single finger and cross the whole ship. She learned to drink water from a bag with a thin tube, to wash her hair with a damp towel, to leave her pencil still in the air and find it right there when she needed it. On the first night she stuck the photo of her family next to the window. Outside, the Earth was a blue marble with white clouds on top, and beyond it, against the black, there were thousands of stars. They did not twinkle: they shone steady, as if they never got tired of shining. 'Chispa, are we there yet?' 'Nineteen days to go.' 'And now?' 'Nineteen days and six seconds to go.' Lía covered her mouth with both hands, because up in space there is something odd about a laugh. It sounds smaller and closer, as if somebody told it into your ear. Then she watched her blue marble for a very long while, until her eyes felt heavy.",
       "cues": [
         {
           "anchor": "stars",
@@ -69,22 +65,22 @@
     },
     {
       "id": "s5",
-      "text": "Then came the long days. The very long days. In space it never rains, it never gets dark, no dog ever walks by on the street. Lía did her exercises holding on to elastic bands, she drew the ice moon twenty times, she played cards with Chispa, who always won and always announced it: 'I won again.' And she listened to the recording of the mysterious sound over and over, trying to guess what it was. 'It sounds like somebody singing very far away,' she would say. 'It sounds like ice moving,' Chispa would say. Some afternoons she got so bored that her chest ached a little from missing her bed. Then she climbed into her sleeping bag, which hung on the wall like a cocoon, put the photo over her heart and closed her eyes. When you float, sleeping feels like being in water without getting wet. Lía snored softly. Chispa turned off the lights and looked after the numbers all night long.",
+      "text": "Then came the long days. The very long days. In space it never rains, it never gets dark, no dog ever walks by on the street. Lía did her exercises holding on to elastic bands, she drew the ice moon twenty times, she played cards with Chispa, who always won and always announced it: 'I won again.' And she listened to the recording of the mysterious sound over and over, trying to guess what it was. 'It sounds like somebody singing very far away,' she would say. 'It sounds like ice moving,' Chispa would say. Some afternoons she got so bored that her chest ached a little from missing her bed. Then she climbed into her sleeping bag, which hung on the wall like a cocoon, and put the photo over her heart. After that she closed her eyes. When you float, sleeping feels like being in water without getting wet. And after a while, in the middle of all that quiet, out of Lía came a soft snore. Chispa turned off the lights and looked after the numbers all night long.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "snored",
-          "sfx": "snore_soft"
-        },
-        {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "snore",
+          "sfx": "snore_soft"
         }
       ]
     },
     {
       "id": "s6",
-      "text": "On the nineteenth day, Chispa woke her up early. 'Lía. Look out of the window.' There it was. Cristal was not a little dot in a drawing any more: the ice moon was enormous, round, a bluish white, with thin stripes crossing it like the veins of a leaf. Behind it, the giant planet filled half the window with its slim rings, like a hat from another world. The sunlight came from very far away, tired, and it made everything look painted in watercolour. Lía had no words at all. She rested her hand on the cold glass, very slowly, the same way you greet an animal you have not met yet. 'Hello,' she whispered. 'We came to listen to you.' The moon did not answer, of course not. But inside, Lía felt a tickle, that tickle you get when a star lights up exactly where you were looking. Chispa filmed it all with his tiny camera, saying nothing.",
+      "text": "On the nineteenth day, Chispa woke her up early. 'Lía. Look out of the window.' There it was. Cristal was not a little dot in a drawing any more: there, filling the whole window, was the ice moon. Enormous, round, a bluish white, with thin stripes crossing it like the veins of a leaf. Behind it, the giant planet filled half the window with its slim rings, like a hat from another world. The sunlight came from very far away, tired, and it made everything look painted in watercolour. Lía had no words at all. She rested her hand on the cold glass, very slowly, the same way you greet an animal you have not met yet. 'Hello,' she whispered. 'We came to listen to you.' Cristal did not answer, of course not. But inside, Lía felt a tickle, that tickle you get when a star lights up exactly where you were looking. Chispa filmed it all with his small camera, saying nothing.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -99,7 +95,7 @@
     },
     {
       "id": "s7",
-      "text": "Going down was not easy. Cristal has no air to slow you down, so the ship had to brake all by itself with its engines, and the ground was full of cracks and lumps of ice. Lía held on to the arms of her seat. 'Zone one: too many cracks,' said Chispa. 'Zone two: mountains. Zone three... could work.' 'Let us take zone three.' The ship came down sideways with a long whistle, straightened up and hovered a few seconds above a shiny plain. Ice dust rose in a white cloud that covered the windows. Then the legs touched the ground with a dry thump that made everything jump inside the cabin: bang! After that, silence. Lía unbuckled her straps with trembling fingers and looked at her robot. 'Are we all in one piece?' 'We are all in one piece,' Chispa answered. 'And we landed a little bit crooked.' Lía chuckled quietly, relieved. Outside, the ice was waiting for her, still and blue.",
+      "text": "Going down was not easy. Cristal has no air to slow you down, so they had to brake with the engines alone, and the ground was full of cracks and lumps of ice. Lía held on to the arms of her seat. 'Zone one: too many cracks,' said Chispa. 'Zone two: mountains. Zone three... could work.' 'Let us take zone three.' With a long whistle, down sideways came the ship. Then it straightened up and hovered a few seconds above a shiny plain. Ice dust rose in a white cloud that covered the windows. Then the legs touched the ground with a dry thump. Everything jumped inside the cabin: bang! After that, silence. Lía unbuckled her straps with trembling fingers and looked at her robot. 'Are we all in one piece?' 'We are all in one piece,' Chispa answered. 'And we landed a little bit crooked.' Lía chuckled quietly, relieved. Outside, the ice was waiting for her, still and blue.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -114,7 +110,7 @@
     },
     {
       "id": "s8",
-      "text": "She put her suit on slowly, checking every seal twice, just like in training. The door opened and Lía climbed down the little ladder very carefully. The ice was blue. Really blue, glass blue, with tiny white bubbles trapped inside like sleeping stars. Every time she set a boot down, the ground made a soft crunch that she heard from inside her helmet, and her footsteps kept leaving perfect prints: the first prints in history in that place. Above her, the giant planet hung enormous and quiet. There was no wind, there were no birds, there was nothing at all. Only a silence so big that Lía could hear her own breathing. 'Chispa, are you recording all of this?' 'All of it.' They walked together towards the spot marked on the map, she with astronaut footsteps, he with his wheels drawing one long line behind them. And under her boots, far below, something enormous was keeping a secret.",
+      "text": "She put her suit on slowly, checking every seal twice, just like in training. The door opened and Lía climbed down the little ladder very carefully. The ice was blue. Really blue, glass blue, with white bubbles trapped inside like sleeping stars. Every time she set a boot down, the ground made a soft crunch. She heard it very clearly from inside her helmet, and behind her the first prints in history in that place kept appearing. Above her, the giant planet hung enormous and quiet. There was no wind, there were no birds, there was nothing at all. Only a silence so big that Lía could hear her own breathing. 'Chispa, are you recording all of this?' 'All of it.' They walked together towards the spot marked on the map: the robot drew one long line with his wheels, and she went along counting her footsteps. And under her boots, far below, something enormous was keeping a secret.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -129,22 +125,22 @@
     },
     {
       "id": "s9",
-      "text": "The cold on Cristal is not a normal cold. It is a cold that bites metal. Twenty minutes into their walk, Chispa began to talk strangely. 'Lía... the tempe... rature...' he said, and his little blue light blinked twice and went out. The robot stood there, frozen in the middle of the ice, his wheels turned sideways, saying nothing else. 'Chispa. Chispa, answer me.' Nothing. Only the enormous silence and the giant planet watching from above. For the first time in the whole journey, Lía felt like crying. She was alone, really alone, further from her house than anybody had ever been, and her only friend was switched off at her feet. She closed her eyes inside her helmet. She remembered her mom saying 'listen carefully, and come back'. She remembered the pool, and the helmet with her name painted on it. And then she did the only thing she knew how to do when her heart was racing: breathe. Very deeply. Very slowly.",
+      "text": "The cold on Cristal is not a normal cold. It is a cold that bites metal. Twenty minutes into their walk, Chispa began to talk strangely. 'Lía... the tempe... rature...' he said, and his blue light blinked twice and went out. The robot stood there, frozen in the middle of the ice, his wheels turned sideways, saying nothing else. 'Chispa. Chispa, answer me.' Nothing. Only the enormous silence and the giant planet watching from above. For the first time in the whole journey, Lía felt like crying. She was alone, really alone, further from her house than anybody had ever been, and her only friend was switched off at her feet. She closed her eyes inside her helmet. She remembered her mom saying 'listen carefully, and come back'. She remembered the pool, and the helmet with her name painted on it. And then she did the only thing she knew how to do when something started racing inside her heart. Breathe. Very deeply. Very slowly.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "breathe",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "Breathe",
+          "sfx": "breathe_in"
         }
       ]
     },
     {
       "id": "s10",
-      "text": "Lía opened her backpack and took out the toolbox. Her gloves were thick and her hands were shaking, so the first thing she did was kneel down on the ice and stay very still until her fingers agreed to obey her. 'All right, Chispa,' she said out loud, so she would not feel so alone. 'Let us see what is wrong with you.' She opened the little lid on the robot's back. Inside, a small part was covered in frost, white as sugar. She cleaned it with a cloth, very carefully, blowing on what she could not touch. She wrapped a thermal blanket around him, tightened two screws the cold had loosened, and changed the small battery for the spare one she carried in her pocket, next to the photo. She counted to ten. The little blue light came on like a star waking up. 'Repor... reporting,' said Chispa. 'I am fine. Thank you, Lía.' She leaned her helmet against his, smiling inside her own.",
+      "text": "Lía opened her backpack and took out the toolbox. Her gloves were thick and her hands were shaking, so the first thing she did was kneel down on the ice and keep very still until her fingers agreed to obey her. 'All right, Chispa,' she said out loud, so she would not feel so alone. 'Let us see what is wrong with you.' She opened the little lid on the robot's back. Inside, a small part was covered in frost, white as sugar. She cleaned it with a cloth, very carefully, blowing on what she could not touch. She wrapped a thermal blanket around him, tightened two screws the cold had loosened, and changed the small battery for the spare one she carried in her pocket, next to the photo. She counted to ten, and the blue light came on slowly, like a star. 'Repor... reporting,' said Chispa. 'I am fine. Thank you, Lía.' She leaned her helmet against his, smiling inside her own.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -155,7 +151,7 @@
     },
     {
       "id": "s11",
-      "text": "Then came the slow part. To listen to what was underneath, they had to make one tiny hole in the ice: a hole as thin as a piece of spaghetti, nothing more. Lía put the drill together and switched it on. The drill turned slowly, very slowly, and with every single turn it made a small crunch that climbed up her boots to her knees. One centimetre. Two. Ten. A whole hour to get through the thickness of a book. 'No rushing,' Chispa kept saying. 'If we rush, the ice will crack.' 'No rushing,' Lía answered, and gave it one more turn. The faraway sun moved a little across the black sky. Her arms ached and her eyes were shining. When they had been at it for ages, the drill suddenly sank one fingertip deeper, and out of the hole came a thin trickle of water that froze in the air into tiny, glittering beads.",
+      "text": "Then came the slow part. To listen to what was underneath, they had to make one very thin hole in the ice: as thin as a piece of spaghetti, nothing more. Lía put the drill together and switched it on. The drill turned slowly, very slowly, and every single turn made the same small sound: crunch. One centimetre. Two. Ten. A whole hour to get through the thickness of a book. 'No rushing,' Chispa kept saying. 'If we rush, the ice will crack.' 'No rushing,' Lía answered, and gave it one more turn. The faraway sun moved a little across the black sky. Her arms ached and her eyes were shining. When they had been at it for ages, the drill suddenly sank deeper, and out of the hole came a thin trickle of water. It froze in the air into tiny, glittering beads.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -170,7 +166,7 @@
     },
     {
       "id": "s12",
-      "text": "They lowered the microphone through the tiny hole, tied to a thin cable, and waited. Lía sat down on the ice with her knees against her chest and put the headphones on. At first all she heard was a murmur, like the sound of a seashell held to your ear. Then the other thing arrived. Songs. So very many songs. Under the ice there was a whole ocean, deeper than all the seas of the Earth put together, and it was full of voices going up and going down. Some were deep and very long, like a whale telling a story without any hurry. Others sounded like drops, like little bells, like bubbles chasing each other. They called out, they answered, they crossed and started all over again. Lía sat with her mouth open, not moving, her eyes full of warm tears. 'Chispa,' she said quietly. 'It is not ice moving.' 'No,' the robot answered, his little light trembling. 'They are singing. They are singing down there.'",
+      "text": "They lowered the microphone through the hole, tied to a thin cable, and waited. Lía sat down on the ice with her knees against her chest and put the headphones on. At first all she heard was a murmur, like the sound of a seashell held to your ear. Then the other thing arrived. Songs. So very many songs. Under the ice there was a whole ocean, deeper than all the seas of the Earth put together, and it was full of voices going up and going down. Some were deep and very long, like the story that would be told, without any hurry, by a whale. Others sounded like drops, like bells, like bubbles. They called out, they answered, they crossed and started all over again. Lía sat with her mouth open, not moving, her eyes full of warm tears. 'Chispa,' she said quietly. 'It is not ice moving.' 'No,' the robot answered, his blue light trembling. 'They are singing. They are singing down there.'",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -185,7 +181,7 @@
     },
     {
       "id": "s13",
-      "text": "In her backpack Lía had a powerful flashlight, a camera to push through the hole and a probe with a tiny arm. She could lower them down. She could look. She could touch. She stayed there thinking for a long while, listening. 'If we send the light down, they will get scared,' she said at last. 'And if we send the arm down, they will go quiet.' 'It is your mission,' said Chispa. 'You decide.' Lía looked at the tiny hole, so small, and thought about the enormous dark ocean underneath. She thought about someone turning on a lamp without warning while you are sleeping. 'Today we are only going to listen,' she said. 'And record. Nothing else.' She put the flashlight away. She put the arm away. She switched the recorder on and stayed there, still as a stone, while the voices of the water filled her ears. She recorded for three whole hours. When they finally pulled the microphone up, she covered the tiny hole with snow, gently, the way you close a door so nobody wakes up.",
+      "text": "In her backpack Lía had a powerful flashlight, a camera to push through the hole and a probe with a small arm. She could lower them down. She could look. She could touch. She stayed there thinking for a long while, listening. 'If we send the light down, they will get scared,' she said at last. 'And if we send the arm down, they will go quiet.' 'It is your mission,' said Chispa. 'You decide.' Lía looked at the hole, so small, and thought about the enormous dark ocean underneath. She thought about someone turning on a lamp without warning while you are sleeping. 'Today we are only going to listen,' she said. 'And record. Nothing else.' She put the flashlight away. She put the arm away. She switched the recorder on and stayed there, still as a stone, while the voices of the water filled her ears. She recorded for three whole hours. When they finally pulled the microphone up, she covered the hole with snow, gently, the way you would close a bedroom door.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -200,20 +196,16 @@
     },
     {
       "id": "s14",
-      "text": "Coming home was much calmer. They closed everything up, climbed into the ship, and lifting off from Cristal was barely a soft little push, because that small moon hardly pulls you down at all. Through the window, the blue ice grew smaller and smaller until it looked like a pearl in a black sea. During the trip back, Lía listened to the recording every single day. She gave the voices names: the Deep One, the Little Bell, the One Who Always Answers. And she wrote in her notebook, in big letters: 'There is an ocean full of songs. We did not disturb it.' On the last night before arriving, she climbed into her sleeping bag with the memory card of the recording held against her chest, the way you hug a teddy bear. She played the voices very quietly. Outside, the Earth was growing slowly, blue and warm, and her house was waiting somewhere on that marble. Lía smiled, settled in, and fell asleep floating, wrapped in a song nobody had ever heard before.",
+      "text": "Coming home was much calmer. They closed everything up, climbed into the ship, and lifting off from Cristal was barely a soft push, because that small moon hardly pulls you down at all. Through the window, the blue ice grew smaller and smaller until it looked like a pearl in a black sea. During the trip back, Lía listened to the recording every single day. She gave the voices names: the One Who Always Answers, the Deep One and the Bell. And she wrote in her notebook, in big letters: 'There is an ocean full of songs. We did not disturb it.' On the last night before arriving, she climbed into her sleeping bag with the memory card of the recording held against her chest, the way you hug a teddy bear. She played the voices very quietly. Outside, the Earth was growing slowly, blue and warm, and her house was waiting somewhere on that marble. Lía smiled, settled in, wrapped herself in a song nobody had ever heard before and fell asleep.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "ship",
-          "sfx": "rocket"
+          "anchor": "Bell",
+          "sfx": "bell_soft"
         },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "Bell",
-          "sfx": "bell_soft"
         }
       ]
     }

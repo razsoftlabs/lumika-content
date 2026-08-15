@@ -2,39 +2,31 @@
   "id": "la-princesa-y-el-dragon-triston",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 3,
   "title": "La princesa y el dragón tristón",
-  "summary": "Una princesa descubre que el dragón rugía porque tenía una piedrita en la pata.",
+  "summary": "Una princesa descubre que el dragón rugía porque tenía una espina clavada en la pata.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un reino lejano, muy lejano, lleno de torres altas, banderas de colores que flameaban con el viento y un río que cruzaba la aldea como una serpiente azul, vivía la princesa Ana. Pero Ana no era una princesa común. Mientras las otras princesas se peinaban delante del espejo y tomaban té con galletitas, Ana andaba con las rodillas peladas, el pelo siempre despeinado, una venda en el codo, y una mochila colorada llena de cosas raras: pinzas, vendas, una linterna, un cuchillito sin filo, un frasco con miel, una libreta para anotar cosas. A Ana le gustaba más explorar el bosque y arreglar los rasguños de los animales que ir a las fiestas del castillo. Una mañana de primavera, mientras desayunaba con sus padres, todo el reino se asustó por un rugido enorme que venía de las montañas. ¡GRRROOOAAAARR! Era un rugido tan, tan fuerte, que las ventanas vibraron, los platos se sacudieron, los gatos se metieron debajo de las camas y los caballos relincharon en los establos. Toda la aldea corrió a esconderse, gritando \"¡el dragón, el dragón!\". Pero Ana no se escondió. Dejó la cuchara sobre la mesa, se limpió la boca con la manga, tomó su mochila colorada, se puso las botas y salió a investigar. \"Algo raro pasa\", pensó.",
+      "text": "En un reino lejano, muy lejano, había torres altas, un río que cruzaba la aldea como una serpiente azul y banderas de colores que se movían con el viento. Allí vivía la princesa Ana. Pero Ana no era una princesa común. Mientras las otras princesas se peinaban delante del espejo y tomaban té con galletas, Ana andaba con las rodillas raspadas, el pelo despeinado, una venda en el codo y una mochila roja llena de cosas raras: pinzas, gasas, una linterna, un cuchillo sin filo, un frasco de miel y una libreta para anotar todo lo que descubría. A Ana le gustaba más explorar el bosque y curar los rasguños de los animales que ir a las fiestas del castillo. Una mañana de primavera, mientras desayunaba con sus padres, un ruido enorme bajó de las montañas y asustó a todo el reino: ¡GRRROOOAAAARR! Era un rugido tan fuerte que las ventanas vibraron, los platos se sacudieron, los gatos se escondieron debajo de las camas y en los establos los caballos soltaron un relincho. La aldea entera corrió a refugiarse gritando: \"¡el dragón, el dragón!\". Pero Ana no se escondió. Dejó la cuchara sobre la mesa, se limpió la boca con la manga, tomó su mochila roja, se puso las botas y salió a investigar. \"Algo raro pasa\", pensó.",
       "cues": [
         {
-          "anchor": "GRRROOOAAAARR",
-          "sfx": "thud"
+          "anchor": "viento",
+          "sfx": "wind_soft"
         },
         {
-          "anchor": "rugido",
-          "sfx": "thud"
-        },
-        {
-          "trigger": "atSceneEnter",
-          "sfx": "wind_high"
+          "anchor": "relincho",
+          "sfx": "horse_neigh"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "Ana caminó por el sendero polvoriento que subía a las montañas, esquivando piedritas y saludando a las flores que conocía por su nombre. Subió, subió, subió, hasta llegar a la montaña más alta del reino. Allí, escondida entre rocas grises y arbustos espinosos, había una cueva oscura, oscura, con la entrada como una boca enorme. Adentro, se escuchaba un sonido extraño. Pero Ana, que tenía el oído fino, prestó atención: no era un rugido feroz, era... un sollozo. ¿Un dragón llorando? Ana arrugó la nariz, intrigada. Sacó la linterna chiquita de su mochila, la encendió —click— y entró con mucho cuidado, paso a paso. La cueva olía a humo viejo y a tierra mojada. Sus pisadas hacían eco. Y entonces lo vio: era un dragón grandote, gigantesco, de escamas verdes brillantes, con dos cuernos largos, alas plegadas y una cola enroscada. Pero estaba acostado en el suelo, con la cabezota enorme apoyada sobre sus dos patas delanteras. Tenía dos lagrimones gigantes corriendo por las mejillas, gota tras gota, plip, plop. \"¿Qué te pasa, dragón?\", preguntó Ana sin miedo, dando un paso más. El dragón levantó los ojitos rojos de tanto llorar, sopló un suspiro tristón —fuuuh— y le mostró la pata trasera. Ana se acercó. Tenía una espinita clavada profundo, y la pata estaba toda hinchada y colorada. Le dolía muchísimo.",
+      "text": "Ana caminó por el sendero polvoriento que subía a las montañas, esquivando piedras sueltas y saludando a las flores que conocía por su nombre. Subió, subió, subió, hasta llegar a la montaña más alta del reino. Allí, escondida entre rocas grises y arbustos espinosos, había una cueva oscura, con la entrada abierta como una boca enorme. Adentro se escuchaba un sonido extraño. Ana, que tenía muy buen oído, prestó atención: no era un rugido feroz, era un sollozo. ¿Un dragón llorando? Ana arrugó la nariz, intrigada. Sacó la linterna de su mochila, la encendió y entró con mucho cuidado. La cueva olía a humo viejo y a tierra mojada, y en aquel silencio enorme solo se escuchaban sus pisadas. Y entonces lo vio: era un dragón gigantesco, de escamas verdes brillantes, con dos cuernos largos, las alas plegadas y la cola enroscada. Estaba acostado en el suelo, con la cabeza apoyada sobre sus patas delanteras, y por sus mejillas rodaban dos lágrimas enormes, plip, plop. \"¿Qué te pasa, dragón?\", preguntó Ana sin miedo, dando un paso más. El dragón levantó los ojos, rojos de tanto llorar, y soltó un suspiro. Después le mostró la pata trasera: tenía una espina clavada muy adentro, y toda la pata hinchada y roja. Le dolía muchísimo.",
       "cues": [
         {
-          "anchor": "linterna",
-          "sfx": "sparkle"
-        },
-        {
-          "anchor": "cueva",
-          "sfx": "door_open"
+          "anchor": "pisadas",
+          "sfx": "footsteps"
         },
         {
           "anchor": "suspiro",
@@ -44,36 +36,28 @@
     },
     {
       "id": "s3",
-      "text": "\"Ya entiendo todo\", dijo Ana asintiendo con la cabeza. \"Por eso rugías así, te dolía\". El dragón asintió con sus ojitos llenos de lágrimas. Ana abrió su mochila colorada y sacó una pinza chiquita pero firme. \"Quedate quieto, dragón, te voy a ayudar. Va a doler un segundito y después se pasa, ¿de acuerdo?\". El dragón asintió otra vez, confiado, y cerró los ojos bien fuerte. Ana se acercó a la pata, examinó la espinita con cuidado, midió el ángulo, respiró hondo. Con muchísimo cuidado, agarró la puntita de la espinita con la pinza y, de un solo tirón firme... ¡Plop! La espinita salió. Era larga, casi del tamaño del dedo de Ana. La sangre paró enseguida. Ana sacó del mochila un frasco de miel y le untó la heridita. \"La miel cura todo\", explicó. Después le puso una venda blanca alrededor. El dragón abrió los ojos sorprendido y movió la pata. La movió otra vez. ¡Ya no le dolía! Sonrió por primera vez en mucho tiempo, una sonrisa enorme con dos hileras de dientes blancos. De pura alegría, sopló un destello brillante por la nariz, lleno de chispas rojas y doradas que volaron por toda la cueva como fuegos artificiales. Ana se rió a carcajadas y aplaudió contenta. \"Te llamaré Chispas\", le dijo. El dragón rugió bajito, agradecido, y le lamió la mejilla con su lengua tibia.",
+      "text": "\"Ya entiendo todo\", dijo Ana asintiendo con la cabeza. \"Rugías así porque te dolía\". El dragón asintió con los ojos llenos de lágrimas. Ana abrió su mochila roja y sacó una pinza pequeña y firme. \"Quédate quieto, dragón, te voy a ayudar. Va a doler un segundo y después se pasa, ¿de acuerdo?\". El dragón asintió otra vez, confiado, y cerró los ojos con fuerza. Ana examinó la pata con cuidado, midió el ángulo y respiró hondo. Con muchísimo cuidado agarró la punta de la espina con la pinza y, de un solo tirón firme, la sacó. Era larga, casi del tamaño del dedo de Ana. La sangre se detuvo enseguida. Ana sacó de la mochila el frasco de miel y le untó la herida. \"La miel cura todo\", explicó. Después le puso una venda blanca alrededor. El dragón abrió los ojos, sorprendido, y movió la pata. La movió otra vez. ¡Ya no le dolía! Por primera vez en mucho tiempo mostró dos hileras de dientes blancos y, de pura alegría, sopló por la nariz un destello. Del hocico le salieron chispas rojas y doradas que volaron por toda la cueva como fuegos artificiales. Ana aplaudió contenta y la cueva se llenó con su risa. \"Te voy a llamar Chispas\", le dijo. El dragón rugió en voz baja, agradecido, y le lamió la mejilla con su lengua tibia.",
       "cues": [
         {
-          "anchor": "Plop",
+          "anchor": "destello",
           "sfx": "sparkle"
         },
         {
-          "anchor": "destello",
-          "sfx": "twinkle"
-        },
-        {
-          "anchor": "rió",
+          "anchor": "risa",
           "sfx": "giggle"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "Desde ese día, Ana y Chispas, el dragón, fueron mejores amigos. Cada tarde, después de hacer las tareas del castillo, Ana subía corriendo a la cueva con su mochila llena de sorpresas: a veces un trozo de torta para él, a veces un libro para leerle, a veces una pelota nueva. El dragón la levantaba con cuidado, la subía a su lomo enorme entre las escamas verdes, y la paseaba volando sobre el reino entero. ¡Whoooosh! Volaban sobre los tejados rojos del pueblo, sobre las colinas, sobre los lagos donde se reflejaban como un espejo. Chispas le mostraba a Ana lugares secretos que solo los dragones conocen: lagunas escondidas con peces de colores, cuevas con cristales que brillaban como diamantes, valles llenos de flores raras. La gente del pueblo, que al principio le tenía miedo, fue entendiendo de a poco que el dragón nunca había sido malo. Solo estaba sufriendo. Y cuando alguien sufre, a veces grita, a veces llora, a veces ruge. Pero no es porque sea malo. Y Ana aprendió algo muy importante esa primavera, algo que iba a recordar toda su vida y que después se lo iba a contar a sus propios hijos: a veces, los rugidos más fuertes esconden los dolores más chiquitos. Y siempre, siempre, vale la pena acercarse a preguntar.",
+      "text": "Desde ese día, Ana y Chispas fueron los mejores amigos. Cada tarde, después de terminar sus tareas en el castillo, Ana subía corriendo a la cueva con la mochila llena de sorpresas: a veces un trozo de torta, a veces un libro para leerle, a veces una pelota nueva. El dragón la levantaba con cuidado, la sentaba en su lomo enorme entre las escamas verdes y la llevaba a volar. Cruzaban el cielo del reino entero, ¡whoooosh! Pasaban sobre los tejados rojos del pueblo, sobre las colinas y sobre los lagos, que los reflejaban como un espejo. Chispas le mostraba a Ana lugares secretos que solo los dragones conocen: lagunas escondidas con peces de colores, valles llenos de flores raras y cuevas con cristales que brillaban. La gente del pueblo, que al principio le tenía miedo, fue entendiendo poco a poco que el dragón nunca había sido malo. Solo estaba sufriendo. Y cuando alguien sufre, a veces grita, a veces llora, a veces ruge. Pero no es porque sea malo. Ana aprendió esa primavera algo muy importante, algo que iba a recordar toda su vida y que después les contaría a sus propios hijos: a veces, los rugidos más fuertes esconden los dolores más pequeños. Y siempre, siempre, vale la pena acercarse a preguntar.",
       "cues": [
         {
-          "anchor": "Whoooosh",
+          "anchor": "volar",
           "sfx": "whoosh"
         },
         {
-          "anchor": "volando",
-          "sfx": "whoosh"
-        },
-        {
-          "trigger": "atSceneExit",
+          "anchor": "brillaban",
           "sfx": "sparkle"
         }
       ]

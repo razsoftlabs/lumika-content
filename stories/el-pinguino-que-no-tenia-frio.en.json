@@ -2,13 +2,13 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Penguin Who Was Never Cold",
   "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a land of ice and white snow lived a penguin named Pip. All his friends played happily in the cold. They huddled together, shivered a little, and laughed. But Pip was different: Pip was never, ever cold. While the others looked for warmth, he fanned himself with a wing. 'Phew, so hot!' he said, blowing the feathers off his forehead. The icy wind whistled past, and Pip loved it. His friends did not understand at all, and every time Pip puffed and huffed, they let out a giggle. Pip laughed too, though deep inside he wished, just a little, that he could cool off like everyone else.",
+      "text": "In a land of ice and white snow lived a penguin named Pip. All his friends played happily in the cold. They huddled together, shivered a little, and laughed. But Pip was different: Pip was never, ever cold. While the others looked for warmth, he fanned himself with a wing. 'Phew, so hot!' he said, blowing the feathers off his forehead. All around, whistling and whistling, blew an icy wind. Pip loved it. His friends did not understand at all, and every time Pip puffed and huffed, they let out a giggle. Pip laughed too, though deep inside he wished, just a little, that he could cool off like everyone else.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "One day, Pip had an idea. He ran to a puddle of cold water, shiny as a mirror. 'I'll cool down right here!' he shouted, and jumped in with both feet. Splash! The water flew everywhere and soaked three penguins walking by. Pip sat in the puddle, very proud of himself. For a little while he felt nice and cool, and he sighed happily. But the sun peeked out from the clouds, and in no time at all Pip was hot again. 'Again?' he said, dripping wet. His friends laughed so hard they toppled over onto the snow.",
+      "text": "One day, Pip had an idea. He ran to the edge of the snow, where the cold water shone like a mirror. It was a puddle. 'I'll cool down right here!' he shouted, and jumped in with both feet. Splash! The water flew everywhere and soaked three penguins walking by. Pip sat down in it, very proud of himself. For a while he felt nice and cool, and he sighed happily. But the sun peeked out from the clouds, and in no time at all Pip was hot again. 'Again?' he said, dripping wet. His friends laughed so hard they toppled over onto the snow.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -34,7 +34,7 @@
     },
     {
       "id": "s3",
-      "text": "Pip did not give up. He waddled to the blue sea and dove in headfirst. Ploomp! Under the water everything was quiet and cool. Pip blew round little bubbles that tickled as they floated up. Suddenly, a huge, kind whale swam by and sang him a deep, gentle song. Pip felt tiny and happy. He swam and swam, spinning among the bubbles. But penguins can't stay down forever, so Pip came up to breathe. As he reached the air, he shook his feathers… and there it was again, warm and toasty. He laughed at himself and waved to the whale.",
+      "text": "Pip did not give up. He waddled to the blue sea and dove in headfirst. Ploomp! Under the water everything was quiet and cool. Pip blew and blew, and out of his beak came bubbles. They floated up round and tickly. Suddenly, out of the blue depths came a whale. She was huge and kind, and she sang him a deep, gentle song. Pip felt tiny and happy. He swam and swam, spinning through the foam. But penguins can't stay down forever, so Pip came up to breathe. As he reached the air, he shook his feathers… and there it was again, warm and toasty. He laughed at himself and waved goodbye to her with a wing.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -49,7 +49,7 @@
     },
     {
       "id": "s4",
-      "text": "'I've got it! I'll make my own wind!' thought Pip. He climbed the tallest hill, flopped onto his belly, and slid. Whoosh! Pip slid down the snow faster than ever before. His feathers fluttered, his cheeks tickled, and the cool air hugged him all over. 'Now this really works!' he cheered. He zoomed down the hill again and again, laughing out loud. But at the bottom, warm as toast, Pip stopped to think. Cooling off was fun… but oh, it was tiring. He sat down in the snow, a little sleepy and very thoughtful.",
+      "text": "'I've got it! I'll make my own wind!' thought Pip. He climbed the tallest hill, flopped onto his belly, and slid. Whoosh! He flew down the snow faster than ever before. His feathers fluttered, his cheeks tickled, and the cool air hugged him all over. 'Now this really works!' he cheered. He zoomed down the hill again and again, laughing out loud. But at the bottom, warm as toast, Pip stopped to think. Cooling off was fun… but oh, it was tiring. He sat down in the snow, a little sleepy and very thoughtful.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -60,16 +60,16 @@
     },
     {
       "id": "s5",
-      "text": "That night, the cold grew stronger than ever. Pip's little friends shivered and could not sleep. Then Pip understood something beautiful. He opened his warm wings and said, 'Come here with me!' One by one, all the penguins snuggled against his cozy belly. 'What lovely warmth!' they sighed. Up above, the stars sparkled in the dark sky. Pip no longer wanted to cool off: his warmth was the best gift in the whole world. He closed his eyes, listened to the soft breathing of his friends, and smiled. Under the stars, they all slept together, warm and happy. Good night, Pip.",
+      "text": "That night, the cold grew stronger than ever. Pip's friends shivered and could not sleep. Then Pip understood something beautiful. He opened his warm wings and said, 'Come here with me!' One by one, all the penguins snuggled against his cozy belly. 'What lovely warmth!' they sighed. Up above, in the dark sky, shone the stars. Pip no longer wanted to cool off: his warmth was the best gift in the whole world. He closed his eyes, listened to the soft breathing of his friends, and smiled. Under that sky, they all slept together, warm and happy. Good night, Pip.",
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "stars",
-          "sfx": "sparkle"
+          "anchor": "sighed",
+          "sfx": "breathe_in"
         },
         {
-          "anchor": "breathing",
-          "sfx": "breathe_in"
+          "anchor": "stars",
+          "sfx": "sparkle"
         }
       ]
     }

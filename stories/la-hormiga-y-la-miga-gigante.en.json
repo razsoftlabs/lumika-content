@@ -2,13 +2,13 @@
   "id": "la-hormiga-y-la-miga-gigante",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The ant and the giant crumb",
   "summary": "Lupe the little ant finds a crumb as big as her house and is sure she can carry it all by herself.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In the garden, when the picnic was over and the people had gone, a huge crumb of sponge cake stayed on the grass, golden and sweet. A soft breeze stirred the dry leaves while Lupe, a little ant with quick feet, looked for something tasty. When she saw the giant crumb, she opened her eyes wide like two little dewdrops. 'It smells like vanilla, like a party,' she thought, licking her antennae. 'I'll carry it all by myself to the anthill, and everyone will say: what a strong ant!' Very determined, she pressed her six little feet against the crumb and got ready to push.",
+      "text": "In the garden, when the picnic was over and the people had gone, a huge crumb of sponge cake stayed on the grass, golden and sweet. While Lupe, a little ant with quick feet, looked for something tasty, along came a soft breeze. As it crossed the garden, it set a dance going in the dry leaves. When she saw the giant crumb, she opened her eyes wide like two little dewdrops. 'It smells like vanilla, like a party,' she thought, licking her antennae. 'I'll carry it all by myself to the anthill, and everyone will say: what a strong ant!' Very determined, she pressed her six little feet against the crumb and got ready to push.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "Lupe pushed with all her might. Oof! The crumb did not move one little bit. She pushed again, and again, her little face red and her antennae trembling. Nothing. Then she tried pulling from the other side, taking short little steps backward. The crumb moved a tiny bit... and suddenly Lupe slipped and fell down, plop!, onto a soft leaf. Nearby, a bee flying past looked at her with curiosity. 'Do you need help, little one?' she buzzed softly. But Lupe, dusting herself off, answered very proudly: 'No, thank you, I can do it by myself.'",
+      "text": "Lupe pushed with all her might. Oof! The crumb did not move one little bit. She pushed again, and again, her little face red and her antennae trembling. Nothing. Then she tried pulling from the other side, taking short little steps backward. The crumb moved a tiny bit... and suddenly Lupe slipped and sat down hard on a soft leaf. Plop! Flying past, close by, was a bee. 'Do you need help, little one?' she buzzed softly. But Lupe, dusting herself off, answered very proudly: 'No, thank you, I can do it by myself.'",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Stubborn as could be, Lupe tried again. She climbed on top of the crumb and pushed with her back. The crumb rolled one little step, two little steps... and went straight toward a puddle of water. Splash! It landed at the edge, wet on one side, and Lupe ended up all messy, with one antenna up and one antenna down. She sat on a little pebble, tired, and felt her eyes fill with tears. 'I can't,' she whispered very softly. 'It's too big for me alone.' The sun was starting to go down and home was so very far away.",
+      "text": "Stubborn as could be, Lupe tried again. She climbed on top of the crumb and pushed with her back. The crumb rolled one little step, two little steps... and went straight toward a puddle. Splash! It landed at the edge, wet on one side, and Lupe ended up all messy, with one antenna up and one antenna down. She sat on a little pebble, tired, and felt her eyes fill with tears. 'I can't. It's too big for me alone,' she whispered. The sun was starting to go down and home was so very far away.",
       "cues": [
         {
           "anchor": "puddle",
@@ -52,7 +52,7 @@
     },
     {
       "id": "s4",
-      "text": "Just then she heard tiny footsteps. Tap, tap, tap! It was her ant sisters, who had been looking for her. When she saw them, Lupe took a deep breath and, for the first time, dared to ask: 'Can you help me? I can't manage the crumb alone.' Her sisters smiled. 'Of course we can, that's what we're here for!' They all lined up, shoulder to shoulder, little foot to little foot. 'One, two, now!' And together they lifted the giant crumb as if it were a tiny feather. Lupe laughed with surprise: what she alone couldn't do all afternoon, together they did in a moment.",
+      "text": "Just then she heard footsteps. Tap, tap, tap! It was her ant sisters, who had been looking for her. When she saw them, Lupe took a deep breath and, for the first time, dared to ask: 'Can you help me? I can't manage the crumb alone.' Her sisters smiled. 'Of course we can, that's what we're here for!' They all lined up, shoulder to shoulder, little foot to little foot. 'One, two, now!' And together they lifted the giant crumb as if it were a tiny feather. What she alone couldn't do all afternoon, together they did in a moment. Seeing the crumb sail up into the air, Lupe laughed.",
       "cues": [
         {
           "anchor": "footsteps",
@@ -66,7 +66,7 @@
     },
     {
       "id": "s5",
-      "text": "Carrying the crumb all together, the ants went back to the anthill singing softly. That night there was a party: each ant tasted a sweet little piece, crunch, crunch, and they even saved some for the next day. The crumb was enough for the whole family, because shared it tasted so much better. When Lupe curled up in her little bed of petals, her mama gave her a kiss on the antennae. 'Today you learned something important,' she whispered. 'Asking for help doesn't make you small; it makes you stronger.' Lupe smiled, closed her little eyes, and fell asleep, dreaming of giant crumbs and many friendly little feet.",
+      "text": "Carrying the crumb all together, the ants went back to the anthill singing softly. That night there was a party: each ant tasted a sweet little piece and the sponge cake went crunch. They even saved some for the next day. The crumb was enough for the whole family, because shared it tasted so much better. When Lupe curled up in her little bed of petals, her mama gave her a kiss on the antennae. 'Today you learned something important,' she whispered. 'Asking for help doesn't make you small; it makes you stronger.' Lupe smiled, closed her little eyes, and fell asleep. And she dreamed of giant crumbs and many friendly little feet.",
       "ambient": "forest_night",
       "cues": [
         {

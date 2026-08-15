@@ -2,18 +2,18 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Midnight Library",
   "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still.",
   "scenes": [
     {
       "id": "s1",
-      "text": "That afternoon it rained and rained over the little town, and Tomás ran all the way to the library on the square with his hood pulled up. He pushed the wooden door and heard the same old creak, that ancient greeting he already knew by heart. Inside, everything was warm. It smelled of paper, of wood, and a little bit of chocolate, because Mr. Ambrose, the librarian, always kept a cup beside his desk. 'Good afternoon, Tomás,' said Mr. Ambrose without looking up. 'The adventure books are right where they always are.' Tomás smiled and walked slowly between the tall shelves, which looked to him like buildings in a city made of paper. His footsteps made a soft sound on the red carpet. Outside, the rain tapped at the windows like tiny fingers. Inside, the wall clock counted the seconds very patiently. Tomás thought the library was the best place in the world for a rainy day.",
+      "text": "That afternoon it rained and rained over the town, and Tomás ran all the way to the library on the square with his hood pulled up. When he got there, he shook the water out of his hair and pushed the heavy wooden door. Inside, the same old creak greeted him, that ancient greeting he already knew by heart. Everything was warm, and it smelled of paper, of wood, and a little bit of chocolate, because Mr. Ambrose, the librarian, always kept a cup beside his desk. 'Good afternoon, Tomás,' said Mr. Ambrose without looking up. 'The adventure books are right where they always are.' Tomás smiled and walked slowly between the tall shelves, which looked to him like buildings in a city made of paper. On the red carpet you could barely hear his footsteps. Outside, the rain tapped at the windows like tiny fingers. Inside, the wall clock counted the seconds very patiently. Tomás thought the library was the best place in the world for a rainy day.",
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "creak",
-          "sfx": "crunch"
+          "anchor": "door",
+          "sfx": "door_open"
         },
         {
           "anchor": "footsteps",
@@ -23,12 +23,12 @@
     },
     {
       "id": "s2",
-      "text": "At the very back, behind the tallest shelf, there was a corner with two worn-out cushions. That was Tomás's favorite hiding place. He flopped down there with a fat book of old maps, one that weighed about as much as a sleeping cat. He turned the pages slowly, looking at islands with strange names, mountains drawn by hand and sea monsters with whiskers. He read one page, and another, and one more. The rain kept singing outside, calm and steady. Tomás's eyes grew heavy, so heavy, and the book settled on his chest like a little blanket. When he opened his eyes again, everything was different. No light came through the windows anymore. He heard distant little steps, the click of the switches and, at the very end, the sound of the big door closing with a key. 'Wait!' said Tomás, but his voice came out tiny. 'Mr. Ambrose, I'm still in here!'",
+      "text": "At the very back, behind the tallest shelf, there was a corner with two worn-out cushions. That was Tomás's favorite hiding place. He flopped down there with a fat book of old maps, one that weighed about as much as a sleeping cat. He looked at islands with strange names, mountains drawn by hand and sea monsters with whiskers, and every so often he slowly turned the page. He read one, and another, and one more. The rain kept singing outside, calm and steady. Tomás's eyes grew heavy, so heavy, and the book settled on his chest like a blanket. When he opened his eyes again, everything was different. No light came through the windows anymore. He heard distant steps, the click of the switches and, at the very end, a key turning in the big door. 'Wait!' said Tomás, but his voice came out very small. 'Mr. Ambrose, I'm still in here!'",
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "pages",
-          "sfx": "leaves_rustle"
+          "anchor": "page",
+          "sfx": "page_turn"
         },
         {
           "anchor": "door",
@@ -38,13 +38,9 @@
     },
     {
       "id": "s3",
-      "text": "Tomás stayed very still. The library in the dark was a different library. The shelves looked taller, and the shadows of the plants stretched across the floor like thin hands. He walked to the entrance and pushed with both hands, and then with his shoulder. It did not move even a little. He felt a strange tickle in his tummy and tears climbed all the way up to his eyes. Outside, the wind whistled between the roof tiles. 'It's all right,' he told himself, though his voice shook a bit. 'They open early tomorrow.' Then he remembered what his grandma taught him whenever he was scared. He put a hand on his belly and breathed in deeply, very slowly: air in, air out. Once, twice, three times. Little by little his heart stopped galloping. And in that quiet darkness, the wall clock began to sound louder: tick, tock, tick, tock.",
+      "text": "Tomás stayed very still. The library in the dark was a different library. The shelves looked taller, and the shadows of the plants stretched across the floor like thin hands. He walked to the entrance and pushed with both hands, and then with his shoulder. It did not move even a little. He felt a strange tickle in his tummy and tears climbed all the way up to his eyes. Outside, the wind whistled between the roof tiles. 'It's all right,' he told himself, though his voice shook a bit. 'They open early tomorrow.' Then he remembered what his grandma taught him whenever he was scared. He put a hand on his belly, closed his eyes and breathed. Air in, air out, very slowly. Once, twice, three times. Little by little the gallop went out of his heart. And in that quiet darkness, the wall clock began to sound louder: tick, tock, tick, tock.",
       "ambient": "rain",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "breathed",
           "sfx": "breathe_in"
@@ -57,26 +53,22 @@
     },
     {
       "id": "s4",
-      "text": "The clock rang one long chime. Then another, and another. Tomás counted them in a small voice: eight, nine, ten, eleven... twelve. And when the last one faded, something marvelous happened. Golden sparks began to rise from the shelves, as if the books were waking up from a very long nap. The letters peeled off the pages and flew through the air like gentle fireflies. Tomás opened his mouth, but not a single word came out. A thick book with a blue cover opened all by itself on the table in the middle. Out of its pages came first a hat, then a boot, then a tangled beard with two knots in it. 'Land!' shouted a rough voice. 'Solid land at last!' And then, right in front of Tomás's eyes, a whole pirate sat down on the table to brush the dust off his sleeves.",
+      "text": "The wall clock let out a first slow chime. Then another, and another. Tomás counted them in a quiet voice: eight, nine, ten, eleven... twelve. And when the last one faded, something marvelous happened. From the shelves, as if the books were waking from a very long nap, rose a shower of golden sparks. The letters peeled off the paper and flew through the air like gentle fireflies. Tomás opened his mouth, but not a single word came out. A thick book with a blue cover opened all by itself on the table in the middle. Out of it came first a hat, then a boot, then a tangled beard with two knots in it. 'Land!' shouted a rough voice. 'Solid land at last!' And then, right in front of Tomás's eyes, a whole pirate sat down on the table to brush the dust off his sleeves.",
       "ambient": "rain",
       "cues": [
         {
           "anchor": "chime",
-          "sfx": "thud"
+          "sfx": "bell_soft"
         },
         {
           "anchor": "sparks",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "pages",
-          "sfx": "page_turn"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "The pirate was short, with a red nose and a parrot embroidered on his shirt. He looked Tomás up and down, squinting one eye. 'And who might you be, sailor? A brand-new character?' 'My name is Tomás,' he answered. 'And I think I'm locked in.' 'Locked in!' The pirate let out an enormous laugh that bounced off the whole ceiling. 'Nobody gets locked in a library, my boy! In here you get locked into a thousand places at once. I am Captain Quietbeard, from the blue book, page forty-two.' He held out a hand with thick fingers and Tomás shook it. It was warm and a little sandy, as if it truly came from a beach. 'At midnight we're allowed out,' the captain explained, lowering his voice. 'Until the sun peeks up. It's the oldest rule of all.' And his footsteps left tiny prints of sand on the carpet.",
+      "text": "The pirate was short, with a red nose and a parrot embroidered on his shirt. He looked Tomás up and down, squinting one eye. 'And who might you be, sailor? A brand-new character?' 'My name is Tomás,' he answered. 'And I think I'm locked in.' 'Locked in!' repeated the pirate. The whole ceiling filled up with his laugh. 'Nobody gets locked in a library, my boy! In here you get locked into a thousand places at once. I am Captain Quietbeard, from the blue book, page forty-two.' He held out a hand with thick fingers and Tomás shook it. It was warm and a little sandy, as if it truly came from a beach. 'At midnight we're allowed out,' the captain explained, lowering his voice. 'Until the sun peeks up. It's the oldest rule of all.' And on the red carpet, little prints of sand were left behind by his footsteps.",
       "cues": [
         {
           "anchor": "laugh",
@@ -85,16 +77,12 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "page",
-          "sfx": "page_turn"
         }
       ]
     },
     {
       "id": "s6",
-      "text": "Near the window, a huge atlas flew open and out stepped a woman with tall boots, a leather backpack and a flashlight in her hand. 'Nadia, explorer of eleven deserts,' she said, and winked at him. 'Delighted, Tomás.' Behind her, from the shelf of myths, came a soft flutter. Tomás looked up and saw a dragon made entirely of paper pages, about the size of a small dog. Every time he moved his wings it sounded like someone turning the sheets of a brand-new notebook. 'His name is Sparkler,' said Nadia. 'He doesn't breathe fire, he breathes glitter. He's allergic to candles.' The dragon glided down and sniffed Tomás's hair. Then he curled up on his shoulder like a folded-up kitten. Tomás wasn't scared anymore. He had that warm feeling of arriving at a party where everybody had been waiting just for him.",
+      "text": "Near the window, a huge atlas flew open and out stepped a woman with tall boots, a leather backpack and a flashlight in her hand. 'Nadia, explorer of eleven deserts,' she said, and winked at him. 'Delighted, Tomás.' Behind her, from the shelf of myths, came a soft flutter. Tomás looked up and saw a dragon about the size of a small dog, made entirely of paper pages. Every time he moved his wings it sounded like someone opening a brand-new notebook. 'His name is Sparkler,' said Nadia. 'He doesn't breathe fire, he breathes glitter. He's allergic to candles.' The dragon glided down and sniffed Tomás's hair. Then he curled up on his shoulder like a folded-up cat. Tomás wasn't scared anymore. He had that warm feeling of arriving at a party where everybody had been waiting just for him.",
       "cues": [
         {
           "anchor": "flutter",
@@ -108,12 +96,8 @@
     },
     {
       "id": "s7",
-      "text": "'Come, we have something to show you,' said Nadia. 'Nobody who learns the secret leaves without seeing it.' They walked to the poetry shelf, the dustiest one of all. Nadia pushed three books at the same time and the whole shelf turned slowly, like a hidden door. Behind it there was a long, narrow hallway with little lamps hanging from the ceiling. 'Was this always here?' asked Tomás in a whisper. 'Always,' said Quietbeard. 'A library is bigger on the inside than on the outside. They all are.' The hallway smelled of ink and cinnamon. The walls were made of stacked books, and out of some of them came tiny sounds: waves, bells, a faraway trumpet, somebody practicing piano with one finger. Sparkler flew ahead, lighting the way with his glitter. Tomás walked very carefully, touching the spines with his fingertips, and each book gave back a little tickle.",
+      "text": "'Come, we have something to show you,' said Nadia. 'Nobody who learns the secret leaves without seeing it.' They walked to the poetry shelf, the dustiest one of all. Nadia pushed three books at the same time and the whole shelf turned slowly, like a hidden door. Behind it there was a long, narrow hallway with lamps hanging from the ceiling. 'Was this always here?' asked Tomás in a whisper. 'Always,' said Quietbeard. 'A library is bigger on the inside than on the outside. They all are.' The hallway smelled of ink and cinnamon. The walls were made of stacked books, and out of some of them came tiny sounds: a faraway trumpet, somebody practicing piano with one finger, waves, bells. Sparkler flew ahead, lighting the way with his glitter. Tomás walked very carefully, touching the spines with his fingertips, and each book gave back a little tickle.",
       "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        },
         {
           "anchor": "whisper",
           "sfx": "whisper"
@@ -126,15 +110,11 @@
     },
     {
       "id": "s8",
-      "text": "The hallway went down some wooden stairs that creaked on every single step. Below, a round room opened up, so tall that Tomás could not see the top of it. 'This is where the books almost nobody asks for live,' Nadia explained, swinging her flashlight. 'They are the most grateful ones of all.' There were storybooks with faded covers, recipe books full of stains and a whole encyclopedia devoted to clouds. A warm wind rose from somewhere hidden and lifted the loose scraps of paper like butterflies. Suddenly, Sparkler pricked up his paper ears and flew toward a low shelf. He stopped in front of a small green book with soft corners and touched it with his snout. 'What is it, dragon?' asked the captain. Then they all heard it. From the green book came a very soft sound, like a hiccup. Somebody, inside those pages, was quietly crying.",
+      "text": "They went down some wooden stairs, and on every single step there was a creak. Below, a round room opened up, so tall that Tomás could not see the top of it. 'This is where the books almost nobody asks for live,' Nadia explained, swinging her flashlight. 'They are the most grateful ones of all.' There were storybooks with faded covers, recipe books full of stains and a whole encyclopedia devoted to clouds. A warm wind rose from somewhere hidden and lifted the loose scraps of paper like butterflies. Suddenly, Sparkler pricked up his paper ears and flew toward a low shelf. He stopped in front of a small green book with soft corners and touched it with his snout. 'What is it, dragon?' asked the captain. Then they all heard it. From the green book came a very soft sound, like a hiccup. Somebody was crying very quietly, inside those pages.",
       "cues": [
         {
-          "anchor": "creaked",
+          "anchor": "creak",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         },
         {
           "anchor": "pages",
@@ -144,26 +124,22 @@
     },
     {
       "id": "s9",
-      "text": "Tomás crouched down and opened the green book very carefully. Above the pages appeared a girl with short hair and a yellow coat, so thin that the light showed right through her. She carried an unlit lantern in her hand. 'Hello,' said Tomás. 'I'm Tomás. Why are you crying?' 'My name is Lira,' she answered, drying her face with her sleeve. 'And I can't finish my story.' Nadia turned the book to the very end and went still. After chapter ten there was nothing: only a torn edge and the smell of old paper. 'The last pages are missing,' she said slowly. 'Somebody tore them out ages ago,' whispered Lira. 'I walked through the snow, I crossed the forest, I learned to row in the cold water... and here I stayed, one small step from the ending. Every night I reach the edge and there is no road left.'",
+      "text": "Tomás crouched down and opened the green book very carefully. Above the paper appeared a girl with short hair and a yellow coat, so thin that the light showed right through her. She carried an unlit lantern in her hand. 'Hello,' said Tomás. 'I'm Tomás. Why are you crying?' 'My name is Lira,' she answered, drying her face with her sleeve. 'And I can't finish my story.' Nadia turned the book to the very end and went still. After chapter ten there was nothing: only a torn edge and the smell of old paper. 'The last sheets are missing,' she said slowly. Lira lowered her head and answered in a whisper. 'Somebody tore them out ages ago. I walked through the snow, I crossed the forest, I learned to row in the cold water. And here I stayed, one step from the ending. Every night I reach the edge and there is no road left.'",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "whispered",
+          "anchor": "whisper",
           "sfx": "whisper"
         },
         {
           "anchor": "water",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "pages",
-          "sfx": "page_turn"
         }
       ]
     },
     {
       "id": "s10",
-      "text": "'And how was it supposed to end?' asked Quietbeard, sitting down on the floor with a groan. 'I don't know,' said Lira. 'I never read it. I only know that on the other side of the sea there is an island with a lighthouse, and in that lighthouse my brother is waiting for me. He lights the lamp every night so I know which way to go.' Tomás closed his eyes and could almost hear it: the waves moving slowly, the salty air, a whale singing far away, underneath everything. 'Then we have to reach that lighthouse,' he said. 'It can't be done,' murmured Lira. 'Without pages there is no road. A character cannot walk where nothing is written.' Sparkler curled around her feet, as if to warm them. Nadia jumped up, tightened her backpack and said in her captain voice: 'Then we look for those pages. Right now, until they turn up.'",
+      "text": "'And how was it supposed to end?' asked Quietbeard, sitting down on the floor with a groan. 'I don't know,' said Lira. 'I never read it. I only know that on the other side of the sea there is an island with a lighthouse, and in that lighthouse my brother is waiting for me. He lights the lamp every night so I know which way to go.' Tomás closed his eyes and could almost hear it: the salty air, the slow movement of the waves. And far away, underneath everything, the song of a whale. 'Then we have to reach that lighthouse,' he said. 'It can't be done,' murmured Lira. 'Without pages there is no road. A character cannot walk where nothing is written.' Sparkler curled around her feet, as if to warm them. Nadia jumped up, tightened her backpack and said in her captain voice: 'Then we look for those pages. Right now, until they turn up.'",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -173,21 +149,13 @@
         {
           "anchor": "whale",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "pages",
-          "sfx": "page_turn"
         }
       ]
     },
     {
       "id": "s11",
-      "text": "They searched the whole library, corner by corner. They looked under the red carpet and found only an old coin and three bottle caps. They emptied the returns box and shook it upside down. They checked the cart of rained-on books. Nadia hung from the rolling ladder to reach the shelves up high, and her quick footsteps seemed to sound everywhere at once. Quietbeard opened every drawer in Mr. Ambrose's desk, asking permission out loud just in case. Sparkler squeezed behind the radiator and came out wearing a cobweb for a hat. Tomás checked the books on the next shelf sheet by sheet, thinking maybe the pages had moved house. Nothing. Not one. When the clock chimed again, Lira sat down on the edge of her own page and lowered her head. 'It's all right,' she said quietly. 'I'm used to waiting by now.'",
+      "text": "They searched the whole library, corner by corner. They looked under the red carpet and found only an old coin and three bottle caps. They emptied the returns box and shook it upside down. They checked the cart of rained-on books. Nadia hung from the rolling ladder to reach the shelves up high, and all around the room you could hear her quick footsteps. Quietbeard opened every drawer in Mr. Ambrose's desk, asking permission out loud just in case. Sparkler squeezed behind the radiator and came out wearing a cobweb for a hat. Tomás checked the next shelf book by book, hunting for those pages. Nothing. Not one. When the clock chimed again, Lira sat down on the edge of her own story and lowered her head. 'It's all right,' she said quietly. 'I'm used to waiting by now.'",
       "cues": [
-        {
-          "anchor": "drawer",
-          "sfx": "thud"
-        },
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
@@ -200,7 +168,7 @@
     },
     {
       "id": "s12",
-      "text": "Nobody said anything for a long while. All they could hear was the rain, gentler now, and Sparkler's paper rustling each time he breathed. Tomás looked at Lira, at her yellow coat, at her unlit lantern, and felt something tight in his chest. And suddenly an idea lit up inside him, just like a real little match. 'What if we write it ourselves?' he said. Everyone turned their heads. 'The ending. If it doesn't turn up, we invent it. I have a pencil in my pocket.' Quietbeard stood up so fast that his hat fell off. 'Now that is the work of the brave!' 'Are we allowed to do that?' asked Lira, her eyes very wide. 'I don't know,' Tomás admitted. 'But you didn't know how to row either, and you learned.' Lira laughed for the first time in a hundred years, and her laugh sounded like a bottle full of bubbles being opened.",
+      "text": "Nobody said anything for a long while. All they could hear was the rain, gentler now, and Sparkler's paper rustling each time he breathed. Tomás looked at Lira, at her yellow coat, at her unlit lantern, and felt something tight in his chest. And suddenly an idea lit up inside him, just like a real match. 'What if we write it ourselves?' he said. Everyone turned their heads. 'The ending. If it doesn't turn up, we invent it. I have a pencil in my pocket.' Quietbeard stood up so fast that his hat fell off. 'Now that is the work of the brave!' 'Are we allowed to do that?' asked Lira, her eyes very wide. 'I don't know,' Tomás admitted. 'But you didn't know how to row either, and you learned.' And then, for the first time in a hundred years, Lira let out a laugh. It sounded like a just-opened bottle full of bubbles.",
       "ambient": "rain",
       "cues": [
         {
@@ -215,7 +183,7 @@
     },
     {
       "id": "s13",
-      "text": "They sat in a circle around the green book, under the biggest little lamp. Tomás took out his chewed pencil and sharpened the tip with his fingernail. Nadia drew the map first: a tiny boat, a kind current and an island shaped like a hat. Quietbeard dictated the words of the voyage, because about seas he knew everything. 'Write this down: and the water carried her along in no hurry, like a cradle,' he said, and secretly wiped one eye. Tomás wrote slowly, with his tongue poking out, being careful not to slide off the line. Whenever he ran out of ideas, Lira told him what her brother's voice sounded like. At the end they added a whale that swims beside the boat at night so that nobody ever feels alone. Sparkler blew very gently to dry the ink, and his breath smelled of glitter and clean paper.",
+      "text": "They sat in a circle around the green book, under the biggest lamp, which hummed like a bumblebee. Tomás took out his chewed pencil and sharpened the tip with his fingernail. Nadia drew the map first: a small boat, a kind current and an island shaped like a hat. Quietbeard dictated the words of the voyage, because about seas he knew everything. 'Write this down: and the water carried her along in no hurry, like a cradle,' he said, and secretly wiped one eye. Tomás wrote slowly, with his tongue poking out, being careful not to slide off the line. Whenever he ran out of ideas, Lira told him what her brother's voice sounded like. At the end, so that nobody would ever feel alone at night, they added a whale. To dry the ink, Sparkler blew. His breath smelled of glitter and clean paper.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -230,7 +198,7 @@
     },
     {
       "id": "s14",
-      "text": "When Tomás wrote the final period, the green book turned warm like fresh-baked bread. The new letters glowed for a moment and settled themselves onto the page. Lira looked ahead and this time there really was a road. She climbed into the paper boat, waved with both hands, and the water carried her gently toward the island. From far away they saw the lighthouse lamp switch on, small and yellow like a star that had fallen into the sea. 'Thank you!' they heard, already almost from another world. And then, through the highest window, came the first ray of dawn. Nadia waved goodbye and went back into her atlas. Quietbeard took off his hat, made an enormous bow and folded himself back inside his blue book. Sparkler gave Tomás a little nudge with his forehead and flew home to the shelf of myths.",
+      "text": "When Tomás wrote the final period, the green book turned warm like fresh-baked bread. The new letters glowed for a moment and settled themselves onto the paper. Lira looked ahead and this time there really was a road. She climbed into the paper boat, waved with both hands, and the water carried her gently toward the island. From far away they saw the lighthouse lamp switch on, small and yellow like a star. 'Thank you!' they heard, already almost from another world. And then, through the highest window, came the first ray of dawn. Nadia waved goodbye and went back into her atlas. Quietbeard took off his hat, made an enormous bow and folded himself back inside his blue book. Sparkler gave Tomás a gentle nudge with his forehead and off he went flying.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -238,31 +206,23 @@
           "sfx": "sparkle"
         },
         {
-          "anchor": "flew",
+          "anchor": "flying",
           "sfx": "whoosh"
-        },
-        {
-          "anchor": "page",
-          "sfx": "page_turn"
         }
       ]
     },
     {
       "id": "s15",
-      "text": "Tomás was left alone in the corner of the cushions, hugging the green book against his chest. The shelves turned back into ordinary shelves and everything went quiet. Outside, the birds began to sing and the light climbed slowly across the red carpet. He yawned a giant yawn, curled onto his side and slept with a smile on his face. A while later he heard the door opening and the voice of Mr. Ambrose: 'Tomás! Oh, my boy, your mother and I looked for you all night long.' The librarian picked up the green book and paused for a second, looking at the last pages written in pencil. He said nothing. Tomás said nothing either. But he did catch Mr. Ambrose smiling just a little, like someone who has known that secret for a very long time. That night, in his own bed, Tomás slept thinking about the lighthouse.",
+      "text": "Tomás was left alone in the corner of the cushions, hugging the green book against his chest. The shelves turned back into ordinary shelves and everything went quiet. Outside, the birds began to sing and the light climbed slowly across the red carpet, warm as a blanket. He yawned a giant yawn, curled onto his side and, with a smile on his face, slept. A while later he was woken by the sound of the door. It was Mr. Ambrose: 'Tomás! Oh, my boy, your mother and I looked for you all night long.' The librarian picked up the green book and paused for a second, looking at the last pages written in pencil. He said nothing. Tomás said nothing either. But he did catch Mr. Ambrose smiling just a little, like someone who has known that secret for a very long time. That night, in his own bed, Tomás dreamed of the lighthouse and of a paper boat.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        },
         {
           "anchor": "slept",
           "sfx": "snore_soft"
         },
         {
-          "anchor": "pages",
-          "sfx": "page_turn"
+          "anchor": "door",
+          "sfx": "door_open"
         }
       ]
     }

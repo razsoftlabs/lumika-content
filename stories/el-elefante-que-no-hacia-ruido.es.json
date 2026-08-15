@@ -2,13 +2,13 @@
   "id": "el-elefante-que-no-hacia-ruido",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El elefante que no hacía ruido",
   "summary": "Bruno es un elefante muy silencioso, y descubre que su calma es su regalo más bonito.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un rincón verde de la sabana vivía un elefante chiquito llamado Bruno. Todos los elefantes hacían mucho, mucho ruido: barritaban fuerte, pisaban las hojas con estruendo y sacudían los árboles. Pero Bruno no. Bruno caminaba tan suavecito que ni las hojas se enteraban de que había pasado por ahí. A veces se sentía raro por ser el más calladito de todos.",
+      "text": "En un rincón verde de la sabana vivía un elefante pequeño llamado Bruno. Todos los elefantes hacían mucho, mucho ruido: barritaban fuerte, sacudían los árboles y pisaban con estruendo las hojas. Pero Bruno no. Bruno caminaba tan suave que nadie se enteraba de que había pasado por ahí. A veces se sentía raro por ser el más callado de todos.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -19,13 +19,18 @@
     },
     {
       "id": "s2",
-      "text": "Una tarde, un pajarito se cayó de su nido y quedó temblando entre la hierba. Los otros elefantes corrieron a ayudar, pero con tanto ruido y tanto pisotón, el pajarito se asustaba más y más. Nadie podía acercarse sin espantarlo.",
+      "text": "Una tarde, un pájaro pequeño se cayó de su nido y quedó temblando entre la hierba. Los otros elefantes corrieron a ayudar, pero el pájaro se asustaba más y más con tanto ruido y tantos pasos. Nadie podía acercarse sin espantarlo.",
       "ambient": "forest_birds",
-      "cues": []
+      "cues": [
+        {
+          "anchor": "pasos",
+          "sfx": "footsteps"
+        }
+      ]
     },
     {
       "id": "s3",
-      "text": "Entonces Bruno se acercó despacito, despacito. En un susurro muy suave le dijo: \"Tranquilo, chiquito, ya estás a salvo\". Como Bruno no hacía ruido, el pajarito dejó de temblar y se acurrucó en su trompa calentita.",
+      "text": "Entonces Bruno se acercó despacio, muy despacio. Se inclinó junto al nido caído y le habló en un susurro. \"Tranquilo, pequeño, ya estás a salvo\". Como Bruno no hacía ruido, el pájaro dejó de temblar y se acurrucó en su trompa tibia.",
       "ambient": "forest_birds",
       "cues": [
         {

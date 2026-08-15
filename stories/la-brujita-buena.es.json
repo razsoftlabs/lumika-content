@@ -2,13 +2,13 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "La brujita buena",
-  "summary": "Cada hechizo de la brujita Mila sale al revés, y su gato Tomás nunca sabe a quién van a terminar ayudando.",
+  "summary": "Cada hechizo de Mila sale al revés, y su gato Tomás nunca sabe a quién van a terminar ayudando.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más hondo del bosque, en una casita torcida con techo de hojas, vivía una brujita buena que se llamaba Mila. Tenía un sombrero un poco grande, una varita un poco chueca y un gato negro llamado Tomás que la seguía a todas partes. Mila quería hacer magia bonita, pero sus hechizos siempre salían un poquito torpes. En vez de flores, aparecían mariposas. En vez de lluvia, caían pétalos. Tomás la miraba y movía la cola, paciente. 'No importa, Tomás', decía Mila riendo. 'Ya nos saldrá bien.' Y las hojas del techo susurraban, como diciendo que sí.",
+      "text": "En lo más hondo del bosque, en una casa torcida con techo de paja, vivía una bruja buena que se llamaba Mila. Tenía un sombrero un poco grande, una varita un poco chueca y un amigo fiel: Tomás, su gato. Mila quería hacer magia bonita, pero sus hechizos siempre salían un poco torpes. En vez de flores, aparecían mariposas. En vez de lluvia, caían pétalos. Tomás la miraba y movía la cola, paciente. 'No importa, Tomás', decía Mila riendo. 'Ya nos saldrá bien.' Y arriba, en el techo, como diciendo que sí, susurraban las hojas.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -18,25 +18,17 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "magia",
-          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "Esa tarde, Mila encontró a unas abejas muy tristes. El viento había volado todos los pétalos y ya no quedaban flores que visitar. 'No lloren, yo las ayudo', dijo Mila. Levantó su varita para hacer un tarro de miel... pero el hechizo hizo hipo. En vez de miel, un viento cálido y suave salió de su sombrero y esparció las semillas que Mila guardaba en el bolsillo. Donde caía cada semilla, ¡pop!, brotaba una flor. Muy pronto todo el prado se llenó de colores, y las abejas zumbaron de alegría, volando de flor en flor.",
+      "text": "Esa tarde, en el prado, Mila se encontró con unas abejas. Estaban muy tristes: el viento había volado todos los pétalos y ya no quedaban flores que visitar. 'No lloren, yo las ayudo', dijo Mila. Levantó su varita para hacer un tarro de miel... pero algo raro le pasó al hechizo. En vez de miel, un viento cálido y suave salió de su sombrero y esparció las semillas que Mila guardaba en el bolsillo. Donde caía cada semilla, ¡pop!, brotaba una flor. Muy pronto todo el prado se llenó de colores, y ellas zumbaron de alegría, volando de flor en flor.",
       "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "abejas",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         },
         {
           "anchor": "hechizo",
@@ -46,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Al caer la tarde, Mila oyó a una rana que lloraba junto a un charco casi seco. 'Mi charco se secó y ya no puedo nadar', dijo la rana con voz tristona. 'Espera, yo lo arreglo', sonrió Mila, y agitó la varita sobre su caldero. Quería hacer un chorrito de agua... pero salió muchísima. ¡Splash! Una ola de agua fresca brotó y llenó el charco hasta el borde, salpicando a todos. Tomás quedó empapado y bufó. Pero la rana dio un salto feliz y croó: '¡Ahora es el charco más lindo del bosque!' Mila se rió y le pidió perdón a Tomás con un abrazo.",
+      "text": "Al caer la tarde, junto a un charco casi seco, Mila oyó llorar a una rana. 'Mi charco se secó y ya no puedo nadar', dijo con voz triste. 'Espera, yo lo arreglo', sonrió Mila, y agitó la varita sobre su caldero. Quería un hilo pequeño, apenas unas gotas... pero del caldero salió un río entero de agua. ¡Splash! El charco se llenó hasta el borde y salpicó a todos. Tomás quedó empapado y bufó. Pero ella dio un salto feliz y croó: '¡Ahora es el charco más lindo del bosque!' Mila se rió y le pidió perdón a Tomás con un abrazo.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -61,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "La noche llegó muy oscura, sin una sola luz. Entre las ramas, un búho pequeño no encontraba su árbol. 'Estoy perdido', ululó bajito, muy asustado. 'Yo te alumbro', dijo Mila. Quería encender un farolito, solo uno... pero su varita soltó un estornudo de magia. En vez de un farol, cien estrellas diminutas salieron volando y subieron a las ramas, brillando como lucecitas doradas. Todo el bosque quedó iluminado con su luz calentita. El búho batió las alas, feliz, y voló derechito hasta su árbol. 'Gracias, brujita', dijo desde su nido. Y las estrellas se quedaron allí, cuidando el bosque.",
+      "text": "La noche llegó muy oscura, sin una sola luz. Entre las ramas se había perdido un búho. 'No encuentro mi árbol', ululó en voz baja, muy asustado. 'Yo te alumbro', dijo Mila. Quería encender un farol, solo uno... pero su varita soltó un estornudo de magia. En vez del farol, del sombrero salieron cien estrellas. Subieron a las ramas y se quedaron brillando, doradas y quietas. Todo el bosque se llenó de una luz tibia. Él batió las alas, feliz, y voló derecho hasta su árbol. 'Gracias, brujita', dijo desde su nido. Y allí se quedaron, cuidando el bosque.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -71,16 +63,12 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "magia",
-          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "Esa noche, todos los amigos del bosque vinieron a ver a Mila. Las abejas, la rana y el búho le dieron las gracias, y sus risas llenaron el aire como campanitas. 'Tus hechizos no son torpes', dijo la rana. 'Son mágicos, porque tu corazón es bueno.' Mila sonrió y abrazó a Tomás. Despacito, la luna asomó entre los árboles, redonda y plateada, y todo se puso tranquilo. El búho cerró los ojos en su nido. La rana se acurrucó en su charco. Y Mila y Tomás se durmieron juntos bajo una manta calentita, soñando con la magia bonita del día siguiente.",
+      "text": "Esa noche, todos los amigos del bosque vinieron a ver a Mila. Las abejas, la rana y el búho le dieron las gracias, y el aire se llenó con sus risas. 'Tus hechizos no son torpes', dijo la rana. 'Son mágicos, porque tu corazón es bueno.' Mila sonrió y abrazó a Tomás. Entre los árboles, redonda y plateada, asomó la luna. Todo se puso tranquilo. El búho cerró los ojos en su nido. La rana se acurrucó en su charco. Y Mila y Tomás se durmieron juntos bajo una manta tibia, soñando con la magia bonita del día siguiente.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -90,10 +78,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     }

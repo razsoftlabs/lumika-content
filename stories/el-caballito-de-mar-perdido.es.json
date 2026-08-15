@@ -2,13 +2,13 @@
   "id": "el-caballito-de-mar-perdido",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El caballito de mar perdido",
-  "summary": "Cuando unas burbujas juguetonas lo alejan de casa, un pequeño caballito de mar descubre que el océano está lleno de amigos dispuestos a ayudar.",
+  "summary": "Cuando unas burbujas juguetonas lo alejan de casa, un caballito de mar descubre que el océano está lleno de amigos dispuestos a ayudar.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Marino era un caballito de mar pequeño y curioso. Vivía entre los corales de colores, meciéndose con las suaves olas del mar. Esa tarde persiguió un grupo de burbujas brillantes, subiendo y bajando, girando feliz. Las burbujas lo llevaron más y más lejos, hasta un jardín de corales que nunca había visto. Cuando Marino miró alrededor, ya no reconocía nada. ¿Dónde estaba su casa? El pequeño caballito sintió un cosquilleo en la panza, pero respiró hondo y decidió ser valiente.",
+      "text": "Marino era un caballito de mar pequeño y curioso. Vivía entre los corales de colores, meciéndose con las olas. Esa tarde, girando feliz, subiendo y bajando, se puso a perseguir unas burbujas. Ellas lo llevaron más y más lejos, hasta un jardín de corales que nunca había visto. Cuando Marino miró alrededor, ya no reconocía nada. ¿Dónde estaba su casa? El pequeño caballito sintió un cosquilleo en la panza, pero respiró hondo y decidió ser valiente.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "De pronto, un pez naranja apareció entre las algas. —No llores, pequeño —dijo con voz dulce—. Yo te ayudaré a encontrar tu hogar. El pez nadó a su lado y le preguntó cómo era su casa. Marino recordó: —Hay un coral rosado, y arriba brilla la luna sobre el agua. El pez sonrió. —Conozco a alguien que ve la luna cada noche. Sígueme. Juntos nadaron entre plantas que se mecían, mientras un banco de peces plateados los saludaba con un guiño.",
+      "text": "De pronto, un pez naranja apareció entre las algas. —No llores, pequeño —dijo con voz dulce—. Yo te ayudaré a encontrar tu hogar. El pez nadó a su lado y le preguntó cómo era su casa. Marino recordó: —Hay un coral rosado, y de noche brilla sobre él la luna. El pez sonrió. —Conozco a alguien que la ve cada noche. Sígueme. Juntos nadaron entre plantas que se mecían, mientras un banco de peces plateados los saludaba con un guiño.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -34,7 +34,7 @@
     },
     {
       "id": "s3",
-      "text": "Nadaron un largo rato hasta llegar a un mar más profundo y oscuro. Marino se acercó a su nuevo amigo, un poquito asustado. Entonces, del fondo azul, apareció una enorme ballena de ojos amables. —¿Están perdidos, pequeños? —preguntó con voz suave y profunda. —Buscamos el coral rosado —respondió Marino. La ballena sonrió. —Súbanse en mi lomo. Yo los llevaré más cerca. Marino y el pez se acomodaron, y la ballena avanzó despacio, meciéndolos como una cuna gigante entre el agua tranquila.",
+      "text": "Nadaron un largo rato hasta llegar a un mar más profundo y oscuro. Marino se acercó a su nuevo amigo, un poco asustado. Entonces, del fondo azul, apareció una enorme ballena. Tenía los ojos amables y una voz suave y profunda. —¿Están perdidos, pequeños? —preguntó. —Buscamos el coral rosado —respondió Marino. Ella sonrió. —Súbanse en mi lomo. Yo los llevaré más cerca. Marino y el pez se acomodaron, y la gigante avanzó despacio, meciéndolos como una cuna sobre el agua.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -49,16 +49,12 @@
     },
     {
       "id": "s4",
-      "text": "Mientras la ballena nadaba, el cielo sobre el mar se pintó de naranja y luego de azul oscuro. Una a una, las estrellas comenzaron a asomarse, brillando sobre el agua como lucecitas. —¡Mira! —dijo Marino—. Esa estrella la veo desde mi casa. La ballena se detuvo junto a un arrecife conocido. A lo lejos, entre las sombras suaves, Marino distinguió un coral rosado que se mecía con el viento del mar. Su corazón dio un saltito de alegría. —¡Es aquí! ¡Ya casi llego a casa!",
+      "text": "Mientras la gigante nadaba, el cielo sobre el mar se pintó de naranja y luego de azul oscuro. Una a una, las estrellas comenzaron a asomarse, y el mar se llenó de luces. —¡Mira! —dijo Marino—. Desde mi casa se ve esa estrella. La gigante se detuvo junto a un arrecife conocido. A lo lejos, entre las sombras suaves, Marino distinguió un coral rosado que se mecía con la corriente. De alegría, le dio un salto el corazón. —¡Es aquí! ¡Ya casi llego a casa!",
       "ambient": "ocean_waves",
       "cues": [
         {
           "anchor": "estrella",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         },
         {
           "anchor": "corazón",
@@ -68,7 +64,7 @@
     },
     {
       "id": "s5",
-      "text": "Marino se despidió de la ballena con un abrazo y nadó hacia el coral rosado. Allí lo esperaba su familia, que lo abrazó fuerte, muy contenta de verlo. El pez naranja se quedó a cenar y se hizo su amigo para siempre. Cansado y feliz, Marino se acurrucó entre los corales tibios. Afuera, la luna alumbraba el mar en calma y las olas cantaban bajito. —Buenas noches —susurró Marino, cerrando los ojitos. Y mecido por el agua, el pequeño caballito de mar se quedó plácidamente dormido.",
+      "text": "Marino abrazó fuerte a su amiga gigante y nadó hacia el coral rosado. Allí lo esperaba su familia, que lo recibió muy contenta de verlo. El pez naranja se quedó a cenar y se hizo su amigo para siempre. Cansado y feliz, Marino se acurrucó entre los corales tibios y cerró los ojos. Afuera, el mar brillaba en calma bajo la luna. Una detrás de otra, cantaban despacio las olas. —Buenas noches —susurró. Y así, mecido por el mar, el pequeño caballito se quedó plácidamente dormido.",
       "ambient": "ocean_waves",
       "cues": [
         {

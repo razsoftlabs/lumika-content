@@ -2,13 +2,13 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "Chispa, the Shy Shooting Star",
   "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High up in the night lived a tiny star named Chispa. Every night, the other stars crossed the sky, trailing tails of light, and sleeping children made their wishes. The Moon, round and kind, waved to them all. But Chispa stayed still in her little corner, glowing very softly. She loved to watch the sleeping world down below: the rooftops, the trees, and the rivers. She dreamed of crossing the sky one day... but just thinking about it made her little light tremble a bit. She still didn't dare.",
+      "text": "High up in the night lived a little star named Chispa. Every night, trailing tails of light across the sky, went all the other stars. Down below, sleeping children made their wishes. And waving to every one of them, round and kind, was the Moon. But Chispa stayed still in her corner, glowing very softly. She loved to watch the sleeping world down below: the rooftops, the trees, and the rivers. She dreamed of crossing the sky one day... but just thinking about it made her light tremble a bit. She still didn't dare.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "Why was Chispa so afraid? She thought: 'What if a child makes a wish and I get it wrong? What if they ask for a hug and I give them a balloon?' Just imagining it, she hid behind a cloud. One night, a warm wind drifted close and stroked her little face. 'It's alright, little one,' the wind whispered. 'Nobody wishes for perfect wishes.' But shy Chispa closed her tiny eyes and kept trembling in silence. She would rather watch from far away, where no one could see her cross.",
+      "text": "Why was Chispa so afraid? She thought: 'What if a child makes a wish and I get it wrong? What if they ask for a hug and I give them a balloon?' Just imagining it, she hid behind a cloud. One night her face was stroked by a warm wind. 'It's alright, little one. Nobody wishes for perfect wishes,' it whispered. But shy Chispa closed her eyes and kept trembling in silence. She would rather watch from far away, where no one could see her cross.",
       "cues": [
         {
           "anchor": "wind",
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "That very night, the Moon saw her tremble. In her soft voice, she asked, 'Little Chispa, why do you never cross the sky?' From a branch, an old owl listened with big round eyes. Very quietly, Chispa confessed her secret: 'I'm afraid of giving a child the wrong wish.' The Moon smiled the way only the Moon can smile. 'Oh, my little star,' she said. 'Come closer. Let me tell you how wishes really work.' And curious Chispa floated just a little bit nearer.",
+      "text": "That very night, her trembling was seen by the Moon. In her soft voice, she asked, 'Little Chispa, why do you never cross the sky?' From a branch, with big round eyes, listened an old owl. Very quietly, Chispa confessed her secret: 'I'm afraid of giving a child the wrong wish.' She smiled the slow, wide smile that only clear nights have. 'Oh, my little star,' she said. 'Come closer. Let me tell you how wishes really work.' And curious Chispa floated just a little bit nearer.",
       "cues": [
         {
           "anchor": "Moon",
@@ -51,25 +51,21 @@
     },
     {
       "id": "s4",
-      "text": "'Wishes don't live inside you,' said the Moon. 'They live in the heart of the one who dreams. You only carry your light; the child brings the wish. You can never get it wrong, because you give away shine, not orders.' Chispa thought about it slowly. She breathed in deep, like someone filling up with courage. The owl hooted softly, as if to say, 'You can do it.' For the first time, the little star felt her fear was tiny, the size of a crumb. And quietly inside, a little spark of bravery began to grow.",
+      "text": "'Wishes don't live inside you,' said the Moon. 'They live in the one who dreams, deep down in the heart. You only carry your light; the child brings the wish. You can never get it wrong, because you give away shine, not orders.' Chispa thought about it slowly. She filled herself with air and breathed. It felt like filling up with courage. From her branch, someone hooted softly, as if to say, 'You can do it.' For the first time, the little star felt her fear was tiny, the size of a crumb. And quietly inside, a little spark of bravery began to grow.",
       "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        },
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        },
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "breathed",
+          "sfx": "breathe_in"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "Then, with a warm little heart, Chispa dared. She spread her wings of light and crossed the whole sky, leaving a soft golden tail behind her. Down below, a half-asleep girl saw her through the window and whispered a tiny wish. Chispa never knew what it was... and she understood it didn't matter. The girl smiled and snuggled into her bed. The Moon gave a little wink. And Chispa, peaceful at last, drifted back to her corner to rest, glowing softly. Good night, little star. Good night. Time to sleep.",
+      "text": "Then, at last, Chispa dared. She spread her wings of light and, from one end of the sky to the other, she crossed. Behind her she left a soft golden tail. Down below, a half-asleep girl saw her through the window. She made a tiny wish and whispered. Chispa never knew what it was... and she understood it didn't matter. The girl smiled and snuggled into her bed. A little wink came from the Moon. And Chispa, peaceful now, drifted back to her corner to rest, glowing softly. Good night, little star. Good night. Time to sleep.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -79,10 +75,6 @@
         {
           "anchor": "whispered",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     }

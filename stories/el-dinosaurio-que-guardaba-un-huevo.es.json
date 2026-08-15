@@ -2,36 +2,32 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El dinosaurio que guardaba un huevo",
-  "summary": "Tobi encuentra un huevo solito junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda.",
+  "summary": "Tobi encuentra un huevo abandonado junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un valle verde y ancho, donde el sol se levantaba despacito detrás de las montañas, vivía un dinosaurio joven llamado Tobi. Tobi no era grande todavía: su cuello apenas llegaba a las ramas bajas, y sus patas hacían un ruido blandito al caminar sobre el pasto mojado. Cada mañana hacía lo mismo, y le gustaba que fuera así. Primero bebía agua fresca en la orilla del río. Después masticaba helechos tiernos, los más verdes, los que sabían a lluvia. Luego se rascaba el lomo contra el tronco rugoso de un árbol enorme y escuchaba cómo se movían las hojas allá arriba, como si aplaudieran. Al final del día se acostaba en su nido de ramas y contaba estrellas hasta quedarse dormido. Tobi era feliz en su rutina tranquila. Pero esa mañana, sin saberlo todavía, iba a encontrar algo que le cambiaría todos sus días.",
+      "text": "En un valle verde y ancho, donde el sol se levantaba despacio detrás de las montañas, vivía un joven dinosaurio. Se llamaba Tobi. Todavía no era grande: su cuello apenas llegaba a las ramas bajas, y sus patas hacían un ruido suave al caminar sobre el pasto mojado. Cada mañana hacía lo mismo, y le gustaba que fuera así. Primero bebía agua fresca en la orilla del río. Después masticaba helechos tiernos, los más verdes, los que sabían a lluvia. Luego se rascaba el lomo contra el tronco rugoso de un árbol enorme y escuchaba cómo se movían las hojas allá arriba, como si aplaudieran. Al final del día se acostaba en su nido de ramas y, hasta quedarse dormido, contaba estrellas. Tobi era feliz en su rutina tranquila. Pero esa mañana, sin saberlo todavía, iba a encontrar algo que le cambiaría todos sus días.",
       "ambient": "forest_birds",
       "cues": [
         {
-          "anchor": "río",
-          "sfx": "water_splash"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        },
-        {
           "anchor": "dinosaurio",
           "sfx": "dino_step"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "sparkle"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "Esa mañana, Tobi caminó un poquito más lejos que de costumbre, siguiendo el sonido del agua. El arroyo brillaba entre las piedras y le hacía cosquillas en las patas. De pronto, entre dos rocas mojadas, vio algo que no era una piedra. Era redondo, del color de la arena, con manchitas cafés. Era un huevo. Tobi acercó el hocico y lo olió: olía a musgo, a río y a algo tibio. Miró hacia un lado. Miró hacia el otro. No había nadie. Ni una mamá, ni un papá, ni una sola huella. Solo el huevo, solito, en un huequito de tierra húmeda. Tobi se quedó muy quieto, tan quieto que hasta las libélulas se le acercaron. Y entonces escuchó un susurro chiquitito, tan suave que pudo haber sido el viento. Pero Tobi supo, en el fondo de su barriga, que dentro de ese huevo había alguien esperando.",
+      "text": "Esa mañana, Tobi caminó un poco más lejos que de costumbre, siguiendo el sonido del arroyo. Brillaba entre las piedras y le hacía cosquillas en las patas. De pronto, entre dos rocas mojadas, vio algo que no era una piedra. Era redondo, del color de la arena, con manchas cafés. Era un huevo. Tobi acercó el hocico y lo olió: olía a musgo, a río y a algo tibio. Miró hacia un lado. Miró hacia el otro. No había nadie. Ni una mamá, ni un papá, ni una sola huella. Solo el huevo, en un hueco de tierra húmeda. Tobi se quedó muy quieto, tan quieto que hasta las libélulas se le acercaron. Y entonces oyó un susurro. Fue tan suave que pudo haber sido el viento. Pero Tobi supo, en el fondo de su barriga, que dentro de ese huevo había alguien esperando.",
       "ambient": "stream_water",
       "cues": [
         {
-          "anchor": "agua",
+          "anchor": "arroyo",
           "sfx": "water_splash"
         },
         {
@@ -43,7 +39,7 @@
     },
     {
       "id": "s3",
-      "text": "Tobi se sentó a esperar. Esperó mientras el sol subía por el cielo. Esperó mientras una libélula azul se paraba en su cola. Esperó tanto que le sonó la barriga tres veces. Pero nadie vino a buscar el huevo. Ninguna voz, ninguna sombra, nada. El viento movió los juncos y el cielo se puso un poquito gris. 'Si llega la noche, se va a enfriar', pensó Tobi. 'Y si sube el agua, se lo lleva'. Entonces hizo algo muy valiente. Con el hocico empujó tierra blandita alrededor del huevo. Después lo levantó con las dos patitas de adelante, despacio, como se levanta una burbuja de jabón. Lo apoyó contra su pecho y sintió su peso, redondo y calentito. Sus pasos de regreso fueron los más lentos y cuidadosos de toda su vida. 'No te voy a dejar solo', le prometió bajito. 'Yo te cuido'.",
+      "text": "Tobi se sentó a esperar. Esperó mientras el sol subía por el cielo. Esperó mientras una libélula azul se paraba en su cola. Esperó tanto que le sonó la barriga tres veces. Pero nadie vino a buscar el huevo. Ninguna voz, ninguna sombra, nada. Los juncos se movieron con el viento. El cielo se puso un poco gris. 'Si llega la noche, se va a enfriar', pensó Tobi. 'Y si sube el agua, se lo lleva'. Entonces hizo algo muy valiente. Con el hocico empujó tierra blanda alrededor del huevo. Después lo levantó con las dos patas de adelante, despacio, como se levanta una burbuja de jabón. Lo apoyó contra su pecho y sintió su peso, redondo y tibio. Volvió a casa despacio, midiendo cada uno de sus pasos. 'No te voy a dejar solo', le prometió en voz baja. 'Yo te cuido'.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -58,22 +54,18 @@
     },
     {
       "id": "s4",
-      "text": "Cuando Tobi llegó al claro donde dormía la manada, todos levantaron la cabeza. Cresta y Roco, los dos jóvenes más ruidosos del valle, se acercaron a mirar. 'Un huevo', dijo Roco. Y entonces se le escapó una risa. 'Tobi, tú no sabes cuidar huevos. ¡Tú apenas sabes masticar helechos!'. 'Se va a enfriar', dijo Cresta. 'O se va a romper. Los huevos son para las mamás'. A Tobi le dio calorcito en las orejas. Pero abrazó el huevo un poco más fuerte y lo acomodó en su nido, entre hojas secas. La abuela Duna, la más vieja del valle, se acercó despacio. Ella no se rió. Solo miró el huevo, después miró a Tobi, y dijo con su voz de piedra suave: 'Cuidar no se sabe, pequeño. Cuidar se aprende. Y se aprende cuidando'. Esa noche, Tobi durmió con el huevo pegadito a su costado.",
+      "text": "Cuando Tobi llegó al claro donde dormía la manada, todos levantaron la cabeza. Cresta y Roco, los dos jóvenes más ruidosos del valle, se acercaron a mirar. 'Un huevo', dijo Roco. Y entonces se le escapó una risa. 'Tobi, tú no sabes cuidar huevos. ¡Apenas sabes masticar helechos!'. 'Se va a enfriar', dijo Cresta. 'O se va a romper. Los huevos son para las mamás'. A Tobi se le pusieron las orejas calientes. Pero abrazó el huevo un poco más fuerte y lo acomodó en su nido, sobre un colchón de hojas secas. La abuela Duna, la más vieja del valle, se acercó despacio. Ella no se rió. Solo miró el huevo, después miró a Tobi, y dijo con su voz de piedra suave: 'Cuidar no se sabe, pequeño. Cuidar se aprende. Y se aprende cuidando'. Esa noche, Tobi durmió con el huevo pegado a su costado.",
       "ambient": "forest_night",
       "cues": [
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "Al otro día, Tobi empezó a aprender. Primero probó dejar el huevo al sol, pero el sol se fue moviendo y el huevo quedó a la sombra, frío como una piedra del arroyo. Después probó taparlo con hojas secas, pero el aire se las llevó volando. Se le hizo un nudito en la garganta. Entonces la abuela Duna le enseñó el secreto: 'Mira bien. Hojas abajo, tierra tibia a los lados, y tu cuerpo arriba. Y respira despacio, así, para que el huevo aprenda tu ritmo'. Tobi respiró hondo, muy hondo, y sintió cómo el huevo subía y bajaba con su pecho. Aprendió a girarlo cada rato, con muchísimo cuidado, para que se calentara por todos lados. Aprendió a escuchar. Y una tarde, con la oreja pegada a la cáscara, oyó un crujido finito, chiquitito. Tobi sonrió tanto que le brillaron los ojos.",
+      "text": "Al otro día, Tobi empezó a aprender. Primero probó dejar el huevo al sol, pero el sol se fue moviendo y el huevo quedó a la sombra, frío como una piedra del arroyo. Después probó taparlo con hojas secas, pero el aire se las llevó volando. Se le hizo un nudo en la garganta. Entonces la abuela Duna le enseñó el secreto: 'Mira bien. Hojas abajo, tierra tibia a los lados, y tu cuerpo arriba. Y ahora, muy despacio, respira. Así el huevo aprende tu ritmo'. Tobi tomó aire hondo, muy hondo, y sintió cómo el huevo subía y bajaba con su pecho. Aprendió a girarlo cada rato, con muchísimo cuidado, para que se calentara por todos lados. Aprendió a escuchar. Y una tarde, con la oreja pegada a la cáscara, oyó un crujido. Fue un sonido fino, apenas un hilo. Tobi sonrió tanto que le brillaron los ojos.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -88,7 +80,7 @@
     },
     {
       "id": "s6",
-      "text": "Desde entonces, el huevo fue el centro de todos los días de Tobi. En la mañana le contaba dónde estaban los helechos más ricos. Al mediodía lo abanicaba con la cola cuando el calor apretaba. En la tarde le cantaba con un susurro ronco y desafinado la única canción que se sabía: una canción sin palabras, que sonaba como el agua pasando por las piedras. 'Ya vas a salir', le decía. 'Y cuando salgas, te voy a mostrar el valle enterito'. Una noche, mientras las luciérnagas encendían sus lucecitas, Tobi sintió algo nuevo. Un golpe. Suavecito, desde adentro, como si alguien tocara una puerta muy pequeña. Tobi se quedó sin respiración. '¿Eres tú?', preguntó. Y el huevo se movió otra vez, apenas un poquito. Tobi acomodó las hojas con el hocico, se enroscó alrededor del huevo y casi no durmió en toda la noche, de pura emoción.",
+      "text": "Desde entonces, el huevo fue el centro de todos los días de Tobi. En la mañana le contaba dónde estaban los helechos más ricos. Al mediodía lo abanicaba con la cola cuando el calor apretaba. En la tarde le cantaba la única canción que se sabía, ronca y desafinada, en un susurro. Era una canción sin palabras, que sonaba como el agua pasando por las piedras. 'Ya vas a salir', le decía. 'Y cuando salgas, te voy a mostrar el valle entero'. Una noche, mientras las luciérnagas encendían sus luces, Tobi sintió algo nuevo. Un golpe. Suave, desde adentro, como si alguien tocara una puerta muy pequeña. Tobi se quedó sin respiración. '¿Eres tú?', preguntó. Y el huevo se movió otra vez, apenas un poco. Tobi acomodó las hojas con el hocico, se enroscó alrededor del huevo y casi no durmió en toda la noche, de pura emoción.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -104,12 +96,12 @@
     },
     {
       "id": "s7",
-      "text": "Esa semana el cielo se puso oscuro y gordo de nubes. Primero cayeron gotas grandes y separadas, plic, plic, sobre las hojas del árbol. Después la lluvia se soltó toda de una vez. El viento empujaba el agua de lado y el nido de Tobi empezó a llenarse de charquitos. Un trueno rodó por el cielo, largo y hondo, como un tambor lejano. Tobi sintió miedo, un miedo chiquito y frío en la punta de la cola. Pero se acordó del golpecito de adentro del huevo, y el miedo se hizo más pequeño que su valentía. Se acostó encima del nido, dobló las patas, estiró el cuello y armó un techo con su propio cuerpo. El huevo quedó abajo, seco y tibio, en la cuevita que hacía su barriga. Toda la noche cayó lluvia sobre el lomo de Tobi. Y toda la noche Tobi se quedó quieto, mojado y feliz, cuidando.",
+      "text": "Esa semana el cielo se puso oscuro y gordo de nubes. Primero, grandes y separadas, cayeron sobre las hojas del árbol unas gotas. Plic, plic. Después la lluvia se soltó toda de una vez. El nido de Tobi empezó a llenarse de charcos, y el agua caía de lado, empujada por el viento. Largo y hondo, como un tambor lejano, por el cielo rodó un trueno. Tobi sintió miedo, un miedo pequeño y frío en la punta de la cola. Pero se acordó del toque que venía de adentro del huevo, y el miedo se hizo más pequeño que su valentía. Se acostó encima del nido, dobló las patas, estiró el cuello y armó un techo con su propio cuerpo. El huevo quedó abajo, seco y tibio, en la cueva que hacía su barriga. Toda la noche cayó lluvia sobre el lomo de Tobi. Y toda la noche Tobi se quedó quieto, mojado y feliz, cuidando.",
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "viento",
-          "sfx": "wind_soft"
+          "anchor": "gotas",
+          "sfx": "water_splash"
         },
         {
           "anchor": "trueno",
@@ -119,22 +111,18 @@
     },
     {
       "id": "s8",
-      "text": "Cuando salió el sol, el valle ya no era el mismo. El río se había estirado hasta el claro y el agua caminaba entre los helechos como si fuera dueña de todo. Las flores estaban debajo. El árbol rugoso tenía las raíces sumergidas. La abuela Duna olió el aire y dijo, muy seria: 'Va a seguir subiendo. Hay que irnos hoy mismo. Vamos a las mesetas altas, donde el río no llega'. La manada se puso en fila. Cresta y Roco iban adelante, dando pasos rápidos y chapoteando en el barro. Tobi se quedó atrás un momento, mirando su nido, que ya era una isla chiquita en medio del agua. Con mucho cuidado levantó el huevo y lo acomodó en el hueco de su pecho, entre las patas de adelante. 'Nos vamos de viaje', le dijo. 'Agárrate fuerte, aunque no tengas manos'.",
+      "text": "Cuando salió el sol, el valle ya no era el mismo. El río se había estirado hasta el claro. Entre los helechos, como si fuera dueña de todo, caminaba el agua. Las flores estaban debajo. El árbol rugoso tenía las raíces sumergidas. La abuela Duna olió el aire y dijo, muy seria: 'Va a seguir subiendo. Hay que irnos hoy mismo. Vamos a las mesetas altas, donde el río no llega'. La manada se puso en fila. Cresta y Roco salieron adelante y cruzaron el barro chapoteando. Tobi se quedó atrás un momento, mirando su nido, que ya era una isla pequeña en medio del agua. Con mucho cuidado levantó el huevo y lo acomodó en el hueco de su pecho, entre las patas de adelante. 'Nos vamos de viaje', le dijo. 'Agárrate fuerte, aunque no tengas manos'.",
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "agua",
+          "anchor": "chapoteando",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ]
     },
     {
       "id": "s9",
-      "text": "Caminaron todo el día. Tobi aprendió a andar de una manera nueva: apoyando primero una pata y después la otra, sin sacudirse nada, como si llevara agua en una hoja. Cuando había una raíz en el camino, la pasaba lentísimo. Cuando había barro, lo rodeaba. Cuando se cansaba, se detenía y respiraba hondo. Cresta le gritó desde adelante: '¡Apúrate, Tobi! ¡Vas más lento que un caracol dormido!'. Tobi no contestó nada. Iba contando sus propios pasos para no perder el ritmo. Al atardecer, el viento traía olor a tierra seca y el camino empezó a subir. Los helechos se hicieron chiquitos. Las piedras, enormes. Adelante, entre dos paredes de roca altísima, se abría un caminito angosto y torcido. La abuela Duna se detuvo y dijo: 'Ese es el desfiladero. Del otro lado están las mesetas. Pero hay que pasar de uno en uno'.",
+      "text": "Caminaron todo el día. Tobi aprendió a andar de una manera nueva: apoyando primero una pata y después la otra, sin sacudirse nada, como si llevara agua en una hoja. Cuando había una raíz en el camino, la pasaba lentísimo. Cuando había barro, lo rodeaba. Cuando se cansaba, se detenía y tomaba aire. Cresta le gritó desde adelante: '¡Apúrate, Tobi! ¡Vas más lento que un caracol dormido!'. Tobi no contestó nada. Para no perder el ritmo, iba contando sus propios pasos. Al atardecer llegó un olor a tierra seca, traído por el viento. Y el camino empezó a subir. Los helechos se hicieron pequeños. Las piedras, enormes. Adelante, entre dos paredes de roca altísima, se abría un sendero angosto y torcido. La abuela Duna se detuvo y dijo: 'Ese es el desfiladero. Del otro lado están las mesetas. Pero hay que pasar de uno en uno'.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -149,29 +137,25 @@
     },
     {
       "id": "s10",
-      "text": "El desfiladero era angosto como un pasillo de piedra. Arriba, muy arriba, había una línea finita de cielo. Abajo, el suelo estaba lleno de piedritas sueltas que hacían un crujido seco bajo las patas. El viento pasaba silbando entre las rocas y sonaba como un montón de voces chiquitas hablando a la vez. Tobi entró último. Llevaba el huevo apretado contra el pecho, tan cerca que sentía sus propios latidos rebotando en la cáscara. 'Uno', se dijo. 'Dos. Tres'. Un paso por cada número, sin apurarse ni un poquito. A veces las piedritas se movían solas y Tobi se quedaba quieto hasta que todo dejaba de sonar. A la mitad del camino se le cerraron los ojos un segundo, de puro cansancio. 'Falta poquito', susurró. 'Ya casi, ya casi'. Del otro lado se veía una luz dorada y ancha, como una promesa esperándolo.",
+      "text": "El desfiladero era angosto como un pasillo de piedra. Arriba, muy arriba, había una línea fina de cielo. Abajo, el suelo estaba lleno de piedras sueltas que, bajo las patas, hacían un crujido. Entre las rocas silbaba el viento. Sonaba como un montón de voces pequeñas hablando a la vez. Tobi entró último. Llevaba el huevo tan apretado contra el pecho que en la cáscara sentía rebotar sus propios latidos. 'Uno', se dijo. 'Dos. Tres'. Un paso por cada número, sin apurarse nada. A veces las piedras se movían solas y Tobi se quedaba quieto hasta que todo dejaba de sonar. A la mitad del camino se le cerraron los ojos un segundo, de puro cansancio. 'Ya falta poco', susurró. 'Ya casi, ya casi'. Del otro lado se veía una luz dorada y ancha, como una promesa esperándolo.",
       "cues": [
         {
           "anchor": "crujido",
           "sfx": "crunch"
         },
         {
-          "anchor": "viento",
-          "sfx": "wind_high"
+          "anchor": "latidos",
+          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s11",
-      "text": "Y entonces pasó. Una piedra grande se soltó bajo su pata derecha y Tobi resbaló. Cayó de lado con un golpe sordo y el huevo salió volando de su pecho. Tobi lo vio todo muy despacio: el huevo en el aire, el huevo tocando el suelo, el huevo rodando hacia una grieta oscura. El corazón le dio un salto tan fuerte que le dolió. Se levantó como pudo y corrió, aunque le raspaba la rodilla, aunque tenía polvo en los ojos. Estiró el cuello, estiró más, estiró todo lo que pudo, y con la punta del hocico frenó el huevo justito antes del borde. Se quedó ahí, temblando, respirando fuerte. Después lo abrazó con las dos patas y le dijo, con la voz quebradita: 'Perdón. Perdón, perdón. No te vuelvo a soltar nunca'. Y el huevo, calentito, le contestó con un toquecito suave, como diciendo: 'Está bien'.",
+      "text": "Y entonces pasó. Una piedra grande se soltó bajo su pata derecha y Tobi resbaló. Cayó de lado con un golpe. El huevo salió volando de su pecho y Tobi lo vio todo muy despacio: el huevo en el aire, el huevo tocando el suelo, el huevo rodando hacia una grieta oscura. Sintió un salto fuerte, casi doloroso, dentro del pecho: era su corazón. Se levantó como pudo y corrió, aunque le raspaba la rodilla, aunque tenía polvo en los ojos. Estiró el cuello, estiró más, estiró todo lo que pudo, y con la punta del hocico frenó el huevo justo antes del borde. Se quedó ahí, temblando, respirando fuerte. Después lo abrazó con las dos patas y le dijo, con la voz quebrada: 'Perdón. Perdón, perdón. No te vuelvo a soltar nunca'. Y el huevo, tibio, le contestó con un toque suave, como diciendo: 'Está bien'.",
       "cues": [
         {
           "anchor": "golpe",
           "sfx": "thud"
-        },
-        {
-          "anchor": "corrió",
-          "sfx": "whoosh"
         },
         {
           "anchor": "corazón",
@@ -181,7 +165,7 @@
     },
     {
       "id": "s12",
-      "text": "Del otro lado del desfiladero, el mundo se abría grande y dorado. Había mesetas anchas, con pasto blando y arbolitos bajos llenos de brotes tiernos. Y arriba, en una loma redonda, Tobi encontró el lugar perfecto: un hueco de tierra tibia, protegido del aire por tres rocas grandes, con vista a todo el valle nuevo. Trabajó hasta que se hizo de noche. Juntó hojas secas, musgo y unas plumitas que encontró por ahí, y armó el nido más blandito que había hecho nunca. Puso el huevo en el centro y se acostó alrededor, enroscado como una rosquilla. El cielo se llenó de puntitos de luz. Una estrella parpadeó justo encima de ellos, y la luna subió despacio, redonda como otro huevo enorme. 'Llegamos', dijo Tobi. 'Estamos en casa'. Y por primera vez en muchos días, durmió profundo y sin sobresaltos.",
+      "text": "Del otro lado del desfiladero, el mundo se abría grande y dorado. Había mesetas anchas, con pasto blando y árboles bajos llenos de brotes tiernos. Y arriba, en una loma redonda, Tobi encontró el lugar perfecto: un hueco de tierra tibia, protegido del aire por tres rocas grandes, con vista a todo el valle nuevo. Trabajó hasta que se hizo de noche. Juntó hojas secas, musgo y unas plumas que encontró por ahí, y armó el nido más blando que había hecho nunca. Puso el huevo en el centro y se acostó alrededor, enroscado como una rosquilla. El cielo se llenó de puntos de luz. Justo encima de ellos parpadeó una estrella. Y despacio, redonda como otro huevo enorme, subió la luna. 'Llegamos', dijo Tobi. 'Estamos en casa'. Y por primera vez en muchos días, durmió profundo y sin sobresaltos.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -196,7 +180,7 @@
     },
     {
       "id": "s13",
-      "text": "A la mañana siguiente, Tobi despertó con un crujido. Esta vez no fue finito: fue un crac largo, y después otro, y la cáscara se abrió como una ventanita. De adentro salió una cabecita. Pero no era una cabecita de cuello largo como la de Tobi. Era chiquita, con un piquito curvo y plumas suaves color canela, y dos ojos redondos que lo miraron directo a los ojos. 'Pip', dijo la cría. Y a Tobi se le llenó el pecho de algo tan grande que no le cabía adentro. Cresta y Roco llegaron corriendo y se les escapó una risa burlona. '¡No es como nosotros! ¡No es de tu familia, Tobi! ¡Si ni siquiera come helechos!'. Tobi los miró tranquilo. Bajó el hocico, dejó que la cría se subiera a su cabeza y contestó: 'Es mía. La cuidé desde el río. Se llama Pluma'.",
+      "text": "A la mañana siguiente, Tobi despertó con un crujido. Esta vez no fue fino: fue un crac largo, y después otro, y la cáscara se abrió como una ventana pequeña. De adentro salió una cabeza. Pero no era una cabeza de cuello largo como la de Tobi. Era pequeña, con un pico curvo y plumas suaves color canela, y dos ojos redondos que lo miraron directo a los ojos. 'Pip', dijo la cría. Y a Tobi se le llenó el pecho de algo tan grande que no le cabía adentro. Cresta y Roco llegaron corriendo y, burlones, soltaron una risa. '¡No es como nosotros! ¡No es de tu familia, Tobi! ¡Si ni siquiera come helechos!'. Tobi los miró tranquilo. Bajó el hocico, dejó que la cría se subiera a su cabeza y contestó: 'Es mía. La cuidé desde el río. Se llama Pluma'.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -211,7 +195,7 @@
     },
     {
       "id": "s14",
-      "text": "Los días siguientes, Tobi aprendió otra vez desde el principio. Aprendió que Pluma no comía helechos: comía semillitas y bichitos, y él la ayudaba a buscarlos entre las hojas. Aprendió que a Pluma le gustaba dormir encima de su cuello, y que hacía un ruidito parecido a un ronquido chiquito. Aprendió que la quería igual, exactamente igual, aunque no se parecieran en nada. La abuela Duna los miraba de lejos y sonreía. Un atardecer le dijo a Tobi: 'La familia no es solo la que se parece a ti. La familia es la que se queda'. Esa noche, en el nido de la loma, Pluma se acomodó en el huequito tibio del cuello de Tobi. Afuera el aire pasaba suave y la luna alumbraba las mesetas de plata. Tobi respiró despacio, muy despacio, igual que cuando cuidaba el huevo. Y así, pegaditos y calentitos, los dos se quedaron dormidos.",
+      "text": "Los días siguientes, Tobi aprendió otra vez desde el principio. Aprendió que Pluma no comía helechos: comía semillas y bichos diminutos, y él la ayudaba a buscarlos entre las hojas. Aprendió que a Pluma le gustaba dormir encima de su cuello, y que hacía un ruido parecido a un ronquido. Aprendió que la quería igual, exactamente igual, aunque no se parecieran en nada. La abuela Duna los miraba de lejos y sonreía. Un atardecer le dijo a Tobi: 'La familia no es solo la que se parece a ti. La familia es la que se queda'. Esa noche, en el nido de la loma, Pluma se acomodó en el hueco tibio del cuello de Tobi. Afuera el aire pasaba suave y las mesetas brillaban de plata bajo la luna. Tobi respiró despacio, muy despacio, igual que cuando cuidaba el huevo. Y así, pegados y tibios, los dos se quedaron dormidos.",
       "ambient": "forest_night",
       "cues": [
         {

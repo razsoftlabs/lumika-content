@@ -2,13 +2,13 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Cloud Who Wanted Colors",
   "summary": "Cloud is white and longs to be colorful. A mischievous rain shower shows her where rainbows come from.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Up high, very high, lived a round white cloud named Cloud. She loved watching the gardens below, full of red, yellow, and purple flowers. \"How boring to be only white!\", she sighed. \"I want colors too.\" The wind heard her and laughed with a cheeky little gust.",
+      "text": "Up high, very high, lived a round white cloud named Cloud. She loved watching the gardens below, full of red, yellow, and purple flowers. \"How boring to be only white!\", she sighed. \"I want colors too.\" Someone heard her and laughed with a cheeky little gust: the wind.",
       "cues": [
         {
           "anchor": "wind",
@@ -18,12 +18,17 @@
     },
     {
       "id": "s2",
-      "text": "Cloud tried everything. She rubbed against the sun to turn golden, but it only tickled her. She floated up to other clouds to ask for paint, but they were all white just like her. Each try left her messier and grayer.",
-      "cues": []
+      "text": "Cloud tried everything. She rubbed against the sun to turn golden, but the sun only tickled her until she let out a laugh. She floated up to other clouds to ask for paint, but they were all white just like her. Each try left her messier and grayer.",
+      "cues": [
+        {
+          "anchor": "laugh",
+          "sfx": "giggle"
+        }
+      ]
     },
     {
       "id": "s3",
-      "text": "From trying so hard, Cloud's eyes filled up with drops, and without meaning to... it started to rain! The drops fell over the garden with giggles. And just as the sun peeked out again, something magical drew itself across the sky, curved and enormous.",
+      "text": "From trying so hard, Cloud's eyes filled up with drops. And without meaning to... it started to rain! The rain fell over the garden with giggles. And just as the sun peeked out again, across the sky something drew itself, curved and enormous and magical.",
       "cues": [
         {
           "anchor": "drops",
@@ -37,8 +42,17 @@
     },
     {
       "id": "s4",
-      "text": "It was a rainbow! Red, orange, yellow, green, blue, and purple, all born from her own drops. Cloud understood that her colors were never outside: they were inside her all along, waiting for the right moment to shine. And she drifted off to sleep, happy, rocking in the sky.",
-      "cues": []
+      "text": "It was a rainbow! Red, orange, yellow, green, blue, and purple, all born from her own drops. Cloud understood that her colors were never outside: they had been inside her all along, waiting for the right moment to shine. And rocking happily in the sky, she fell asleep.",
+      "cues": [
+        {
+          "anchor": "shine",
+          "sfx": "sparkle"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft"
+        }
+      ]
     }
   ]
 }

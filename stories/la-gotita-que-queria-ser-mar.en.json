@@ -2,13 +2,13 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Little Drop Who Wanted to Be the Sea",
   "summary": "A little raindrop dreams of being as big as the sea and sets off on a journey to find out.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High up in the sky, inside a cloud as soft as cotton, lived a very little drop. Every night she looked down and sighed: she wanted to be big, so very big, she wanted to be the sea. One morning the cloud turned gray and tickled, and the little drop felt herself slipping. “Here I go!” she cried. The wind rocked her gently as she fell, spinning and spinning as if in a dance. Below, the trees waited with open arms, and their green leaves trembled when she brushed past them. The little drop had never flown before, and for a moment, she forgot she was afraid.",
+      "text": "High up in the sky, inside a cloud as soft as cotton, lived a very little drop. Every night she looked down and sighed: she wanted to be big, so very big, she wanted to be the sea. One morning the cloud turned gray and tickled, and the little drop felt herself slipping. “Here I go!” she cried. As she fell, spinning and spinning as if in a dance, she was rocked by the wind. Below, the trees waited with open arms, and when she brushed past them a shiver ran through their green leaves. The little drop had never flown before, and for a moment, she forgot she was afraid.",
       "ambient": "rain",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "The little drop fell into a mountain stream and splashed with a cheerful plink! The water was cool and sang among the stones. “Where am I?” she asked, a little dizzy. From a green leaf, a frog with big eyes greeted her: “You're in the stream, little drop. Where are you going?”. “I'm going to be the sea,” she answered proudly. The frog smiled and said: “Then let yourself go, for the water always knows the way.” And so the little drop joined the other drops, and all together they began to run, light and quick, down the mountain.",
+      "text": "The little drop fell into a mountain stream and splashed. Plink! The water was cool and sang among the stones. “Where am I?” she asked, a little dizzy. From a green leaf she was greeted by a frog. “You're in the stream, little drop. Where are you going?”. “I'm going to be the sea,” she answered proudly. The frog smiled and said: “Then let yourself go, for the water always knows the way.” And so the little drop joined the other drops, and all together they began to run, light and quick, down the mountain.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "The stream grew into a river, wide and calm. There were more and more drops: they came from the rain, from the snow, from other rivers far away. The little drop was no longer alone. A bee buzzed past over the water, looking for flowers, and waved at them with her tiny wings. The drops told each other jokes and laughed together, and their laughter sounded like water leaping over stones. “We are so many,” thought the little drop, “but we are still one single thing.” And that idea, so simple and so big, filled her heart with warmth as the river carried her lovingly onward.",
+      "text": "The stream grew into a river, wide and calm. There were more and more drops: they came from the rain, from the snow, from other rivers far away. The little drop was no longer alone. Over the water, hunting for flowers, flew a bee. She waved at them with her tiny wings and went on her way. The drops told each other jokes and filled the river with laughter. “We are so many,” thought the little drop, “but we are still one single thing.” And that idea, so simple and so big, filled her with warmth as the river carried her lovingly onward.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -48,16 +48,12 @@
         {
           "anchor": "laughter",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "And then, rounding a bend, the river opened up... and there it was. The sea. Huge, blue, shining as far as her eyes could reach. A big wave lifted her into the air and let her fall among foam and bubbles. “I made it!” cried the little drop, “I am the sea!”. From deep below, a whale sang a long, gentle song to welcome her. The little drop looked all around: millions of drops just like her rocked together, forming something so big it could not fit in a single glance. She was not the sea all by herself. She was the sea, together with all the others.",
+      "text": "And then, rounding a bend, the river opened up... and there it was. The sea. Huge, blue, shining as far as her eyes could reach. The sea welcomed her with a great wave. It lifted her into the air and let her fall among foam and bubbles. “I made it!” cried the little drop, “I am the sea!”. From deep below came the long, gentle song of a whale. The little drop looked all around: millions of drops just like her rocked together, forming something so big it could not fit in a single glance. She was not the sea all by herself. She was the sea, together with all the others.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -72,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "When the sun came up, warm and golden, the little drop felt herself turning light, so very light, like a sigh. Still being herself, she floated up through the air, back toward a brand-new cloud. “I never get lost,” she understood, smiling, “I always come back to the sky.” Below, the sea said goodbye with a shimmer of light. Above, the moon lit her round lamp, and one by one the stars peeked out. The little drop curled up in her cloud, cozy and warm, ready to rain again tomorrow. She closed her little eyes. And she dreamed she was tiny and enormous at the same time, like all the things that are loved.",
+      "text": "When the sun came up, warm and golden, the little drop felt herself turning light, so very light, like a sigh. Still being herself, she floated up through the air, back toward a brand-new cloud. “I never get lost,” she understood, smiling, “I always come back to the sky.” Below, the sea said goodbye with a shimmer of light. Above, lighting her round lamp, rose the moon. And one by one, out came the stars. The little drop curled up in her cloud, cozy and warm, ready to rain again tomorrow. She closed her little eyes. And she dreamed she was tiny and enormous at the same time, like all the things that are loved.",
       "ambient": "ocean_waves",
       "cues": [
         {

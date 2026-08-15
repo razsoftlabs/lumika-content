@@ -2,13 +2,13 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 1,
+  "version": 3,
   "title": "El monstruo amistoso de la cama",
-  "summary": "Cuando Mateo oye un ruidito debajo de su cama, descubre que el monstruo que vive alli esconde un secreto muy parecido al suyo.",
+  "summary": "Cuando Mateo oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Mateo se acurruco bajo las mantas. Por la ventana entraba la luz de la luna, redonda y plateada. Afuera, el viento mecia los arboles muy despacito. Todo estaba en calma... hasta que, desde debajo de la cama, llego un ruidito pequeno. Un tiriton. Un suspiro. Mateo se quedo muy quieto, escuchando su propio corazon. Que podia ser ese sonidito tan timido en la oscuridad?",
+      "text": "Mateo se acurrucó bajo las mantas. Por la ventana entraba una luz redonda y plateada: la luna. Afuera, los árboles se mecían despacio con el viento. Todo estaba en calma... hasta que, desde debajo de la cama, llegó un ruido pequeño. Un tiritón. Un suspiro. Mateo se quedó muy quieto, escuchando su propio corazón. ¿Qué podía ser ese sonido tan tímido en la oscuridad?",
       "cues": [
         {
           "anchor": "luna",
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "Con mucho cuidado, Mateo asomo la cabeza por el borde de la cama. Y alli, entre una pelota vieja y una pantufla, habia dos ojos grandes y brillantes. Era un monstruo. Pero no rugia ni daba miedo: estaba encogido, abrazandose las rodillas, temblando. Cuando vio a Mateo, solto un susurro asustado: Por favor, no me hagas nada. Mateo parpadeo, sorprendido. El monstruo parecia mucho mas asustado que el.",
+      "text": "Con mucho cuidado, Mateo asomó la cabeza por el borde de la cama. Y allí, entre una pelota vieja y una pantufla, había dos ojos grandes y brillantes. Era un monstruo. Pero no rugía ni daba miedo: estaba encogido, abrazándose las rodillas, temblando. Cuando vio a Mateo, el monstruo habló en un susurro. —Por favor, no me hagas nada. Mateo parpadeó, sorprendido. El monstruo parecía mucho más asustado que él.",
       "cues": [
         {
           "anchor": "susurro",
@@ -32,7 +32,7 @@
     },
     {
       "id": "s3",
-      "text": "No voy a hacerte nada, dijo Mateo bajito. Por que tiemblas? El monstruo bajo la mirada. Es que... me da mucho miedo la oscuridad, confeso. Aqui abajo todo esta negro, y cuando apagan la luz, me siento muy solo. Mateo abrio mucho los ojos. El sentia exactamente lo mismo! Por eso siempre dejaba la puerta un poquito abierta. Los dos se rieron bajito, sorprendidos de parecerse tanto.",
+      "text": "—No voy a hacerte nada —dijo Mateo en voz baja—. ¿Por qué tiemblas? El monstruo bajó la mirada. —Es que... me da mucho miedo la oscuridad —confesó—. Aquí abajo todo está negro, y cuando apagan la luz me siento muy solo. Mateo abrió mucho los ojos: él sentía exactamente lo mismo. Por eso, cada noche, dejaba abierta la puerta. Sorprendidos de parecerse tanto, los dos se rieron. Fue una risa suave, de esas que se comparten en secreto.",
       "cues": [
         {
           "anchor": "puerta",
@@ -46,7 +46,7 @@
     },
     {
       "id": "s4",
-      "text": "Mateo tuvo una idea. Saco de debajo de la almohada su linterna de estrellas y la encendio. Plin! Un monton de estrellas de luz aparecieron en el techo, suaves y doradas. Mira, dijo, asi la oscuridad ya no da tanto miedo. El monstruo miro hacia arriba, maravillado, y su tembleque se fue apagando poco a poco. Nunca habia visto algo tan bonito, murmuro. Y entonces Mateo le presto su osito de peluche mas suavecito para que no estuviera solo.",
+      "text": "Mateo tuvo una idea. Sacó de debajo de la almohada su linterna mágica y la encendió. ¡Plin! En el techo aparecieron, suaves y doradas, un montón de estrellas. —Mira —dijo—, así la oscuridad ya no da tanto miedo. El monstruo miró hacia arriba, maravillado, y su temblor se fue apagando poco a poco. —Nunca había visto algo tan bonito —murmuró. Y entonces Mateo le prestó su osito de peluche más suave para que no estuviera solo.",
       "cues": [
         {
           "anchor": "estrellas",
@@ -56,7 +56,7 @@
     },
     {
       "id": "s5",
-      "text": "Esa noche, el monstruo no se quedo debajo de la cama. Se acurruco al lado de Mateo, con el osito entre los dos. La luna los cuidaba desde la ventana, y las estrellitas seguian brillando en el techo. Buenas noches, amigo, bostezo Mateo. Buenas noches, respondio el monstruo, ya casi dormido. Los dos respiraron despacio, muy juntos, y poquito a poco cerraron los ojos. Ya nadie tenia miedo: solo quedaba la noche tranquila, tibia y suave, cuidandolos hasta la manana.",
+      "text": "Esa noche, el monstruo no se quedó debajo de la cama. Se acurrucó al lado de Mateo, con el osito entre los dos. Las estrellas seguían brillando en el techo y, desde la ventana, los cuidaba la luna. —Buenas noches, amigo —bostezó Mateo. —Buenas noches —respondió el monstruo, ya casi dormido. Muy juntos y en silencio, los dos respiraron. Poco a poco cerraron los ojos. Ya nadie tenía miedo: solo quedaba la noche tranquila, tibia y suave, cuidándolos hasta la mañana.",
       "cues": [
         {
           "anchor": "luna",

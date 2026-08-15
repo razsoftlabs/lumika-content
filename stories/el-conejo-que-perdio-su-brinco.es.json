@@ -2,13 +2,13 @@
   "id": "el-conejo-que-perdio-su-brinco",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El conejo que perdió su brinco",
-  "summary": "Una mañana, Tobi el conejito despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?",
+  "summary": "Una mañana, Tobi el conejo despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?",
   "scenes": [
     {
       "id": "s1",
-      "text": "Esa mañana, Tobi el conejito abrió la puerta de su madriguera y suspiró. Casi siempre salía dando brincos, pero hoy sus patitas se sentían pesadas, pesadas. No tenía ganas de brincar. Afuera, la brisa movía las hojas con un susurro suave, y el prado lo esperaba dorado por el sol. Tobi solo dio un pasito pequeño y se sentó. “¿Dónde se fue mi brinco?”, se preguntó, mirando sus pies. En su corazón había una nubecita gris. Y no sabía cómo hacerla a un lado.",
+      "text": "Esa mañana, Tobi el conejo despertó en su madriguera, suspiró y abrió la puerta. Casi siempre salía dando brincos, pero hoy sus patas se sentían pesadas, pesadas. No tenía ganas de brincar. Afuera el prado lo esperaba dorado por el sol, y la brisa movía las hojas. Tobi dio un solo paso corto y se sentó. “¿Dónde se fue mi brinco?”, se preguntó, mirando sus pies. En su pecho había una nube gris, y no sabía cómo hacerla a un lado.",
       "ambient": "meadow_day",
       "cues": [
         {
@@ -18,19 +18,15 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s2",
-      "text": "Muy pronto llegó zumbando una abeja amarilla. “Buenos días, Tobi”, dijo, dando vueltitas. “Ven a ver las flores nuevas, se abrieron todas anoche.” Tobi no tenía muchas ganas, pero la abeja era tan alegre que dio unos pasos despacito detrás de ella. El pasto le hacía cosquillas en las patas. Entre las flores había gotitas de rocío que brillaban como diamantes chiquitos. “No hace falta brincar todavía”, le dijo la abeja con dulzura. “Camina conmigo, no más.” Y Tobi, sin darse cuenta, sonrió un poquito por primera vez en el día.",
+      "text": "Muy pronto, amarilla y redonda como una gota de sol, llegó una abeja con su zumbido. “Buenos días, Tobi”, dijo, dando vueltas en el aire. “Ven a ver las flores nuevas, se abrieron todas anoche.” Tobi no tenía muchas ganas, pero ella era tan alegre que la siguió con unos cuantos pasos. El pasto le hacía cosquillas en las patas. Entre las flores había gotas de rocío que brillaban como diamantes diminutos. “No hace falta brincar todavía”, le dijo la abeja con dulzura. “Solo camina conmigo.” Y Tobi, sin darse cuenta, sonrió por primera vez en todo el día.",
       "cues": [
         {
-          "anchor": "abeja",
+          "anchor": "zumbido",
           "sfx": "bee_buzz"
         },
         {
@@ -41,25 +37,25 @@
     },
     {
       "id": "s3",
-      "text": "Junto a un charco de agua clara los esperaba una rana verde, sentada en una piedra. “Hola, Tobi”, croó contenta. “Mira lo que sé hacer.” La rana saltó y ¡plas!, salpicó el charco, y las gotas volaron como estrellitas de agua. Tobi sonrió sin querer. “Prueba tú”, dijo la rana. El conejito se acercó despacio y metió una patita. El agua estaba fresquita y le hizo cosquillas. Metió la otra patita, y después las dos. Chapoteó bajito, con cuidado, y sintió que algo tibio empezaba a despertar dentro de su pecho.",
+      "text": "Sobre una piedra cubierta de musgo, junto al agua clara, los esperaba una rana verde. “Hola, Tobi”, lo saludó con un croac. “Mira lo que sé hacer.” Dio un salto enorme y ¡plas!, cayó justo en medio del charco. Las gotas saltaron por todas partes y Tobi sonrió sin querer. “Prueba tú”, dijo la rana. El conejo se acercó despacio y metió una pata. El agua estaba fresca y le hizo cosquillas. Metió la otra, y después las dos. Chapoteó con cuidado, muy despacio, y sintió que algo tibio empezaba a despertar dentro de su pecho.",
       "cues": [
+        {
+          "anchor": "croac",
+          "sfx": "frog_croak"
+        },
         {
           "anchor": "charco",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "El sol ya estaba altito y el viento tibio le acariciaba las orejas. La abeja, la rana y Tobi jugaron entre las flores toda la mañana. Y entonces, sin pensarlo, a Tobi le salió un brinco. ¡Uno chiquito! Después otro más grande, y otro, y otro. Sus patitas ya no pesaban: volaban. El conejito se rió con una risa grande y redonda, la risa que había perdido. “¡Volvió mi brinco!”, gritó feliz. Sus amigos brincaron con él, y el prado entero pareció reírse también, meciéndose con el viento.",
+      "text": "El sol ya estaba alto y una brisa tibia le acariciaba las orejas. La abeja, la rana y Tobi jugaron entre las flores toda la mañana. Y entonces, sin pensarlo, a Tobi le salió un brinco. ¡Uno pequeño! Después otro más grande, y otro, y otro. Sus patas ya no pesaban: volaban. El conejo abrió la boca grande y por fin le salió su risa. “¡Volvió mi brinco!”, gritó feliz. Sus amigos brincaron con él, y el prado entero pareció alegrarse también, meciéndose con el viento.",
       "ambient": "meadow_day",
       "cues": [
         {
-          "anchor": "rió",
+          "anchor": "risa",
           "sfx": "giggle"
         },
         {
@@ -70,7 +66,7 @@
     },
     {
       "id": "s5",
-      "text": "Cuando el cielo se puso color durazno, un búho asomó desde su árbol. “Es hora de descansar, pequeños”, dijo con voz suave. Tobi se despidió de la abeja y de la rana con un abrazo. Regresó a su madriguera dando brinquitos cansados y contentos. Se acurrucó, cerró los ojos y respiró hondo, muy hondo. Arriba, las estrellas se encendían una por una, como lucecitas que le daban las buenas noches. Tobi ya no tenía la nubecita gris. Sabía que a veces la alegría se esconde un ratito, pero siempre, siempre vuelve. Y se durmió soñando con el brinco de mañana.",
+      "text": "Cuando el cielo se puso color durazno, desde el árbol más alto asomó un búho. “Es hora de descansar, pequeños”, dijo con voz suave. Tobi se despidió de la abeja y de la rana con un abrazo. Regresó a su madriguera dando brincos cansados y contentos. Se acurrucó, cerró los ojos y respiró hondo, muy hondo. Arriba se encendían, una por una, las estrellas. Eran como luces tibias que le daban las buenas noches. Tobi ya no llevaba la nube gris en el pecho. Sabía que a veces la alegría se esconde un rato, pero siempre, siempre vuelve. Y se durmió soñando con el brinco de mañana.",
       "ambient": "forest_night",
       "cues": [
         {

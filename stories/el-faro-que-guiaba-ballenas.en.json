@@ -2,13 +2,13 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "The Lighthouse That Guided Whales",
   "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light.",
   "scenes": [
     {
       "id": "s1",
-      "text": "The truck stopped at the end of the stony road, and Aitana climbed out with her small suitcase. In front of her, high on the cliff, stood her grandfather's lighthouse: white, enormous, with a red stripe on top like a woolen hat. It smelled of salt, of toasted bread and of wet wood. Far below, the waves opened against the rocks and came together again, over and over, never getting tired.\n\n“Welcome to my house,” said Grandpa Nicolás, and he pushed the blue door, which groaned like a long yawn.\n\nAitana looked inside. One table, two chairs, a kettle and a staircase that climbed and climbed. No television, no neighbors, no playground.\n\n“What do you even do here?” she asked, dragging her feet.\n\n“You take care of the light,” her grandfather answered. “It is the quietest job in the world.”\n\nAitana sighed. To her, quiet mostly sounded boring.",
+      "text": "The truck stopped at the end of the stony road, and Aitana climbed out with her small suitcase. In front of her, high on the cliff, stood her grandfather's lighthouse: white, enormous, with a red stripe on top like a woolen hat. It smelled of salt, of toasted bread and of wet wood. Far below, against the rocks, broke the waves. They opened and came together again, over and over, never getting tired.\n\n“Welcome to my house,” said Grandpa Nicolás, and with both hands he pushed open the door. It was blue, old, and it groaned like a long yawn.\n\nAitana looked inside. One table, two chairs, a kettle and a staircase that climbed and climbed. No television, no neighbors, no playground.\n\n“What do you even do here?” she asked, dragging her feet.\n\n“You take care of the light,” her grandfather answered. “It is the quietest job in the world.”\n\nAitana sighed. To her, quiet mostly sounded boring.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "After the hot soup, Grandpa hung his cap on a nail and said:\n\n“Come, let me introduce you to the lady of the lighthouse.”\n\nThey climbed together. The staircase was a spiral of cold iron, and the footsteps of them both sounded like a slow drum: tap, tap, tap. Aitana counted twenty, forty, sixty steps. On the walls there were seashells stuck up with tape, old drawings of boats and a long list of names she did not know. Everything smelled of oil, of metal and of sleeping sea.\n\n“How many steps are there?” she asked, a little out of breath.\n\n“One hundred and twenty,” said her grandfather. “I climb them twice every night, in rain or in calm. That is why I have these old crab legs.”\n\nA laugh escaped Aitana and bounced up the hollow tower, then came back, smaller, from above.\n\n“Did you hear that?” said Grandpa, winking. “The lighthouse laughs too. You only have to tickle it at the right moment.”",
+      "text": "After the hot soup, Grandpa hung his cap on a nail and said:\n\n“Come, let me introduce you to the lady of the lighthouse.”\n\nThey climbed together. The staircase was a spiral of cold iron, and like a slow drum sounded their footsteps. Tap, tap, tap. Aitana counted twenty, forty, sixty steps. On the walls there were seashells stuck up with tape, old drawings of boats and a long list of names she did not know. Everything smelled of oil, of metal and of sleeping sea.\n\n“How many steps are there?” she asked, a little out of breath.\n\n“One hundred and twenty,” said her grandfather. “I climb them twice every night, in rain or in calm. That is why I have these old crab legs.”\n\nAitana let out a laugh. It bounced up the hollow tower and came back from above, smaller.\n\n“Did you hear that?” said Grandpa, winking. “That was the lighthouse chuckling. You only have to tickle it at the right moment.”",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Upstairs, the lamp room was made all of glass. Aitana stood completely still. All around her, hundreds of crystals cut like diamonds wrapped a lamp the size of a ball. Outside, the wind went by whistling, and the windows trembled a little, as if they were cold. It smelled of lemon and clean oil.\n\nHer grandfather pulled a soft cloth out of his pocket.\n\n“First you clean the glass. No rushing. One dirty finger and the light turns shy.”\n\nThen he moved a bronze crank, counting under his breath, and the heart of the lighthouse began to turn. The light went out into the air, very long, and swept the night: one side, the other, one side, the other.\n\n“It is like a star that will not stay still,” Aitana whispered.\n\n“That is exactly what it is,” said her grandfather. “A star with working hours.”\n\nAitana rested her forehead on the warm glass and, without noticing, stopped thinking about television.",
+      "text": "Upstairs, the lamp room was made all of glass. Aitana stood completely still. All around her, hundreds of crystals cut like diamonds wrapped a lamp the size of a ball. Outside, the glass panes trembled a little, as if they were cold, and around the tower whistled the wind. It smelled of lemon and clean oil.\n\nHer grandfather pulled a soft cloth out of his pocket.\n\n“First you clean the glass. No rushing. One dirty finger and the light turns shy.”\n\nThen he moved a bronze crank, counting under his breath, and the heart of the lighthouse began to turn. The light went out into the air, very long, and swept the night: one side, the other, one side, the other.\n\n“It will not stay still,” Aitana whispered. “It is like a star.”\n\n“That is exactly what it is,” said her grandfather. “And it even has working hours.”\n\nAitana rested her forehead on the warm glass and, without noticing, stopped thinking about television.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -48,20 +48,16 @@
         {
           "anchor": "star",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s4",
-      "text": "“And who is the light for?” Aitana asked that night, tucked up to her nose.\n\nHer grandfather sat on the edge of the bed with his notebook of worn-out covers.\n\n“For the fishing boats that come home late. For old Elías's boat, because his eyes are not good anymore. And for three winters now, for someone else.”\n\nHe opened the notebook and showed her a crooked drawing: two big backs and one tiny one.\n\n“Whales,” he said. “A mother, a father and a calf. They pass by here when the water turns cold, and this channel is full of hidden rocks. When the light spins, they see it from below, like a soft glow on the ceiling of the sea, and they follow the right path.”\n\nOutside, the moon peeked between the clouds and the whole room turned silver.\n\n“And what if one day the light is not there?” asked Aitana.\n\nHer grandfather closed the notebook slowly.\n\n“That is why I always am.”",
+      "text": "“And who is the light for?” Aitana asked that night, tucked up to her nose.\n\nHer grandfather sat on the edge of the bed with his notebook of worn-out covers.\n\n“For the fishing boats that come home late. For old Elías's boat, because his eyes are not good anymore. And for three winters now, for someone else.”\n\nHe opened the notebook and showed her a crooked drawing: two big backs and one small one. They were whales.\n\n“A mother, a father and a calf,” said her grandfather. “They pass by here when the water turns cold, and this channel is full of hidden rocks. When the light spins, they see it from below, like a soft glow on the ceiling of the sea, and they follow the right path.”\n\nOutside, between the clouds, out came the moon. The whole room turned silver.\n\n“And what if one day the light is not there?” asked Aitana.\n\nHer grandfather closed the notebook slowly.\n\n“That is why I always am.”",
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "Whales",
+          "anchor": "whales",
           "sfx": "whale_song"
         },
         {
@@ -72,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "Three nights later the fog arrived. Not just any fog: a thick, white, silent one that swallowed the rocks, the road and even the top of the lighthouse. Aitana could not see her own outstretched hand. The wind turned warm and slow, like a wet blanket. Far away, a boat engine coughed in the darkness.\n\n“Double work tonight,” said her grandfather, and they climbed the one hundred and twenty steps.\n\nThe light was spinning, brave, opening tunnels in the vapor. Aitana was beginning to understand the rhythm: one side, the other, one side, the other. Then the lighthouse made a strange creak, like when you bite a cookie that is far too hard.\n\nThe light stopped. It stayed pointing at nothing, as still as a sleeping eye.\n\n“Grandpa...” said Aitana, and her voice came out tiny.\n\nHer grandfather did not shout and did not run. He took off his cap, crouched down beside the mechanism and said, very calmly:\n\n“Granddaughter, I need your hands.”",
+      "text": "Three nights later the fog arrived. Not just any fog: a thick, white, silent one that swallowed the rocks, the road and even the top of the lighthouse. Aitana could not see her own outstretched hand. Warm and slow, like a wet blanket, came the wind. Far away, a boat engine coughed in the darkness.\n\n“Double work tonight,” said her grandfather, and they climbed the one hundred and twenty steps.\n\nThe light was spinning, brave, opening tunnels in the vapor. Aitana was beginning to understand the rhythm: one side, the other, one side, the other. Then, like when you bite a cookie that is far too hard, the lighthouse made a strange creak.\n\nThe light stopped. It stayed pointing at nothing, as still as a sleeping eye.\n\n“Grandpa...” said Aitana, and her voice came out tiny.\n\nHer grandfather did not shout and did not run. He took off his cap, crouched down beside the mechanism and said, very calmly:\n\n“Granddaughter, I need your hands.”",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -87,7 +83,7 @@
     },
     {
       "id": "s6",
-      "text": "The two of them knelt on the wooden floor. Her grandfather lifted a round lid and the heart of the lighthouse appeared: toothed wheels, a coiled spring and a chain with a weight at the end, like the one in a giant clock.\n\n“Look: this wheel has a broken tooth,” he explained, and put the flashlight in her hand. “The motor cannot move it. But we can. With patience.”\n\nOutside, in the pines behind the house, an owl asked something that nobody answered. Aitana listened to her grandfather's footsteps coming and going as he looked for his toolbox, and she felt that the whole lighthouse was waiting.\n\n“Can we do it without the machine?” she asked.\n\n“We can do it with our hands. Like in my great-grandfather's days,” he said, and smiled. “You are going to count, I am going to push. The light has to make one full turn every ten seconds. No more, no less.”",
+      "text": "The two of them knelt on the wooden floor. Her grandfather lifted a round lid and the heart of the lighthouse appeared: toothed wheels, a coiled spring and a chain with a weight at the end, like the one in a giant clock.\n\n“Look: this wheel has a broken tooth,” he explained, and put the flashlight in her hand. “The motor cannot move it. But we can. With patience.”\n\nOutside, in the pines behind the house, something asked a question that nobody answered. It was the owl. While her grandfather went back and forth looking for his toolbox, Aitana listened to his footsteps. She felt that the whole lighthouse was waiting.\n\n“Can we do it without the machine?” she asked.\n\n“We can do it with our hands. Like in my great-grandfather's days,” he said, and smiled. “You are going to count, I am going to push. The light has to make one full turn every ten seconds. No more, no less.”",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -97,16 +93,12 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s7",
-      "text": "And so began the longest and most beautiful night of Aitana's life.\n\nHer grandfather set both hands on the big wheel and pushed. The wheel complained with a creak and gave way a little. Aitana counted out loud, slowly, marking the rhythm with her palm on her knee: one, two, three, four...\n\n“Now,” she would say, and her grandfather pushed again.\n\nThe light began to turn once more. Not by itself: turning because the two of them were turning it.\n\nAfter a while, her grandfather's arms were shaking.\n\n“Breathe with me,” he asked her. “In when we rest, out when we push. That way the strength does not run out.”\n\nAitana stood up on a wooden crate, put her small hands next to the big ones and pushed too. It smelled of bronze, of fog and of clean sweat. Outside, the sea kept moving, and the light kept going out into the world every ten seconds, exact, like a promise.",
+      "text": "And so began the longest and most beautiful night of Aitana's life.\n\nHer grandfather set both hands on the big wheel and pushed. The wheel gave way a little and complained with a creak. Aitana counted out loud, slowly, marking the rhythm with her palm on her knee: one, two, three, four...\n\n“Now,” she would say, and her grandfather pushed again.\n\nThe light began to turn once more. Not by itself: turning because the two of them were turning it.\n\nAfter a while, her grandfather's arms were shaking. Then he taught Aitana the secret for not getting tired: they had to breathe.\n\n“In when we rest, out when we push,” he said. “That way the strength does not run out.”\n\nAitana stood up on a wooden crate, put her small hands next to the big ones and pushed too. It smelled of bronze, of fog and of clean sweat. Outside, the sea kept moving, and the light kept going out into the world every ten seconds, exact, like a promise.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -114,7 +106,7 @@
           "sfx": "crunch"
         },
         {
-          "anchor": "Breathe",
+          "anchor": "breathe",
           "sfx": "breathe_in",
           "delayMs": 200
         }
@@ -122,7 +114,7 @@
     },
     {
       "id": "s8",
-      "text": "Near midnight, the fog began to come apart in shreds, like cotton pulling open. The lighthouse beam crossed the air and reached very far, very clean, and down below old Elías's boat sounded its horn twice: hoo-hooo. Aitana understood that it was a thank you.\n\n“Look at the water,” said her grandfather, without stopping his pushing.\n\nAitana pressed her face to the glass. Among the waves, three dark shapes were moving in a line beside the rocks: two big ones and a small one in the middle. Each time the light passed over them, their wet backs shone for an instant, as if someone had dropped a star into the sea.\n\n“They are there,” Aitana whispered, and felt a tickle all through her tummy. “They were waiting for us.”\n\n“They were waiting for you too,” said her grandfather. “Now you take care of the light as well.”\n\nAnd they kept pushing, the two of them, smiling in the dark.",
+      "text": "Near midnight, the fog began to come apart in shreds, like cotton pulling open. The lighthouse beam crossed the air and reached very far, very clean, and down below old Elías's boat sounded its horn twice: hoo-hooo. Aitana understood that it was a thank you.\n\n“Look at the water,” said her grandfather, without stopping his pushing.\n\nAitana pressed her face to the glass. Beside the rocks, three dark shapes were moving in a line among the waves. Two big ones and a small one in the middle. Each time the light passed over them, their wet backs shone for an instant, bright as a fallen star.\n\n“They are there,” Aitana whispered, and felt a tickle all through her tummy. “They were waiting for us.”\n\n“They were waiting for you too,” said her grandfather. “Now you take care of the light as well.”\n\nAnd they kept pushing, the two of them, smiling in the dark.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -137,7 +129,7 @@
     },
     {
       "id": "s9",
-      "text": "Then the sound arrived.\n\nFirst it was like a long sigh inside the cliff. Then it climbed up through the stones, up the iron of the staircase, up through Aitana's feet, all the way to her chest: a deep, round song, full of curves, that went on and on without ever breaking.\n\n“What is that?” she asked, with enormous eyes.\n\n“Those are the whales,” said her grandfather, and his voice went soft. “They sing when the way is clear.”\n\nThe calf answered its mother with a higher note, and the three of them sang together, one on top of the other, like bells underneath the water. As it passed close to the rocks, the little one blew out a line of silver bubbles that rose to the surface and popped with a tiny crackle.\n\nAitana did not move. It seemed to her that the lighthouse, the sea and she were one single thing breathing very slowly.",
+      "text": "Then the sound arrived.\n\nFirst it was like a long sigh inside the cliff. Then it climbed up through the stones, up the iron of the staircase, up through Aitana's feet, all the way to her chest: a deep, round song, full of curves, that went on and on without ever breaking.\n\n“What is that?” she asked, with enormous eyes.\n\nHer grandfather's voice went soft when he answered. They were whales.\n\n“They sing when the way is clear,” he said. “It is their way of saying they arrived safely.”\n\nThe calf answered its mother with a higher note, and the three of them sang together, one on top of the other, like bells underneath the water. As it passed close to the rocks, the little one blew out a line of silver bubbles. They rose to the surface and popped with a tiny crackle.\n\nAitana did not move. It seemed to her that the lighthouse, the sea and she were one single thing breathing very slowly.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -148,16 +140,12 @@
         {
           "anchor": "bubbles",
           "sfx": "bubbles"
-        },
-        {
-          "anchor": "bells",
-          "sfx": "bell_soft"
         }
       ]
     },
     {
       "id": "s10",
-      "text": "By the time the motor was working again, it was almost dawn somewhere inside the fog. Her grandfather carried Aitana down in his arms, step by step, and tucked her in beside the small window, with two blankets and a seashell in her hand.\n\n“Now I know why you do this,” she said, her voice thick with sleepiness. “It is not a boring job. It is a job that takes care of things.”\n\nHer grandfather kissed her forehead.\n\n“Tomorrow I will teach you how to clean the glass.”\n\nThe moon showed itself for a moment above the water, the lighthouse light slid slowly across the wall — one side, the other, one side, the other — and outside the sea went on breathing, calm, like someone who is also going to sleep.\n\nFar away, the whales sang one last quiet note.\n\nAitana heard it, smiled with her eyes closed and fell asleep, rocked by the sound of the sea.",
+      "text": "By the time the motor was working again, it was almost dawn somewhere inside the fog. Her grandfather carried Aitana down in his arms, step by step, and tucked her in beside the small window, with two blankets and a seashell in her hand.\n\n“Now I know why you do this,” she said, her voice slow and drowsy. “It is not a boring job. It is a job that takes care of things.”\n\nHer grandfather kissed her forehead.\n\n“Tomorrow I will teach you how to clean the glass.”\n\nAbove the water, for a moment, out came the moon. The lighthouse light slid slowly across the wall — one side, the other, one side, the other — and outside the sea went on breathing, calm, like someone who is also going to sleep.\n\nFar away, the whales sang one last quiet note.\n\nAitana heard it, smiled with her eyes closed and drifted off, rocked by the sound of the sea.",
       "ambient": "ocean_waves",
       "cues": [
         {

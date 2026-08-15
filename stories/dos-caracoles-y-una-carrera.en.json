@@ -2,13 +2,13 @@
   "id": "dos-caracoles-y-una-carrera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 2,
+  "version": 3,
   "title": "Two Snails and a Race",
   "summary": "Two snail friends challenge each other to the slowest race in the garden and discover a prize far better than crossing the finish line.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a warm garden lived two snails who were the best of friends: Cala and Lito. Every morning they greeted each other among the leaves and shared little drops of dew. One day, Lito stretched his little horns and said, \"What if we race to the rosebush?\" Cala let out a soft laugh. \"That will be the slowest race in the whole world!\" They both giggled so much that their shells wobbled. Side by side on a warm little stone, they counted to three very slowly and, with no hurry at all, began to move.",
+      "text": "In a warm garden lived two snails who were the best of friends: Cala and Lito. Every morning they greeted each other and shared drops of dew among the leaves. One day, Lito stretched his horns and said, \"What if we race to the rosebush?\" Cala let out a soft laugh. \"That will be the slowest race in the whole world!\" They both giggled so much that their shells wobbled. Side by side on a warm stone, they counted to three very slowly and, with no hurry at all, began to move.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "The race began slowly, slowly, very slowly. Cala moved one tiny step and looked at a flower. Lito moved another tiny step and waved at a bee that buzzed by. \"I'm winning!\" joked Lito, though he had barely moved at all. A soft wind stroked the leaves and tickled their little horns. Neither of them was in a hurry. The warm sun heated their backs, and the garden smelled of damp earth. Every inch felt like a tiny adventure, and they moved along leaving two shiny little trails behind.",
+      "text": "The race began slowly, slowly, very slowly. Cala moved one step and looked at a flower. Lito moved another step and waved, very happily, at a bee. \"I'm winning!\" joked Lito, though he had barely moved at all. The leaves of the garden stirred with the wind. It was a warm breeze that tickled their horns. Neither of them was in a hurry. The sun warmed their backs, and the garden smelled of damp earth. Every inch felt like a tiny adventure, and they moved along leaving two shiny trails behind.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Halfway there they found a tiny puddle, round like a mirror. At its edge, a frog looked at them with big eyes and greeted them with a friendly croak. \"Look, Cala,\" whispered Lito, \"the sky is reflected in the water.\" The two snails stayed still, watching the clouds float inside the puddle. They forgot about the race for a little while. \"This is nicer than winning,\" said Cala. And Lito, very quietly, agreed.",
+      "text": "Halfway there they found a puddle. It was small and round like a mirror. At its edge, watching them with big eyes, sat a frog. She greeted them with a friendly croak. \"Look, Cala,\" whispered Lito, \"the sky is reflected in the water.\" The two snails stayed still, watching the clouds float inside the puddle. They forgot about the race for a little while. \"This is nicer than winning,\" said Cala. And Lito, very quietly, agreed.",
       "cues": [
         {
           "anchor": "puddle",
@@ -52,7 +52,7 @@
     },
     {
       "id": "s4",
-      "text": "They kept going, but now close together. When Cala grew tired, Lito waited without complaining. When a little twig felt too steep for Lito, Cala nudged him along with love. They shared secrets, and a laugh kept them company the whole way. \"You know what?\" said Cala. \"I don't want to arrive first. I want to arrive with you.\" Lito smiled with his little horns. There was no race anymore: just two friends strolling slowly, happy to be together under a sky turning orange.",
+      "text": "They kept going, but now close together. When Cala grew tired, Lito waited without complaining. When a twig felt too steep for Lito, Cala nudged him along with love. They shared secrets, and every few steps they stopped for a laugh. \"You know what?\" said Cala. \"I don't want to arrive first. I want to arrive with you.\" Lito smiled with his horns. There was no race anymore: just two friends strolling slowly, happy to be together under a sky turning orange.",
       "cues": [
         {
           "anchor": "laugh",
@@ -62,7 +62,7 @@
     },
     {
       "id": "s5",
-      "text": "When they reached the rosebush, it was already night. The moon appeared in the sky, round and white, and many stars lit up slowly. An owl sang softly from a tree. \"Who won?\" asked Lito, yawning. \"Both of us,\" said Cala. \"We won the journey together.\" They snuggled under a warm leaf, very close, and closed their little eyes. Outside, the garden slept in calm. And so, slowly like all beautiful things, the two snail friends fell fast asleep. Good night.",
+      "text": "When they reached the rosebush, it was already night. In the sky appeared, round and white, the moon. Then, lighting up slowly, came many stars. An owl sang softly from a tree. \"Who won?\" asked Lito, yawning. \"Both of us,\" said Cala. \"We won the journey together.\" They snuggled under a warm leaf, very close, and closed their eyes. Outside, the garden slept in calm. And so, slowly like all beautiful things, the two snail friends fell fast asleep. Good night.",
       "ambient": "forest_night",
       "cues": [
         {

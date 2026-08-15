@@ -2,13 +2,13 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El oso que no queria hibernar",
   "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos.",
   "scenes": [
     {
       "id": "s1",
-      "text": "El otono llego al bosque de los Pinos Altos con olor a tierra mojada y a manzanas dulces. Las hojas caian despacio, una detras de otra, y hacian un ruido suave cuando alguien las pisaba. El viento movia las ramas y empujaba nubes gordas por el cielo, como si estuviera barriendo el verano para guardarlo en un cajon.\n\nEn todas las cuevas y madrigueras habia prisa. Las marmotas cargaban semillas. Los lirones acomodaban camas de musgo. Las tortugas buscaban el barro mas blandito del arroyo.\n\n—¡A dormir, a dormir! —cantaban todos—. ¡Que ya viene el invierno!\n\nY en medio de tanto bostezo estaba Bruno, un oso pardo de patas grandes, orejas redondas y una barriga que sonaba como un tambor cuando se la rascaba. Bruno tenia la nariz llena de hojitas y una idea nueva dandole vueltas en la cabeza. Una idea que todavia no se atrevia a decir en voz alta.",
+      "text": "El otono llego al bosque de los Pinos Altos con olor a tierra mojada y a manzanas dulces. Del aire bajaban, una detras de otra, las hojas. Hacian un ruido suave cuando alguien las pisaba y cubrian el camino de amarillo y de rojo. Por encima de todo pasaba el viento. Movia las ramas y empujaba nubes gordas por el cielo, como si estuviera barriendo el verano para guardarlo en un cajon.\n\nEn todas las cuevas y madrigueras habia prisa. Las marmotas cargaban semillas. Los lirones acomodaban camas de musgo. Las tortugas buscaban el barro mas blando del arroyo.\n\n—¡A dormir, a dormir! —cantaban todos—. ¡Que ya viene el invierno!\n\nY en medio de tanto bostezo estaba Bruno, un oso pardo de patas grandes, orejas redondas y una barriga que sonaba como un tambor cuando se la rascaba. Bruno tenia una hoja seca pegada en la nariz y una idea nueva dandole vueltas en la cabeza. Una idea que todavia no se atrevia a decir en voz alta.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "—Este ano no voy a hibernar —anuncio Bruno.\n\nSu abuela, la osa Rosalinda, dejo de acomodar hojas secas y lo miro con los ojos muy abiertos.\n\n—¿No vas a dormir? Pero, carino, los osos dormimos todo el invierno. Es lo que hacemos.\n\n—Yo quiero ver el invierno —dijo Bruno—. Todos me lo cuentan y nadie lo mira. Dicen que el cielo se pone blanco y que el agua se vuelve dura. ¡Yo quiero verlo con mis propios ojos!\n\nRosalinda solto una risa suave, de esas que suenan como agua tibia.\n\n—Esta bien —dijo—. Pero deja la puerta de ramas floja, por si cambias de idea. Y come mucho, mucho, mucho.\n\nBruno comio arandanos hasta que se le pinto la lengua de azul. Despues se sento en la boca de la cueva, se cruzo las patas y espero al invierno como se espera a un amigo que va a llegar de viaje.",
+      "text": "—Este ano no voy a hibernar —anuncio Bruno.\n\nSu abuela, la osa Rosalinda, dejo de acomodar hojas secas y lo miro con los ojos muy abiertos.\n\n—¿No vas a dormir? Pero, carino, los osos dormimos todo el invierno. Es lo que hacemos.\n\n—Yo quiero ver el invierno —dijo Bruno—. Todos me lo cuentan y nadie lo mira. Dicen que el cielo se pone blanco y que el agua se vuelve dura. ¡Yo quiero verlo con mis propios ojos!\n\nRosalinda lo miro con carino y se le escapo una risa. Fue un sonido tibio, redondo, como el agua de un rio en verano.\n\n—Esta bien —dijo—. Pero come mucho, mucho, mucho. Y, por si cambias de idea, no cierres del todo la puerta.\n\nBruno comio arandanos hasta que se le pinto la lengua de azul. Despues se sento en la boca de la cueva, se cruzo las patas y espero al invierno como se espera a un amigo que va a llegar de viaje.",
       "cues": [
         {
           "anchor": "risa",
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "Los primeros dias de invierno fueron una fiesta. El bosque se quedo tan callado que Bruno podia oir sus propios pasos: chas, chas, chas sobre la escarcha. Cada charco del camino se habia puesto duro como un plato, y cuando Bruno lo pisaba con cuidado se oia un crujido chiquito, cric, que le daba muchisima risa.\n\n—¡Yo estoy despierto y el charco esta dormido! —se reia solo.\n\nDescubrio cosas que ningun oso dormilon habia visto: el vaho blanco que salia de su boca como el humo de una tetera, las telaranas convertidas en collares de cristal, el sol palido y perezoso asomando tarde entre los pinos. Se comio las ultimas moras heladas, que sabian a helado de bosque.\n\nPor las noches se envolvia en su manta de musgo, en la boca de la cueva, y le contaba el dia a la abuela, que respondia con un ronquido muy largo desde el fondo.",
+      "text": "Los primeros dias de invierno fueron una fiesta. El bosque se quedo tan callado que Bruno podia oir sus propios pasos: chas, chas, chas sobre la escarcha. Cada charco del camino se habia puesto duro como un plato, y cuando Bruno lo pisaba con cuidado sonaba un crujido. ¡Cric! Ese ruido le daba muchisima risa.\n\n—¡Yo estoy despierto y el charco esta dormido! —se reia solo.\n\nDescubrio cosas que ningun oso dormilon habia visto: el vaho blanco que salia de su boca como el humo de una tetera, las telaranas convertidas en collares de cristal, el sol palido y perezoso asomando tarde entre los pinos. Se comio las ultimas moras heladas, que sabian a helado de bosque.\n\nPor las noches se envolvia en su manta de musgo, en la boca de la cueva, y le contaba el dia a la abuela, que respondia con un ronquido muy largo desde el fondo.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -52,7 +52,7 @@
     },
     {
       "id": "s4",
-      "text": "Una noche, Bruno se desperto porque el silencio habia cambiado de sonido. Salio de la cueva y se quedo quieto, con la boca abierta.\n\nDel cielo bajaban miles de puntitos blancos, girando despacio, sin ninguna prisa. Caian en su nariz, en sus orejas, en sus hombros, y no hacian ruido: solo un cosquilleo frio y suave, como si el aire estuviera lleno de plumas.\n\n—¿Y esto que es? —susurro.\n\n—Nieve —contesto una vocecita desde una rama.\n\nBruno no miro quien era. No podia dejar de mirar hacia arriba. La luna estaba redonda y amarilla detras de las nubes, y entre los copos se colaban dos o tres estrellas que parecian guinarle un ojo.\n\nSe sento en el suelo. La nieve le tapo las patas, la barriga, la punta de la cola. Bruno se rio tan fuerte que se le movio la nieve de encima, y penso que valia la pena quedarse despierto.",
+      "text": "Una noche, Bruno se desperto porque el silencio habia cambiado de sonido. Salio de la cueva y se quedo quieto, con la boca abierta.\n\nDel cielo bajaban miles de puntos blancos, girando despacio, sin ninguna prisa. Caian en su nariz, en sus orejas, en sus hombros, y no hacian ruido: solo un cosquilleo frio y suave, como si el aire estuviera lleno de plumas.\n\n—¿Y esto que es? —susurro.\n\n—Nieve —contesto una voz pequena desde una rama.\n\nBruno no miro quien era. No podia dejar de mirar hacia arriba. Detras de las nubes, redonda y amarilla, brillaba la luna. Y entre los copos se colaban dos o tres estrellas. Todas parecian guinarle un ojo.\n\nSe sento en el suelo. La nieve le tapo las patas, la barriga, la punta de la cola. Bruno se rio tan fuerte que se le movio la nieve de encima, y penso que valia la pena quedarse despierto.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "Por la manana, el lago del bosque ya no era agua: era un espejo. Bruno metio una pata con muchisimo cuidado. Luego la otra. Luego las cuatro.\n\nY entonces, ¡zas!, se resbalo y aterrizo de barriga con un golpe blandito que sono como un tambor lleno de nieve.\n\n—¡Otra vez! —grito, feliz.\n\nBruno aprendio a patinar de la manera mas divertida: cayendose. Se deslizaba de espaldas, de lado, dando vueltas como una hoja en el agua, con las cuatro patas en el aire. Del bosque venian risas: una liebre, dos ardillas y un monton de pajaritos se habian asomado a mirar el espectaculo del oso patinador.\n\n—¡Los osos no patinan! —dijo la liebre.\n\n—Este si —contesto Bruno, y volvio a caerse, y todos volvieron a reirse, y el hielo hizo un ruido gracioso, tuc, tuc, tuc, como si tambien se estuviera riendo por debajo.",
+      "text": "Por la manana, el lago del bosque ya no era agua: era un espejo. Bruno metio una pata con muchisimo cuidado. Luego la otra. Luego las cuatro.\n\nY entonces, ¡zas!, se resbalo y aterrizo de barriga con un golpe. Sono como un tambor lleno de nieve.\n\n—¡Otra vez! —grito, feliz.\n\nBruno aprendio a patinar de la manera mas divertida: cayendose. Se deslizaba de espaldas, de lado, dando vueltas como una hoja en el agua, con las cuatro patas en el aire. Del bosque venian risas: una liebre, dos ardillas y un monton de pajaros se habian asomado a mirar el espectaculo del oso patinador.\n\n—¡Los osos no patinan! —dijo la liebre.\n\n—Este si —contesto Bruno, y volvio a caerse, y todos volvieron a reirse, y el hielo hizo un ruido gracioso, tuc, tuc, tuc, como si tambien se estuviera riendo por debajo.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -83,7 +83,7 @@
     },
     {
       "id": "s6",
-      "text": "Asi fue como Bruno hizo amigos de invierno: los que no hibernan.\n\nConocio a Lila, la liebre de pelo blanco, que le enseno a caminar sobre la nieve sin hundirse. Conocio a los tres gorriones de la rama torcida, que dormian todos apretados como un solo pompon. Conocio a Tomas, el zorro de cola enorme, que le mostro donde el arroyo seguia cantando debajo del hielo.\n\nY conocio a Ulises, un buho grande y serio que vivia en el roble viejo y que decia las cosas importantes con un susurro:\n\n—Uuuh... Bruno... el invierno es bonito y tambien es duro. Cuando el bosque te avise, escuchalo.\n\n—¿Y como avisa? —pregunto Bruno.\n\n—Se pone silencioso —dijo Ulises—. Mas silencioso que ahora.\n\nBruno no entendio, pero dijo que si con la cabeza, porque era de noche y porque estaba muy contento. Todos comieron pinones y contaron cuentos hasta que la nieve se puso azul.",
+      "text": "Asi fue como Bruno hizo amigos de invierno: los que no hibernan.\n\nConocio a Lila, la liebre de pelo blanco, que le enseno a caminar sobre la nieve sin hundirse. Conocio a los tres gorriones de la rama torcida, que dormian todos apretados como un solo pompon. Conocio a Tomas, el zorro de cola enorme, que le mostro donde el arroyo seguia cantando debajo del hielo.\n\nY arriba del todo, en el roble viejo, vivia Ulises. Era grande, serio y tenia los ojos redondos como dos monedas: un buho. Decia las cosas importantes con un susurro:\n\n—Uuuh... Bruno... el invierno es bonito y tambien es duro. Cuando el bosque te avise, escuchalo.\n\n—¿Y como avisa? —pregunto Bruno.\n\n—Se pone silencioso —dijo Ulises—. Mas silencioso que ahora.\n\nBruno no entendio, pero dijo que si con la cabeza, porque era de noche y porque estaba muy contento. Todos comieron pinones y contaron cuentos hasta que la nieve se puso azul.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -98,27 +98,22 @@
     },
     {
       "id": "s7",
-      "text": "Una tarde, el bosque se quedo callado. Tan callado que Bruno oyo su propio corazon. Se acordo de Ulises y sintio un cosquilleo raro en la barriga.\n\nEntonces empezo el viento. No el viento suave de antes: este venia fuerte, empujando la nieve de lado, borrando los caminos, silbando entre los pinos como una flauta enorme. Muy lejos, detras de las montanas, sono un trueno bajito, como si el cielo se estuviera estirando.\n\nBruno camino y camino, pero todo se veia igual: blanco, blanco, blanco. Tenia las patas duras de frio. Tenia la nariz helada. Y, sobre todo, tenia un sueno gigantesco, un sueno que le pesaba en los parpados como dos piedritas tibias.\n\n—Solo voy a cerrar los ojos un ratito —dijo, y se sento junto a un tronco caido.\n\nY desde algun lugar de la nieve, muy cerca, alguien lo llamo por su nombre.",
+      "text": "Una tarde, el bosque se quedo callado. Tan callado que Bruno oyo su propio corazon. Se acordo de Ulises y sintio un cosquilleo raro en la barriga.\n\nEntonces empezo el viento. No era el de antes, suave y tibio: este venia fuerte, empujando la nieve de lado, borrando los caminos, silbando entre los pinos como una flauta enorme. Muy lejos, detras de las montanas, sono un trueno largo, como si el cielo se estuviera estirando.\n\nBruno camino y camino, pero todo se veia igual: blanco, blanco, blanco. Tenia las patas duras de frio. Tenia la nariz helada. Y, sobre todo, tenia un sueno gigantesco, un sueno que le pesaba en los parpados como dos piedras tibias.\n\n—Solo voy a cerrar los ojos un rato —dijo, y se sento junto a un tronco caido.\n\nY desde algun lugar de la nieve, muy cerca, alguien lo llamo por su nombre.",
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "viento",
-          "sfx": "wind_high"
-        },
-        {
-          "anchor": "trueno",
-          "sfx": "thunder",
-          "delayMs": 400
-        },
-        {
           "anchor": "corazon",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "viento",
+          "sfx": "wind_high"
         }
       ]
     },
     {
       "id": "s8",
-      "text": "Eran Lila y Tomas, con la nieve hasta las orejas.\n\n—¡Arriba, oso! —dijo la liebre—. Aqui no se puede dormir.\n\nLo empujaron, lo jalaron y lo llevaron entre los dos hasta el roble viejo. Tomas abrio una puerta de raices y musgo, y los tres se metieron en la madriguera, que era pequena, oscura y calentita como una taza de leche.\n\nDentro habia hojas secas apiladas, semillas guardadas y tres gorriones dormidos en un rincon. Ulises los esperaba con los ojos brillando.\n\nLila tapo a Bruno con hojas y con su propio cuerpito. Tomas le puso la cola enorme sobre las patas frias. Afuera, el viento seguia silbando, pero adentro se oia otra cosa: la respiracion de los amigos, muy juntos, todos al mismo ritmo.\n\n—Gracias —dijo Bruno, con la voz espesa de sueno.\n\n—Para eso estan los amigos de invierno —dijo Tomas—. Para prestarte la cola.",
+      "text": "Eran Lila y Tomas, con la nieve hasta las orejas.\n\n—¡Arriba, oso! —dijo la liebre—. Aqui no se puede dormir.\n\nLo empujaron, lo jalaron y lo llevaron entre los dos hasta el roble viejo. Tomas aparto unas raices y un poco de musgo, y detras aparecio una puerta. Los tres se metieron en la madriguera, que era pequena, oscura y tibia como una taza de leche.\n\nDentro habia hierba seca apilada, semillas guardadas y tres gorriones dormidos en un rincon. Ulises los esperaba con los ojos brillando.\n\nLila tapo a Bruno con su propio cuerpo y con un monton de hojas. Tomas le puso la cola enorme sobre las patas frias. Afuera, el viento seguia silbando, pero adentro se oia otra cosa: la respiracion de los amigos, muy juntos, todos al mismo ritmo.\n\n—Gracias —dijo Bruno, con la voz espesa de sueno.\n\n—Para eso estan los amigos de invierno —dijo Tomas—. Para prestarte la cola.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -133,7 +128,7 @@
     },
     {
       "id": "s9",
-      "text": "Cuando la tormenta se calmo, el sol volvio a asomarse y el bosque quedo cubierto de azucar. Bruno salio de la madriguera, se estiro y descubrio algo curioso: le pesaba todo. Las patas, la cabeza, hasta los bigotes.\n\n—Creo que mi cuerpo me esta diciendo una cosa —dijo despacito.\n\nSe sento en la nieve y respiro muy hondo, una, dos, tres veces, como cuando uno se prepara para algo importante. Y entonces lo entendio: su cuerpo no era terco ni aburrido. Su cuerpo era sabio. Le pedia descansar porque lo queria, igual que Lila le pedia comer y Ulises le pedia escuchar.\n\n—Ya vi el invierno —susurro—. Vi la nieve, patine, tuve amigos. Ahora me toca dormir.\n\nUlises movio las plumas, contento.\n\n—Uuuh... eso, Bruno, se llama crecer.\n\nLila le dio un abrazo de liebre, que son abrazos rapidos. Tomas le regalo un pinon para el camino. Bruno prometio volver en primavera.",
+      "text": "Cuando la tormenta se calmo, el sol volvio a asomarse y el bosque quedo cubierto de azucar. Bruno salio de la madriguera, se estiro y descubrio algo curioso: le pesaba todo. Las patas, la cabeza, hasta los bigotes.\n\n—Creo que mi cuerpo me esta diciendo una cosa —dijo despacio.\n\nSe sento en la nieve y respiro. Lo hizo hondo, una, dos, tres veces, como cuando uno se prepara para algo importante. Y entonces lo entendio: su cuerpo no era terco ni aburrido. Su cuerpo era sabio. Le pedia descansar porque lo queria, igual que Lila le pedia comer y Ulises le pedia escuchar.\n\n—Ya vi el invierno. Vi la nieve, patine, tuve amigos. Ahora me toca dormir —dijo en un susurro.\n\nUlises movio las plumas, contento.\n\n—Uuuh... eso, Bruno, se llama crecer.\n\nLila le dio un abrazo de liebre, que son abrazos rapidos. Tomas le regalo un pinon para el camino. Bruno prometio volver en primavera.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -148,7 +143,7 @@
     },
     {
       "id": "s10",
-      "text": "El camino a casa fue lento y bonito. Bruno dejaba huellas grandotas y redondas, y en cada huella se juntaba una sombrita azul.\n\nLa abuela Rosalinda ni se movio cuando el entro. Bruno acomodo las hojas secas, dio tres vueltas sobre su cama de musgo, como hacen los osos, y se acosto con la barriga hacia arriba.\n\nDesde la boca de la cueva se veia un pedacito de cielo. La luna estaba ahi, blanca y tranquila, y la nieve brillaba como si alguien hubiera guardado el dia entero en el suelo para que no se perdiera.\n\nBruno cerro los ojos. Penso en el hielo, en las risas, en la cola de Tomas. Penso que el invierno era todavia mas bonito de lo que le habian contado.\n\nY muy despacito, muy calentito, se le escapo el primer ronquido del ano.\n\nAfuera seguia nevando. Adentro, un oso feliz dormia hasta la primavera.",
+      "text": "El camino a casa fue lento y bonito. Bruno dejaba huellas grandes y redondas, y en cada huella se juntaba una sombra azul.\n\nLa abuela Rosalinda ni se movio cuando el entro. Bruno acomodo las hojas secas, dio tres vueltas sobre su cama de musgo, como hacen los osos, y se acosto con la barriga hacia arriba.\n\nDesde la boca de la cueva se veia un pedazo de cielo. Ahi estaba, blanca y tranquila, la luna. La nieve brillaba como si alguien hubiera guardado el dia entero en el suelo para que no se perdiera.\n\nBruno cerro los ojos. Penso en el hielo, en las risas, en la cola de Tomas. Penso que el invierno era todavia mas bonito de lo que le habian contado.\n\nY entonces, muy despacio y muy tibio, se le escapo el primer ronquido.\n\nAfuera seguia nevando. Adentro, un oso feliz dormia hasta la primavera.",
       "ambient": "snow_wind",
       "cues": [
         {

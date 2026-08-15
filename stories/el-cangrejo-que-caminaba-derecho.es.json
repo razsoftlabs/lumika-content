@@ -2,13 +2,13 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "El cangrejo que caminaba derecho",
-  "summary": "Kiko el cangrejito quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa.",
+  "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En una playa dorada, donde las olas venían y se iban cantando bajito, vivía un cangrejito llamado Kiko. Tenía el caparazón del color de la naranja y dos pincitas chiquitas que movía todo el tiempo. Esa tarde, mientras el viento tibio le acariciaba las antenas, Kiko miró a sus vecinos. La tortuga caminaba hacia adelante, despacito. Los pajaritos de la orilla trotaban hacia adelante, muy derechitos. Pero Kiko, cada vez que daba un paso, se iba para el lado. ¡Siempre de lado! 'Qué raro soy', pensó, mirándose las patitas. 'Yo también quiero caminar derecho, como todos los demás.'",
+      "text": "En una playa dorada vivía un cangrejo pequeño llamado Kiko. Tenía el caparazón del color de una naranja y dos pinzas que movía todo el tiempo. Delante de su casa iban y venían, cantando sin parar, las olas. Esa tarde, entre sus antenas, jugaba un viento. Kiko miró a sus vecinos. La tortuga caminaba hacia adelante, despacio. Los pájaros de la orilla trotaban hacia adelante, muy derechos. Pero Kiko, cada vez que daba un paso, se iba para el lado. ¡Siempre de lado! 'Qué raro soy', pensó, mirándose las patas. 'Yo también quiero caminar derecho, como todos los demás.'",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "A la mañana siguiente, Kiko decidió practicar. 'Hoy voy a caminar derecho, sí o sí', se dijo, muy serio. Apuntó las pincitas hacia adelante, empujó con todas sus patitas y... ¡plaf! Se cayó de panza en la arena. Lo intentó otra vez, apretando los ojitos. Un pasito, dos pasitos, y ¡plaf!, rodó como una pelotita. Kiko resopló y soltó un montón de burbujas de puro enojo: plop, plop, plop. Por más que quería, su cuerpito solo sabía ir de lado. Se sentó, cansado y triste, mientras las burbujas subían hasta el cielo.",
+      "text": "A la mañana siguiente, Kiko decidió practicar. 'Hoy voy a caminar derecho', se dijo, muy serio. Apuntó las pinzas hacia adelante, empujó con todas sus patas y... ¡plaf! Se cayó de panza en la arena. Lo intentó otra vez, apretando los ojos. Un paso, otro paso, y de nuevo al suelo: ¡plaf! Rodó por la arena como una pelota. Kiko resopló de puro enojo y soltó un montón de burbujas. Plop, plop, plop. Por más que quería, su cuerpo solo sabía ir de lado. Se sentó, cansado y triste, y las miró subir hasta el cielo.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -38,13 +38,9 @@
     },
     {
       "id": "s3",
-      "text": "'¿Por qué esa carita tan triste?', dijo una voz dulce. Era Estela, una estrella de mar de color rosa, que descansaba sobre una roca cubierta de espuma. 'Es que no sé caminar derecho', suspiró Kiko. 'Todos van hacia adelante, menos yo.' Estela le sonrió con sus cinco puntitas. 'Ay, Kiko. Yo te miro caminar todos los días. Te vas para un lado, rapidito, como si bailaras. A mí me encanta cómo caminas.' Kiko no le creyó mucho. Bajó las antenas y siguió mirando la arena. Pero muy adentro, algo chiquito en su corazón le hizo cosquillas.",
+      "text": "'¿Por qué esa cara tan triste?', dijo una voz dulce. Era Estela, una estrella de mar rosada que descansaba sobre una roca cubierta de espuma. 'Es que no sé caminar derecho', suspiró Kiko. 'Todos van hacia adelante, menos yo.' Estela le sonrió con sus cinco puntas. 'Ay, Kiko. Yo te miro caminar todos los días. Te vas para un lado, rápido, como si bailaras. A mí me encanta cómo caminas.' Kiko no le creyó mucho. Bajó las antenas y siguió mirando la arena. Pero muy adentro, algo pequeño le hizo cosquillas en el corazón.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "estrella",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
@@ -53,7 +49,7 @@
     },
     {
       "id": "s4",
-      "text": "De pronto, el mar hizo un ruido grande. ¡Una ola enorme venía corriendo hacia la orilla! Estela estaba sobre su roca y no podía moverse rápido. '¡Ayuda!', gritó. Kiko no lo pensó dos veces. Movió sus patitas de lado, ¡tacatá, tacatá!, y salió disparado por la arena. ¡Nunca nadie había visto pasitos tan veloces! Llegó volando junto a Estela, la sujetó con sus pincitas y la arrastró lejos justo a tiempo. La ola pasó por debajo, salpicando, y los dos quedaron a salvo. Kiko jadeaba, con el corazón contento. Caminar de lado lo había hecho el más rápido de toda la playa.",
+      "text": "De pronto, el mar hizo un ruido grande y frente a la orilla se levantó una ola. ¡Era enorme y venía corriendo hacia ellos! Estela estaba sobre su roca y no podía moverse rápido. '¡Ayuda!', gritó. Kiko no lo pensó dos veces. Movió las patas de lado, tacatá, tacatá, y por la arena volaron sus pasos. ¡Nadie en la playa había visto correr tan rápido a un cangrejo! Llegó junto a Estela, la sujetó con sus pinzas y la arrastró lejos justo a tiempo. El agua pasó por debajo, salpicando, y los dos quedaron a salvo. Kiko jadeaba, feliz y orgulloso. Caminar de lado lo había hecho el más rápido de toda la playa.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -61,18 +57,14 @@
           "sfx": "water_splash"
         },
         {
-          "anchor": "pasitos",
+          "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "Esa noche, toda la playa quiso celebrar. La tortuga, los pajaritos y Estela rodearon a Kiko. 'Enséñanos tu paso mágico', le pidieron. Kiko se puso muy contento y les mostró su baile de lado: un pasito aquí, un pasito allá. Pronto todos bailaban de lado, chocándose y rodando, y la playa se llenó de risa. Cuando salió la luna, Kiko se acurrucó en la arena calentita. Arriba brillaban las estrellas, guiñándole desde el cielo. 'Caminar de lado es mi superpoder', susurró, con una sonrisa. Y mientras las olas lo arrullaban, Kiko cerró los ojitos y se durmió, feliz de ser justo como era.",
+      "text": "Esa noche, toda la playa quiso celebrar. La tortuga, los pájaros y Estela rodearon a Kiko. 'Enséñanos tu paso mágico', le pidieron. Kiko se puso muy contento y les mostró su baile de lado: un paso aquí, un paso allá. Pronto todos bailaban de lado, chocándose y rodando, y la playa se llenó de risa. Cuando salió la luna, Kiko se acurrucó en la arena tibia. Desde el cielo le guiñaban las estrellas. 'Caminar de lado es mi superpoder', susurró, con una sonrisa. Y mientras el mar lo arrullaba, Kiko cerró los ojos y se durmió, feliz de ser justo como era.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -82,10 +74,6 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "mágico",
-          "sfx": "magic_shimmer"
         }
       ]
     }

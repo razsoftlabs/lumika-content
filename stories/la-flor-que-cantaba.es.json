@@ -2,13 +2,13 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 2,
+  "version": 3,
   "title": "La flor que cantaba",
-  "summary": "Una florecita demasiado tímida para cantar esconde una vocecita que quizás el jardín entero necesita escuchar.",
+  "summary": "Una flor demasiado tímida para cantar esconde una voz que quizás el jardín entero necesita escuchar.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un jardín dormido vivía una florecita muy tímida. Se llamaba Lila y tenía los pétalos del color del atardecer. Cada noche, la luna encendía su luz plateada sobre el jardín, y las hojas se mecían con un susurro suave. Lila quería cantar, pero le daba mucha vergüenza. '¿Y si mi voz suena rara?', pensaba, escondiendo la carita entre las hojas. Así que guardaba su canción muy adentro, calladita, y miraba el cielo sin hacer ruido. La luna la saludaba con un guiño de luz, como diciéndole que no tuviera miedo.",
+      "text": "En un jardín dormido vivía una flor muy tímida. Se llamaba Lila y tenía los pétalos del color del atardecer. Cada noche, sobre el jardín, encendía su luz plateada la luna. Con un susurro suave se mecían las hojas. Lila quería cantar, pero le daba mucha vergüenza. '¿Y si mi voz suena rara?', pensaba, escondiendo la cara entre los pétalos. Así que guardaba su canción muy adentro, en silencio, y miraba el cielo sin hacer ruido. Y la luz de la noche la saludaba con un guiño, como diciéndole que no tuviera miedo.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "Desde la rama de un árbol, un búho viejo y amable la observaba. '¿Por qué no cantas, pequeña?', preguntó con voz tranquila. Lila se puso coloradita. 'Tengo miedo de que nadie quiera escucharme', respondió bajito. El búho sonrió y señaló el cielo, donde una estrella brillaba con ternura. 'Cada estrella fue tímida alguna vez', dijo, 'hasta que se atrevió a brillar.' Lila miró la estrella y sintió un cosquilleo cálido en el corazón. Tal vez, solo tal vez, su vocecita también tenía algo bonito para dar al mundo dormido.",
+      "text": "Desde la rama de un árbol la miraba, viejo y amable, un búho. '¿Por qué no cantas, pequeña?', preguntó con voz tranquila. Lila se puso colorada. 'Tengo miedo de que nadie quiera escucharme', respondió en voz baja. Él sonrió y señaló el cielo, donde brillaba con ternura una estrella. 'Todas fueron tímidas alguna vez', dijo, 'hasta que se atrevieron a brillar.' Lila la miró un largo rato y sintió un cosquilleo cálido en el pecho. Tal vez, solo tal vez, su voz también tenía algo bonito para dar al mundo dormido.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -33,22 +33,14 @@
         {
           "anchor": "estrella",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     },
     {
       "id": "s3",
-      "text": "Poco a poco, la noche empezó a hacerse gris y suave. Un viento tibio recorrió el jardín, despeinando los pétalos con cariño. El búho le hizo un guiño. 'Es casi el amanecer', susurró. 'Este es tu momento.' Lila cerró los ojos. Sintió el viento en la carita y, muy despacio, respiró hondo, llenándose de valor. Su corazón latía como un tamborcito. Entonces, tan bajito como el aleteo de una mariposa, dejó salir la primera notita de su canción. Fue apenas un hilito de voz, tembloroso y dulce, pero era suyo.",
+      "text": "Poco a poco, la noche empezó a hacerse gris y suave. Un viento tibio recorrió el jardín, despeinando los pétalos con cariño. El búho le hizo un guiño. 'Es casi el amanecer', susurró. 'Este es tu momento.' Lila cerró los ojos. Sintió el aire en la cara y, muy despacio, respiró. Hondo, hondo, llenándose de valor. Como un tambor le latía el corazón. Entonces, tan suave como el aleteo de una mariposa, dejó salir la primera nota de su canción. Fue apenas un hilo de voz, tembloroso y dulce, pero era suyo.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "respiró",
           "sfx": "breathe_in"
@@ -61,26 +53,22 @@
     },
     {
       "id": "s4",
-      "text": "Y entonces ocurrió la magia. Con cada nota, un pétalo se despertaba. La flor de al lado abrió sus hojas y soltó un suspiro de colores. Más allá, una margarita estiró sus brazos amarillos hacia el primer destello del sol. ¡El canto de Lila hacía florecer el jardín! Las abejas abrieron sus alitas y zumbaron felices entre las flores recién despiertas. Lila cantaba y cantaba, ya sin miedo, y su voz llenaba el aire de dulzura. Todo el jardín parecía despertar de puntillas, escuchando a la florecita que antes no se atrevía a cantar.",
+      "text": "Y entonces ocurrió la magia. Con cada nota, un pétalo se despertaba. La flor de al lado abrió sus hojas y soltó un suspiro de colores. Más allá, una margarita estiró sus brazos amarillos hacia el primer destello del sol. ¡El canto de Lila hacía florecer el jardín! Entre las flores recién despiertas zumbaron felices las abejas. Lila cantaba y cantaba, ya sin miedo, y su voz llenaba el aire de dulzura. Todo el jardín parecía despertar de puntillas, escuchando a la flor que antes no se atrevía a cantar.",
       "ambient": "forest_birds",
       "cues": [
         {
-          "anchor": "destello",
-          "sfx": "sparkle"
+          "anchor": "magia",
+          "sfx": "magic_shimmer"
         },
         {
           "anchor": "abejas",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "magia",
-          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s5",
-      "text": "Cuando el sol terminó de asomarse, el jardín entero estaba despierto y radiante. Todas las flores reían suavecito, agradecidas, y le hacían una reverencia a Lila. Ella ya no era tímida; había descubierto que su canto era un regalo. El búho, contento, cerró sus ojitos para dormir. 'Lo hiciste precioso', susurró el viento al pasar. Y así, cada amanecer, Lila cantaba para despertar a sus amigas con ternura. Ahora cierra los ojitos, pequeño. Quizás, si escuchas con el corazón, oirás una florecita cantando bajito, ayudando al mundo entero a florecer mientras sueñas.",
+      "text": "Cuando el sol terminó de asomarse, el jardín entero estaba despierto y radiante. Agradecidas, todas las flores reían. Le hacían una reverencia a Lila, que ya no era tímida: había descubierto que su canto era un regalo. El búho, contento, cerró los ojos para dormir. Al pasar, el viento le dejó un susurro: 'Lo hiciste precioso.' Y así, cada amanecer, Lila cantaba para despertar a sus amigas con ternura. Ahora cierra los ojos, pequeño. Quizás, si escuchas con el corazón, oirás una florecita cantando muy suave, ayudando al mundo entero a florecer mientras sueñas.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -88,12 +76,8 @@
           "sfx": "giggle"
         },
         {
-          "anchor": "susurró",
+          "anchor": "susurro",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754008,
+  "manifestVersion": 1786826754009,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -2222,7 +2222,12 @@
       "adventure_soft",
       "celesta_snow",
       "gentle_piano",
+      "guitar_clear",
+      "guitar_night",
+      "guitar_tales",
       "guitar_warm",
+      "guitar_windswept",
+      "harp_canon",
       "harp_dreams",
       "intro_lumika",
       "lullaby_piano",

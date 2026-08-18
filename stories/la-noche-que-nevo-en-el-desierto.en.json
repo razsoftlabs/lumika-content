@@ -2,7 +2,7 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "The Night It Snowed in the Desert",
   "summary": "In a village where it has never snowed, Amira dreams of seeing real snow… and one winter afternoon the wind changes sides.",
   "scenes": [
@@ -159,7 +159,7 @@
       "cues": [
         {
           "anchor": "running",
-          "sfx": "whoosh"
+          "sfx": "run_fast"
         },
         {
           "anchor": "crunched",

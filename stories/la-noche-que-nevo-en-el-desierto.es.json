@@ -2,7 +2,7 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "La noche que nevó en el desierto",
   "summary": "En un pueblo donde nunca ha nevado, Amira sueña con ver la nieve de verdad… y una tarde de invierno el viento cambia de lado.",
   "scenes": [
@@ -159,7 +159,7 @@
       "cues": [
         {
           "anchor": "corriendo",
-          "sfx": "whoosh"
+          "sfx": "run_fast"
         },
         {
           "anchor": "crujía",

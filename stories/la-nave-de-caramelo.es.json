@@ -2,7 +2,7 @@
   "id": "la-nave-de-caramelo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "La nave de caramelo",
   "summary": "Tres amigos despegan en una nave de galletas y caramelo, y allá arriba encuentran a una estrella que necesita su ayuda.",
   "scenes": [
@@ -40,7 +40,7 @@
       "cues": [
         {
           "anchor": "cometa",
-          "sfx": "whoosh"
+          "sfx": "wing_flap"
         },
         {
           "anchor": "estrella",

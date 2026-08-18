@@ -2,7 +2,7 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "The Treasure by the Stream",
   "summary": "On a rainy day, three siblings find a map their grandpa drew by hand, and at dawn they set out into the forest to discover what the X beside the stream is hiding.",
   "scenes": [
@@ -165,7 +165,7 @@
         },
         {
           "anchor": "raced",
-          "sfx": "whoosh"
+          "sfx": "run_fast"
         }
       ]
     },

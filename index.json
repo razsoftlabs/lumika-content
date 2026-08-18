@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754007,
-  "publishedAt": "2026-08-15T20:45:54.007Z",
+  "manifestVersion": 1786826754008,
+  "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
     "en",
@@ -10,7 +10,7 @@
   "stories": [
     {
       "id": "el-zorro-y-la-luna",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -100,7 +100,7 @@
     },
     {
       "id": "el-dragon-que-olvidaba-volar",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -146,7 +146,7 @@
     },
     {
       "id": "los-tres-amigos-del-bosque",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -367,7 +367,7 @@
     },
     {
       "id": "rex-el-pequeno-dinosaurio",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -412,7 +412,7 @@
     },
     {
       "id": "la-princesa-y-el-dragon-triston",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -845,7 +845,7 @@
     },
     {
       "id": "el-dragoncito-de-las-nubes",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1015,7 +1015,7 @@
     },
     {
       "id": "el-gato-que-cruzo-la-ciudad",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1362,7 +1362,7 @@
     },
     {
       "id": "el-tesoro-del-arroyo",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1491,7 +1491,7 @@
     },
     {
       "id": "la-biblioteca-de-medianoche",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1833,7 +1833,7 @@
     },
     {
       "id": "la-nave-de-caramelo",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1876,7 +1876,7 @@
     },
     {
       "id": "la-noche-que-nevo-en-el-desierto",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -2089,7 +2089,7 @@
     },
     {
       "id": "mia-y-la-nube-viajera",
-      "version": 5,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -2177,316 +2177,72 @@
     }
   ],
   "audio": {
+    "sfx": [
+      "bark",
+      "bee_buzz",
+      "bell_soft",
+      "breathe_in",
+      "bubbles",
+      "campfire",
+      "cat_meow",
+      "crunch",
+      "dino_step",
+      "door_open",
+      "footsteps",
+      "frog_croak",
+      "giggle",
+      "hammer_tap",
+      "heartbeat_calm",
+      "horse_gallop",
+      "horse_neigh",
+      "jump_hop",
+      "leaves_rustle",
+      "magic_shimmer",
+      "owl_hoot",
+      "page_turn",
+      "rocket",
+      "run_fast",
+      "seagulls",
+      "sneeze_cute",
+      "snore_soft",
+      "sparkle",
+      "thud",
+      "thunder",
+      "train_soft",
+      "twinkle",
+      "water_splash",
+      "whale_song",
+      "whisper",
+      "whoosh",
+      "wind_high",
+      "wind_soft",
+      "wing_flap"
+    ],
     "music": [
-      {
-        "id": "adventure_soft",
-        "version": 1,
-        "url": "audio/music/adventure_soft.mp3"
-      },
-      {
-        "id": "celesta_snow",
-        "version": 1,
-        "url": "audio/music/celesta_snow.mp3"
-      },
-      {
-        "id": "gentle_piano",
-        "version": 1,
-        "url": "audio/music/gentle_piano.mp3"
-      },
-      {
-        "id": "guitar_warm",
-        "version": 1,
-        "url": "audio/music/guitar_warm.mp3"
-      },
-      {
-        "id": "harp_dreams",
-        "version": 1,
-        "url": "audio/music/harp_dreams.mp3"
-      },
-      {
-        "id": "intro_lumika",
-        "version": 1,
-        "url": "audio/music/intro_lumika.mp3"
-      },
-      {
-        "id": "lullaby_piano",
-        "version": 1,
-        "url": "audio/music/lullaby_piano.mp3"
-      },
-      {
-        "id": "marimba_playful",
-        "version": 1,
-        "url": "audio/music/marimba_playful.mp3"
-      },
-      {
-        "id": "music_box",
-        "version": 1,
-        "url": "audio/music/music_box.mp3"
-      },
-      {
-        "id": "playful_flute",
-        "version": 1,
-        "url": "audio/music/playful_flute.mp3"
-      },
-      {
-        "id": "space_dream",
-        "version": 1,
-        "url": "audio/music/space_dream.mp3"
-      },
-      {
-        "id": "strings_hopeful",
-        "version": 1,
-        "url": "audio/music/strings_hopeful.mp3"
-      },
-      {
-        "id": "ukulele_happy",
-        "version": 1,
-        "url": "audio/music/ukulele_happy.mp3"
-      }
+      "adventure_soft",
+      "celesta_snow",
+      "gentle_piano",
+      "guitar_warm",
+      "harp_dreams",
+      "intro_lumika",
+      "lullaby_piano",
+      "marimba_playful",
+      "music_box",
+      "playful_flute",
+      "space_dream",
+      "strings_hopeful"
     ],
     "ambient": [
-      {
-        "id": "city_soft",
-        "version": 1,
-        "url": "audio/ambient/city_soft.mp3"
-      },
-      {
-        "id": "fireplace",
-        "version": 1,
-        "url": "audio/ambient/fireplace.mp3"
-      },
-      {
-        "id": "forest_birds",
-        "version": 1,
-        "url": "audio/ambient/forest_birds.mp3"
-      },
-      {
-        "id": "forest_night",
-        "version": 1,
-        "url": "audio/ambient/forest_night.mp3"
-      },
-      {
-        "id": "meadow_day",
-        "version": 1,
-        "url": "audio/ambient/meadow_day.mp3"
-      },
-      {
-        "id": "ocean_waves",
-        "version": 1,
-        "url": "audio/ambient/ocean_waves.mp3"
-      },
-      {
-        "id": "rain",
-        "version": 1,
-        "url": "audio/ambient/rain.mp3"
-      },
-      {
-        "id": "snow_wind",
-        "version": 1,
-        "url": "audio/ambient/snow_wind.mp3"
-      },
-      {
-        "id": "stream_water",
-        "version": 1,
-        "url": "audio/ambient/stream_water.mp3"
-      },
-      {
-        "id": "underwater",
-        "version": 1,
-        "url": "audio/ambient/underwater.mp3"
-      }
-    ],
-    "sfx": [
-      {
-        "id": "bark",
-        "version": 1,
-        "url": "audio/sfx/bark.mp3"
-      },
-      {
-        "id": "bee_buzz",
-        "version": 1,
-        "url": "audio/sfx/bee_buzz.mp3"
-      },
-      {
-        "id": "bell_soft",
-        "version": 1,
-        "url": "audio/sfx/bell_soft.mp3"
-      },
-      {
-        "id": "breathe_in",
-        "version": 1,
-        "url": "audio/sfx/breathe_in.mp3"
-      },
-      {
-        "id": "bubbles",
-        "version": 1,
-        "url": "audio/sfx/bubbles.mp3"
-      },
-      {
-        "id": "campfire",
-        "version": 1,
-        "url": "audio/sfx/campfire.mp3"
-      },
-      {
-        "id": "cat_meow",
-        "version": 1,
-        "url": "audio/sfx/cat_meow.mp3"
-      },
-      {
-        "id": "crunch",
-        "version": 1,
-        "url": "audio/sfx/crunch.mp3"
-      },
-      {
-        "id": "dino_step",
-        "version": 1,
-        "url": "audio/sfx/dino_step.mp3"
-      },
-      {
-        "id": "door_open",
-        "version": 1,
-        "url": "audio/sfx/door_open.mp3"
-      },
-      {
-        "id": "footsteps",
-        "version": 1,
-        "url": "audio/sfx/footsteps.mp3"
-      },
-      {
-        "id": "frog_croak",
-        "version": 1,
-        "url": "audio/sfx/frog_croak.mp3"
-      },
-      {
-        "id": "giggle",
-        "version": 1,
-        "url": "audio/sfx/giggle.mp3"
-      },
-      {
-        "id": "hammer_tap",
-        "version": 1,
-        "url": "audio/sfx/hammer_tap.mp3"
-      },
-      {
-        "id": "heartbeat_calm",
-        "version": 1,
-        "url": "audio/sfx/heartbeat_calm.mp3"
-      },
-      {
-        "id": "horse_gallop",
-        "version": 1,
-        "url": "audio/sfx/horse_gallop.mp3"
-      },
-      {
-        "id": "horse_neigh",
-        "version": 1,
-        "url": "audio/sfx/horse_neigh.mp3"
-      },
-      {
-        "id": "leaves_rustle",
-        "version": 1,
-        "url": "audio/sfx/leaves_rustle.mp3"
-      },
-      {
-        "id": "magic_shimmer",
-        "version": 1,
-        "url": "audio/sfx/magic_shimmer.mp3"
-      },
-      {
-        "id": "owl_hoot",
-        "version": 1,
-        "url": "audio/sfx/owl_hoot.mp3"
-      },
-      {
-        "id": "page_turn",
-        "version": 1,
-        "url": "audio/sfx/page_turn.mp3"
-      },
-      {
-        "id": "pop",
-        "version": 1,
-        "url": "audio/sfx/pop.mp3"
-      },
-      {
-        "id": "rocket",
-        "version": 1,
-        "url": "audio/sfx/rocket.mp3"
-      },
-      {
-        "id": "seagulls",
-        "version": 1,
-        "url": "audio/sfx/seagulls.mp3"
-      },
-      {
-        "id": "sneeze_cute",
-        "version": 1,
-        "url": "audio/sfx/sneeze_cute.mp3"
-      },
-      {
-        "id": "snore_soft",
-        "version": 1,
-        "url": "audio/sfx/snore_soft.mp3"
-      },
-      {
-        "id": "sparkle",
-        "version": 1,
-        "url": "audio/sfx/sparkle.mp3"
-      },
-      {
-        "id": "thud",
-        "version": 1,
-        "url": "audio/sfx/thud.mp3"
-      },
-      {
-        "id": "thunder",
-        "version": 1,
-        "url": "audio/sfx/thunder.mp3"
-      },
-      {
-        "id": "train_soft",
-        "version": 1,
-        "url": "audio/sfx/train_soft.mp3"
-      },
-      {
-        "id": "twinkle",
-        "version": 1,
-        "url": "audio/sfx/twinkle.mp3"
-      },
-      {
-        "id": "water_splash",
-        "version": 1,
-        "url": "audio/sfx/water_splash.mp3"
-      },
-      {
-        "id": "whale_song",
-        "version": 1,
-        "url": "audio/sfx/whale_song.mp3"
-      },
-      {
-        "id": "whisper",
-        "version": 1,
-        "url": "audio/sfx/whisper.mp3"
-      },
-      {
-        "id": "whoosh",
-        "version": 1,
-        "url": "audio/sfx/whoosh.mp3"
-      },
-      {
-        "id": "wind_chimes",
-        "version": 1,
-        "url": "audio/sfx/wind_chimes.mp3"
-      },
-      {
-        "id": "wind_high",
-        "version": 1,
-        "url": "audio/sfx/wind_high.mp3"
-      },
-      {
-        "id": "wind_soft",
-        "version": 1,
-        "url": "audio/sfx/wind_soft.mp3"
-      }
+      "city_soft",
+      "fireplace",
+      "forest_birds",
+      "forest_night",
+      "meadow_day",
+      "ocean_waves",
+      "rain",
+      "snow_wind",
+      "stream_water",
+      "underwater"
     ]
   }
 }

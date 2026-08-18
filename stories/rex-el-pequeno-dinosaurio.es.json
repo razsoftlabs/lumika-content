@@ -2,7 +2,7 @@
   "id": "rex-el-pequeno-dinosaurio",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "Rex, el pequeño dinosaurio",
   "summary": "Rex es el más pequeño de su familia, pero tiene un rugido enorme que asusta hasta a las nubes.",
   "scenes": [
@@ -44,7 +44,7 @@
         },
         {
           "anchor": "volando",
-          "sfx": "whoosh"
+          "sfx": "wing_flap"
         }
       ]
     },

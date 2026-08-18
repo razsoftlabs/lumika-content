@@ -2,7 +2,7 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "El dragón que olvidaba volar",
   "summary": "Un dragón nervioso aprende que con calma todo se logra.",
   "scenes": [
@@ -26,7 +26,7 @@
       "cues": [
         {
           "anchor": "saltó",
-          "sfx": "whoosh"
+          "sfx": "jump_hop"
         },
         {
           "anchor": "Plof",
@@ -54,7 +54,7 @@
       "cues": [
         {
           "anchor": "volando",
-          "sfx": "whoosh"
+          "sfx": "wing_flap"
         },
         {
           "anchor": "carcajada",

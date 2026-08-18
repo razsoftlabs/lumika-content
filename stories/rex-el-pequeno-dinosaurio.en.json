@@ -2,7 +2,7 @@
   "id": "rex-el-pequeno-dinosaurio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "Rex, the little dinosaur",
   "summary": "Rex is the smallest in his family, but he has a huge roar that scares even the clouds.",
   "scenes": [
@@ -44,7 +44,7 @@
         },
         {
           "anchor": "flying",
-          "sfx": "whoosh"
+          "sfx": "wing_flap"
         }
       ]
     },

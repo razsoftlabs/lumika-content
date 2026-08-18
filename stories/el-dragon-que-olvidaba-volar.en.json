@@ -2,7 +2,7 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "The dragon who forgot how to fly",
   "summary": "A nervous little dragon learns that with calm, anything is possible.",
   "scenes": [
@@ -26,7 +26,7 @@
       "cues": [
         {
           "anchor": "jumped",
-          "sfx": "whoosh"
+          "sfx": "jump_hop"
         },
         {
           "anchor": "Splat",
@@ -54,7 +54,7 @@
       "cues": [
         {
           "anchor": "flying",
-          "sfx": "whoosh"
+          "sfx": "wing_flap"
         },
         {
           "anchor": "laugh",

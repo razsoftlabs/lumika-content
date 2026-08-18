@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "The Midnight Library",
   "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still.",
   "scenes": [
@@ -86,7 +86,7 @@
       "cues": [
         {
           "anchor": "flutter",
-          "sfx": "whoosh"
+          "sfx": "wing_flap"
         },
         {
           "anchor": "pages",
@@ -207,7 +207,7 @@
         },
         {
           "anchor": "flying",
-          "sfx": "whoosh"
+          "sfx": "wing_flap"
         }
       ]
     },

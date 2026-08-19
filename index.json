@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754023,
+  "manifestVersion": 1786826754024,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1960,7 +1960,7 @@
     },
     {
       "id": "la-princesa-ingeniera",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "la-semilla-valiente",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"

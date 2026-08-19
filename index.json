@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754017,
+  "manifestVersion": 1786826754018,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1756,7 +1756,7 @@
         "es": "stories/la-luciernaga-que-perdio-su-luz.es.json",
         "en": "stories/la-luciernaga-que-perdio-su-luz.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-luciernaga-que-perdio-su-luz.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 10,

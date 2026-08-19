@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754010,
+  "manifestVersion": 1786826754013,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -467,7 +467,7 @@
         "es": "stories/astronauta-en-pijama.es.json",
         "en": "stories/astronauta-en-pijama.en.json"
       },
-      "cover": null,
+      "cover": "covers/astronauta-en-pijama.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -510,7 +510,7 @@
         "es": "stories/dino-que-le-tenia-miedo-al-charco.es.json",
         "en": "stories/dino-que-le-tenia-miedo-al-charco.en.json"
       },
-      "cover": null,
+      "cover": "covers/dino-que-le-tenia-miedo-al-charco.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -553,7 +553,7 @@
         "es": "stories/dos-caracoles-y-una-carrera.es.json",
         "en": "stories/dos-caracoles-y-una-carrera.en.json"
       },
-      "cover": null,
+      "cover": "covers/dos-caracoles-y-una-carrera.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -596,7 +596,7 @@
         "es": "stories/el-arbol-de-los-abrazos.es.json",
         "en": "stories/el-arbol-de-los-abrazos.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-arbol-de-los-abrazos.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,
@@ -639,7 +639,7 @@
         "es": "stories/el-buho-dormilon.es.json",
         "en": "stories/el-buho-dormilon.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-buho-dormilon.webp",
       "ageMin": 3,
       "ageMax": 6,
       "durationMin": 5,
@@ -682,7 +682,7 @@
         "es": "stories/el-caballito-de-mar-perdido.es.json",
         "en": "stories/el-caballito-de-mar-perdido.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-caballito-de-mar-perdido.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,
@@ -725,7 +725,7 @@
         "es": "stories/el-cangrejo-que-caminaba-derecho.es.json",
         "en": "stories/el-cangrejo-que-caminaba-derecho.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-cangrejo-que-caminaba-derecho.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,
@@ -768,7 +768,7 @@
         "es": "stories/el-conejo-que-perdio-su-brinco.es.json",
         "en": "stories/el-conejo-que-perdio-su-brinco.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-conejo-que-perdio-su-brinco.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -811,7 +811,7 @@
         "es": "stories/el-dinosaurio-que-guardaba-un-huevo.es.json",
         "en": "stories/el-dinosaurio-que-guardaba-un-huevo.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-dinosaurio-que-guardaba-un-huevo.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 15,
@@ -854,7 +854,7 @@
         "es": "stories/el-dragoncito-de-las-nubes.es.json",
         "en": "stories/el-dragoncito-de-las-nubes.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-dragoncito-de-las-nubes.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,

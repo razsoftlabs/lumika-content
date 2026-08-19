@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754013,
+  "manifestVersion": 1786826754014,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -897,7 +897,7 @@
         "es": "stories/el-elefante-que-no-hacia-ruido.es.json",
         "en": "stories/el-elefante-que-no-hacia-ruido.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-elefante-que-no-hacia-ruido.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -938,7 +938,7 @@
         "es": "stories/el-erizo-que-queria-abrazar.es.json",
         "en": "stories/el-erizo-que-queria-abrazar.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-erizo-que-queria-abrazar.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -981,7 +981,7 @@
         "es": "stories/el-faro-que-guiaba-ballenas.es.json",
         "en": "stories/el-faro-que-guiaba-ballenas.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-faro-que-guiaba-ballenas.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 10,
@@ -1024,7 +1024,7 @@
         "es": "stories/el-gato-que-cruzo-la-ciudad.es.json",
         "en": "stories/el-gato-que-cruzo-la-ciudad.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-gato-que-cruzo-la-ciudad.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 10,
@@ -1067,7 +1067,7 @@
         "es": "stories/el-jardin-secreto-de-la-abuela.es.json",
         "en": "stories/el-jardin-secreto-de-la-abuela.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-jardin-secreto-de-la-abuela.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 10,
@@ -1110,7 +1110,7 @@
         "es": "stories/el-leon-cosquilloso.es.json",
         "en": "stories/el-leon-cosquilloso.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-leon-cosquilloso.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,

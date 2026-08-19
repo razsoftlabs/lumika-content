@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754019,
+  "manifestVersion": 1786826754020,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1842,7 +1842,7 @@
         "es": "stories/la-nave-de-caramelo.es.json",
         "en": "stories/la-nave-de-caramelo.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-nave-de-caramelo.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -1885,7 +1885,7 @@
         "es": "stories/la-noche-que-nevo-en-el-desierto.es.json",
         "en": "stories/la-noche-que-nevo-en-el-desierto.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-noche-que-nevo-en-el-desierto.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 15,
@@ -1928,7 +1928,7 @@
         "es": "stories/la-nube-que-queria-colores.es.json",
         "en": "stories/la-nube-que-queria-colores.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-nube-que-queria-colores.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,
@@ -1969,7 +1969,7 @@
         "es": "stories/la-princesa-ingeniera.es.json",
         "en": "stories/la-princesa-ingeniera.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-princesa-ingeniera.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 15,
@@ -2012,7 +2012,7 @@
         "es": "stories/la-princesa-que-queria-ensuciarse.es.json",
         "en": "stories/la-princesa-que-queria-ensuciarse.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-princesa-que-queria-ensuciarse.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -2055,7 +2055,7 @@
         "es": "stories/la-semilla-valiente.es.json",
         "en": "stories/la-semilla-valiente.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-semilla-valiente.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,
@@ -2143,7 +2143,7 @@
         "es": "stories/mision-a-la-luna-de-hielo.es.json",
         "en": "stories/mision-a-la-luna-de-hielo.en.json"
       },
-      "cover": null,
+      "cover": "covers/mision-a-la-luna-de-hielo.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 15,

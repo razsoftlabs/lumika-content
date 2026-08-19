@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754022,
+  "manifestVersion": 1786826754023,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1273,7 +1273,7 @@
     },
     {
       "id": "el-pez-arcoiris-pequeno",
-      "version": 5,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1491,7 +1491,7 @@
     },
     {
       "id": "la-biblioteca-de-medianoche",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -1620,7 +1620,7 @@
     },
     {
       "id": "la-flor-que-cantaba",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1662,7 +1662,7 @@
     },
     {
       "id": "la-gotita-que-queria-ser-mar",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "la-luna-le-canta-al-nino",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"

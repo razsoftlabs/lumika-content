@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754021,
+  "manifestVersion": 1786826754022,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -888,7 +888,7 @@
     },
     {
       "id": "el-elefante-que-no-hacia-ruido",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1015,7 +1015,7 @@
     },
     {
       "id": "el-gato-que-cruzo-la-ciudad",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "el-jardin-secreto-de-la-abuela",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "el-monstruo-amistoso-de-la-cama",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1187,7 +1187,7 @@
     },
     {
       "id": "el-osito-y-la-tormenta",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"

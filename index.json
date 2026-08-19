@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754020,
+  "manifestVersion": 1786826754021,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -55,7 +55,7 @@
     },
     {
       "id": "la-ballena-cantora",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -235,7 +235,7 @@
     },
     {
       "id": "la-noche-de-las-luciernagas",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -278,7 +278,7 @@
     },
     {
       "id": "la-tortuga-que-quiso-correr",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -322,7 +322,7 @@
     },
     {
       "id": "pancho-el-perro-valiente",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -412,7 +412,7 @@
     },
     {
       "id": "la-princesa-y-el-dragon-triston",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -587,7 +587,7 @@
     },
     {
       "id": "el-arbol-de-los-abrazos",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -630,7 +630,7 @@
     },
     {
       "id": "el-buho-dormilon",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -759,7 +759,7 @@
     },
     {
       "id": "el-conejo-que-perdio-su-brinco",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"

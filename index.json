@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754009,
+  "manifestVersion": 1786826754010,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -29,7 +29,7 @@
         "dormir"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "guitar_night",
       "tags": [
         "bosque",
         "amistad",
@@ -74,7 +74,7 @@
         "amistad"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "harp_canon",
       "tags": [
         "océano",
         "música",
@@ -119,7 +119,7 @@
         "mitos"
       ],
       "mood": "valores",
-      "music": "adventure_soft",
+      "music": "strings_hopeful",
       "tags": [
         "dragón",
         "paciencia",
@@ -165,7 +165,7 @@
         "valores"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "marimba_playful",
       "tags": [
         "amistad",
         "cooperación",
@@ -210,7 +210,7 @@
         "dormir"
       ],
       "mood": "magico",
-      "music": "space_dream",
+      "music": "harp_dreams",
       "tags": [
         "imaginación",
         "estrellas",
@@ -296,7 +296,7 @@
         "valores"
       ],
       "mood": "valores",
-      "music": "playful_flute",
+      "music": "strings_hopeful",
       "tags": [
         "paciencia",
         "autoaceptación",
@@ -341,7 +341,7 @@
         "amistad"
       ],
       "mood": "valores",
-      "music": "gentle_piano",
+      "music": "guitar_warm",
       "tags": [
         "valentía",
         "ayudar",
@@ -386,7 +386,7 @@
         "amistad"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "strings_hopeful",
       "tags": [
         "dinosaurio",
         "fuerza",
@@ -432,7 +432,7 @@
         "valores"
       ],
       "mood": "magico",
-      "music": "adventure_soft",
+      "music": "music_box",
       "tags": [
         "princesa",
         "dragón",
@@ -476,7 +476,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "guitar_warm",
+      "music": "adventure_soft",
       "tags": [
         "luna",
         "estrellas",
@@ -519,7 +519,7 @@
         "valores"
       ],
       "mood": "divertido",
-      "music": "ukulele_happy",
+      "music": "playful_flute",
       "tags": [
         "dinosaurio",
         "miedo",
@@ -605,7 +605,7 @@
         "amistad"
       ],
       "mood": "calmado",
-      "music": "music_box",
+      "music": "guitar_clear",
       "tags": [
         "árbol",
         "abrazos",
@@ -648,7 +648,7 @@
         "dormir"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "guitar_night",
       "tags": [
         "búho",
         "hora de dormir",
@@ -691,7 +691,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "strings_hopeful",
+      "music": "guitar_windswept",
       "tags": [
         "caballito de mar",
         "mar",
@@ -777,7 +777,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "harp_dreams",
+      "music": "gentle_piano",
       "tags": [
         "conejo",
         "amistad",
@@ -820,7 +820,7 @@
         "valores"
       ],
       "mood": "aventura",
-      "music": "guitar_warm",
+      "music": "strings_hopeful",
       "tags": [
         "dinosaurios",
         "cuidar",
@@ -863,7 +863,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "marimba_playful",
+      "music": "adventure_soft",
       "tags": [
         "dragon",
         "nubes",
@@ -906,7 +906,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "strings_hopeful",
+      "music": "gentle_piano",
       "tags": [
         "elefante",
         "amistad",
@@ -947,7 +947,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "harp_dreams",
+      "music": "gentle_piano",
       "tags": [
         "erizo",
         "abrazo",
@@ -990,7 +990,7 @@
         "naturaleza"
       ],
       "mood": "calmado",
-      "music": "harp_dreams",
+      "music": "harp_canon",
       "tags": [
         "faro",
         "ballenas",
@@ -1033,7 +1033,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "guitar_windswept",
       "tags": [
         "gatos",
         "ciudad",
@@ -1076,7 +1076,7 @@
         "naturaleza"
       ],
       "mood": "calmado",
-      "music": "guitar_warm",
+      "music": "harp_canon",
       "tags": [
         "abuela",
         "jardin",
@@ -1205,7 +1205,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "strings_hopeful",
+      "music": "guitar_night",
       "tags": [
         "tormenta",
         "miedo",
@@ -1248,7 +1248,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "celesta_snow",
+      "music": "marimba_playful",
       "tags": [
         "oso",
         "invierno",
@@ -1292,7 +1292,7 @@
         "naturaleza"
       ],
       "mood": "calmado",
-      "music": "gentle_piano",
+      "music": "guitar_clear",
       "tags": [
         "mar",
         "amigos",
@@ -1337,7 +1337,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "marimba_playful",
       "tags": [
         "pingüino",
         "calor",
@@ -1380,7 +1380,7 @@
         "familia"
       ],
       "mood": "aventura",
-      "music": "guitar_warm",
+      "music": "adventure_soft",
       "tags": [
         "hermanos",
         "mapa",
@@ -1423,7 +1423,7 @@
         "aventuras"
       ],
       "mood": "calmado",
-      "music": "music_box",
+      "music": "harp_dreams",
       "tags": [
         "tren",
         "sueños",
@@ -1466,7 +1466,7 @@
         "dormir"
       ],
       "mood": "magico",
-      "music": "music_box",
+      "music": "space_dream",
       "tags": [
         "estrella fugaz",
         "valentía",
@@ -1509,7 +1509,7 @@
         "aventuras"
       ],
       "mood": "magico",
-      "music": "music_box",
+      "music": "guitar_tales",
       "tags": [
         "biblioteca",
         "libros",
@@ -1552,7 +1552,7 @@
         "amistad"
       ],
       "mood": "magico",
-      "music": "harp_dreams",
+      "music": "music_box",
       "tags": [
         "brujita",
         "gato",
@@ -1595,7 +1595,7 @@
         "amistad"
       ],
       "mood": "aventura",
-      "music": "guitar_warm",
+      "music": "guitar_windswept",
       "tags": [
         "farolillos",
         "montaña",
@@ -1637,7 +1637,7 @@
         "naturaleza"
       ],
       "mood": "magico",
-      "music": "space_dream",
+      "music": "celesta_snow",
       "tags": [
         "flores",
         "jardín",
@@ -1680,7 +1680,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "guitar_windswept",
       "tags": [
         "gotita",
         "lluvia",
@@ -1723,7 +1723,7 @@
         "valores"
       ],
       "mood": "divertido",
-      "music": "marimba_playful",
+      "music": "playful_flute",
       "tags": [
         "hormigas",
         "trabajo en equipo",
@@ -1765,7 +1765,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "guitar_warm",
+      "music": "gentle_piano",
       "tags": [
         "luciérnaga",
         "bosque",
@@ -1808,7 +1808,7 @@
         "familia"
       ],
       "mood": "calmado",
-      "music": "harp_dreams",
+      "music": "lullaby_piano",
       "tags": [
         "luna",
         "dormir",
@@ -1851,7 +1851,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "ukulele_happy",
+      "music": "marimba_playful",
       "tags": [
         "espacio",
         "caramelo",
@@ -1894,7 +1894,7 @@
         "familia"
       ],
       "mood": "magico",
-      "music": "celesta_snow",
+      "music": "harp_canon",
       "tags": [
         "nieve",
         "desierto",
@@ -1937,7 +1937,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "ukulele_happy",
+      "music": "playful_flute",
       "tags": [
         "nube",
         "colores",
@@ -1978,7 +1978,7 @@
         "valores"
       ],
       "mood": "aventura",
-      "music": "adventure_soft",
+      "music": "strings_hopeful",
       "tags": [
         "princesas",
         "inventos",
@@ -2021,7 +2021,7 @@
         "risas"
       ],
       "mood": "divertido",
-      "music": "playful_flute",
+      "music": "marimba_playful",
       "tags": [
         "princesa",
         "charcos",
@@ -2064,7 +2064,7 @@
         "valores"
       ],
       "mood": "calmado",
-      "music": "music_box",
+      "music": "gentle_piano",
       "tags": [
         "semilla",
         "valentía",
@@ -2108,7 +2108,7 @@
         "naturaleza"
       ],
       "mood": "magico",
-      "music": "space_dream",
+      "music": "celesta_snow",
       "tags": [
         "volar",
         "imaginación",
@@ -2152,7 +2152,7 @@
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "celesta_snow",
+      "music": "space_dream",
       "tags": [
         "espacio",
         "cohete",

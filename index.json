@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754015,
+  "manifestVersion": 1786826754016,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1239,7 +1239,7 @@
         "es": "stories/el-oso-que-no-queria-hibernar.es.json",
         "en": "stories/el-oso-que-no-queria-hibernar.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-oso-que-no-queria-hibernar.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 10,
@@ -1328,7 +1328,7 @@
         "es": "stories/el-pinguino-que-no-tenia-frio.es.json",
         "en": "stories/el-pinguino-que-no-tenia-frio.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-pinguino-que-no-tenia-frio.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -1371,7 +1371,7 @@
         "es": "stories/el-tesoro-del-arroyo.es.json",
         "en": "stories/el-tesoro-del-arroyo.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-tesoro-del-arroyo.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 15,
@@ -1414,7 +1414,7 @@
         "es": "stories/el-tren-de-los-suenos.es.json",
         "en": "stories/el-tren-de-los-suenos.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-tren-de-los-suenos.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -1457,7 +1457,7 @@
         "es": "stories/estrella-fugaz-y-timida.es.json",
         "en": "stories/estrella-fugaz-y-timida.en.json"
       },
-      "cover": null,
+      "cover": "covers/estrella-fugaz-y-timida.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,
@@ -1500,7 +1500,7 @@
         "es": "stories/la-biblioteca-de-medianoche.es.json",
         "en": "stories/la-biblioteca-de-medianoche.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-biblioteca-de-medianoche.webp",
       "ageMin": 5,
       "ageMax": 8,
       "durationMin": 15,

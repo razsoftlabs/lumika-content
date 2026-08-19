@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754018,
+  "manifestVersion": 1786826754019,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1799,7 +1799,7 @@
         "es": "stories/la-luna-le-canta-al-nino.es.json",
         "en": "stories/la-luna-le-canta-al-nino.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-luna-le-canta-al-nino.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,

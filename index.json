@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754016,
+  "manifestVersion": 1786826754017,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1543,7 +1543,7 @@
         "es": "stories/la-brujita-buena.es.json",
         "en": "stories/la-brujita-buena.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-brujita-buena.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -1586,7 +1586,7 @@
         "es": "stories/la-carrera-de-los-farolillos.es.json",
         "en": "stories/la-carrera-de-los-farolillos.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-carrera-de-los-farolillos.webp",
       "ageMin": 4,
       "ageMax": 8,
       "durationMin": 10,
@@ -1629,7 +1629,7 @@
         "es": "stories/la-flor-que-cantaba.es.json",
         "en": "stories/la-flor-que-cantaba.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-flor-que-cantaba.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -1671,7 +1671,7 @@
         "es": "stories/la-gotita-que-queria-ser-mar.es.json",
         "en": "stories/la-gotita-que-queria-ser-mar.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-gotita-que-queria-ser-mar.webp",
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 5,
@@ -1714,7 +1714,7 @@
         "es": "stories/la-hormiga-y-la-miga-gigante.es.json",
         "en": "stories/la-hormiga-y-la-miga-gigante.en.json"
       },
-      "cover": null,
+      "cover": "covers/la-hormiga-y-la-miga-gigante.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,

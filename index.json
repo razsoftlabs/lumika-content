@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754014,
+  "manifestVersion": 1786826754015,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1153,7 +1153,7 @@
         "es": "stories/el-monstruo-amistoso-de-la-cama.es.json",
         "en": "stories/el-monstruo-amistoso-de-la-cama.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-monstruo-amistoso-de-la-cama.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,
@@ -1196,7 +1196,7 @@
         "es": "stories/el-osito-y-la-tormenta.es.json",
         "en": "stories/el-osito-y-la-tormenta.en.json"
       },
-      "cover": null,
+      "cover": "covers/el-osito-y-la-tormenta.webp",
       "ageMin": 3,
       "ageMax": 7,
       "durationMin": 5,

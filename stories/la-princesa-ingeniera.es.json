@@ -2,7 +2,7 @@
   "id": "la-princesa-ingeniera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 6,
   "title": "La princesa ingeniera",
   "summary": "Cuando el río del reino se seca y nadie quiere escuchar a una princesa que construye máquinas, Mirena decide subir sola a la montaña con su cuaderno.",
   "scenes": [
@@ -40,7 +40,7 @@
     },
     {
       "id": "s3",
-      "text": "Una mañana, Mirena bajó al salón del trono con la Regadora Uno en brazos. El rey Aurelio, su papá, estaba firmando papeles. Los cortesanos hablaban de banquetes y de sombreros nuevos. Mirena puso su máquina sobre la alfombra y explicó, con las orejas rojas, cómo el agua subía y bajaba sola. Hubo un silencio largo. Después el chambelán Bruno se inclinó y dijo algo que todos oyeron, aunque lo dijo con un susurro: —Muy bonito, princesa. Ideal para jugar. Alguien comentó que las princesas no debían llenarse las manos de aceite. El rey le dio un beso en la frente y volvió a sus papeles. Por el pasillo de mármol se fueron alejando, uno por uno, los pasos. Mirena se quedó sola con su invento y con el eco. Recogió la Regadora despacio, no dijo nada y volvió a subir a la torre.",
+      "text": "Una mañana, Mirena bajó al salón del trono con la Regadora Uno en brazos. El rey Aurelio, su papá, estaba firmando papeles. Los cortesanos hablaban de banquetes y de sombreros nuevos. Mirena puso su máquina sobre la alfombra y explicó, con las orejas rojas, cómo el agua subía y bajaba sola. Hubo un silencio largo. Después el chambelán Ciro se inclinó y dijo algo que todos oyeron, aunque lo dijo con un susurro: —Muy bonito, princesa. Ideal para jugar. Alguien comentó que las princesas no debían llenarse las manos de aceite. El rey le dio un beso en la frente y volvió a sus papeles. Por el pasillo de mármol se fueron alejando, uno por uno, los pasos. Mirena se quedó sola con su invento y con el eco. Recogió la Regadora despacio, no dijo nada y volvió a subir a la torre.",
       "cues": [
         {
           "anchor": "susurro",
@@ -100,7 +100,7 @@
     },
     {
       "id": "s7",
-      "text": "A la mañana siguiente, Mirena entró al salón con un rollo de papel casi tan alto como ella. Lo desenrolló sobre la mesa larga y puso la piedra del río encima para que no se cerrara. —Se llama acueducto —dijo con voz clara—. Un canal de piedra y madera que baja desde el manantial de Cabeza Blanca hasta el valle. El agua no necesita que la empujen: solo necesita una cuesta suave y paciencia. Hubo tres segundos de silencio. Después el chambelán Bruno se rió tan fuerte que se le movió el bigote, y otros lo acompañaron. —Princesa, eso es un juguete gigante. —Los canales los hacen los ingenieros, no las niñas. El rey, incómodo, dijo: —Hablamos luego, hija. Mirena enrolló su plano, salió y cerró con cuidado la puerta. Del otro lado apoyó la frente en la madera y, para que no se le cayera ninguna lágrima, se puso a respirar.",
+      "text": "A la mañana siguiente, Mirena entró al salón con un rollo de papel casi tan alto como ella. Lo desenrolló sobre la mesa larga y puso la piedra del río encima para que no se cerrara. —Se llama acueducto —dijo con voz clara—. Un canal de piedra y madera que baja desde el manantial de Cabeza Blanca hasta el valle. El agua no necesita que la empujen: solo necesita una cuesta suave y paciencia. Hubo tres segundos de silencio. Después el chambelán Ciro se rió tan fuerte que se le movió el bigote, y otros lo acompañaron. —Princesa, eso es un juguete gigante. —Los canales los hacen los ingenieros, no las niñas. El rey, incómodo, dijo: —Hablamos luego, hija. Mirena enrolló su plano, salió y cerró con cuidado la puerta. Del otro lado apoyó la frente en la madera y, para que no se le cayera ninguna lágrima, se puso a respirar.",
       "cues": [
         {
           "anchor": "puerta",
@@ -226,7 +226,7 @@
     },
     {
       "id": "s15",
-      "text": "El rey Aurelio bajó al valle a ver el agua correr y se quedó mirándola mucho tiempo sin decir nada. Después se agachó, mojó la mano y se la puso en la frente. —Hija —dijo—, yo estaba firmando papeles mientras tú medías la montaña. Perdóname. El chambelán Bruno, muy colorado, preguntó si podía cargar el cuaderno de la princesa cuando ella lo necesitara. Mirena le dijo que sí, y también que la llamara ingeniera. Esa noche hubo pan otra vez, pan grande, del que cruje. Ya tarde, Mirena subió a su torre. No inventó nada. Dejó el plano enrollado en su lugar, apagó la vela y se acostó con la ventana abierta, para escuchar el hilo de agua allá abajo. Sobre la manta entraba despacio la luna. Tuerca se acomodó en sus pies y soltó un ronquido. Y la princesa ingeniera se durmió, por fin, tranquila.",
+      "text": "El rey Aurelio bajó al valle a ver el agua correr y se quedó mirándola mucho tiempo sin decir nada. Después se agachó, mojó la mano y se la puso en la frente. —Hija —dijo—, yo estaba firmando papeles mientras tú medías la montaña. Perdóname. El chambelán Ciro, muy colorado, preguntó si podía cargar el cuaderno de la princesa cuando ella lo necesitara. Mirena le dijo que sí, y también que la llamara ingeniera. Esa noche hubo pan otra vez, pan grande, del que cruje. Ya tarde, Mirena subió a su torre. No inventó nada. Dejó el plano enrollado en su lugar, apagó la vela y se acostó con la ventana abierta, para escuchar el hilo de agua allá abajo. Sobre la manta entraba despacio la luna. Tuerca se acomodó en sus pies y soltó un ronquido. Y la princesa ingeniera se durmió, por fin, tranquila.",
       "ambient": "forest_night",
       "cues": [
         {

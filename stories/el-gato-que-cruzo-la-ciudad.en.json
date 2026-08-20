@@ -2,13 +2,13 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
-  "title": "The Cat Who Crossed the City",
+  "version": 8,
+  "title": "Michi and the Blue Truck",
   "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Michi was a gray cat with four white paws, as if he had walked through flour. He lived with Lucía in a small house on Almond Tree Street, next door to a bakery that smelled of warm bread all morning long. Every afternoon Lucía came home from school and lifted him into her arms. \"Did you wait for me all day?\" she would ask, and the whole house filled up with her laugh. Michi purred and closed his eyes. That was his favorite place in the world. That Thursday, though, a blue truck stopped in front of the bakery. It carried boxes stacked up to the roof and smelled of new things, of faraway places. Along the sidewalk, the wind stirred the dry leaves. Michi felt a tickle at the tip of his tail: the tickle of curiosity. He looked at the truck's open door and at the biggest box. And without thinking too much, he jumped inside.",
+      "text": "Michi was a gray cat with four white paws, as if he had walked through flour. He lived with Elena in a small house on Almond Tree Street, next door to a bakery that smelled of warm bread all morning long. Every afternoon Elena came home from school and lifted him into her arms. \"Did you wait for me all day?\" she would ask, and the whole house filled up with her laugh. Michi purred and closed his eyes. That was his favorite place in the world. That Thursday, though, a blue truck stopped in front of the bakery. It carried boxes stacked up to the roof and smelled of new things, of faraway places. Along the sidewalk, the wind stirred the dry leaves. Michi felt a tickle at the tip of his tail: the tickle of curiosity. He looked at the truck's open door and at the biggest box. And without thinking too much, he jumped inside.",
       "cues": [
         {
           "anchor": "laugh",
@@ -36,7 +36,7 @@
     },
     {
       "id": "s3",
-      "text": "The city made an enormous noise. Horns, brakes, a siren far away. Michi walked close to the walls, trying to make himself small, until a garbage can tipped over nearby with a dry thud. Michi jumped so high he almost touched a sign. That was when he heard them. Behind a fence, staring at him and barking with all their might, were two big dogs. Woof, woof! Michi squeezed under a car and stayed there, trembling, his heart going thump-thump-thump inside his ears. \"I want to go home,\" he said quietly. \"I want my blanket and my Lucía.\" He waited a long while. The two of them got tired of barking. The street grew calmer. Michi poked out one whisker first, then half a nose, then a paw. The air smelled of smoke and old rain, but it did not smell of danger anymore. He came out slowly and decided he would not stay crying under a car.",
+      "text": "The city made an enormous noise. Horns, brakes, a siren far away. Michi walked close to the walls, trying to make himself small, until a garbage can tipped over nearby with a dry thud. Michi jumped so high he almost touched a sign. That was when he heard them. Behind a fence, staring at him and barking with all their might, were two big dogs. Woof, woof! Michi squeezed under a car and stayed there, trembling, his heart going thump-thump-thump inside his ears. \"I want to go home,\" he said quietly. \"I want my blanket and my Elena.\" He waited a long while. The two of them got tired of barking. The street grew calmer. Michi poked out one whisker first, then half a nose, then a paw. The air smelled of smoke and old rain, but it did not smell of danger anymore. He came out slowly and decided he would not stay crying under a car.",
       "ambient": "city_soft",
       "cues": [
         {
@@ -66,7 +66,7 @@
     },
     {
       "id": "s5",
-      "text": "The big park appeared around a corner, green and enormous, as if somebody had tucked a piece of the countryside inside the city. Michi slipped in under a bench and felt the cool grass on his belly. Out there the noise of the cars stayed outside. He could hear birds, a ball, the squeak of a swing. He walked beside a pond where the last of the sunlight lit up the water. On a stone sat a frog. It went croak, croak, as if saying hello. Michi answered with a short meow and went on. Two children wanted to pet him and he let them for a moment, because their hands felt like Lucía's hands. But when the smaller one tried to hug him, Michi slipped away gently. He could not stay: he had a home waiting for him. On the other side of the park, between the trees, the sun was already hiding. Michi walked faster.",
+      "text": "The big park appeared around a corner, green and enormous, as if somebody had tucked a piece of the countryside inside the city. Michi slipped in under a bench and felt the cool grass on his belly. Out there the noise of the cars stayed outside. He could hear birds, a ball, the squeak of a swing. He walked beside a pond where the last of the sunlight lit up the water. On a stone sat a frog. It went croak, croak, as if saying hello. Michi answered with a short meow and went on. Two children wanted to pet him and he let them for a moment, because their hands felt like Elena's hands. But when the smaller one tried to hug him, Michi slipped away gently. He could not stay: he had a home waiting for him. On the other side of the park, between the trees, the sun was already hiding. Michi walked faster.",
       "ambient": "city_soft",
       "cues": [
         {
@@ -125,7 +125,7 @@
     },
     {
       "id": "s9",
-      "text": "Inside, feet came running, a chair moved, and there was Lucía's voice saying, \"Mom, it's him, it's him!\" Then somebody threw open the door. And there she stood, in her pajamas, with messy hair and enormous eyes. \"Michi!\" she shouted. \"You came back!\" A sob got mixed up with her laugh. She lifted him into her arms and squeezed him so tightly that Michi had to wriggle. She kissed his head and told him everything at once: that she had put up posters on the lampposts, that she had left a plate on the windowsill every single night, that she had not wanted dessert even once. Michi purred so hard that his whole body hummed. Lucía's mom brought warm milk and checked his paws. \"He's all in one piece,\" she said. \"Skinny and very dirty, but all in one piece.\" Outside, the huge city kept making noise. Inside, everything was back in its place.",
+      "text": "Inside, feet came running, a chair moved, and there was Elena's voice saying, \"Mom, it's him, it's him!\" Then somebody threw open the door. And there she stood, in her pajamas, with messy hair and enormous eyes. \"Michi!\" she shouted. \"You came back!\" A sob got mixed up with her laugh. She lifted him into her arms and squeezed him so tightly that Michi had to wriggle. She kissed his head and told him everything at once: that she had put up posters on the lampposts, that she had left a plate on the windowsill every single night, that she had not wanted dessert even once. Michi purred so hard that his whole body hummed. Elena's mom brought warm milk and checked his paws. \"He's all in one piece,\" she said. \"Skinny and very dirty, but all in one piece.\" Outside, the huge city kept making noise. Inside, everything was back in its place.",
       "ambient": "city_soft",
       "cues": [
         {
@@ -140,7 +140,7 @@
     },
     {
       "id": "s10",
-      "text": "Then came the shortest bath in history, a towel that smelled of clean, and a soft brushing. Lucía carried him to her room and put him in the usual spot: at the foot of the bed, on the checkered blanket. She turned off the big light and left the corner lamp on. \"Tomorrow I'll tell you everything that happened at school,\" she said quietly. \"But now we sleep.\" Michi kneaded the blanket with his white paws, curled into a round ball and breathed. Three deep breaths, as if he were keeping the whole city in his chest and then letting it go. Cool air came in through the window, along with the calm song of the crickets. There were no more trucks, no fences, no bridges. Only Lucía's hand on his back, going up and down, slowly. And then, from deep inside the chest of a happy cat, came a small snore. Michi fell fast asleep.",
+      "text": "Then came the shortest bath in history, a towel that smelled of clean, and a soft brushing. Elena carried him to her room and put him in the usual spot: at the foot of the bed, on the checkered blanket. She turned off the big light and left the corner lamp on. \"Tomorrow I'll tell you everything that happened at school,\" she said quietly. \"But now we sleep.\" Michi kneaded the blanket with his white paws, curled into a round ball and breathed. Three deep breaths, as if he were keeping the whole city in his chest and then letting it go. Cool air came in through the window, along with the calm song of the crickets. There were no more trucks, no fences, no bridges. Only Elena's hand on his back, going up and down, slowly. And then, from deep inside the chest of a happy cat, came a small snore. Michi fell fast asleep.",
       "ambient": "city_soft",
       "cues": [
         {

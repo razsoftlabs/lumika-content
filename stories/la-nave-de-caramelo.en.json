@@ -2,13 +2,13 @@
   "id": "la-nave-de-caramelo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 6,
   "title": "The Candy Rocket",
   "summary": "Three friends blast off in a ship made of cookies and candy, and up in space they find a little star who needs their help.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Lila, Tomi, and Sami were three friends who dreamed of flying. They spent one whole Sunday building a spaceship made of candy and cookies. They put it together with lots of patience and lots of laughter. The walls were chocolate, the windows were sugar, and the buttons were colorful candies. When everything was ready, the three friends climbed inside, hugged each other tight, and counted to three. The ship smelled of warm vanilla. Outside, the moon was waiting for them.",
+      "text": "Noa, Tomi, and Sami were three friends who dreamed of flying. They spent one whole Sunday building a spaceship made of candy and cookies. They put it together with lots of patience and lots of laughter. The walls were chocolate, the windows were sugar, and the buttons were colorful candies. When everything was ready, the three friends climbed inside, hugged each other tight, and counted to three. The ship smelled of warm vanilla. Outside, the moon was waiting for them.",
       "cues": [
         {
           "anchor": "cookies",
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "“Three, two, one!” they shouted together. With a sweet roar and a happy shiver, up went the rocket. It climbed and climbed and climbed through the clouds. Whoosh! Soon the sky turned dark and soft like velvet, and everywhere around them appeared thousands of stars. Lila laughed, Tomi pointed, and Sami floated like a feather. Space was huge and quiet, and everything smelled a little like candy. The three friends held hands. They had never seen anything so beautiful.",
+      "text": "“Three, two, one!” they shouted together. With a sweet roar and a happy shiver, up went the rocket. It climbed and climbed and climbed through the clouds. Whoosh! Soon the sky turned dark and soft like velvet, and everywhere around them appeared thousands of stars. Noa laughed, Tomi pointed, and Sami floated like a feather. Space was huge and quiet, and everything smelled a little like candy. The three friends held hands. They had never seen anything so beautiful.",
       "cues": [
         {
           "anchor": "rocket",
@@ -36,7 +36,7 @@
     },
     {
       "id": "s3",
-      "text": "Suddenly, something bright crossed the sky right in front of them: a comet. And just behind it came a small star. She was barely shining and had a sad face. “What’s wrong?” asked Lila sweetly. She sighed: “I’m very, very hungry, and I have a bit of a sweet tooth. Without something sweet in my tummy, I can’t shine.” The three friends looked at each other and smiled, because their whole ship was made of yummy things. “Don’t worry,” said Tomi. “We’ll help you!”",
+      "text": "Suddenly, something bright crossed the sky right in front of them: a comet. And just behind it came a small star. She was barely shining and had a sad face. “What’s wrong?” asked Noa sweetly. She sighed: “I’m very, very hungry, and I have a bit of a sweet tooth. Without something sweet in my tummy, I can’t shine.” The three friends looked at each other and smiled, because their whole ship was made of yummy things. “Don’t worry,” said Tomi. “We’ll help you!”",
       "cues": [
         {
           "anchor": "comet",
@@ -50,7 +50,7 @@
     },
     {
       "id": "s4",
-      "text": "Sami pulled a piece off the ship’s door: it was a cookie. Lila took a candy from a window. Tomi offered her a sweet from a button. The little star took a slow bite: crunch! Then she tried the candy, and then the sweet. All at once she began to shine so brightly that she lit up all of space, and out of pure joy she started to laugh. “Thank you, friends!” she said, spinning happily. Never had a star been so happy with a tummy full of sweets.",
+      "text": "Sami pulled a piece off the ship’s door: it was a cookie. Noa took a candy from a window. Tomi offered her a sweet from a button. The little star took a slow bite: crunch! Then she tried the candy, and then the sweet. All at once she began to shine so brightly that she lit up all of space, and out of pure joy she started to laugh. “Thank you, friends!” she said, spinning happily. Never had a star been so happy with a tummy full of sweets.",
       "cues": [
         {
           "anchor": "cookie",
@@ -64,7 +64,7 @@
     },
     {
       "id": "s5",
-      "text": "It was time to go back home. The grateful star flew ahead of the ship to light the way back. They drifted down slowly through the clouds, with sleepy eyes and happy hearts. Lila, Tomi, and Sami snuggled up together and yawned a great big yawn. “Good night, little star,” they whispered. From the sky, she twinkled with a soft glow, as if saying good night too. And dreaming of new candy journeys, the three friends fell asleep.",
+      "text": "It was time to go back home. The grateful star flew ahead of the ship to light the way back. They drifted down slowly through the clouds, with sleepy eyes and happy hearts. Noa, Tomi, and Sami snuggled up together and yawned a great big yawn. “Good night, little star,” they whispered. From the sky, she twinkled with a soft glow, as if saying good night too. And dreaming of new candy journeys, the three friends fell asleep.",
       "cues": [
         {
           "anchor": "whispered",

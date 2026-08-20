@@ -2,7 +2,7 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 7,
   "title": "El árbol de los abrazos",
   "summary": "Un árbol viejo y solo del parque guarda entre sus ramas el secreto más tierno del mundo.",
   "scenes": [
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "Una tarde, una niña llamada Lía se acercó siguiendo el sonido de las hojas. Cansada de correr, se apoyó en el tronco. Entonces, muy despacio, una rama bajó y la rodeó con suavidad. ¡Era un abrazo! Lía se rió. Sorprendida y feliz, abrazó al árbol de vuelta. 'Das los abrazos más bonitos del mundo', le dijo. El árbol sintió un cosquilleo cálido subir por su tronco. Por primera vez en mucho tiempo, no se sentía solo. Lía prometió volver al día siguiente.",
+      "text": "Una tarde, una niña llamada Alba se acercó siguiendo el sonido de las hojas. Cansada de correr, se apoyó en el tronco. Entonces, muy despacio, una rama bajó y la rodeó con suavidad. ¡Era un abrazo! Alba se rió. Sorprendida y feliz, abrazó al árbol de vuelta. 'Das los abrazos más bonitos del mundo', le dijo. El árbol sintió un cosquilleo cálido subir por su tronco. Por primera vez en mucho tiempo, no se sentía solo. Alba prometió volver al día siguiente.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Al día siguiente, Lía volvió con sus amigos del barrio. 'Vengan a conocer al árbol que abraza', les dijo. Los niños llegaron corriendo, y las hojas temblaron de alegría con sus pasos. Uno a uno, el árbol los abrazó con sus ramas largas. Se rieron, treparon y jugaron toda la tarde bajo su sombra fresca. Las ramas se mecieron como si el árbol también quisiera jugar: las movía el viento. Cuando el sol se escondió, todos se despidieron con un abrazo enorme. El árbol nunca había estado tan feliz.",
+      "text": "Al día siguiente, Alba volvió con sus amigos del barrio. 'Vengan a conocer al árbol que abraza', les dijo. Los niños llegaron corriendo, y las hojas temblaron de alegría con sus pasos. Uno a uno, el árbol los abrazó con sus ramas largas. Se rieron, treparon y jugaron toda la tarde bajo su sombra fresca. Las ramas se mecieron como si el árbol también quisiera jugar: las movía el viento. Cuando el sol se escondió, todos se despidieron con un abrazo enorme. El árbol nunca había estado tan feliz.",
       "ambient": "forest_birds",
       "cues": [
         {

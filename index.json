@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754024,
+  "manifestVersion": 1786826754027,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -100,7 +100,7 @@
     },
     {
       "id": "el-dragon-que-olvidaba-volar",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -135,11 +135,11 @@
       ],
       "preview": {
         "es": {
-          "title": "El dragón que olvidaba volar",
+          "title": "Despacio se vuela mejor",
           "summary": "Un dragón nervioso aprende que con calma todo se logra."
         },
         "en": {
-          "title": "The dragon who forgot how to fly",
+          "title": "Slow Is How You Fly",
           "summary": "A nervous little dragon learns that with calm, anything is possible."
         }
       }
@@ -191,7 +191,7 @@
     },
     {
       "id": "el-cohete-de-papel",
-      "version": 3,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -225,11 +225,11 @@
       "preview": {
         "es": {
           "title": "El cohete de papel",
-          "summary": "Mateo construye un cohete de papel y vuela hasta una estrella amarilla."
+          "summary": "Dani construye un cohete de papel y vuela hasta una estrella amarilla."
         },
         "en": {
           "title": "The paper rocket",
-          "summary": "Mateo builds a paper rocket and flies all the way to a yellow star."
+          "summary": "Dani builds a paper rocket and flies all the way to a yellow star."
         }
       }
     },
@@ -278,7 +278,7 @@
     },
     {
       "id": "la-tortuga-que-quiso-correr",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -311,11 +311,11 @@
       ],
       "preview": {
         "es": {
-          "title": "La tortuga que quiso correr",
+          "title": "Tina no tiene prisa",
           "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es."
         },
         "en": {
-          "title": "The turtle who wanted to run",
+          "title": "Tina Takes Her Time",
           "summary": "Tina the turtle learns that her pace is perfect just the way it is."
         }
       }
@@ -458,7 +458,7 @@
     },
     {
       "id": "astronauta-en-pijama",
-      "version": 3,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -491,17 +491,17 @@
       "preview": {
         "es": {
           "title": "La astronauta en pijama",
-          "summary": "Cuando la casa se queda en silencio, la cama de Mía se convierte en un cohete rumbo a la luna."
+          "summary": "Cuando la casa se queda en silencio, la cama de Vera se convierte en un cohete rumbo a la luna."
         },
         "en": {
           "title": "The Astronaut in Pajamas",
-          "summary": "When the house goes quiet, Mía's bed turns into a rocket bound for the moon."
+          "summary": "When the house goes quiet, Vera's bed turns into a rocket bound for the moon."
         }
       }
     },
     {
       "id": "dino-que-le-tenia-miedo-al-charco",
-      "version": 3,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -533,11 +533,11 @@
       ],
       "preview": {
         "es": {
-          "title": "El dino que le tenía miedo al charco",
+          "title": "¡Un charco enorme!",
           "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeña que te puedas imaginar."
         },
         "en": {
-          "title": "The dino who was scared of the puddle",
+          "title": "Such a Huge Puddle!",
           "summary": "The biggest dinosaur in the whole valley is terrified of the tiniest thing you can imagine."
         }
       }
@@ -587,7 +587,7 @@
     },
     {
       "id": "el-arbol-de-los-abrazos",
-      "version": 4,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -716,7 +716,7 @@
     },
     {
       "id": "el-cangrejo-que-caminaba-derecho",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -748,18 +748,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El cangrejo que caminaba derecho",
+          "title": "Kiko camina a su manera",
           "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa."
         },
         "en": {
-          "title": "The crab who wanted to walk straight",
+          "title": "Kiko Walks His Own Way",
           "summary": "Kiko the little crab wants to walk straight like everyone else, until he discovers that his own way of moving hides a surprise."
         }
       }
     },
     {
       "id": "el-conejo-que-perdio-su-brinco",
-      "version": 4,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -791,18 +791,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El conejo que perdió su brinco",
-          "summary": "Una mañana, Tobi el conejo despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?"
+          "title": "¿Dónde está el brinco de Tobi?",
+          "summary": "Una mañana, Pipo el conejo despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?"
         },
         "en": {
-          "title": "The rabbit who lost his hop",
-          "summary": "One morning, Tobi the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?"
+          "title": "Where Did Tobi's Hop Go?",
+          "summary": "One morning, Pipo the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?"
         }
       }
     },
     {
       "id": "el-dinosaurio-que-guardaba-un-huevo",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -834,11 +834,11 @@
       ],
       "preview": {
         "es": {
-          "title": "El dinosaurio que guardaba un huevo",
+          "title": "Un huevo para Tobi",
           "summary": "Tobi encuentra un huevo abandonado junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda."
         },
         "en": {
-          "title": "The Dinosaur Who Kept an Egg",
+          "title": "An Egg for Tobi",
           "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can."
         }
       }
@@ -888,7 +888,7 @@
     },
     {
       "id": "el-elefante-que-no-hacia-ruido",
-      "version": 4,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -918,18 +918,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El elefante que no hacía ruido",
-          "summary": "Bruno es un elefante muy silencioso, y descubre que su calma es su regalo más bonito."
+          "title": "Tavo camina en silencio",
+          "summary": "Tavo es un elefante muy silencioso, y descubre que su calma es su regalo más bonito."
         },
         "en": {
-          "title": "The Elephant Who Made No Noise",
-          "summary": "Bruno is a very quiet elephant who discovers that his calm is his most beautiful gift."
+          "title": "Tavo Walks in Silence",
+          "summary": "Tavo is a very quiet elephant who discovers that his calm is his most beautiful gift."
         }
       }
     },
     {
       "id": "el-erizo-que-queria-abrazar",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -961,18 +961,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El erizo que quería abrazar",
+          "title": "Abrazos con cuidado",
           "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer."
         },
         "en": {
-          "title": "The hedgehog who wanted to hug",
+          "title": "Careful Hugs",
           "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident."
         }
       }
     },
     {
       "id": "el-faro-que-guiaba-ballenas",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1004,18 +1004,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El faro que guiaba ballenas",
+          "title": "Aitana y la noche de niebla",
           "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo, hasta que una noche de niebla descubre quién espera su luz."
         },
         "en": {
-          "title": "The Lighthouse That Guided Whales",
+          "title": "Aitana and the Foggy Night",
           "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light."
         }
       }
     },
     {
       "id": "el-gato-que-cruzo-la-ciudad",
-      "version": 5,
+      "version": 8,
       "locales": [
         "es",
         "en"
@@ -1047,18 +1047,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El gato que cruzó la ciudad",
+          "title": "Michi y el camión azul",
           "summary": "Michi se sube por curiosidad a un camión azul y despierta al otro lado de la ciudad, muy lejos de la ventana donde siempre lo esperan."
         },
         "en": {
-          "title": "The Cat Who Crossed the City",
+          "title": "Michi and the Blue Truck",
           "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting."
         }
       }
     },
     {
       "id": "el-jardin-secreto-de-la-abuela",
-      "version": 4,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1144,7 +1144,7 @@
     },
     {
       "id": "el-monstruo-amistoso-de-la-cama",
-      "version": 4,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1177,17 +1177,17 @@
       "preview": {
         "es": {
           "title": "El monstruo amistoso de la cama",
-          "summary": "Cuando Mateo oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo."
+          "summary": "Cuando Iván oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo."
         },
         "en": {
           "title": "The Friendly Monster Under the Bed",
-          "summary": "When Mateo hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own."
+          "summary": "When Iván hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own."
         }
       }
     },
     {
       "id": "el-osito-y-la-tormenta",
-      "version": 4,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1220,17 +1220,17 @@
       "preview": {
         "es": {
           "title": "El osito y la tormenta",
-          "summary": "Una noche de truenos asusta al osito Bruno, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón."
+          "summary": "Una noche de truenos asusta al osito Nilo, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón."
         },
         "en": {
           "title": "The Little Bear and the Storm",
-          "summary": "A night full of thunder frightens little Bruno the bear, until Mama Bear teaches him a secret trick to calm his heart."
+          "summary": "A night full of thunder frightens little Nilo the bear, until Mama Bear teaches him a secret trick to calm his heart."
         }
       }
     },
     {
       "id": "el-oso-que-no-queria-hibernar",
-      "version": 3,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1262,18 +1262,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El oso que no queria hibernar",
+          "title": "Este invierno no duermo",
           "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos."
         },
         "en": {
-          "title": "The Bear Who Didn't Want to Hibernate",
+          "title": "Not Sleeping This Winter",
           "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes."
         }
       }
     },
     {
       "id": "el-pez-arcoiris-pequeno",
-      "version": 6,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -1308,18 +1308,18 @@
       ],
       "preview": {
         "es": {
-          "title": "El pez arcoíris pequeño",
+          "title": "Arcoíris busca amigos",
           "summary": "Un pez tímido encuentra amigos en el fondo del mar."
         },
         "en": {
-          "title": "The little rainbow fish",
+          "title": "Rainbow Looks for Friends",
           "summary": "A shy little fish finds friends at the bottom of the sea."
         }
       }
     },
     {
       "id": "el-pinguino-que-no-tenia-frio",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1351,11 +1351,11 @@
       ],
       "preview": {
         "es": {
-          "title": "El pingüino que no tenía frío",
+          "title": "A Pip nunca le da frío",
           "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?"
         },
         "en": {
-          "title": "The Penguin Who Was Never Cold",
+          "title": "Pip Is Never Cold",
           "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?"
         }
       }
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "estrella-fugaz-y-timida",
-      "version": 3,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1480,11 +1480,11 @@
       ],
       "preview": {
         "es": {
-          "title": "Chispa, la estrella fugaz tímida",
+          "title": "Titila, la estrella fugaz tímida",
           "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado."
         },
         "en": {
-          "title": "Chispa, the Shy Shooting Star",
+          "title": "Titila, the Shy Shooting Star",
           "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish."
         }
       }
@@ -1534,7 +1534,7 @@
     },
     {
       "id": "la-brujita-buena",
-      "version": 3,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -1567,11 +1567,11 @@
       "preview": {
         "es": {
           "title": "La brujita buena",
-          "summary": "Cada hechizo de Mila sale al revés, y su gato Tomás nunca sabe a quién van a terminar ayudando."
+          "summary": "Cada hechizo de Aura sale al revés, y su gato Bigotes nunca sabe a quién van a terminar ayudando."
         },
         "en": {
           "title": "The Good Little Witch",
-          "summary": "Every one of Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping."
+          "summary": "Every one of Aura's spells comes out backwards, and her cat Bigotes never knows who they'll end up helping."
         }
       }
     },
@@ -1620,7 +1620,7 @@
     },
     {
       "id": "la-flor-que-cantaba",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -1651,18 +1651,18 @@
       ],
       "preview": {
         "es": {
-          "title": "La flor que cantaba",
+          "title": "Una voz en el jardín",
           "summary": "Una flor demasiado tímida para cantar esconde una voz que quizás el jardín entero necesita escuchar."
         },
         "en": {
-          "title": "The Flower That Sang",
+          "title": "A Voice in the Garden",
           "summary": "A little flower far too shy to sing hides a voice the whole garden just might need to hear."
         }
       }
     },
     {
       "id": "la-gotita-que-queria-ser-mar",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -1694,11 +1694,11 @@
       ],
       "preview": {
         "es": {
-          "title": "La gotita que quería ser mar",
+          "title": "Gota busca el mar",
           "summary": "Una gota de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo."
         },
         "en": {
-          "title": "The Little Drop Who Wanted to Be the Sea",
+          "title": "Drop Goes Looking for the Sea",
           "summary": "A little raindrop dreams of being as big as the sea and sets off on a journey to find out."
         }
       }
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 4,
+      "version": 5,
       "locales": [
         "es",
         "en"
@@ -1779,11 +1779,11 @@
       ],
       "preview": {
         "es": {
-          "title": "La luciérnaga que perdió su luz",
+          "title": "Lumi no enciende",
           "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la luz de Lumi no quiere encender."
         },
         "en": {
-          "title": "The Firefly Who Lost Her Light",
+          "title": "Lumi Won't Light Up",
           "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on."
         }
       }
@@ -1833,7 +1833,7 @@
     },
     {
       "id": "la-nave-de-caramelo",
-      "version": 4,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1919,7 +1919,7 @@
     },
     {
       "id": "la-nube-que-queria-colores",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -1949,18 +1949,18 @@
       ],
       "preview": {
         "es": {
-          "title": "La nube que quería colores",
+          "title": "Nube quiere colores",
           "summary": "Nube es blanca y quiere ser de colores. Una lluvia traviesa le enseña de dónde salen los arcoíris."
         },
         "en": {
-          "title": "The Cloud Who Wanted Colors",
+          "title": "Cloud Wants Colours",
           "summary": "Cloud is white and longs to be colorful. A mischievous rain shower shows her where rainbows come from."
         }
       }
     },
     {
       "id": "la-princesa-ingeniera",
-      "version": 4,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -2003,7 +2003,7 @@
     },
     {
       "id": "la-princesa-que-queria-ensuciarse",
-      "version": 3,
+      "version": 4,
       "locales": [
         "es",
         "en"
@@ -2035,11 +2035,11 @@
       ],
       "preview": {
         "es": {
-          "title": "La princesa que quería ensuciarse",
+          "title": "Barro hasta las orejas",
           "summary": "Una princesa cansada de estar siempre limpia y peinada descubre en el jardín una alegría que no cabe en ningún castillo."
         },
         "en": {
-          "title": "The Princess Who Wanted to Get Dirty",
+          "title": "Mud to the Ears",
           "summary": "A princess tired of always being clean and combed discovers, out in the garden, a joy that no castle can hold."
         }
       }

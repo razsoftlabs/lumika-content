@@ -2,8 +2,8 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
-  "title": "El oso que no queria hibernar",
+  "version": 6,
+  "title": "Este invierno no duermo",
   "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos.",
   "scenes": [
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "s6",
-      "text": "Asi fue como Bruno hizo amigos de invierno: los que no hibernan.\n\nConocio a Lila, la liebre de pelo blanco, que le enseno a caminar sobre la nieve sin hundirse. Conocio a los tres gorriones de la rama torcida, que dormian todos apretados como un solo pompon. Conocio a Tomas, el zorro de cola enorme, que le mostro donde el arroyo seguia cantando debajo del hielo.\n\nY arriba del todo, en el roble viejo, vivia Ulises. Era grande, serio y tenia los ojos redondos como dos monedas: un buho. Decia las cosas importantes con un susurro:\n\n—Uuuh... Bruno... el invierno es bonito y tambien es duro. Cuando el bosque te avise, escuchalo.\n\n—¿Y como avisa? —pregunto Bruno.\n\n—Se pone silencioso —dijo Ulises—. Mas silencioso que ahora.\n\nBruno no entendio, pero dijo que si con la cabeza, porque era de noche y porque estaba muy contento. Todos comieron pinones y contaron cuentos hasta que la nieve se puso azul.",
+      "text": "Asi fue como Bruno hizo amigos de invierno: los que no hibernan.\n\nConocio a Frida, la liebre de pelo blanco, que le enseno a caminar sobre la nieve sin hundirse. Conocio a los tres gorriones de la rama torcida, que dormian todos apretados como un solo pompon. Conocio a Tomas, el zorro de cola enorme, que le mostro donde el arroyo seguia cantando debajo del hielo.\n\nY arriba del todo, en el roble viejo, vivia Ulises. Era grande, serio y tenia los ojos redondos como dos monedas: un buho. Decia las cosas importantes con un susurro:\n\n—Uuuh... Bruno... el invierno es bonito y tambien es duro. Cuando el bosque te avise, escuchalo.\n\n—¿Y como avisa? —pregunto Bruno.\n\n—Se pone silencioso —dijo Ulises—. Mas silencioso que ahora.\n\nBruno no entendio, pero dijo que si con la cabeza, porque era de noche y porque estaba muy contento. Todos comieron pinones y contaron cuentos hasta que la nieve se puso azul.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -113,7 +113,7 @@
     },
     {
       "id": "s8",
-      "text": "Eran Lila y Tomas, con la nieve hasta las orejas.\n\n—¡Arriba, oso! —dijo la liebre—. Aqui no se puede dormir.\n\nLo empujaron, lo jalaron y lo llevaron entre los dos hasta el roble viejo. Tomas aparto unas raices y un poco de musgo, y detras aparecio una puerta. Los tres se metieron en la madriguera, que era pequena, oscura y tibia como una taza de leche.\n\nDentro habia hierba seca apilada, semillas guardadas y tres gorriones dormidos en un rincon. Ulises los esperaba con los ojos brillando.\n\nLila tapo a Bruno con su propio cuerpo y con un monton de hojas. Tomas le puso la cola enorme sobre las patas frias. Afuera, el viento seguia silbando, pero adentro se oia otra cosa: la respiracion de los amigos, muy juntos, todos al mismo ritmo.\n\n—Gracias —dijo Bruno, con la voz espesa de sueno.\n\n—Para eso estan los amigos de invierno —dijo Tomas—. Para prestarte la cola.",
+      "text": "Eran Frida y Tomas, con la nieve hasta las orejas.\n\n—¡Arriba, oso! —dijo la liebre—. Aqui no se puede dormir.\n\nLo empujaron, lo jalaron y lo llevaron entre los dos hasta el roble viejo. Tomas aparto unas raices y un poco de musgo, y detras aparecio una puerta. Los tres se metieron en la madriguera, que era pequena, oscura y tibia como una taza de leche.\n\nDentro habia hierba seca apilada, semillas guardadas y tres gorriones dormidos en un rincon. Ulises los esperaba con los ojos brillando.\n\nLila tapo a Bruno con su propio cuerpo y con un monton de hojas. Tomas le puso la cola enorme sobre las patas frias. Afuera, el viento seguia silbando, pero adentro se oia otra cosa: la respiracion de los amigos, muy juntos, todos al mismo ritmo.\n\n—Gracias —dijo Bruno, con la voz espesa de sueno.\n\n—Para eso estan los amigos de invierno —dijo Tomas—. Para prestarte la cola.",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -128,7 +128,7 @@
     },
     {
       "id": "s9",
-      "text": "Cuando la tormenta se calmo, el sol volvio a asomarse y el bosque quedo cubierto de azucar. Bruno salio de la madriguera, se estiro y descubrio algo curioso: le pesaba todo. Las patas, la cabeza, hasta los bigotes.\n\n—Creo que mi cuerpo me esta diciendo una cosa —dijo despacio.\n\nSe sento en la nieve y respiro. Lo hizo hondo, una, dos, tres veces, como cuando uno se prepara para algo importante. Y entonces lo entendio: su cuerpo no era terco ni aburrido. Su cuerpo era sabio. Le pedia descansar porque lo queria, igual que Lila le pedia comer y Ulises le pedia escuchar.\n\n—Ya vi el invierno. Vi la nieve, patine, tuve amigos. Ahora me toca dormir —dijo en un susurro.\n\nUlises movio las plumas, contento.\n\n—Uuuh... eso, Bruno, se llama crecer.\n\nLila le dio un abrazo de liebre, que son abrazos rapidos. Tomas le regalo un pinon para el camino. Bruno prometio volver en primavera.",
+      "text": "Cuando la tormenta se calmo, el sol volvio a asomarse y el bosque quedo cubierto de azucar. Bruno salio de la madriguera, se estiro y descubrio algo curioso: le pesaba todo. Las patas, la cabeza, hasta los bigotes.\n\n—Creo que mi cuerpo me esta diciendo una cosa —dijo despacio.\n\nSe sento en la nieve y respiro. Lo hizo hondo, una, dos, tres veces, como cuando uno se prepara para algo importante. Y entonces lo entendio: su cuerpo no era terco ni aburrido. Su cuerpo era sabio. Le pedia descansar porque lo queria, igual que Frida le pedia comer y Ulises le pedia escuchar.\n\n—Ya vi el invierno. Vi la nieve, patine, tuve amigos. Ahora me toca dormir —dijo en un susurro.\n\nUlises movio las plumas, contento.\n\n—Uuuh... eso, Bruno, se llama crecer.\n\nLila le dio un abrazo de liebre, que son abrazos rapidos. Tomas le regalo un pinon para el camino. Bruno prometio volver en primavera.",
       "ambient": "snow_wind",
       "cues": [
         {

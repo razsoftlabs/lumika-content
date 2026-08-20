@@ -2,13 +2,13 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 5,
   "title": "The Astronaut in Pajamas",
-  "summary": "When the house goes quiet, Mía's bed turns into a rocket bound for the moon.",
+  "summary": "When the house goes quiet, Vera's bed turns into a rocket bound for the moon.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Mía put on her softest pajamas and climbed into bed. Outside, round and white above the rooftops, glowed the moon. The curtains stirred slowly, as if they wanted to tell her a secret. Through the half-open window had slipped a warm breeze. Mía closed her eyes for a moment, and when she opened them, her bed was no longer a bed. The sheets were made of silver, the pillow had buttons that twinkled, and two lights glowed at its tip. Her bed had turned into a soft, cozy rocket, ready to fly.",
+      "text": "Vera put on her softest pajamas and climbed into bed. Outside, round and white above the rooftops, glowed the moon. The curtains stirred slowly, as if they wanted to tell her a secret. Through the half-open window had slipped a warm breeze. Vera closed her eyes for a moment, and when she opened them, her bed was no longer a bed. The sheets were made of silver, the pillow had buttons that twinkled, and two lights glowed at its tip. Her bed had turned into a soft, cozy rocket, ready to fly.",
       "cues": [
         {
           "anchor": "moon",
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "—Five, four, three, two, one... —whispered Mía, and without a single loud noise, up went the rocket. It rose through the open window, slipped past the curtains, and waved to the sleeping rooftops. Up, high up, the clouds looked like pillows, and the sky filled with stars. Every one of them winked at her. Mía laughed softly while her flying bed spun among them. She was not afraid at all, because her blanket still covered her, and her teddy bear traveled by her side, peeking out the window of the ship.",
+      "text": "—Five, four, three, two, one... —whispered Vera, and without a single loud noise, up went the rocket. It rose through the open window, slipped past the curtains, and waved to the sleeping rooftops. Up, high up, the clouds looked like pillows, and the sky filled with stars. Every one of them winked at her. Vera laughed softly while her flying bed spun among them. She was not afraid at all, because her blanket still covered her, and her teddy bear traveled by her side, peeking out the window of the ship.",
       "cues": [
         {
           "anchor": "rocket",
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "The rocket came down slowly and landed on ground as soft as flour: it had reached the moon. Mía slid out one foot, then the other, and on the silver dust she took her first steps. Everything was quiet, a lovely, round kind of quiet. All around rose gentle mountains and valleys full of light. In every corner, small stars had fallen asleep on the ground, blinking very slowly, like tired lanterns. Mía looked at them tenderly and thought they would be perfect for lighting up her room.",
+      "text": "The rocket came down slowly and landed on ground as soft as flour: it had reached the moon. Vera slid out one foot, then the other, and on the silver dust she took her first steps. Everything was quiet, a lovely, round kind of quiet. All around rose gentle mountains and valleys full of light. In every corner, small stars had fallen asleep on the ground, blinking very slowly, like tired lanterns. Vera looked at them tenderly and thought they would be perfect for lighting up her room.",
       "cues": [
         {
           "anchor": "moon",
@@ -52,7 +52,7 @@
     },
     {
       "id": "s4",
-      "text": "Very carefully, Mía opened her glass jar and began to gather, one by one, the stars. Each time she caught one, the star let out a small laugh. It was as if the light were tickling her hands. Soon the jar filled with golden sparkles dancing inside. Mía did not squeeze them or rush; she gathered them slowly, with gentle fingers, and promised to take care of them. When the jar was full, she closed it softly, so she would not wake them completely. Then she climbed back onto her rocket-bed, hugged her teddy, and turned the ship toward home.",
+      "text": "Very carefully, Vera opened her glass jar and began to gather, one by one, the stars. Each time she caught one, the star let out a small laugh. It was as if the light were tickling her hands. Soon the jar filled with golden sparkles dancing inside. Vera did not squeeze them or rush; she gathered them slowly, with gentle fingers, and promised to take care of them. When the jar was full, she closed it softly, so she would not wake them completely. Then she climbed back onto her rocket-bed, hugged her teddy, and turned the ship toward home.",
       "cues": [
         {
           "anchor": "stars",
@@ -67,7 +67,7 @@
     },
     {
       "id": "s5",
-      "text": "The rocket-bed floated back through the window and settled again in Mía's room, warm and still. She set the jar of stars beside her pillow, and its soft light filled the room like a kind lamp. From outside the window came a quiet good night from the moon. Mía snuggled under her blanket, closed her eyes, and breathed. Very slowly, once, twice. The golden glow hugged her from the inside. And so, among saved-up stars and peaceful dreams, Mía fell fast asleep.",
+      "text": "The rocket-bed floated back through the window and settled again in Vera's room, warm and still. She set the jar of stars beside her pillow, and its soft light filled the room like a kind lamp. From outside the window came a quiet good night from the moon. Vera snuggled under her blanket, closed her eyes, and breathed. Very slowly, once, twice. The golden glow hugged her from the inside. And so, among saved-up stars and peaceful dreams, Vera fell fast asleep.",
       "cues": [
         {
           "anchor": "moon",

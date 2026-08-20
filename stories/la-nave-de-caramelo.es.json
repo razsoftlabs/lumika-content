@@ -2,13 +2,13 @@
   "id": "la-nave-de-caramelo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 6,
   "title": "La nave de caramelo",
   "summary": "Tres amigos despegan en una nave de galletas y caramelo, y allá arriba encuentran a una estrella que necesita su ayuda.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Lila, Tomi y Sami eran tres amigos que soñaban con volar. Un domingo entero lo pasaron construyendo una nave espacial de caramelo y de galletas. La armaron con mucha paciencia y con muchas risas. Las paredes eran de chocolate, las ventanas de azúcar y los botones eran dulces de colores. Cuando todo estuvo listo, los tres amigos se metieron dentro, se abrazaron fuerte y contaron hasta tres. La nave olía a vainilla tibia. Afuera, la luna los esperaba.",
+      "text": "Noa, Tomi y Sami eran tres amigos que soñaban con volar. Un domingo entero lo pasaron construyendo una nave espacial de caramelo y de galletas. La armaron con mucha paciencia y con muchas risas. Las paredes eran de chocolate, las ventanas de azúcar y los botones eran dulces de colores. Cuando todo estuvo listo, los tres amigos se metieron dentro, se abrazaron fuerte y contaron hasta tres. La nave olía a vainilla tibia. Afuera, la luna los esperaba.",
       "cues": [
         {
           "anchor": "galletas",
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "—¡Tres, dos, uno! —gritaron juntos. Con un rugido dulce y un temblor alegre, despegó la nave. Subió, subió y subió entre las nubes. ¡Fiuuum! Pronto el cielo se puso oscuro y suave como terciopelo, y por todas partes aparecieron miles de estrellas. Lila reía, Tomi señalaba y Sami flotaba como una pluma. El espacio era enorme y callado, y todo olía un poco a caramelo. Los tres amigos se tomaron de la mano. Nunca habían visto algo tan bonito.",
+      "text": "—¡Tres, dos, uno! —gritaron juntos. Con un rugido dulce y un temblor alegre, despegó la nave. Subió, subió y subió entre las nubes. ¡Fiuuum! Pronto el cielo se puso oscuro y suave como terciopelo, y por todas partes aparecieron miles de estrellas. Noa reía, Tomi señalaba y Sami flotaba como una pluma. El espacio era enorme y callado, y todo olía un poco a caramelo. Los tres amigos se tomaron de la mano. Nunca habían visto algo tan bonito.",
       "cues": [
         {
           "anchor": "nave",
@@ -36,7 +36,7 @@
     },
     {
       "id": "s3",
-      "text": "De pronto, algo brillante cruzó el cielo delante de ellos: un cometa. Justo detrás venía una pequeña estrella. No brillaba casi nada y tenía la cara triste. —¿Qué te pasa? —preguntó Lila con dulzura. Ella suspiró: —Tengo mucha, mucha hambre, y soy un poco golosa. Sin nada dulce en la panza, no puedo brillar. Los tres amigos se miraron y sonrieron, porque su nave entera estaba hecha de cosas ricas. —No te preocupes —dijo Tomi—. ¡Nosotros te ayudamos!",
+      "text": "De pronto, algo brillante cruzó el cielo delante de ellos: un cometa. Justo detrás venía una pequeña estrella. No brillaba casi nada y tenía la cara triste. —¿Qué te pasa? —preguntó Noa con dulzura. Ella suspiró: —Tengo mucha, mucha hambre, y soy un poco golosa. Sin nada dulce en la panza, no puedo brillar. Los tres amigos se miraron y sonrieron, porque su nave entera estaba hecha de cosas ricas. —No te preocupes —dijo Tomi—. ¡Nosotros te ayudamos!",
       "cues": [
         {
           "anchor": "cometa",
@@ -50,7 +50,7 @@
     },
     {
       "id": "s4",
-      "text": "Sami arrancó un trozo de la puerta de la nave: era una galleta. Lila sacó un caramelo de una ventana. Tomi le ofreció un dulce de un botón. La estrella mordió despacio: ¡crac! Después probó el caramelo, y después el dulce. De repente empezó a brillar tan fuerte que iluminó todo el espacio, y de pura alegría se puso a reír. —¡Gracias, amigos! —dijo dando vueltas felices. Nunca una estrella había sido tan feliz con la panza llena de dulces.",
+      "text": "Sami arrancó un trozo de la puerta de la nave: era una galleta. Noa sacó un caramelo de una ventana. Tomi le ofreció un dulce de un botón. La estrella mordió despacio: ¡crac! Después probó el caramelo, y después el dulce. De repente empezó a brillar tan fuerte que iluminó todo el espacio, y de pura alegría se puso a reír. —¡Gracias, amigos! —dijo dando vueltas felices. Nunca una estrella había sido tan feliz con la panza llena de dulces.",
       "cues": [
         {
           "anchor": "galleta",
@@ -64,7 +64,7 @@
     },
     {
       "id": "s5",
-      "text": "Ya era hora de volver a casa. La estrella, agradecida, voló delante de la nave para iluminar el camino de regreso. Bajaron despacio entre las nubes, con los ojos cansados y el corazón contento. Lila, Tomi y Sami se acurrucaron juntos y bostezaron muy grande. —Buenas noches, estrellita —susurraron. Desde el cielo, ella titiló con un brillo suave, como diciendo buenas noches. Y soñando con nuevos viajes de caramelo, los tres amigos se durmieron.",
+      "text": "Ya era hora de volver a casa. La estrella, agradecida, voló delante de la nave para iluminar el camino de regreso. Bajaron despacio entre las nubes, con los ojos cansados y el corazón contento. Noa, Tomi y Sami se acurrucaron juntos y bostezaron muy grande. —Buenas noches, estrellita —susurraron. Desde el cielo, ella titiló con un brillo suave, como diciendo buenas noches. Y soñando con nuevos viajes de caramelo, los tres amigos se durmieron.",
       "cues": [
         {
           "anchor": "susurraron",

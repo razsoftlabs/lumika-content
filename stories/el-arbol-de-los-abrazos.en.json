@@ -2,7 +2,7 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 7,
   "title": "The Hugging Tree",
   "summary": "A very old, lonely tree in the park holds the tenderest secret in the world among its branches.",
   "scenes": [
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "One afternoon, a girl named Lía came closer, following the sound of the leaves. Tired from running, she leaned against the trunk. Then, very slowly, a branch came down and wrapped around her gently. It was a hug! Lía laughed. Surprised and happy, she hugged the tree back. 'You give the most beautiful hugs in the world,' she said. The tree felt a warm tingle rise up its trunk. For the first time in a long while, it didn't feel alone. Lía promised to come back the next day.",
+      "text": "One afternoon, a girl named Alba came closer, following the sound of the leaves. Tired from running, she leaned against the trunk. Then, very slowly, a branch came down and wrapped around her gently. It was a hug! Alba laughed. Surprised and happy, she hugged the tree back. 'You give the most beautiful hugs in the world,' she said. The tree felt a warm tingle rise up its trunk. For the first time in a long while, it didn't feel alone. Alba promised to come back the next day.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "The next day, Lía came back with her friends from the neighborhood. 'Come meet the tree that hugs,' she told them. The children arrived running, and the leaves trembled with joy at their footsteps. One by one, the tree hugged them with its long branches. They laughed, climbed, and played all afternoon under its cool shade. The branches rocked as if the tree wanted to play too: they were moved by the wind. When the sun hid away, everyone said goodbye with a huge hug. The tree had never been so happy.",
+      "text": "The next day, Alba came back with her friends from the neighborhood. 'Come meet the tree that hugs,' she told them. The children arrived running, and the leaves trembled with joy at their footsteps. One by one, the tree hugged them with its long branches. They laughed, climbed, and played all afternoon under its cool shade. The branches rocked as if the tree wanted to play too: they were moved by the wind. When the sun hid away, everyone said goodbye with a huge hug. The tree had never been so happy.",
       "ambient": "forest_birds",
       "cues": [
         {

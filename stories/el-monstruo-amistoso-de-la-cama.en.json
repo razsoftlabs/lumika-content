@@ -2,13 +2,13 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 6,
   "title": "The Friendly Monster Under the Bed",
-  "summary": "When Mateo hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own.",
+  "summary": "When Iván hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Mateo snuggled down under the blankets. Through the open curtains came a round, silver light: the moon. Outside, the trees rocked gently in the wind. Everything was calm... until, from under the bed, came a tiny noise. A shiver. A sigh. Mateo lay very still, listening to his own heartbeat. What could that shy little sound be, there in the dark?",
+      "text": "Iván snuggled down under the blankets. Through the open curtains came a round, silver light: the moon. Outside, the trees rocked gently in the wind. Everything was calm... until, from under the bed, came a tiny noise. A shiver. A sigh. Iván lay very still, listening to his own heartbeat. What could that shy little sound be, there in the dark?",
       "cues": [
         {
           "anchor": "moon",
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "Very carefully, Mateo peeked over the edge of the bed. And there, between an old ball and a slipper, were two big, shiny eyes. It was a monster. But it did not roar or look scary: it was curled up, hugging its knees, trembling. When it saw Mateo, it spoke in a frightened whisper. 'Please, don't hurt me.' Mateo blinked, surprised. The monster seemed even more scared than he was.",
+      "text": "Very carefully, Iván peeked over the edge of the bed. And there, between an old ball and a slipper, were two big, shiny eyes. It was a monster. But it did not roar or look scary: it was curled up, hugging its knees, trembling. When it saw Iván, it spoke in a frightened whisper. 'Please, don't hurt me.' Iván blinked, surprised. The monster seemed even more scared than he was.",
       "cues": [
         {
           "anchor": "whisper",
@@ -32,7 +32,7 @@
     },
     {
       "id": "s3",
-      "text": "'I won't hurt you,' said Mateo softly. 'Why are you shivering?' The monster looked down. 'It's just... I'm very afraid of the dark,' it confessed. 'Down here everything is black, and when the light goes out, I feel so alone.' Mateo's eyes went wide: he felt exactly the same way. That was why, every night, he left a little gap in his door. Surprised to be so alike, the two of them laughed. It was a soft laugh, the kind you share in secret.",
+      "text": "'I won't hurt you,' said Iván softly. 'Why are you shivering?' The monster looked down. 'It's just... I'm very afraid of the dark,' it confessed. 'Down here everything is black, and when the light goes out, I feel so alone.' Iván's eyes went wide: he felt exactly the same way. That was why, every night, he left a little gap in his door. Surprised to be so alike, the two of them laughed. It was a soft laugh, the kind you share in secret.",
       "cues": [
         {
           "anchor": "door",
@@ -46,7 +46,7 @@
     },
     {
       "id": "s4",
-      "text": "Mateo had an idea. From under his pillow he pulled out his magic flashlight and switched it on. Plink! On the ceiling appeared a whole scatter of soft, golden stars. 'Look,' he said, 'now the dark isn't so scary.' The monster gazed up, amazed, and its trembling slowly faded away. 'I've never seen anything so beautiful,' it murmured. And then Mateo lent it his softest teddy bear, so it wouldn't feel alone.",
+      "text": "Iván had an idea. From under his pillow he pulled out his magic flashlight and switched it on. Plink! On the ceiling appeared a whole scatter of soft, golden stars. 'Look,' he said, 'now the dark isn't so scary.' The monster gazed up, amazed, and its trembling slowly faded away. 'I've never seen anything so beautiful,' it murmured. And then Iván lent it his softest teddy bear, so it wouldn't feel alone.",
       "cues": [
         {
           "anchor": "stars",
@@ -56,7 +56,7 @@
     },
     {
       "id": "s5",
-      "text": "That night, the monster did not stay under the bed. It curled up beside Mateo, with the teddy bear between them. The little lights still glowed on the ceiling and, from the window, over them both watched the moon. 'Goodnight, friend,' yawned Mateo. 'Goodnight,' answered the monster, almost asleep already. Very close together and quiet, the two of them breathed. Little by little they closed their eyes. No one was afraid anymore: there was only the quiet night, warm and soft, watching over them until morning.",
+      "text": "That night, the monster did not stay under the bed. It curled up beside Iván, with the teddy bear between them. The little lights still glowed on the ceiling and, from the window, over them both watched the moon. 'Goodnight, friend,' yawned Iván. 'Goodnight,' answered the monster, almost asleep already. Very close together and quiet, the two of them breathed. Little by little they closed their eyes. No one was afraid anymore: there was only the quiet night, warm and soft, watching over them until morning.",
       "cues": [
         {
           "anchor": "moon",

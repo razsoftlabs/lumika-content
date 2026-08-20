@@ -2,13 +2,13 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 5,
   "title": "La astronauta en pijama",
-  "summary": "Cuando la casa se queda en silencio, la cama de Mía se convierte en un cohete rumbo a la luna.",
+  "summary": "Cuando la casa se queda en silencio, la cama de Vera se convierte en un cohete rumbo a la luna.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Mía se puso el pijama más suave y se metió en la cama. Afuera, redonda y blanca sobre los tejados, brillaba la luna. Las cortinas se movieron despacio, como si quisieran contarle un secreto. Por la ventana entreabierta se había colado una brisa. Mía cerró los ojos un momento y, cuando los abrió, su cama ya no era una cama. Las sábanas eran de plata, la almohada tenía botones que titilaban y en la punta se encendían dos luces. Su cama se había convertido en un cohete suave y tibio, listo para volar.",
+      "text": "Vera se puso el pijama más suave y se metió en la cama. Afuera, redonda y blanca sobre los tejados, brillaba la luna. Las cortinas se movieron despacio, como si quisieran contarle un secreto. Por la ventana entreabierta se había colado una brisa. Vera cerró los ojos un momento y, cuando los abrió, su cama ya no era una cama. Las sábanas eran de plata, la almohada tenía botones que titilaban y en la punta se encendían dos luces. Su cama se había convertido en un cohete suave y tibio, listo para volar.",
       "cues": [
         {
           "anchor": "luna",
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "—Cinco, cuatro, tres, dos, uno... —susurró Mía, y sin ningún ruido fuerte despegó el cohete. Subió por la ventana abierta, pasó junto a las cortinas y saludó a los tejados dormidos. Arriba, muy arriba, las nubes parecían almohadas y el cielo se llenó de estrellas. Todas le hacían guiños. Mía reía en voz baja mientras su cama voladora giraba entre ellas. No tenía nada de miedo, porque su manta seguía tapándola y su oso viajaba a su lado, mirando por la ventana de la nave.",
+      "text": "—Cinco, cuatro, tres, dos, uno... —susurró Vera, y sin ningún ruido fuerte despegó el cohete. Subió por la ventana abierta, pasó junto a las cortinas y saludó a los tejados dormidos. Arriba, muy arriba, las nubes parecían almohadas y el cielo se llenó de estrellas. Todas le hacían guiños. Vera reía en voz baja mientras su cama voladora giraba entre ellas. No tenía nada de miedo, porque su manta seguía tapándola y su oso viajaba a su lado, mirando por la ventana de la nave.",
       "cues": [
         {
           "anchor": "cohete",
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "El cohete bajó despacio y aterrizó sobre un suelo blando como la harina: había llegado a la luna. Mía sacó un pie, luego el otro, y sobre el polvo plateado dio sus primeros pasos. Todo estaba en silencio, un silencio bonito y redondo. Alrededor se abrían montañas suaves y valles llenos de luz. En cada rincón, pequeñas estrellas se habían quedado dormidas sobre el suelo, parpadeando muy despacio, como faroles cansados. Mía las miró con ternura y pensó que serían perfectas para iluminar su cuarto.",
+      "text": "El cohete bajó despacio y aterrizó sobre un suelo blando como la harina: había llegado a la luna. Vera sacó un pie, luego el otro, y sobre el polvo plateado dio sus primeros pasos. Todo estaba en silencio, un silencio bonito y redondo. Alrededor se abrían montañas suaves y valles llenos de luz. En cada rincón, pequeñas estrellas se habían quedado dormidas sobre el suelo, parpadeando muy despacio, como faroles cansados. Vera las miró con ternura y pensó que serían perfectas para iluminar su cuarto.",
       "cues": [
         {
           "anchor": "luna",
@@ -52,7 +52,7 @@
     },
     {
       "id": "s4",
-      "text": "Con mucho cuidado, Mía abrió su frasco de vidrio y empezó a recoger, una por una, las estrellas. Cada vez que atrapaba una, la estrella soltaba una risa. Era como si la luz le hiciera cosquillas en las manos. Pronto el frasco se llenó de destellos dorados que bailaban dentro. Mía no las apretó ni corrió; las juntó despacio, con dedos amables, y les prometió cuidarlas. Cuando el frasco estuvo lleno, lo tapó con suavidad para no despertarlas del todo. Después se subió de nuevo a su cama-cohete, abrazó a su oso y giró la nave hacia casa.",
+      "text": "Con mucho cuidado, Vera abrió su frasco de vidrio y empezó a recoger, una por una, las estrellas. Cada vez que atrapaba una, la estrella soltaba una risa. Era como si la luz le hiciera cosquillas en las manos. Pronto el frasco se llenó de destellos dorados que bailaban dentro. Vera no las apretó ni corrió; las juntó despacio, con dedos amables, y les prometió cuidarlas. Cuando el frasco estuvo lleno, lo tapó con suavidad para no despertarlas del todo. Después se subió de nuevo a su cama-cohete, abrazó a su oso y giró la nave hacia casa.",
       "cues": [
         {
           "anchor": "estrellas",
@@ -67,7 +67,7 @@
     },
     {
       "id": "s5",
-      "text": "La cama-cohete regresó flotando por la ventana y se posó otra vez en el cuarto de Mía, tibia y quieta. Ella dejó el frasco de estrellas junto a su almohada, y su luz suave llenó la habitación como una lámpara amable. Afuera, las buenas noches se las dio la luna. Mía se acurrucó bajo la manta, cerró los ojos y respiró. Muy despacio, una vez, dos veces. El brillo dorado la abrazó por dentro. Y así, entre estrellas guardadas y sueños tranquilos, Mía se quedó profundamente dormida.",
+      "text": "La cama-cohete regresó flotando por la ventana y se posó otra vez en el cuarto de Vera, tibia y quieta. Ella dejó el frasco de estrellas junto a su almohada, y su luz suave llenó la habitación como una lámpara amable. Afuera, las buenas noches se las dio la luna. Vera se acurrucó bajo la manta, cerró los ojos y respiró. Muy despacio, una vez, dos veces. El brillo dorado la abrazó por dentro. Y así, entre estrellas guardadas y sueños tranquilos, Vera se quedó profundamente dormida.",
       "cues": [
         {
           "anchor": "luna",

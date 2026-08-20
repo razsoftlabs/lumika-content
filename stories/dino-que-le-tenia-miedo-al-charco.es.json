@@ -2,13 +2,13 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
-  "title": "El dino que le tenía miedo al charco",
+  "version": 6,
+  "title": "¡Un charco enorme!",
   "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeña que te puedas imaginar.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Tobi era el animal más grande de todo el valle. Cuando caminaba, la tierra retumbaba ¡bum, bum, bum! bajo las patas del dinosaurio. En los árboles temblaban las hojas. Todos pensaban que Tobi no le tenía miedo a nada. Pero guardaba un secreto muy pequeño. Junto a su nido había un charco. No un río, no un lago: un charco diminuto, del tamaño de un sombrero. Y cada vez que lo veía brillar, le temblaban las rodillas gigantes y escondía la cabeza detrás de la cola. \"¿Y si me moja? ¿Y si me traga?\", pensaba, temblando por un charco tan pequeño.",
+      "text": "Rocco era el animal más grande de todo el valle. Cuando caminaba, la tierra retumbaba ¡bum, bum, bum! bajo las patas del dinosaurio. En los árboles temblaban las hojas. Todos pensaban que Rocco no le tenía miedo a nada. Pero guardaba un secreto muy pequeño. Junto a su nido había un charco. No un río, no un lago: un charco diminuto, del tamaño de un sombrero. Y cada vez que lo veía brillar, le temblaban las rodillas gigantes y escondía la cabeza detrás de la cola. \"¿Y si me moja? ¿Y si me traga?\", pensaba, temblando por un charco tan pequeño.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "Para no acercarse al charco, Tobi hacía cosas muy graciosas. Daba vueltas larguísimas alrededor del valle. Caminaba en puntas de pie, despacio, mirando de reojo. Un día, para esquivarlo, dio un salto tan torpe que se sentó encima de un arbusto. Le despeinó la cresta un soplo de viento. Los pájaros que lo miraban soltaron una risa. \"Ji, ji, ji\", hacían entre las ramas. Tobi se puso colorado hasta la punta de la cola. \"¡No me da miedo!\", dijo bien fuerte. Pero apenas el charco brilló otra vez, salió corriendo y se escondió detrás de una piedra. Un dinosaurio enorme, escondido de algo tan pequeño.",
+      "text": "Para no acercarse al charco, Rocco hacía cosas muy graciosas. Daba vueltas larguísimas alrededor del valle. Caminaba en puntas de pie, despacio, mirando de reojo. Un día, para esquivarlo, dio un salto tan torpe que se sentó encima de un arbusto. Le despeinó la cresta un soplo de viento. Los pájaros que lo miraban soltaron una risa. \"Ji, ji, ji\", hacían entre las ramas. Rocco se puso colorado hasta la punta de la cola. \"¡No me da miedo!\", dijo bien fuerte. Pero apenas el charco brilló otra vez, salió corriendo y se escondió detrás de una piedra. Un dinosaurio enorme, escondido de algo tan pequeño.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Del charco salió, plip, una verde y pequeña rana. Se sentó en una hoja flotante y miró a Tobi con ojos amables. \"¿Por qué te da miedo el agua?\", preguntó. \"Es solo un charco. Aquí vivo yo, y es blanda y fresca.\" La rana chapoteó despacio, sin miedo. \"Ven, moja solo un dedo\", dijo. Tobi tragó saliva. Estiró la pata más grande del valle, despacio, despacio... y tocó el agua. No pasó nada malo. El agua le hizo cosquillas. La rana sonrió. \"¿Ves? El charco no muerde\", dijo. Y Tobi, por primera vez, no salió corriendo.",
+      "text": "Del charco salió, plip, una verde y pequeña rana. Se sentó en una hoja flotante y miró a Rocco con ojos amables. \"¿Por qué te da miedo el agua?\", preguntó. \"Es solo un charco. Aquí vivo yo, y es blanda y fresca.\" La rana chapoteó despacio, sin miedo. \"Ven, moja solo un dedo\", dijo. Rocco tragó saliva. Estiró la pata más grande del valle, despacio, despacio... y tocó el agua. No pasó nada malo. El agua le hizo cosquillas. La rana sonrió. \"¿Ves? El charco no muerde\", dijo. Y Rocco, por primera vez, no salió corriendo.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -53,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "Entonces Tobi respiró hondo, contó hasta tres y... ¡saltó al charco! ¡CHOF! El agua salió volando y cayó como lluvia alegre. Por todos lados salieron burbujas: gordas, pequeñas, redondas. Tobi se quedó quieto un segundo... y después soltó una carcajada enorme. \"¡Ja, ja, ja! ¡No pasa nada! ¡Es blando!\" Chapoteó y chapoteó, salpicando a la rana, que reía con él. El charco, que antes parecía un monstruo, ahora era el mejor juguete del valle. El dinosaurio más grande ya no le tenía miedo al charco más pequeño. Solo había necesitado un poco de valentía.",
+      "text": "Entonces Rocco respiró hondo, contó hasta tres y... ¡saltó al charco! ¡CHOF! El agua salió volando y cayó como lluvia alegre. Por todos lados salieron burbujas: gordas, pequeñas, redondas. Rocco se quedó quieto un segundo... y después soltó una carcajada enorme. \"¡Ja, ja, ja! ¡No pasa nada! ¡Es blando!\" Chapoteó y chapoteó, salpicando a la rana, que reía con él. El charco, que antes parecía un monstruo, ahora era el mejor juguete del valle. El dinosaurio más grande ya no le tenía miedo al charco más pequeño. Solo había necesitado un poco de valentía.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "Cuando llegó la noche, el valle se puso tranquilo y azul. Tobi y la rana se sentaron juntos al lado del charco. En el agua quieta se reflejaba, redonda y blanca como un botón de plata, la luna. Alrededor titilaban, como migajas de luz, las estrellas. Un búho cantó suave desde un árbol. \"Buenas noches, valiente\", susurró la rana. Tobi bostezó, apoyó la cabeza sobre las patas y sonrió. Ya no le temblaban las rodillas. Cerró los ojos despacio y se durmió escuchando el agua cantar. Y soñó que saltaba en mil charcos, feliz, sin miedo, hasta la mañana.",
+      "text": "Cuando llegó la noche, el valle se puso tranquilo y azul. Rocco y la rana se sentaron juntos al lado del charco. En el agua quieta se reflejaba, redonda y blanca como un botón de plata, la luna. Alrededor titilaban, como migajas de luz, las estrellas. Un búho cantó suave desde un árbol. \"Buenas noches, valiente\", susurró la rana. Rocco bostezó, apoyó la cabeza sobre las patas y sonrió. Ya no le temblaban las rodillas. Cerró los ojos despacio y se durmió escuchando el agua cantar. Y soñó que saltaba en mil charcos, feliz, sin miedo, hasta la mañana.",
       "ambient": "forest_night",
       "cues": [
         {

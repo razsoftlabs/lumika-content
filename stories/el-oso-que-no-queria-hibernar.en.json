@@ -2,8 +2,8 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
-  "title": "The Bear Who Didn't Want to Hibernate",
+  "version": 6,
+  "title": "Not Sleeping This Winter",
   "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes.",
   "scenes": [
     {
@@ -83,7 +83,7 @@
     },
     {
       "id": "s6",
-      "text": "And that is how Bruno made winter friends: the ones who don't hibernate.\n\nHe met Lila, the hare with the white fur, who taught him to walk on top of the snow without sinking. He met the three sparrows on the crooked branch, who slept all squished together like a single pom-pom. He met Tomas, the fox with the enormous tail, who showed him where the stream was still singing under the ice.\n\nAnd right at the top, in the old oak, lived Ulises. He was big, he was serious, and he had eyes as round as two coins: an owl. He said important things in a whisper:\n\n\"Hoooo... Bruno... winter is beautiful, and it is also hard. When the forest warns you, listen to it.\"\n\n\"And how does it warn me?\" asked Bruno.\n\n\"It goes quiet,\" said Ulises. \"Quieter than now.\"\n\nBruno didn't understand, but he nodded his head, because it was night and because he was very happy. They all ate pine nuts and told stories until the snow turned blue.",
+      "text": "And that is how Bruno made winter friends: the ones who don't hibernate.\n\nHe met Frida, the hare with the white fur, who taught him to walk on top of the snow without sinking. He met the three sparrows on the crooked branch, who slept all squished together like a single pom-pom. He met Tomas, the fox with the enormous tail, who showed him where the stream was still singing under the ice.\n\nAnd right at the top, in the old oak, lived Ulises. He was big, he was serious, and he had eyes as round as two coins: an owl. He said important things in a whisper:\n\n\"Hoooo... Bruno... winter is beautiful, and it is also hard. When the forest warns you, listen to it.\"\n\n\"And how does it warn me?\" asked Bruno.\n\n\"It goes quiet,\" said Ulises. \"Quieter than now.\"\n\nBruno didn't understand, but he nodded his head, because it was night and because he was very happy. They all ate pine nuts and told stories until the snow turned blue.",
       "ambient": "stream_water",
       "cues": [
         {
@@ -113,7 +113,7 @@
     },
     {
       "id": "s8",
-      "text": "It was Lila and Tomas, with snow up to their ears.\n\n\"Up you get, bear!\" said the hare. \"You can't sleep here.\"\n\nThey pushed him and pulled him and carried him between the two of them all the way to the old oak. Tomas pushed aside some roots and a little moss, and behind them appeared a door. The three of them squeezed into the burrow, which was small, dark, and as warm as a cup of milk.\n\nInside there were piles of dry grass, stored seeds, and three sparrows asleep in a corner. Ulises was waiting for them with shining eyes.\n\nLila covered Bruno with her own body and with a big pile of leaves. Tomas laid his enormous tail over Bruno's cold paws. Outside, the wind kept whistling, but inside you could hear something else: the breathing of friends, all close together, all in the same rhythm.\n\n\"Thank you,\" said Bruno, his voice thick with sleep.\n\n\"That's what winter friends are for,\" said Tomas. \"For lending you a tail.\"",
+      "text": "It was Frida and Tomas, with snow up to their ears.\n\n\"Up you get, bear!\" said the hare. \"You can't sleep here.\"\n\nThey pushed him and pulled him and carried him between the two of them all the way to the old oak. Tomas pushed aside some roots and a little moss, and behind them appeared a door. The three of them squeezed into the burrow, which was small, dark, and as warm as a cup of milk.\n\nInside there were piles of dry grass, stored seeds, and three sparrows asleep in a corner. Ulises was waiting for them with shining eyes.\n\nLila covered Bruno with her own body and with a big pile of leaves. Tomas laid his enormous tail over Bruno's cold paws. Outside, the wind kept whistling, but inside you could hear something else: the breathing of friends, all close together, all in the same rhythm.\n\n\"Thank you,\" said Bruno, his voice thick with sleep.\n\n\"That's what winter friends are for,\" said Tomas. \"For lending you a tail.\"",
       "ambient": "snow_wind",
       "cues": [
         {
@@ -128,7 +128,7 @@
     },
     {
       "id": "s9",
-      "text": "When the storm calmed down, the sun peeked out again and the forest was covered in sugar. Bruno came out of the burrow, stretched, and discovered something curious: everything felt heavy. His paws, his head, even his whiskers.\n\n\"I think my body is telling me something,\" he said slowly.\n\nHe sat down in the snow and breathed. He did it deeply, once, twice, three times, the way you do before something important. And then he understood: his body was not stubborn or boring. His body was wise. It was asking him to rest because it loved him, just as Lila asked him to eat and Ulises asked him to listen.\n\n\"I've seen winter. I saw the snow, I skated, I made friends. Now it's my turn to sleep,\" he said in a whisper.\n\nUlises ruffled his feathers, pleased.\n\n\"Hoooo... that, Bruno, is called growing up.\"\n\nLila gave him a hare hug, which are quick hugs. Tomas gave him a pine nut for the road. Bruno promised to come back in spring.",
+      "text": "When the storm calmed down, the sun peeked out again and the forest was covered in sugar. Bruno came out of the burrow, stretched, and discovered something curious: everything felt heavy. His paws, his head, even his whiskers.\n\n\"I think my body is telling me something,\" he said slowly.\n\nHe sat down in the snow and breathed. He did it deeply, once, twice, three times, the way you do before something important. And then he understood: his body was not stubborn or boring. His body was wise. It was asking him to rest because it loved him, just as Frida asked him to eat and Ulises asked him to listen.\n\n\"I've seen winter. I saw the snow, I skated, I made friends. Now it's my turn to sleep,\" he said in a whisper.\n\nUlises ruffled his feathers, pleased.\n\n\"Hoooo... that, Bruno, is called growing up.\"\n\nLila gave him a hare hug, which are quick hugs. Tomas gave him a pine nut for the road. Bruno promised to come back in spring.",
       "ambient": "snow_wind",
       "cues": [
         {

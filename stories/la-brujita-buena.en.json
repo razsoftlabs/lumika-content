@@ -2,13 +2,13 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 7,
   "title": "The Good Little Witch",
-  "summary": "Every one of Mila's spells comes out backwards, and her cat Tomás never knows who they'll end up helping.",
+  "summary": "Every one of Aura's spells comes out backwards, and her cat Bigotes never knows who they'll end up helping.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Deep in the forest, in a crooked house with a roof made of straw, lived a good witch named Mila. She had a hat that was a bit too big, a wand that was a bit too bent, and one faithful friend: Tomás, her cat. Mila wanted to make beautiful magic, but her spells always came out a little clumsy. Instead of flowers, butterflies appeared. Instead of rain, petals fell. Tomás watched her and swished his tail, patient. 'Never mind, Tomás,' said Mila, laughing. 'We'll get it right someday.' And up on the roof, as if to say yes, rustled the leaves.",
+      "text": "Deep in the forest, in a crooked house with a roof made of straw, lived a good witch named Aura. She had a hat that was a bit too big, a wand that was a bit too bent, and one faithful friend: Bigotes, her cat. Aura wanted to make beautiful magic, but her spells always came out a little clumsy. Instead of flowers, butterflies appeared. Instead of rain, petals fell. Bigotes watched her and swished his tail, patient. 'Never mind, Bigotes,' said Aura, laughing. 'We'll get it right someday.' And up on the roof, as if to say yes, rustled the leaves.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "That afternoon, out in the meadow, Mila came across some bees. They were terribly sad: the wind had blown away all the petals, and there were no flowers left to visit. 'Don't cry, I'll help you,' said Mila. She raised her wand to make a jar of honey... but something odd happened to the spell. Instead of honey, a warm, gentle wind blew out of her hat and scattered the seeds Mila kept in her pocket. Wherever a seed landed, pop!, a flower sprang up. Very soon the whole meadow filled with colors, and they buzzed with joy, flying from flower to flower.",
+      "text": "That afternoon, out in the meadow, Aura came across some bees. They were terribly sad: the wind had blown away all the petals, and there were no flowers left to visit. 'Don't cry, I'll help you,' said Aura. She raised her wand to make a jar of honey... but something odd happened to the spell. Instead of honey, a warm, gentle wind blew out of her hat and scattered the seeds Aura kept in her pocket. Wherever a seed landed, pop!, a flower sprang up. Very soon the whole meadow filled with colors, and they buzzed with joy, flying from flower to flower.",
       "ambient": "meadow_day",
       "cues": [
         {
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "As evening fell, beside a puddle that had almost dried up, Mila heard the crying of a frog. 'My puddle dried out and now I can't swim,' she said in a sad voice. 'Wait, I'll fix it,' smiled Mila, and she waved her wand over her cauldron. She wanted a thin trickle, just a few drops... but out of the cauldron came a whole river of water. Splash! The puddle filled to the brim and soaked everyone. Tomás got drenched and hissed. But she gave a happy hop and croaked: 'Now it's the loveliest puddle in the forest!' Mila laughed and hugged Tomás to say sorry.",
+      "text": "As evening fell, beside a puddle that had almost dried up, Aura heard the crying of a frog. 'My puddle dried out and now I can't swim,' she said in a sad voice. 'Wait, I'll fix it,' smiled Aura, and she waved her wand over her cauldron. She wanted a thin trickle, just a few drops... but out of the cauldron came a whole river of water. Splash! The puddle filled to the brim and soaked everyone. Bigotes got drenched and hissed. But she gave a happy hop and croaked: 'Now it's the loveliest puddle in the forest!' Aura laughed and hugged Bigotes to say sorry.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -53,7 +53,7 @@
     },
     {
       "id": "s4",
-      "text": "Night came very dark, without a single light. Among the branches, lost and frightened, sat a little owl. 'I can't find my tree,' he hooted softly. 'I'll light your way,' said Mila. She wanted to light one lantern, just one... but her wand let out a sneeze of magic. Instead of the lantern, out of her hat flew a hundred tiny stars. They rose up into the branches and stayed there glowing, golden and still. The whole forest filled with a warm light. He flapped his wings, happy, and flew straight to his tree. 'Thank you, little witch,' he said from his nest. And there they remained, watching over the forest.",
+      "text": "Night came very dark, without a single light. Among the branches, lost and frightened, sat a little owl. 'I can't find my tree,' he hooted softly. 'I'll light your way,' said Aura. She wanted to light one lantern, just one... but her wand let out a sneeze of magic. Instead of the lantern, out of her hat flew a hundred tiny stars. They rose up into the branches and stayed there glowing, golden and still. The whole forest filled with a warm light. He flapped his wings, happy, and flew straight to his tree. 'Thank you, little witch,' he said from his nest. And there they remained, watching over the forest.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "id": "s5",
-      "text": "That night, all the forest friends came to see Mila. The bees, the frog, and the owl thanked her, and the air filled up with their laughter. 'Your spells are not clumsy,' said the frog. 'They are magical, because your heart is good.' Mila smiled and hugged Tomás. Between the trees, round and silver, rose the moon. Everything grew calm. The owl closed his eyes in his nest. The frog curled up in his puddle. And Mila and Tomás fell asleep together under a warm blanket, dreaming of the beautiful magic of the next day.",
+      "text": "That night, all the forest friends came to see Aura. The bees, the frog, and the owl thanked her, and the air filled up with their laughter. 'Your spells are not clumsy,' said the frog. 'They are magical, because your heart is good.' Aura smiled and hugged Bigotes. Between the trees, round and silver, rose the moon. Everything grew calm. The owl closed his eyes in his nest. The frog curled up in his puddle. And Aura and Bigotes fell asleep together under a warm blanket, dreaming of the beautiful magic of the next day.",
       "ambient": "forest_night",
       "cues": [
         {

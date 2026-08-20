@@ -2,13 +2,13 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
-  "title": "Chispa, la estrella fugaz tímida",
+  "version": 6,
+  "title": "Titila, la estrella fugaz tímida",
   "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más alto de la noche vivía una estrella llamada Chispa. Cada noche, dejando colas de luz, cruzaban el cielo las demás estrellas. Abajo, los niños dormidos pedían deseos. Y a todas las saludaba, redonda y amable, la Luna. Pero Chispa se quedaba quieta en su rincón, brillando muy despacio. Le encantaba mirar el mundo dormido allá abajo: los tejados, los árboles y los ríos. Soñaba con cruzar el cielo algún día... pero solo de pensarlo, su luz temblaba un poco. Todavía no se animaba.",
+      "text": "En lo más alto de la noche vivía una estrella llamada Titila. Cada noche, dejando colas de luz, cruzaban el cielo las demás estrellas. Abajo, los niños dormidos pedían deseos. Y a todas las saludaba, redonda y amable, la Luna. Pero Titila se quedaba quieta en su rincón, brillando muy despacio. Le encantaba mirar el mundo dormido allá abajo: los tejados, los árboles y los ríos. Soñaba con cruzar el cielo algún día... pero solo de pensarlo, su luz temblaba un poco. Todavía no se animaba.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -23,7 +23,7 @@
     },
     {
       "id": "s2",
-      "text": "¿Por qué tenía tanto miedo Chispa? Ella pensaba: «¿Y si un niño pide un deseo y yo lo confundo? ¿Y si pide un abrazo y le doy un globo?». Solo de imaginarlo, se escondía detrás de una nube. Una noche se le acercó, tibio y despacio, un viento. Le acarició la cara con mucho cuidado. —No pasa nada, pequeña. Nadie pide deseos perfectos —le susurró. Pero Chispa, tímida, cerró los ojos y siguió temblando en silencio. Prefería mirar desde lejos, sin que nadie la viera cruzar.",
+      "text": "¿Por qué tenía tanto miedo Titila? Ella pensaba: «¿Y si un niño pide un deseo y yo lo confundo? ¿Y si pide un abrazo y le doy un globo?». Solo de imaginarlo, se escondía detrás de una nube. Una noche se le acercó, tibio y despacio, un viento. Le acarició la cara con mucho cuidado. —No pasa nada, pequeña. Nadie pide deseos perfectos —le susurró. Pero Titila, tímida, cerró los ojos y siguió temblando en silencio. Prefería mirar desde lejos, sin que nadie la viera cruzar.",
       "cues": [
         {
           "anchor": "viento",
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "Esa misma noche la vio temblar la Luna. Con su voz suave, le preguntó: —Chispa, ¿por qué nunca cruzas el cielo? Desde una rama, con sus ojos grandes, escuchaba un búho. Chispa, en voz baja, confesó su secreto: —Tengo miedo de darle a un niño el deseo equivocado. Ella sonrió despacio, con esa sonrisa ancha y calmada de las noches claras. —Ay, mi estrella —dijo—. Ven, acércate. Deja que te cuente cómo funcionan de verdad los deseos. Y Chispa, curiosa, se acercó un poco más.",
+      "text": "Esa misma noche la vio temblar la Luna. Con su voz suave, le preguntó: —Titila, ¿por qué nunca cruzas el cielo? Desde una rama, con sus ojos grandes, escuchaba un búho. Titila, en voz baja, confesó su secreto: —Tengo miedo de darle a un niño el deseo equivocado. Ella sonrió despacio, con esa sonrisa ancha y calmada de las noches claras. —Ay, mi estrella —dijo—. Ven, acércate. Deja que te cuente cómo funcionan de verdad los deseos. Y Titila, curiosa, se acercó un poco más.",
       "cues": [
         {
           "anchor": "Luna",
@@ -51,7 +51,7 @@
     },
     {
       "id": "s4",
-      "text": "Y entonces, con esa voz que calma, se lo explicó despacio. —Los deseos no viven en ti. Viven en quien sueña, muy dentro de su corazón. Tú solo llevas tu luz; el niño pone el deseo. Nunca puedes equivocarte, porque tú regalas brillo, no órdenes. Chispa lo pensó despacio. Se llenó de aire y respiró. Fue como llenarse de valor. Desde su rama, alguien ululó en voz baja, como diciendo «tú puedes». Por primera vez, la estrella sintió que su miedo era pequeño, del tamaño de una miga. Y por dentro, muy callada, empezó a nacer una chispa de valentía.",
+      "text": "Y entonces, con esa voz que calma, se lo explicó despacio. —Los deseos no viven en ti. Viven en quien sueña, muy dentro de su corazón. Tú solo llevas tu luz; el niño pone el deseo. Nunca puedes equivocarte, porque tú regalas brillo, no órdenes. Titila lo pensó despacio. Se llenó de aire y respiró. Fue como llenarse de valor. Desde su rama, alguien ululó en voz baja, como diciendo «tú puedes». Por primera vez, la estrella sintió que su miedo era pequeño, del tamaño de una miga. Y por dentro, muy callada, empezó a nacer una chispa de valentía.",
       "cues": [
         {
           "anchor": "corazón",
@@ -65,7 +65,7 @@
     },
     {
       "id": "s5",
-      "text": "Entonces, por fin, Chispa se atrevió. Abrió sus alas de luz y, de una punta a la otra del cielo, cruzó. Detrás dejó una cola dorada y suave. Allá abajo, una niña medio dormida la vio por la ventana. Pidió un deseo pequeño y lo susurró. Chispa no supo cuál fue... y entendió que no importaba. La niña sonrió y se acurrucó en su cama. Le guiñó un ojo la Luna. Y Chispa, tranquila al fin, volvió a su rincón a descansar, brillando en calma. Buenas noches, estrella. Buenas noches. A dormir.",
+      "text": "Entonces, por fin, Titila se atrevió. Abrió sus alas de luz y, de una punta a la otra del cielo, cruzó. Detrás dejó una cola dorada y suave. Allá abajo, una niña medio dormida la vio por la ventana. Pidió un deseo pequeño y lo susurró. Titila no supo cuál fue... y entendió que no importaba. La niña sonrió y se acurrucó en su cama. Le guiñó un ojo la Luna. Y Titila, tranquila al fin, volvió a su rincón a descansar, brillando en calma. Buenas noches, estrella. Buenas noches. A dormir.",
       "ambient": "forest_night",
       "cues": [
         {

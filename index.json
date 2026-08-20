@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754027,
+  "manifestVersion": 1786826754028,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -759,7 +759,7 @@
     },
     {
       "id": "el-conejo-que-perdio-su-brinco",
-      "version": 7,
+      "version": 8,
       "locales": [
         "es",
         "en"
@@ -791,11 +791,11 @@
       ],
       "preview": {
         "es": {
-          "title": "¿Dónde está el brinco de Tobi?",
+          "title": "¿Dónde está el brinco de Pipo?",
           "summary": "Una mañana, Pipo el conejo despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?"
         },
         "en": {
-          "title": "Where Did Tobi's Hop Go?",
+          "title": "Where Did Pipo's Hop Go?",
           "summary": "One morning, Pipo the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?"
         }
       }

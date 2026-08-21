@@ -67,71 +67,74 @@
 <main>
 <section data-lang="es" hidden>
 <div class="resumen"><strong>En corto:</strong> no tenemos servidores, no hay cuentas y no recogemos datos personales. La app no pide el nombre ni la edad del niño.</div>
-<h2>1. Qué guarda la app, y dónde</h2>
-<p>Todo lo siguiente se guarda <strong>solo en el dispositivo</strong> y nunca se envía a nosotros, porque no existe ningún servidor nuestro que pudiera recibirlo:</p>
+<h2>1. Qué guarda la aplicación, y dónde</h2>
+<p>Todo lo siguiente se guarda <strong>solo en tu teléfono</strong> y nunca llega hasta nosotros, sencillamente porque no tenemos dónde recibirlo:</p>
 <ul>
-<li><strong>Hora de dormir.</strong> Es el <strong>único dato que la app pide</strong>, y lo elige el</li>
+<li><strong>La hora de dormir.</strong> Es el <strong>único dato que la aplicación pide</strong>, y lo</li>
 </ul>
-<p>adulto entre unas opciones fijas al instalar. Sirve para programar el aviso de "es hora del cuento" en el propio teléfono.</p>
+<p>eliges tú entre unas opciones al empezar. Sirve para avisarte, en tu propio teléfono, de que se acerca la hora del cuento.</p>
 <ul>
-<li><strong>Perfil de lectura.</strong> La app crea un perfil local para guardar el progreso.</li>
+<li><strong>Tu progreso.</strong> Qué cuentos habéis terminado, cuáles son favoritos, los días</li>
 </ul>
-<p><strong>No pide nombre, ni edad, ni foto</strong>: usa valores por defecto internos.</p>
+<p>seguidos leyendo y los logros conseguidos.</p>
 <ul>
-<li><strong>Progreso.</strong> Qué cuentos se terminaron, favoritos, racha de días y logros.</li>
-<li><strong>Preferencias.</strong> Tamaño de letra, volúmenes, modo nocturno.</li>
-<li><strong>Caché de contenido.</strong> Cuentos, portadas y sonidos descargados para poder</li>
+<li><strong>Tus preferencias.</strong> Tamaño de la letra, volúmenes y modo noche.</li>
+<li><strong>Los cuentos descargados</strong>, para que se puedan leer sin conexión.</li>
 </ul>
-<p>leer sin conexión.</p>
-<p>Desinstalar la aplicación elimina todo esto del dispositivo.</p>
-<h2>2. Permisos que pide la app</h2>
+<p>La aplicación <strong>no pide el nombre ni la edad del niño</strong> en ningún momento.</p>
+<p>Si desinstalas Lumika, todo esto desaparece con ella.</p>
+<h2>2. Permisos</h2>
+<p>Lumika solo necesita tres cosas del teléfono:</p>
 <ul>
-<li><strong>Internet</strong> — para descargar cuentos, portadas y sonidos nuevos, y para</li>
+<li><strong>Conexión a internet</strong>, para traer cuentos nuevos y mostrar la publicidad.</li>
+<li><strong>Vibración</strong>, para la pequeña respuesta al tocar una palabra mágica.</li>
+<li><strong>Sonido</strong>, para reproducir la música y los efectos.</li>
 </ul>
-<p>mostrar la publicidad.</p>
-<ul>
-<li><strong>Vibración</strong> — la respuesta táctil al tocar una palabra mágica.</li>
-<li><strong>Ajustes de audio</strong> — para reproducir la música, el ambiente y los efectos.</li>
-</ul>
-<p>La app <strong>no pide</strong> micrófono, cámara, ubicación, contactos, fotos, calendario ni acceso a los archivos del dispositivo. No lee ninguna de esas cosas.</p>
-<h2>3. Descarga de contenido</h2>
-<p>Los cuentos nuevos se descargan de un repositorio público alojado en GitHub Pages (<code>razsoftlabs.github.io/lumika-content</code>). Esa descarga es una petición web normal: <strong>no lleva ningún dato del usuario ni del perfil</strong>. GitHub, como cualquier servidor web, registra la dirección IP de la petición conforme a su propia política.</p>
+<p><strong>No pedimos</strong> micrófono, cámara, ubicación, contactos, fotos, agenda ni acceso a tus archivos. La aplicación no puede leer nada de eso.</p>
+<h2>3. Cuentos nuevos</h2>
+<p>De vez en cuando la aplicación busca si hay cuentos nuevos y los descarga. Esa descarga <strong>no lleva ninguna información tuya ni del niño</strong>: es una petición anónima, igual que abrir una página web cualquiera.</p>
 <h2>4. Publicidad</h2>
-<p>Lumika es gratuita y se sostiene con publicidad de <strong>Google AdMob</strong> (Google LLC). Por tratarse de una aplicación dirigida a familias, está configurada así:</p>
+<p>Lumika es gratuita y se mantiene con la publicidad de <strong>Google AdMob</strong>. Como es una aplicación para familias, está configurada de la forma más restrictiva que Google permite:</p>
 <ul>
-<li><strong>Solo anuncios no personalizados.</strong> Sin segmentación por intereses ni</li>
+<li><strong>Los anuncios no se personalizan.</strong> No se eligen según intereses ni según lo</li>
 </ul>
-<p>remarketing.</p>
+<p>que hayas hecho antes en el teléfono o en internet.</p>
 <ul>
-<li><strong>Marcada como dirigida a menores</strong> (<code>tagForChildDirectedTreatment</code>), lo que</li>
+<li><strong>Está declarada ante Google como aplicación para público infantil</strong>, lo que</li>
 </ul>
-<p>obliga a Google a tratar el tráfico bajo sus reglas para público infantil.</p>
+<p>obliga a tratar esta publicidad con las reglas reforzadas que Google aplica a los menores.</p>
 <ul>
-<li><strong>Clasificación máxima de contenido: G</strong> (apta para todo público).</li>
-<li><strong>No se transmite el identificador de publicidad de Android (AAID).</strong> La app</li>
+<li><strong>Solo se muestran anuncios aptos para todos los públicos.</strong></li>
+<li><strong>No se usa el identificador de publicidad del teléfono</strong>, el código que</li>
 </ul>
-<p>no declara el permiso <code>AD_ID</code>, de modo que ese identificador no está disponible para los anuncios.</p>
-<p>Google puede procesar datos técnicos de la petición (modelo de dispositivo, versión del sistema, IP aproximada) según su propia política: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
+<p>normalmente permite seguir a una persona entre aplicaciones. Lumika ni siquiera tiene permiso para leerlo.</p>
+<p>Google puede tratar datos técnicos de la conexión, como el modelo del teléfono o una ubicación aproximada a partir de la red. Eso se rige por su propia política: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
 <h2>5. Donaciones</h2>
-<p>Dentro de "Zona de padres" y al terminar algunos cuentos ofrecemos un enlace voluntario para donar a través de <strong>Ko-fi</strong> o <strong>PayPal</strong>. Ese enlace:</p>
+<p>En la zona de padres, y al terminar algunos cuentos, ofrecemos un enlace voluntario para apoyar el proyecto con <strong>Ko-fi</strong> o <strong>PayPal</strong>. Ese enlace:</p>
 <ul>
-<li>Está <strong>detrás de un control parental</strong> (una suma que el niño no resolvería).</li>
+<li>Está <strong>detrás de una comprobación pensada para adultos</strong>, para que un niño no</li>
+</ul>
+<p>llegue solo hasta ahí.</p>
+<ul>
 <li>Abre el navegador, <strong>fuera de la aplicación</strong>.</li>
-<li><strong>No otorga nada</strong>: no quita la publicidad ni desbloquea cuentos.</li>
+<li><strong>No da nada a cambio</strong>: no quita la publicidad ni desbloquea cuentos.</li>
 </ul>
-<p>El pago ocurre íntegramente en la plataforma correspondiente, bajo sus propias políticas de privacidad. Nosotros no vemos ni almacenamos datos de pago.</p>
-<h2>6. Lo que NO hacemos</h2>
+<p>El pago ocurre entero en la plataforma correspondiente y bajo sus propias condiciones. Nosotros no vemos ni guardamos datos de pago.</p>
+<h2>6. Lo que no hacemos</h2>
 <ul>
-<li>No hay cuentas ni inicio de sesión.</li>
-<li>No vendemos ni compartimos información con terceros.</li>
-<li>No hay servidores nuestros que almacenen nada.</li>
+<li>No hay cuentas ni registro.</li>
+<li>No seguimos lo que hacéis dentro de la aplicación.</li>
+<li>No vendemos ni compartimos información con nadie.</li>
+<li>No guardamos nada en ningún sitio que no sea tu propio teléfono.</li>
 </ul>
-<h2>7. Privacidad de los menores</h2>
-<p>Lumika <strong>está dirigida a familias, incluidos menores de 13 años</strong>, y cumple la Política de Familias de Google Play. No recogemos información personal de menores, y no por promesa sino por diseño: <strong>la app no pide el nombre ni la edad del niño en ningún momento</strong>. El único dato que se introduce es la hora de dormir, la elige el adulto, se queda en el dispositivo y nunca se transmite.</p>
-<p>Cualquier salida hacia fuera de la aplicación —donaciones incluidas— está protegida por un control parental.</p>
-<h2>8. Cambios en esta política</h2>
-<p>Si la aplicación cambia de forma que afecte a esta política, actualizaremos la fecha de arriba y, cuando el cambio sea relevante, lo avisaremos dentro de la app.</p>
+<h2>7. Los niños</h2>
+<p>Lumika <strong>está dirigida a familias, incluidos menores de 13 años</strong>, y cumple la Política de Familias de Google Play.</p>
+<p>No recogemos información personal de menores, y no es una promesa: es que la aplicación <strong>nunca la pide</strong>. No hay casilla para el nombre, ni para la edad, ni para una foto. Lo único que se introduce es la hora de dormir, la eliges tú, y se queda en el teléfono.</p>
+<p>Cualquier salida fuera de la aplicación, donaciones incluidas, está protegida para que no la cruce un niño por su cuenta.</p>
+<h2>8. Cambios</h2>
+<p>Si la aplicación cambia de forma que afecte a esta política, actualizaremos la fecha de arriba y, cuando el cambio sea importante, te lo diremos dentro de la propia aplicación.</p>
 <h2>9. Contacto</h2>
+<p>¿Dudas, sugerencias o algo que no cuadra? Escríbenos y te respondemos.</p>
 <ul>
 <li><strong>Correo:</strong> razsoftlabsupport@gmail.com</li>
 <li><strong>Responsable:</strong> RazSoftLabs</li>
@@ -140,142 +143,152 @@
 <section data-lang="en" hidden>
 <div class="resumen"><strong>In short:</strong> we run no servers, there are no accounts and we collect no personal data. The app never asks for the child’s name or age.</div>
 <h2>1. What the app stores, and where</h2>
-<p>Everything below is stored <strong>on the device only</strong> and is never sent to us, because we operate no server that could receive it:</p>
+<p>Everything below stays <strong>on your phone only</strong> and never reaches us, simply because we have nowhere to receive it:</p>
 <ul>
-<li><strong>Bedtime.</strong> The <strong>only piece of information the app asks for</strong>, chosen by the</li>
+<li><strong>Bedtime.</strong> The <strong>only thing the app asks for</strong>, and you pick it from a few</li>
 </ul>
-<p>adult from a fixed set of options during setup. It is used to schedule the "story time" reminder on the phone itself.</p>
+<p>options when you start. It is used to remind you, on your own phone, that story time is coming up.</p>
 <ul>
-<li><strong>Reading profile.</strong> The app creates a local profile to hold progress. It</li>
+<li><strong>Your progress.</strong> Which stories you have finished, which are favourites, how</li>
 </ul>
-<p><strong>does not ask for a name, an age or a photo</strong>: it uses internal defaults.</p>
+<p>many days in a row you have read and the badges earned.</p>
 <ul>
-<li><strong>Progress.</strong> Which stories were finished, favourites, day streak and badges.</li>
-<li><strong>Preferences.</strong> Text size, volumes, night mode.</li>
-<li><strong>Content cache.</strong> Stories, covers and sounds downloaded so they work offline.</li>
+<li><strong>Your preferences.</strong> Text size, volumes and night mode.</li>
+<li><strong>Downloaded stories</strong>, so they can be read without a connection.</li>
 </ul>
-<p>Uninstalling the app removes all of it from the device.</p>
-<h2>2. Permissions the app requests</h2>
+<p>The app <strong>never asks for the child's name or age</strong>.</p>
+<p>If you uninstall Lumika, all of it goes with it.</p>
+<h2>2. Permissions</h2>
+<p>Lumika only needs three things from the phone:</p>
 <ul>
-<li><strong>Internet</strong> — to download new stories, covers and sounds, and to show ads.</li>
-<li><strong>Vibration</strong> — the haptic response when a magic word is tapped.</li>
-<li><strong>Audio settings</strong> — to play music, ambience and sound effects.</li>
+<li><strong>An internet connection</strong>, to fetch new stories and show the ads.</li>
+<li><strong>Vibration</strong>, for the small response when a magic word is tapped.</li>
+<li><strong>Sound</strong>, to play the music and the effects.</li>
 </ul>
-<p>The app <strong>does not request</strong> the microphone, camera, location, contacts, photos, calendar or access to the files on the device. It reads none of those.</p>
-<h2>3. Content downloads</h2>
-<p>New stories are downloaded from a public repository hosted on GitHub Pages (<code>razsoftlabs.github.io/lumika-content</code>). That download is an ordinary web request: <strong>it carries no user or profile data</strong>. GitHub, like any web server, logs the IP address of the request under its own policy.</p>
+<p>We <strong>do not ask for</strong> the microphone, camera, location, contacts, photos, calendar or access to your files. The app cannot read any of that.</p>
+<h2>3. New stories</h2>
+<p>Every now and then the app checks for new stories and downloads them. That download <strong>carries no information about you or the child</strong>: it is an anonymous request, just like opening any web page.</p>
 <h2>4. Advertising</h2>
-<p>Lumika is free and supported by <strong>Google AdMob</strong> advertising (Google LLC). Because it is a family-directed application, it is configured as follows:</p>
+<p>Lumika is free and supported by <strong>Google AdMob</strong> advertising. Because it is an app for families, it is set up in the most restrictive way Google allows:</p>
 <ul>
-<li><strong>Non-personalised ads only.</strong> No interest-based targeting, no remarketing.</li>
-<li><strong>Tagged as child-directed</strong> (<code>tagForChildDirectedTreatment</code>), which requires</li>
+<li><strong>Ads are not personalised.</strong> They are not chosen based on interests or on</li>
 </ul>
-<p>Google to handle the traffic under its rules for child audiences.</p>
+<p>what you have done before, on the phone or online.</p>
 <ul>
-<li><strong>Maximum content rating: G</strong> (suitable for general audiences).</li>
-<li><strong>The Android advertising identifier (AAID) is not transmitted.</strong> The app does</li>
+<li><strong>It is declared to Google as an app for children</strong>, which requires this</li>
 </ul>
-<p>not declare the <code>AD_ID</code> permission, so that identifier is not available to the ads.</p>
-<p>Google may process technical data from the request (device model, OS version, approximate IP) under its own policy: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
+<p>advertising to be handled under the stricter rules Google applies to minors.</p>
+<ul>
+<li><strong>Only ads suitable for all audiences are shown.</strong></li>
+<li><strong>The phone's advertising identifier is not used</strong> — the code that normally</li>
+</ul>
+<p>allows a person to be followed across apps. Lumika does not even have permission to read it.</p>
+<p>Google may process technical data from the connection, such as the phone model or an approximate location derived from the network. That is governed by its own policy: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
 <h2>5. Donations</h2>
-<p>Inside the parents' area, and after some stories, we offer a voluntary link to donate through <strong>Ko-fi</strong> or <strong>PayPal</strong>. That link:</p>
+<p>In the parents' area, and after some stories, we offer an optional link to support the project through <strong>Ko-fi</strong> or <strong>PayPal</strong>. That link:</p>
 <ul>
-<li>Sits <strong>behind a parental gate</strong> (an arithmetic check a child would not solve).</li>
-<li>Opens the browser, <strong>outside the application</strong>.</li>
-<li><strong>Grants nothing</strong>: it does not remove ads and does not unlock stories.</li>
+<li>Sits <strong>behind a check designed for adults</strong>, so a child does not reach it on</li>
 </ul>
-<p>Payment happens entirely on the corresponding platform, under its own privacy policy. We neither see nor store payment data.</p>
+<p>their own.</p>
+<ul>
+<li>Opens the browser, <strong>outside the app</strong>.</li>
+<li><strong>Gives nothing in return</strong>: it does not remove ads and does not unlock</li>
+</ul>
+<p>stories.</p>
+<p>Payment happens entirely on the corresponding platform and under its own terms. We neither see nor store payment details.</p>
 <h2>6. What we do not do</h2>
 <ul>
-<li>No accounts and no sign-in.</li>
-<li>We do not sell or share information with third parties.</li>
-<li>We run no servers that store anything.</li>
+<li>There are no accounts and no sign-up.</li>
+<li>We do not track what you do inside the app.</li>
+<li>We do not sell or share information with anyone.</li>
+<li>We store nothing anywhere other than on your own phone.</li>
 </ul>
-<h2>7. Children's privacy</h2>
-<p>Lumika <strong>is directed at families, including children under 13</strong>, and complies with the Google Play Families Policy. We collect no personal information from children — not as a promise but by design: <strong>the app never asks for the child's name or age</strong>. The only value entered is the bedtime, it is chosen by the adult, it stays on the device and it is never transmitted.</p>
-<p>Every route out of the application, donations included, is behind a parental gate.</p>
-<h2>8. Changes to this policy</h2>
-<p>If the application changes in a way that affects this policy, we will update the date above and, when the change is significant, we will say so inside the app.</p>
+<h2>7. Children</h2>
+<p>Lumika <strong>is directed at families, including children under 13</strong>, and complies with the Google Play Families Policy.</p>
+<p>We collect no personal information from children, and that is not a promise: the app <strong>simply never asks for it</strong>. There is no field for a name, an age or a photo. The only thing entered is the bedtime, you choose it, and it stays on the phone.</p>
+<p>Every route out of the app, donations included, is protected so that a child does not cross it on their own.</p>
+<h2>8. Changes</h2>
+<p>If the app changes in a way that affects this policy, we will update the date above and, when the change matters, we will tell you inside the app itself.</p>
 <h2>9. Contact</h2>
+<p>Questions, suggestions or something that does not add up? Write to us and we will reply.</p>
 <ul>
 <li><strong>Email:</strong> razsoftlabsupport@gmail.com</li>
-<li><strong>Data controller:</strong> RazSoftLabs</li>
+<li><strong>Responsible:</strong> RazSoftLabs</li>
 </ul>
 </section>
 <section data-lang="pt" hidden>
 <div class="resumen"><strong>Em resumo:</strong> não temos servidores, não há contas e não recolhemos dados pessoais. O app não pede o nome nem a idade da criança.</div>
 <h2>1. O que o aplicativo guarda, e onde</h2>
-<p>Tudo o que segue fica <strong>apenas no dispositivo</strong> e nunca é enviado para nós, porque não existe nenhum servidor nosso que pudesse recebê-lo:</p>
+<p>Tudo o que segue fica <strong>apenas no seu telefone</strong> e nunca chega até nós, simplesmente porque não temos onde recebê-lo:</p>
 <ul>
-<li><strong>Hora de dormir.</strong> É o <strong>único dado que o aplicativo pede</strong>, e o adulto o</li>
+<li><strong>A hora de dormir.</strong> É a <strong>única coisa que o aplicativo pede</strong>, e você a</li>
 </ul>
-<p>escolhe entre opções fixas ao instalar. Serve para programar o aviso de "está na hora da história" no próprio telefone.</p>
+<p>escolhe entre algumas opções ao começar. Serve para avisar você, no seu próprio telefone, de que está chegando a hora da história.</p>
 <ul>
-<li><strong>Perfil de leitura.</strong> O aplicativo cria um perfil local para guardar o</li>
+<li><strong>O seu progresso.</strong> Que histórias vocês terminaram, quais são favoritas, os</li>
 </ul>
-<p>progresso. <strong>Não pede nome, nem idade, nem foto</strong>: usa valores padrão internos.</p>
+<p>dias seguidos lendo e as conquistas.</p>
 <ul>
-<li><strong>Progresso.</strong> Que histórias foram terminadas, favoritos, sequência de dias e</li>
+<li><strong>As suas preferências.</strong> Tamanho da letra, volumes e modo noturno.</li>
+<li><strong>As histórias baixadas</strong>, para poder ler sem conexão.</li>
 </ul>
-<p>conquistas.</p>
+<p>O aplicativo <strong>nunca pede o nome nem a idade da criança</strong>.</p>
+<p>Se você desinstalar o Lumika, tudo isso vai junto.</p>
+<h2>2. Permissões</h2>
+<p>O Lumika precisa de apenas três coisas do telefone:</p>
 <ul>
-<li><strong>Preferências.</strong> Tamanho da letra, volumes, modo noturno.</li>
-<li><strong>Cache de conteúdo.</strong> Histórias, capas e sons baixados para poder ler sem</li>
-</ul>
-<p>conexão.</p>
-<p>Desinstalar o aplicativo apaga tudo isso do dispositivo.</p>
-<h2>2. Permissões que o aplicativo pede</h2>
-<ul>
-<li><strong>Internet</strong> — para baixar histórias, capas e sons novos, e para mostrar a</li>
+<li><strong>Conexão com a internet</strong>, para trazer histórias novas e mostrar a</li>
 </ul>
 <p>publicidade.</p>
 <ul>
-<li><strong>Vibração</strong> — a resposta tátil ao tocar uma palavra mágica.</li>
-<li><strong>Configurações de áudio</strong> — para reproduzir a música, o ambiente e os</li>
+<li><strong>Vibração</strong>, para a pequena resposta ao tocar uma palavra mágica.</li>
+<li><strong>Som</strong>, para reproduzir a música e os efeitos.</li>
 </ul>
-<p>efeitos.</p>
-<p>O aplicativo <strong>não pede</strong> microfone, câmera, localização, contatos, fotos, agenda nem acesso aos arquivos do dispositivo. Não lê nada disso.</p>
-<h2>3. Download de conteúdo</h2>
-<p>As histórias novas são baixadas de um repositório público hospedado no GitHub Pages (<code>razsoftlabs.github.io/lumika-content</code>). Esse download é uma requisição web comum: <strong>não leva nenhum dado do usuário nem do perfil</strong>. O GitHub, como qualquer servidor web, registra o endereço IP da requisição conforme a sua própria política.</p>
+<p><strong>Não pedimos</strong> microfone, câmera, localização, contatos, fotos, agenda nem acesso aos seus arquivos. O aplicativo não consegue ler nada disso.</p>
+<h2>3. Histórias novas</h2>
+<p>De vez em quando o aplicativo verifica se há histórias novas e as baixa. Esse download <strong>não leva nenhuma informação sua nem da criança</strong>: é um pedido anônimo, igual a abrir qualquer página da web.</p>
 <h2>4. Publicidade</h2>
-<p>O Lumika é gratuito e se sustenta com publicidade do <strong>Google AdMob</strong> (Google LLC). Por se tratar de um aplicativo dirigido a famílias, está configurado assim:</p>
+<p>O Lumika é gratuito e se mantém com a publicidade do <strong>Google AdMob</strong>. Por ser um aplicativo para famílias, está configurado da forma mais restritiva que o Google permite:</p>
 <ul>
-<li><strong>Somente anúncios não personalizados.</strong> Sem segmentação por interesses nem</li>
+<li><strong>Os anúncios não são personalizados.</strong> Não são escolhidos com base em</li>
 </ul>
-<p>remarketing.</p>
+<p>interesses nem no que você fez antes, no telefone ou na internet.</p>
 <ul>
-<li><strong>Marcado como dirigido a menores</strong> (<code>tagForChildDirectedTreatment</code>), o que</li>
+<li><strong>Está declarado ao Google como aplicativo para o público infantil</strong>, o que</li>
 </ul>
-<p>obriga o Google a tratar o tráfego sob as suas regras para público infantil.</p>
+<p>obriga a tratar esta publicidade com as regras reforçadas que o Google aplica a menores.</p>
 <ul>
-<li><strong>Classificação máxima de conteúdo: G</strong> (adequada para todos os públicos).</li>
-<li><strong>O identificador de publicidade do Android (AAID) não é transmitido.</strong> O</li>
+<li><strong>Só são exibidos anúncios adequados para todos os públicos.</strong></li>
+<li><strong>O identificador de publicidade do telefone não é usado</strong> — o código que</li>
 </ul>
-<p>aplicativo não declara a permissão <code>AD_ID</code>, de modo que esse identificador não fica disponível para os anúncios.</p>
-<p>O Google pode processar dados técnicos da requisição (modelo do dispositivo, versão do sistema, IP aproximado) conforme a sua própria política: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
+<p>normalmente permite acompanhar uma pessoa entre aplicativos. O Lumika nem sequer tem permissão para lê-lo.</p>
+<p>O Google pode tratar dados técnicos da conexão, como o modelo do telefone ou uma localização aproximada a partir da rede. Isso se rege pela sua própria política: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
 <h2>5. Doações</h2>
-<p>Dentro da "Área dos pais" e ao terminar algumas histórias, oferecemos um link voluntário para doar através do <strong>Ko-fi</strong> ou do <strong>PayPal</strong>. Esse link:</p>
+<p>Na área dos pais, e ao terminar algumas histórias, oferecemos um link voluntário para apoiar o projeto pelo <strong>Ko-fi</strong> ou pelo <strong>PayPal</strong>. Esse link:</p>
 <ul>
-<li>Está <strong>atrás de um controle parental</strong> (uma soma que a criança não</li>
+<li>Está <strong>atrás de uma verificação pensada para adultos</strong>, para que uma criança</li>
 </ul>
-<p>resolveria).</p>
+<p>não chegue lá sozinha.</p>
 <ul>
 <li>Abre o navegador, <strong>fora do aplicativo</strong>.</li>
-<li><strong>Não concede nada</strong>: não remove a publicidade nem desbloqueia histórias.</li>
+<li><strong>Não dá nada em troca</strong>: não remove a publicidade nem desbloqueia histórias.</li>
 </ul>
-<p>O pagamento acontece inteiramente na plataforma correspondente, sob as suas próprias políticas de privacidade. Nós não vemos nem armazenamos dados de pagamento.</p>
-<h2>6. O que NÃO fazemos</h2>
+<p>O pagamento acontece inteiramente na plataforma correspondente e sob as suas próprias condições. Nós não vemos nem guardamos dados de pagamento.</p>
+<h2>6. O que não fazemos</h2>
 <ul>
-<li>Não há contas nem login.</li>
-<li>Não vendemos nem compartilhamos informação com terceiros.</li>
-<li>Não há servidores nossos que armazenem nada.</li>
+<li>Não há contas nem cadastro.</li>
+<li>Não acompanhamos o que vocês fazem dentro do aplicativo.</li>
+<li>Não vendemos nem compartilhamos informação com ninguém.</li>
+<li>Não guardamos nada em lugar nenhum que não seja o seu próprio telefone.</li>
 </ul>
-<h2>7. Privacidade dos menores</h2>
-<p>O Lumika <strong>é dirigido a famílias, incluindo menores de 13 anos</strong>, e cumpre a Política para Famílias do Google Play. Não recolhemos informação pessoal de menores, e não por promessa e sim por desenho: <strong>o aplicativo não pede o nome nem a idade da criança em momento algum</strong>. O único dado que se introduz é a hora de dormir, quem a escolhe é o adulto, fica no dispositivo e nunca é transmitida.</p>
-<p>Qualquer saída para fora do aplicativo — doações incluídas — está protegida por um controle parental.</p>
-<h2>8. Alterações nesta política</h2>
-<p>Se o aplicativo mudar de forma que afete esta política, atualizaremos a data acima e, quando a mudança for relevante, avisaremos dentro do aplicativo.</p>
+<h2>7. As crianças</h2>
+<p>O Lumika <strong>é dirigido a famílias, incluindo menores de 13 anos</strong>, e cumpre a Política para Famílias do Google Play.</p>
+<p>Não recolhemos informação pessoal de menores, e isso não é uma promessa: é que o aplicativo <strong>nunca a pede</strong>. Não há campo para nome, nem para idade, nem para foto. A única coisa que se introduz é a hora de dormir, você a escolhe, e ela fica no telefone.</p>
+<p>Qualquer saída para fora do aplicativo, doações incluídas, está protegida para que uma criança não a atravesse por conta própria.</p>
+<h2>8. Alterações</h2>
+<p>Se o aplicativo mudar de forma que afete esta política, atualizaremos a data acima e, quando a mudança for importante, avisaremos dentro do próprio aplicativo.</p>
 <h2>9. Contato</h2>
+<p>Dúvidas, sugestões ou algo que não fecha? Escreva para nós e respondemos.</p>
 <ul>
 <li><strong>E-mail:</strong> razsoftlabsupport@gmail.com</li>
 <li><strong>Responsável:</strong> RazSoftLabs</li>
@@ -284,80 +297,80 @@
 <section data-lang="fr" hidden>
 <div class="resumen"><strong>En bref :</strong> nous n’avons pas de serveurs, il n’y a pas de comptes et nous ne collectons aucune donnée personnelle. L’application ne demande jamais le nom ni l’âge de l’enfant.</div>
 <h2>1. Ce que l'application enregistre, et où</h2>
-<p>Tout ce qui suit reste <strong>uniquement sur l'appareil</strong> et ne nous est jamais envoyé, car il n'existe aucun serveur à nous qui pourrait le recevoir :</p>
+<p>Tout ce qui suit reste <strong>uniquement sur votre téléphone</strong> et ne nous parvient jamais, tout simplement parce que nous n'avons nulle part où le recevoir :</p>
 <ul>
-<li><strong>Heure du coucher.</strong> C'est la <strong>seule donnée que l'application demande</strong>, et</li>
+<li><strong>L'heure du coucher.</strong> C'est la <strong>seule chose que l'application demande</strong>, et</li>
 </ul>
-<p>l'adulte la choisit parmi des options fixes à l'installation. Elle sert à programmer le rappel « c'est l'heure de l'histoire » sur le téléphone lui-même.</p>
+<p>vous la choisissez parmi quelques options au début. Elle sert à vous prévenir, sur votre propre téléphone, que l'heure de l'histoire approche.</p>
 <ul>
-<li><strong>Profil de lecture.</strong> L'application crée un profil local pour conserver la</li>
+<li><strong>Votre progression.</strong> Quelles histoires vous avez terminées, lesquelles sont</li>
 </ul>
-<p>progression. Elle <strong>ne demande ni nom, ni âge, ni photo</strong> : elle utilise des valeurs par défaut internes.</p>
+<p>en favoris, les jours de lecture d'affilée et les récompenses obtenues.</p>
 <ul>
-<li><strong>Progression.</strong> Quelles histoires ont été terminées, les favoris, la série de</li>
+<li><strong>Vos préférences.</strong> Taille du texte, volumes et mode nuit.</li>
+<li><strong>Les histoires téléchargées</strong>, pour pouvoir les lire hors connexion.</li>
 </ul>
-<p>jours et les récompenses.</p>
+<p>L'application <strong>ne demande jamais le nom ni l'âge de l'enfant</strong>.</p>
+<p>Si vous désinstallez Lumika, tout cela disparaît avec elle.</p>
+<h2>2. Autorisations</h2>
+<p>Lumika n'a besoin que de trois choses de la part du téléphone :</p>
 <ul>
-<li><strong>Préférences.</strong> Taille du texte, volumes, mode nuit.</li>
-<li><strong>Cache de contenu.</strong> Histoires, couvertures et sons téléchargés pour pouvoir</li>
+<li><strong>Une connexion internet</strong>, pour récupérer les nouvelles histoires et</li>
 </ul>
-<p>lire hors connexion.</p>
-<p>Désinstaller l'application efface tout cela de l'appareil.</p>
-<h2>2. Autorisations demandées par l'application</h2>
+<p>afficher la publicité.</p>
 <ul>
-<li><strong>Internet</strong> — pour télécharger de nouvelles histoires, couvertures et sons,</li>
+<li><strong>La vibration</strong>, pour la petite réponse lorsqu'on touche un mot magique.</li>
+<li><strong>Le son</strong>, pour jouer la musique et les effets.</li>
 </ul>
-<p>et pour afficher la publicité.</p>
-<ul>
-<li><strong>Vibration</strong> — le retour tactile lorsqu'on touche un mot magique.</li>
-<li><strong>Réglages audio</strong> — pour jouer la musique, l'ambiance et les effets.</li>
-</ul>
-<p>L'application <strong>ne demande pas</strong> le microphone, l'appareil photo, la localisation, les contacts, les photos, l'agenda ni l'accès aux fichiers de l'appareil. Elle ne lit rien de tout cela.</p>
-<h2>3. Téléchargement du contenu</h2>
-<p>Les nouvelles histoires sont téléchargées depuis un dépôt public hébergé sur GitHub Pages (<code>razsoftlabs.github.io/lumika-content</code>). Ce téléchargement est une requête web ordinaire : <strong>il ne transporte aucune donnée de l'utilisateur ni du profil</strong>. GitHub, comme tout serveur web, enregistre l'adresse IP de la requête conformément à sa propre politique.</p>
+<p>Nous <strong>ne demandons pas</strong> le microphone, l'appareil photo, la localisation, les contacts, les photos, l'agenda ni l'accès à vos fichiers. L'application ne peut rien lire de tout cela.</p>
+<h2>3. Nouvelles histoires</h2>
+<p>De temps en temps, l'application vérifie s'il y a de nouvelles histoires et les télécharge. Ce téléchargement <strong>ne transporte aucune information sur vous ni sur l'enfant</strong> : c'est une requête anonyme, comme lorsqu'on ouvre une page web.</p>
 <h2>4. Publicité</h2>
-<p>Lumika est gratuite et financée par la publicité de <strong>Google AdMob</strong> (Google LLC). S'agissant d'une application destinée aux familles, elle est configurée ainsi :</p>
+<p>Lumika est gratuite et financée par la publicité de <strong>Google AdMob</strong>. Comme il s'agit d'une application pour les familles, elle est configurée de la manière la plus restrictive que Google autorise :</p>
 <ul>
-<li><strong>Publicités non personnalisées uniquement.</strong> Pas de ciblage par centres</li>
+<li><strong>Les publicités ne sont pas personnalisées.</strong> Elles ne sont pas choisies en</li>
 </ul>
-<p>d'intérêt ni de remarketing.</p>
+<p>fonction de centres d'intérêt ni de ce que vous avez fait auparavant, sur le téléphone ou en ligne.</p>
 <ul>
-<li><strong>Marquée comme destinée aux enfants</strong> (<code>tagForChildDirectedTreatment</code>), ce</li>
+<li><strong>Elle est déclarée à Google comme application destinée aux enfants</strong>, ce qui</li>
 </ul>
-<p>qui oblige Google à traiter ce trafic selon ses règles pour le public enfantin.</p>
+<p>impose de traiter cette publicité selon les règles renforcées que Google applique aux mineurs.</p>
 <ul>
-<li><strong>Classification maximale du contenu : G</strong> (tout public).</li>
-<li><strong>L'identifiant publicitaire Android (AAID) n'est pas transmis.</strong></li>
+<li><strong>Seules des publicités tout public sont affichées.</strong></li>
+<li><strong>L'identifiant publicitaire du téléphone n'est pas utilisé</strong> — le code qui</li>
 </ul>
-<p>L'application ne déclare pas l'autorisation <code>AD_ID</code>, de sorte que cet identifiant n'est pas disponible pour les publicités.</p>
-<p>Google peut traiter des données techniques de la requête (modèle de l'appareil, version du système, IP approximative) selon sa propre politique : <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
+<p>permet habituellement de suivre une personne d'une application à l'autre. Lumika n'a même pas l'autorisation de le lire.</p>
+<p>Google peut traiter des données techniques de la connexion, comme le modèle du téléphone ou une localisation approximative déduite du réseau. Cela relève de sa propre politique : <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
 <h2>5. Dons</h2>
-<p>Dans l'« espace parents » et à la fin de certaines histoires, nous proposons un lien facultatif pour faire un don via <strong>Ko-fi</strong> ou <strong>PayPal</strong>. Ce lien :</p>
+<p>Dans l'espace parents, et à la fin de certaines histoires, nous proposons un lien facultatif pour soutenir le projet via <strong>Ko-fi</strong> ou <strong>PayPal</strong>. Ce lien :</p>
 <ul>
-<li>Se trouve <strong>derrière un contrôle parental</strong> (une addition qu'un enfant ne</li>
+<li>Se trouve <strong>derrière une vérification pensée pour les adultes</strong>, afin qu'un</li>
 </ul>
-<p>résoudrait pas).</p>
+<p>enfant n'y accède pas seul.</p>
 <ul>
 <li>Ouvre le navigateur, <strong>en dehors de l'application</strong>.</li>
-<li><strong>N'octroie rien</strong> : il ne retire pas la publicité et ne débloque aucune</li>
+<li><strong>Ne donne rien en échange</strong> : il ne retire pas la publicité et ne débloque</li>
 </ul>
-<p>histoire.</p>
-<p>Le paiement se déroule entièrement sur la plateforme correspondante, sous ses propres politiques de confidentialité. Nous ne voyons ni ne conservons de données de paiement.</p>
-<h2>6. Ce que nous ne faisons PAS</h2>
+<p>aucune histoire.</p>
+<p>Le paiement se déroule entièrement sur la plateforme correspondante et selon ses propres conditions. Nous ne voyons ni ne conservons de données de paiement.</p>
+<h2>6. Ce que nous ne faisons pas</h2>
 <ul>
-<li>Il n'y a ni comptes ni connexion.</li>
-<li>Nous ne vendons ni ne partageons d'informations avec des tiers.</li>
-<li>Nous n'avons aucun serveur qui stocke quoi que ce soit.</li>
+<li>Il n'y a ni comptes ni inscription.</li>
+<li>Nous ne suivons pas ce que vous faites dans l'application.</li>
+<li>Nous ne vendons ni ne partageons d'informations avec qui que ce soit.</li>
+<li>Nous ne conservons rien ailleurs que sur votre propre téléphone.</li>
 </ul>
-<h2>7. Confidentialité des mineurs</h2>
-<p>Lumika <strong>s'adresse aux familles, y compris aux enfants de moins de 13 ans</strong>, et respecte le règlement Familles de Google Play. Nous ne collectons aucune information personnelle sur les mineurs, et non par promesse mais par conception : <strong>l'application ne demande à aucun moment le nom ni l'âge de l'enfant</strong>. La seule donnée saisie est l'heure du coucher, choisie par l'adulte, elle reste sur l'appareil et n'est jamais transmise.</p>
-<p>Toute sortie hors de l'application — dons compris — est protégée par un contrôle parental.</p>
-<h2>8. Modifications de cette politique</h2>
-<p>Si l'application évolue d'une manière qui affecte cette politique, nous mettrons à jour la date ci-dessus et, lorsque le changement sera important, nous le signalerons dans l'application.</p>
+<h2>7. Les enfants</h2>
+<p>Lumika <strong>s'adresse aux familles, y compris aux enfants de moins de 13 ans</strong>, et respecte le règlement Familles de Google Play.</p>
+<p>Nous ne collectons aucune information personnelle sur les mineurs, et ce n'est pas une promesse : c'est que l'application <strong>ne la demande jamais</strong>. Il n'y a de champ ni pour un nom, ni pour un âge, ni pour une photo. La seule chose saisie est l'heure du coucher, c'est vous qui la choisissez, et elle reste sur le téléphone.</p>
+<p>Toute sortie hors de l'application, dons compris, est protégée pour qu'un enfant ne la franchisse pas seul.</p>
+<h2>8. Modifications</h2>
+<p>Si l'application évolue d'une manière qui affecte cette politique, nous mettrons à jour la date ci-dessus et, lorsque le changement sera important, nous vous le dirons dans l'application elle-même.</p>
 <h2>9. Contact</h2>
+<p>Une question, une suggestion, quelque chose qui ne colle pas ? Écrivez-nous et nous vous répondrons.</p>
 <ul>
 <li><strong>E-mail :</strong> razsoftlabsupport@gmail.com</li>
-<li><strong>Responsable du traitement :</strong> RazSoftLabs</li>
+<li><strong>Responsable :</strong> RazSoftLabs</li>
 </ul>
 </section>
 <footer>RazSoftLabs</footer>

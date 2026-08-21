@@ -4,36 +4,79 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Política de privacidad — Lumika</title>
+<meta name="description" content="Qué información maneja Lumika. Resumen: no hay servidores, no hay cuentas y no se recogen datos personales.">
+<link rel="icon" href="lumika-mark.png">
 <style>
-  :root { color-scheme: light dark; }
-  body {
-    margin: 0 auto; padding: 32px 20px 80px; max-width: 46rem;
-    font: 16px/1.65 -apple-system, "Segoe UI", Roboto, system-ui, sans-serif;
-    color: #2A2036; background: #FBF6E9;
+  :root {
+    --noche:#1B1638; --crema:#FBF6E9; --tinta:#2A2036; --morado:#7A4FCF;
+    --lila:#C9B6FF; --suave:#F4ECD6; --linea:rgba(42,32,54,.12);
+    color-scheme: light dark;
   }
-  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 .4em; color: #1B1638; }
-  h2 { font-size: 1.25rem; margin: 2.2em 0 .5em; color: #1B1638; }
-  h3 { font-size: 1.05rem; margin: 1.6em 0 .4em; }
-  ul { padding-left: 1.3em; }
-  li { margin: .35em 0; }
-  a { color: #6B46C1; }
-  code { background: rgba(0,0,0,.06); padding: .1em .35em; border-radius: 4px; font-size: .92em; }
-  hr { border: 0; border-top: 1px solid rgba(0,0,0,.12); margin: 2em 0; }
-  footer { margin-top: 3em; font-size: .88rem; opacity: .7; }
+  * { box-sizing: border-box; }
+  body {
+    margin:0; padding:0; background:var(--crema); color:var(--tinta);
+    font:17px/1.7 -apple-system,"Segoe UI",Roboto,system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .portada {
+    background:var(--noche); color:var(--suave);
+    padding:56px 24px 48px; text-align:center;
+  }
+  .portada img { width:96px; height:96px; display:block; margin:0 auto 18px; }
+  .portada h1 { margin:0 0 10px; font-size:1.75rem; line-height:1.25; color:#fff; letter-spacing:-.02em; }
+  .portada p { margin:0; opacity:.72; font-size:.95rem; }
+  .envoltorio { max-width:44rem; margin:0 auto; padding:0 24px 96px; }
+  .resumen {
+    background:#fff; border:1px solid var(--linea); border-radius:16px;
+    padding:22px 24px; margin:-28px 0 40px; position:relative;
+    box-shadow:0 8px 28px rgba(27,22,56,.10);
+  }
+  .resumen strong { color:var(--morado); }
+  h2 {
+    font-size:1.15rem; margin:2.6em 0 .6em; color:var(--noche);
+    padding-top:1.4em; border-top:1px solid var(--linea); letter-spacing:-.01em;
+  }
+  h2:first-of-type { border-top:0; padding-top:0; }
+  h3 { font-size:1rem; margin:1.8em 0 .4em; }
+  ul { padding-left:1.25em; }
+  li { margin:.5em 0; }
+  a { color:var(--morado); text-decoration-thickness:1px; text-underline-offset:2px; }
+  code {
+    background:rgba(122,79,207,.10); color:var(--morado);
+    padding:.12em .4em; border-radius:5px; font-size:.88em;
+  }
+  hr { display:none; }
+  .meta { font-size:.92rem; opacity:.75; margin:0 0 2.4em; }
+  footer {
+    margin-top:4em; padding-top:1.6em; border-top:1px solid var(--linea);
+    font-size:.88rem; opacity:.65;
+  }
   @media (prefers-color-scheme: dark) {
-    body { background: #1B1638; color: #E8E2F5; }
-    h1, h2 { color: #F4ECD6; }
-    a { color: #C9B6FF; }
-    code { background: rgba(255,255,255,.1); }
-    hr { border-top-color: rgba(255,255,255,.15); }
+    :root { --crema:#141024; --tinta:#E8E2F5; --linea:rgba(232,226,245,.14); }
+    body { background:var(--crema); }
+    .resumen { background:#1E1838; box-shadow:none; }
+    h2 { color:var(--suave); }
+    a, .resumen strong { color:var(--lila); }
+    code { background:rgba(201,182,255,.14); color:var(--lila); }
+  }
+  @media (max-width:520px) {
+    body { font-size:16px; }
+    .portada { padding:40px 20px 40px; }
+    .portada h1 { font-size:1.45rem; }
   }
 </style>
 </head>
 <body>
-<h1>Política de privacidad — Lumika</h1>
-<p><strong>Responsable:</strong> RazSoftLabs — Juan Sebastián Nieto (Colombia) <strong>Aplicación:</strong> Lumika — Cuentos para niños (<code>com.lumika.app</code>) <strong>Vigente desde:</strong> 17 de agosto de 2026 <strong>Última actualización:</strong> 20 de agosto de 2026</p>
-<p>Lumika está pensada para que un adulto lea cuentos en voz alta a un niño. Esta política explica exactamente qué información maneja la app. La versión corta: <strong>no tenemos servidores, no hay cuentas y no recogemos datos personales.</strong></p>
-<hr>
+<header class="portada">
+  <img src="lumika-mark.png" alt="" width="96" height="96">
+  <h1>Política de privacidad</h1>
+  <p>Lumika · Cuentos para leer en voz alta</p>
+</header>
+<main class="envoltorio">
+<div class="resumen">
+  <strong>En corto:</strong> no tenemos servidores, no hay cuentas y no
+  recogemos datos personales. La app no pide el nombre ni la edad del niño.
+</div>
 <h2>1. Qué guarda la app, y dónde</h2>
 <p>Todo lo siguiente se guarda <strong>solo en el dispositivo</strong> y nunca se envía a nosotros, porque no existe ningún servidor nuestro que pudiera recibirlo:</p>
 <ul>
@@ -107,5 +150,6 @@
 <li><strong>País:</strong> Colombia</li>
 </ul>
 <footer>RazSoftLabs · Colombia</footer>
+</main>
 </body>
 </html>

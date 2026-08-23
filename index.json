@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754028,
+  "manifestVersion": 1786826754029,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 5,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1773,7 +1773,7 @@
         "autoestima",
         "amistad"
       ],
-      "premium": true,
+      "premium": false,
       "preload": [
         "music/guitar_warm"
       ],
@@ -1786,7 +1786,8 @@
           "title": "Lumi Won't Light Up",
           "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on."
         }
-      }
+      },
+      "flagship": true
     },
     {
       "id": "la-luna-le-canta-al-nino",

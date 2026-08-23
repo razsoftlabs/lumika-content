@@ -2,7 +2,7 @@
   "id": "la-luciernaga-que-perdio-su-luz",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Lumi Won't Light Up",
   "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on.",
   "scenes": [
@@ -16,7 +16,7 @@
           "sfx": "twinkle"
         },
         {
-          "anchor": "stars",
+          "anchor": "lit up",
           "sfx": "sparkle"
         }
       ]
@@ -27,38 +27,25 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
+          "anchor": "wings",
+          "sfx": "wing_flap"
         }
       ]
     },
     {
       "id": "s3",
       "text": "There was only one night left before the festival. Lumi woke up with her heart doing little hops, stretched, and took in the cool air coming through the crack in the log, and got ready to shine. She closed her eyes. She thought of bright things: the full moon, the dew, her mother's eyes. And she squeezed gently, the way she always did. Nothing. Her little belly stayed gray and dark, the color of a river stone. Lumi tried again. She squeezed harder. She held her breath. Nothing, nothing, nothing. \"Mama, my light won't turn on,\" she whispered. Her mother came flying and wrapped her in warm wings. They tried together: count to ten, think lovely thoughts, breathe. Her mother's light glowed beside her like a little lamp, and Lumi's stayed dark. Outside, the whole forest twinkled with yellow lights, and Lumi was the only dark spot in the night.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
-        },
-        {
-          "anchor": "breathe",
-          "sfx": "breathe_in"
-        }
-      ]
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s4",
       "text": "Lumi did not want to go out. She crawled under an ivy leaf, big and curved like a little roof, and stayed very still. From there she could hear her friends flying past, laughing and calling for her. \"Lumi! Are you coming to practice?\" Lumi did not answer. She hugged her legs and rested her head. She felt something heavy in her chest, as if she had swallowed a pebble. What would everyone say tomorrow, when they all lit up and she did not? What if she never shone again? Far away a thin rain began to fall, going plink, plink, plink on the leaves. Everything smelled of moss and sweet wood. A drop rolled to the edge of her hiding place and fell into a puddle. Lumi looked at it for a long while. \"A firefly with no light,\" she said quietly, \"is nothing.\" And she stayed there, hidden, while the forest glowed without her.",
-      "ambient": "rain",
+      "ambient": null,
       "cues": [
         {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
+          "anchor": "rain",
+          "ambient": "rain"
         },
         {
           "anchor": "puddle",
@@ -76,38 +63,39 @@
           "sfx": "twinkle"
         },
         {
-          "anchor": "whispered",
-          "sfx": "whisper"
+          "anchor": "glow",
+          "sfx": "magic_shimmer"
         }
       ]
     },
     {
       "id": "s6",
       "text": "On a thick branch, with wide yellow eyes, waited the owl. The owl was the wisest animal in the forest; everybody said so. He hooted softly so he would not frighten her. \"Whooo. I saw you talking to the moon, little one. What is wrong?\" \"My light went out,\" said Lumi, \"and tomorrow is the festival.\" The owl turned his head from one side to the other, very slowly, thinking with every one of his feathers. \"I know where the mice sleep and why the river sings louder in March,\" he said at last. \"I know how many stars there are above the crooked pine. But I know nothing about firefly lights. Nobody has ever studied that.\" \"Then who does know?\" asked Lumi. The owl opened his wings, and they made a sound like wind. Then he answered, \"Try the frogs at the puddle. They watch everyone go by.\" And he pointed the way with one feather.",
-      "ambient": "forest_night",
+      "ambient": null,
       "cues": [
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
         },
         {
-          "anchor": "wind",
-          "sfx": "wind_soft"
+          "anchor": "wings",
+          "sfx": "wing_flap"
         }
       ]
     },
     {
       "id": "s7",
       "text": "The puddle was down below, among the reeds, and it was full of noise: croak, croak, croak. On a lily pad, looking at their own reflection in the water, sat three green frogs. \"A firefly with no light!\" said the first one. \"How strange.\" \"I know what it is,\" said the second. \"You need to eat dew. Swallow seven drops and you will be fine.\" Lumi swallowed seven drops of dew. Nothing happened. \"No, no,\" said the third. \"What you have to do is spin three times over the water and say your name backwards.\" Lumi spun three times and said \"Imul.\" Nothing. The frogs went quiet, a little embarrassed. \"Sorry, little one,\" they said. \"We only knew about mosquitoes and bubbles.\" Lumi sat down at the edge of the puddle. In the reflection she saw herself small and gray, and for the first time her eyes filled with tears.",
-      "ambient": "forest_night",
+      "ambient": null,
       "cues": [
+        {
+          "anchor": "puddle",
+          "sfx": "water_splash",
+          "ambient": "stream_water"
+        },
         {
           "anchor": "frogs",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
         }
       ]
     },
@@ -129,22 +117,24 @@
     {
       "id": "s9",
       "text": "\"Don't cry,\" said Lumi, coming closer. \"I'll go with you. I'm going to take you home.\" \"But it's so dark,\" said the beetle. \"Then we'll go slowly,\" she said, \"and I'll tell you the way as we walk.\" Lumi went in front and began to talk to him. \"Now there's a root, lift your little foot. Now some mud, step to the left. Now smell that: it's the big fern, we're almost there.\" The beetle followed her, holding on to her wing, and little by little he stopped trembling. When they both slipped on a wet leaf, he laughed. And right then, without Lumi noticing at all, something warm began to grow in her belly. First a dot. Then a small glow, like the spark of a star. Then a golden light, round and clear, that lit the whole path and both of their surprised little faces. \"You're shining!\" cried the beetle. Lumi looked down and could not believe it.",
-      "ambient": "forest_night",
+      "ambient": null,
       "cues": [
         {
           "anchor": "laughed",
           "sfx": "giggle"
         },
         {
-          "anchor": "star",
-          "sfx": "sparkle"
+          "anchor": "golden",
+          "sfx": "magic_shimmer",
+          "music": "strings_hopeful",
+          "delayMs": 600
         }
       ]
     },
     {
       "id": "s10",
       "text": "She left the beetle at the door of his little house among the roots, and flew back through the forest with her light on and her heart enormous. She had understood it now: her light had never been broken. It had only been waiting for her to stop looking at herself. Her light turned on when she helped. The next night the Festival of Lights arrived. Hundreds of fireflies rose over the meadow and lit up all together, and the air filled with golden dots that went up and down like a slow breath. Lumi shone in the front row, beside her mother, with the calmest and warmest light in the whole forest. When the festival was over, she flew home slowly, settled into the soft moss and closed her eyes. Outside, from a branch, came the soft hoot of an owl. Lumi yawned, let her little light fade out on its own, and fell asleep.",
-      "ambient": "meadow_day",
+      "ambient": "meadow_night",
       "cues": [
         {
           "anchor": "owl",

@@ -1,0 +1,63 @@
+{
+  "id": "lumi-trae-la-noche",
+  "version": 1,
+  "title": "Lumi Brings the Night",
+  "summary": "Nico cannot fall asleep. Lumi does not tell him a story: she takes him to three places.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Nico had already put on his pyjamas, already brushed his teeth and already been given his goodnight kiss. But his eyes would not close. Outside, the city was still awake. A car. Another car. A motorbike going past somewhere far away. Nico pulled the blanket up to his nose and counted to a hundred. He got to a hundred and was just as awake as before. \"I can't,\" he said quietly, to nobody.",
+      "ambient": "city_soft",
+      "cues": []
+    },
+    {
+      "id": "s2",
+      "text": "Then something very small landed on the window. It was a firefly the size of a grape, with a warm golden belly. She opened her wings once, the way you wave hello, and her light painted the whole room the colour of honey. \"My name is Lumi,\" she said. \"I come to houses where somebody can't sleep.\" \"Are you going to tell me a story?\" asked Nico. \"No,\" said Lumi. \"I'm going to take you places.\"",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "wings",
+          "sfx": "wing_flap"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Lumi settled on the pillow, right beside his ear. \"Close your eyes. Are they closed? Good. Now listen.\" And Nico listened. At first nothing, the same old city. But then, very slowly, a fine rain began to fall on a tin roof. Plip. Plip-plip. Plip. It was not the city. It was somewhere else. Nico did not know where, but it smelled of wet earth.",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "rain",
+          "ambient": "rain"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "\"Shall we go to another one?\" whispered Lumi. Nico nodded without opening his eyes. And the rain fell away behind them, and in its place came the sea. One long wave rising. And falling. And rising again, in no hurry at all, as if it had the whole night ahead of it. Nico felt the bed rock a little, and his shoulders let go.",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "sea",
+          "ambient": "ocean_waves"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "The last place was an open meadow at night, with tall cool grass. There was nothing there but crickets: hundreds of them, far away, all at once, like a blanket made of sound. \"This one is my favourite,\" said Lumi, and her light went softer. \"This is where I stay.\" Nico did not answer. He had fallen asleep with half a smile. Lumi turned her little light down slowly, so as not to wake him, and stayed a while at the window, looking after the meadow.",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "crickets",
+          "ambient": "meadow_night"
+        },
+        {
+          "anchor": "asleep",
+          "sfx": "snore_soft",
+          "delayMs": 400
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "lumi-trae-la-noche",
+  "version": 1,
+  "title": "Lumi trae la noche",
+  "summary": "Nico no puede dormir. Lumi no le cuenta un cuento: se lo lleva a tres sitios.",
+  "scenes": [
+    {
+      "id": "s1",
+      "text": "Nico ya se había puesto el pijama, ya se había lavado los dientes y ya le habían dado el beso de buenas noches. Pero los ojos no se le querían cerrar. Afuera, la ciudad seguía despierta. Un coche. Otro coche. Una moto que pasaba lejos. Nico se tapó hasta la nariz y contó hasta cien. Llegó al cien y seguía igual de despierto. —No puedo —dijo bajito, a nadie.",
+      "ambient": "city_soft",
+      "cues": []
+    },
+    {
+      "id": "s2",
+      "text": "Entonces algo muy pequeño se posó en la ventana. Era una luciérnaga del tamaño de una uva, con la barriga tibia y dorada. Abrió las alas una vez, como quien saluda, y su luz pintó de miel toda la habitación. —Me llamo Lumi —dijo—. Vengo a las casas donde alguien no puede dormir. —¿Y me vas a contar un cuento? —preguntó Nico. —No —dijo Lumi—. Te voy a llevar a sitios.",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "alas",
+          "sfx": "wing_flap"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Lumi se posó en la almohada, junto a su oreja. —Cierra los ojos. ¿Ya los tienes cerrados? Bien. Ahora escucha. Y Nico escuchó. Al principio nada, la ciudad de siempre. Pero después, muy despacio, empezó a caer una lluvia fina sobre un tejado de zinc. Plic. Plic-plic. Plic. No era la ciudad. Era otro sitio. Nico no sabía cuál, pero olía a tierra mojada.",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "lluvia",
+          "ambient": "rain"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "—¿Vamos a otro? —susurró Lumi. Nico dijo que sí con la cabeza, sin abrir los ojos. Y la lluvia se fue quedando atrás, y en su lugar llegó el mar. Una ola larga que subía. Y bajaba. Y volvía a subir, sin ninguna prisa, como si tuviera toda la noche por delante. Nico sintió que la cama se mecía un poquito y aflojó los hombros.",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "mar",
+          "ambient": "ocean_waves"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "El último sitio fue un prado abierto, de noche, con el pasto alto y fresco. Allí solo había grillos: cientos, muy lejos, todos a la vez, como una manta de sonido. —Este es mi preferido —dijo Lumi, y su luz se puso más suave—. Aquí me quedo yo. Nico ya no contestó. Se había quedado dormido con media sonrisa. Lumi apagó su lucecita despacio, para no despertarlo, y se quedó un rato en la ventana, cuidando el prado.",
+      "ambient": null,
+      "cues": [
+        {
+          "anchor": "grillos",
+          "ambient": "meadow_night"
+        },
+        {
+          "anchor": "dormido",
+          "sfx": "snore_soft",
+          "delayMs": 400
+        }
+      ]
+    }
+  ]
+}

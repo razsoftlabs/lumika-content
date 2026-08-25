@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754029,
+  "manifestVersion": 1786826754032,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -8,6 +8,53 @@
     "es"
   ],
   "stories": [
+    {
+      "id": "lumi-trae-la-noche",
+      "version": 1,
+      "ageMin": 3,
+      "ageMax": 8,
+      "durationMin": 3,
+      "categories": [
+        "dormir",
+        "amistad",
+        "naturaleza"
+      ],
+      "mood": "calmado",
+      "music": "lullaby_piano",
+      "tags": [
+        "luciernaga",
+        "dormir",
+        "sonidos",
+        "noche",
+        "lumi"
+      ],
+      "premium": false,
+      "flagship": true,
+      "cover": "covers/lumi-trae-la-noche.webp",
+      "preload": [
+        "music/lullaby_piano",
+        "ambient/city_soft",
+        "ambient/rain",
+        "ambient/ocean_waves",
+        "ambient/meadow_night",
+        "sfx/wing_flap",
+        "sfx/snore_soft"
+      ],
+      "json": {
+        "es": "stories/lumi-trae-la-noche.es.json",
+        "en": "stories/lumi-trae-la-noche.en.json"
+      },
+      "preview": {
+        "es": {
+          "title": "Lumi trae la noche",
+          "summary": "Nico no puede dormir. Lumi no le cuenta un cuento: se lo lleva a tres sitios."
+        },
+        "en": {
+          "title": "Lumi Brings the Night",
+          "summary": "Nico cannot fall asleep. Lumi does not tell him a story: she takes him to three places."
+        }
+      }
+    },
     {
       "id": "el-zorro-y-la-luna",
       "version": 4,
@@ -1744,50 +1791,6 @@
           "summary": "Lupe the little ant finds a crumb as big as her house and is sure she can carry it all by herself."
         }
       }
-    },
-    {
-      "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 6,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/la-luciernaga-que-perdio-su-luz.es.json",
-        "en": "stories/la-luciernaga-que-perdio-su-luz.en.json"
-      },
-      "cover": "covers/la-luciernaga-que-perdio-su-luz.webp",
-      "ageMin": 3,
-      "ageMax": 8,
-      "durationMin": 10,
-      "categories": [
-        "animales",
-        "valores"
-      ],
-      "mood": "calmado",
-      "music": "gentle_piano",
-      "tags": [
-        "luciérnaga",
-        "bosque",
-        "ayudar",
-        "autoestima",
-        "amistad"
-      ],
-      "premium": false,
-      "preload": [
-        "music/guitar_warm"
-      ],
-      "preview": {
-        "es": {
-          "title": "Lumi no enciende",
-          "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la luz de Lumi no quiere encender."
-        },
-        "en": {
-          "title": "Lumi Won't Light Up",
-          "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on."
-        }
-      },
-      "flagship": true
     },
     {
       "id": "la-luna-le-canta-al-nino",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "manifestVersion": 1786826754032,
+  "manifestVersion": 1786826754033,
   "publishedAt": "2026-08-18T04:33:07.496Z",
   "baseUrl": "https://razsoftlabs.github.io/lumika-content",
   "locales": [
@@ -11,6 +11,10 @@
     {
       "id": "lumi-trae-la-noche",
       "version": 1,
+      "locales": [
+        "es",
+        "en"
+      ],
       "ageMin": 3,
       "ageMax": 8,
       "durationMin": 3,

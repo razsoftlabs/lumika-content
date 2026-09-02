@@ -2,7 +2,7 @@
   "id": "el-zorro-y-la-luna",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "El zorro y la luna",
   "summary": "Un zorro curioso quiere alcanzar la luna y descubre algo más bonito en el camino.",
   "scenes": [
@@ -33,7 +33,8 @@
           "anchor": "rió",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "forest_night"
     },
     {
       "id": "s3",
@@ -58,7 +59,9 @@
           "anchor": "dormido",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": "meadow_night",
+      "music": "lullaby_piano"
     }
   ]
 }

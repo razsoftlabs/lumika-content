@@ -2,7 +2,7 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Aitana and the Foggy Night",
   "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light.",
   "scenes": [
@@ -20,7 +20,7 @@
     {
       "id": "s2",
       "text": "After the hot soup, Grandpa hung his cap on a nail and said:\n\n“Come, let me introduce you to the lady of the lighthouse.”\n\nThey climbed together. The staircase was a spiral of cold iron, and like a slow drum sounded their footsteps. Tap, tap, tap. Aitana counted twenty, forty, sixty steps. On the walls there were seashells stuck up with tape, old drawings of boats and a long list of names she did not know. Everything smelled of oil, of metal and of sleeping sea.\n\n“How many steps are there?” she asked, a little out of breath.\n\n“One hundred and twenty,” said her grandfather. “I climb them twice every night, in rain or in calm. That is why I have these old crab legs.”\n\nAitana let out a laugh. It bounced up the hollow tower and came back from above, smaller.\n\n“Did you hear that?” said Grandpa, winking. “That was the lighthouse chuckling. You only have to tickle it at the right moment.”",
-      "ambient": "ocean_waves",
+      "ambient": "fireplace",
       "cues": [
         {
           "anchor": "footsteps",
@@ -71,7 +71,8 @@
           "anchor": "creak",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s6",
@@ -116,19 +117,21 @@
           "anchor": "bubbles",
           "sfx": "bubbles"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s10",
       "text": "By the time the motor was working again, it was almost dawn somewhere inside the fog. Her grandfather carried Aitana down in his arms, step by step, and tucked her in beside the small window, with two blankets and a seashell in her hand.\n\n“Now I know why you do this,” she said, her voice slow and drowsy. “It is not a boring job. It is a job that takes care of things.”\n\nHer grandfather kissed her forehead.\n\n“Tomorrow I will teach you how to clean the glass.”\n\nAbove the water, for a moment, out came the moon. The lighthouse light slid slowly across the wall — one side, the other, one side, the other — and outside the sea went on breathing, calm, like someone who is also going to sleep.\n\nFar away, the whales sang one last quiet note.\n\nAitana heard it, smiled with her eyes closed and drifted off, rocked by the sound of the sea.",
-      "ambient": "ocean_waves",
+      "ambient": "fireplace",
       "cues": [
         {
           "anchor": "sleep",
           "sfx": "snore_soft",
           "delayMs": 400
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

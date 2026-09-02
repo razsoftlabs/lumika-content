@@ -2,7 +2,7 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "An Egg for Tobi",
   "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can.",
   "scenes": [
@@ -131,7 +131,8 @@
           "anchor": "heartbeat",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s11",
@@ -145,7 +146,8 @@
           "anchor": "heart",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s12",
@@ -171,7 +173,8 @@
           "anchor": "crack",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s14",
@@ -182,7 +185,8 @@
           "anchor": "snore",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

@@ -2,14 +2,14 @@
   "id": "la-ballena-cantora",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The little singing whale",
   "summary": "A tiny whale discovers her voice is the most beautiful gift in the ocean.",
   "scenes": [
     {
       "id": "s1",
       "text": "In the deepest part of the blue sea, where the water is as dark as night but still lets through little sun rays like threads of melted gold, lived a very tiny whale. She was the size of a mattress, with a white belly and a back the color of a stormy sky. High above her, the sea rolled in long, slow waves. But the tiny whale kept a huge secret: she never spoke, she never sang, she never even made bubbles. She was ashamed of her voice because she thought it was too small, too thin, too nothing. Every day she hid behind the pink corals, with her tail curled under her belly, and watched the colorful fish go by without saying hello. \"Hello,\" she wanted to say quietly. But the word got stuck in her throat, like a shy little snail. The ocean watched over her in silence, patient, waiting for the day she would feel brave enough.",
-      "ambient": "ocean_waves",
+      "ambient": "underwater",
       "cues": [
         {
           "anchor": "waves",
@@ -33,7 +33,8 @@
           "anchor": "sang",
           "sfx": "whale_song"
         }
-      ]
+      ],
+      "ambient": "underwater"
     },
     {
       "id": "s3",
@@ -43,7 +44,8 @@
           "anchor": "song",
           "sfx": "whale_song"
         }
-      ]
+      ],
+      "ambient": "underwater"
     },
     {
       "id": "s4",
@@ -53,7 +55,9 @@
           "anchor": "water",
           "sfx": "water_splash"
         }
-      ]
+      ],
+      "ambient": "underwater",
+      "music": "strings_hopeful"
     }
   ]
 }

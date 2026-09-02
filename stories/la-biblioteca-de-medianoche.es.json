@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "La biblioteca de medianoche",
   "summary": "Tomás se queda encerrado sin querer en la biblioteca del pueblo y descubre que, cuando el reloj da las doce, los libros no se quedan quietos.",
   "scenes": [
@@ -66,7 +66,8 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s6",
@@ -80,7 +81,8 @@
           "anchor": "hojas",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s7",
@@ -94,7 +96,8 @@
           "anchor": "campanas",
           "sfx": "bell_soft"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s8",
@@ -108,7 +111,8 @@
           "anchor": "páginas",
           "sfx": "page_turn"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s9",
@@ -119,7 +123,8 @@
           "anchor": "agua",
           "sfx": "water_splash"
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s10",
@@ -144,7 +149,8 @@
           "anchor": "pasos",
           "sfx": "footsteps"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s12",
@@ -181,7 +187,8 @@
           "anchor": "volando",
           "sfx": "wing_flap"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s15",
@@ -192,7 +199,8 @@
           "anchor": "durmió",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

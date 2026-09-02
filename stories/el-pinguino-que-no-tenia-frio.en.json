@@ -2,7 +2,7 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Pip Is Never Cold",
   "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?",
   "scenes": [
@@ -35,7 +35,7 @@
     {
       "id": "s3",
       "text": "Pip did not give up. He waddled to the blue sea and dove in headfirst. Ploomp! Under the water everything was quiet and cool. Pip blew and blew, and out of his beak came bubbles. They floated up round and tickly. Suddenly, out of the blue depths came a whale. She was huge and kind, and she sang him a deep, gentle song. Pip felt tiny and happy. He swam and swam, spinning through the foam. But penguins can't stay down forever, so Pip came up to breathe. As he reached the air, he shook his feathers… and there it was again, warm and toasty. He laughed at himself and waved goodbye to her with a wing.",
-      "ambient": "ocean_waves",
+      "ambient": "underwater",
       "cues": [
         {
           "anchor": "bubbles",
@@ -71,7 +71,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

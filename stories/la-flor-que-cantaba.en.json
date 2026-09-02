@@ -2,7 +2,7 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "A Voice in the Garden",
   "summary": "A little flower far too shy to sing hides a voice the whole garden just might need to hear.",
   "scenes": [
@@ -64,7 +64,8 @@
           "anchor": "bees",
           "sfx": "bee_buzz"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "whisper",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "music": "guitar_clear"
     }
   ]
 }

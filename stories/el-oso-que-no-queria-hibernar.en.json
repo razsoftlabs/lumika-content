@@ -2,7 +2,7 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "Not Sleeping This Winter",
   "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes.",
   "scenes": [
@@ -29,12 +29,13 @@
           "anchor": "laugh",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "fireplace"
     },
     {
       "id": "s3",
       "text": "The first days of winter were a party. The forest went so quiet that Bruno could hear his own footsteps: crish, crish, crish over the frost. Every puddle along the path had turned hard as a plate, and when Bruno stepped on it carefully there was a crunch. Crick! That little noise made him laugh and laugh.\n\n\"I'm awake and the puddle is asleep!\" he giggled to himself.\n\nHe discovered things no sleepy bear had ever seen: the white steam that came out of his mouth like smoke from a kettle, the spiderwebs turned into crystal necklaces, the pale, lazy sun peeking late between the pines. He ate the last frozen blackberries, which tasted like forest ice cream.\n\nAt night he wrapped himself in his moss blanket at the mouth of the cave and told his grandmother about his day, and she answered with one very long snore from deep inside.",
-      "ambient": "forest_birds",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "footsteps",
@@ -101,7 +102,8 @@
           "anchor": "heart",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s8",
@@ -112,7 +114,8 @@
           "anchor": "door",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "music": "marimba_playful"
     },
     {
       "id": "s9",
@@ -135,7 +138,8 @@
           "sfx": "snore_soft",
           "delayMs": 600
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

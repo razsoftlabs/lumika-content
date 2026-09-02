@@ -2,7 +2,7 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Good Little Witch",
   "summary": "Every one of Aura's spells comes out backwards, and her cat Bigotes never knows who they'll end up helping.",
   "scenes": [
@@ -64,7 +64,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "moon",
           "sfx": "twinkle"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

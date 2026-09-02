@@ -2,7 +2,7 @@
   "id": "el-tren-de-los-suenos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "El tren de los sueños",
   "summary": "Cada noche, un tren mágico recoge a los niños en pijama y los lleva despacio por paisajes de sueño.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "puerta",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -62,7 +63,9 @@
           "anchor": "viento",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "space_dream"
     },
     {
       "id": "s5",
@@ -76,7 +79,9 @@
           "anchor": "dormidos",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "lullaby_piano"
     }
   ]
 }

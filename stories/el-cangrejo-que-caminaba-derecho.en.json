@@ -2,7 +2,7 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Kiko Walks His Own Way",
   "summary": "Kiko the little crab wants to walk straight like everyone else, until he discovers that his own way of moving hides a surprise.",
   "scenes": [
@@ -60,7 +60,8 @@
           "anchor": "steps",
           "sfx": "footsteps"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s5",
@@ -75,7 +76,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "marimba_playful"
     }
   ]
 }

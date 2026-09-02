@@ -2,14 +2,14 @@
   "id": "el-elefante-que-no-hacia-ruido",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "Tavo Walks in Silence",
   "summary": "Tavo is a very quiet elephant who discovers that his calm is his most beautiful gift.",
   "scenes": [
     {
       "id": "s1",
       "text": "In a green corner of the savanna lived a little elephant named Tavo. All the other elephants made lots and lots of noise: they trumpeted loudly, shook the trees, and stomped on the leaves. But not Tavo. Tavo walked so softly that no one noticed he had passed by. Sometimes he felt strange for being the quietest of them all.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "leaves",
@@ -20,7 +20,7 @@
     {
       "id": "s2",
       "text": "One afternoon, a little bird fell from its nest and lay trembling in the grass. The other elephants rushed to help, but the bird grew more and more frightened with all that noise and all those footsteps. No one could come close without scaring it.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "footsteps",
@@ -31,18 +31,19 @@
     {
       "id": "s3",
       "text": "Then Tavo came closer, slowly, very slowly. He leaned down beside the fallen nest and spoke in a whisper. \"Easy, little one, you're safe now.\" Because Tavo made no noise, the bird stopped trembling and snuggled into his warm trunk.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "whisper",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     },
     {
       "id": "s4",
       "text": "From that day on, everyone knew that Tavo's calm was a gift. Whenever someone was scared or sad, they called for the elephant who made no noise. And Tavo learned that you don't have to be the loudest to be the most loved. Good night, Tavo.",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": []
     }
   ]

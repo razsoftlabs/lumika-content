@@ -2,7 +2,7 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "A Pip nunca le da frío",
   "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?",
   "scenes": [
@@ -35,7 +35,7 @@
     {
       "id": "s3",
       "text": "Pip no se rindió. Se acercó al mar azul y se lanzó de cabeza. ¡Plum! Bajo el agua todo era silencio y fresco. Pip soplaba y soplaba, y del pico le salían burbujas. Subían redondas, haciendo cosquillas. De pronto, del fondo azul apareció una ballena. Era enorme y amable, y le cantó una canción profunda y suave. Pip se sintió pequeño y feliz. Nadó y nadó, dando vueltas entre la espuma. Pero los pingüinos no pueden quedarse abajo para siempre, así que Pip subió a respirar. Al salir al aire, sacudió las plumas… y otra vez tenía calor. Se rió de sí mismo y se despidió de ella con un ala.",
-      "ambient": "ocean_waves",
+      "ambient": "underwater",
       "cues": [
         {
           "anchor": "burbujas",
@@ -71,7 +71,8 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

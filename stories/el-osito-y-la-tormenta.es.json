@@ -2,7 +2,7 @@
   "id": "el-osito-y-la-tormenta",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "El osito y la tormenta",
   "summary": "Una noche de truenos asusta al osito Nilo, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón.",
   "scenes": [
@@ -37,7 +37,8 @@
           "anchor": "respirar",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s4",
@@ -63,7 +64,8 @@
           "anchor": "dormido",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "lullaby_piano"
     }
   ]
 }

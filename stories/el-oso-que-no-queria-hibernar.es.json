@@ -2,7 +2,7 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "Este invierno no duermo",
   "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos.",
   "scenes": [
@@ -29,12 +29,13 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "fireplace"
     },
     {
       "id": "s3",
       "text": "Los primeros dias de invierno fueron una fiesta. El bosque se quedo tan callado que Bruno podia oir sus propios pasos: chas, chas, chas sobre la escarcha. Cada charco del camino se habia puesto duro como un plato, y cuando Bruno lo pisaba con cuidado sonaba un crujido. ¡Cric! Ese ruido le daba muchisima risa.\n\n—¡Yo estoy despierto y el charco esta dormido! —se reia solo.\n\nDescubrio cosas que ningun oso dormilon habia visto: el vaho blanco que salia de su boca como el humo de una tetera, las telaranas convertidas en collares de cristal, el sol palido y perezoso asomando tarde entre los pinos. Se comio las ultimas moras heladas, que sabian a helado de bosque.\n\nPor las noches se envolvia en su manta de musgo, en la boca de la cueva, y le contaba el dia a la abuela, que respondia con un ronquido muy largo desde el fondo.",
-      "ambient": "forest_birds",
+      "ambient": "snow_wind",
       "cues": [
         {
           "anchor": "pasos",
@@ -101,7 +102,8 @@
           "anchor": "corazon",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s8",
@@ -112,7 +114,8 @@
           "anchor": "puerta",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "music": "marimba_playful"
     },
     {
       "id": "s9",
@@ -135,7 +138,8 @@
           "sfx": "snore_soft",
           "delayMs": 600
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

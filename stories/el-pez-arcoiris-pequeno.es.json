@@ -2,14 +2,14 @@
   "id": "el-pez-arcoiris-pequeno",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "Arcoíris busca amigos",
   "summary": "Un pez tímido encuentra amigos en el fondo del mar.",
   "scenes": [
     {
       "id": "s1",
       "text": "En lo más hondo del mar, mucho más abajo de donde llegan los barcos, donde el agua es azul, azul, y fresca, nadaba un pez muy especial. Era pequeño, del tamaño de una manzana, con la cola en forma de abanico. Pero lo más mágico de él eran sus escamas: brillaban con todos los colores del arcoíris al mismo tiempo. Rojo en la cola, naranja en la panza, amarillo en el lomo, verde en las aletas, azul en el cuello y violeta en la cabeza. Cuando un rayo de sol bajaba hasta el fondo del mar y le pegaba en una escama, el agua entera se llenaba de chispas. Pero —y este es el \"pero\" de nuestra historia— el pez era muy, muy tímido. Cuando otros peces pasaban cerca, riéndose o jugando, él se escondía atrás de los corales y se quedaba quieto, muy quieto, casi sin respirar. Tenía miedo de hablar, miedo de jugar, miedo de que se rieran de él. Pasaba sus días solo, mirando cómo subían hasta la superficie las burbujas. Las contaba una por una: una, dos, tres, cuatro, cinco. El océano era su casa, pero también su escondite.",
-      "ambient": "ocean_waves",
+      "ambient": "underwater",
       "cues": [
         {
           "anchor": "chispas",
@@ -29,7 +29,8 @@
           "anchor": "susurro",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": "underwater"
     },
     {
       "id": "s3",
@@ -39,7 +40,9 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "underwater",
+      "music": "marimba_playful"
     },
     {
       "id": "s4",
@@ -49,7 +52,9 @@
           "anchor": "risas",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "underwater",
+      "music": "guitar_clear"
     }
   ]
 }

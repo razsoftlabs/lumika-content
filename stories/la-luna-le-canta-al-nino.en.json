@@ -2,7 +2,7 @@
   "id": "la-luna-le-canta-al-nino",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The Moon Sings to the Boy",
   "summary": "A boy who doesn't want to sleep discovers, with the moon by his side, that closing his eyes is the start of a beautiful adventure.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -75,7 +76,9 @@
           "sfx": "snore_soft",
           "delayMs": 800
         }
-      ]
+      ],
+      "ambient": "city_soft",
+      "music": "lullaby_piano"
     }
   ]
 }

@@ -133,9 +133,9 @@ function auditar(ruta) {
       // Regla 2: el lector pinta TODAS las apariciones como tocables.
       else if (n > 1)
         añade(
-          'grave',
+          'aviso',
           'ancla-multiple',
-          `${donde}: "${a}" aparece ${n} veces en la escena — saldrán ${n} palabras tocables iguales`,
+          `${donde}: "${a}" aparece ${n} veces en la escena — el lector resalta la primera, pero el sonido cae ahi y casi nunca es donde querias`,
         );
 
       // Regla 1: una palabra mágica suena una vez en todo el cuento.
@@ -190,6 +190,26 @@ const rutas = objetivos.length
   : readdirSync(CUENTOS)
       .filter((f) => f.endsWith('.json'))
       .map((f) => join(CUENTOS, f));
+
+// Un cuento puede estar perfecto y no llegar a nadie: si su id no esta en
+// index.json, el telefono no se entera de que existe. Paso de verdad con
+// la-luciernaga-que-perdio-su-luz: diez escenas invisibles.
+const enManifiesto = new Set(
+  (JSON.parse(readFileSync(join(RAIZ, 'index.json'), 'utf8')).stories ?? []).map((e) => e.id),
+);
+const huerfanos = [
+  ...new Set(
+    readdirSync(CUENTOS)
+      .filter((f) => f.endsWith('.json'))
+      .map((f) => f.replace(/\.(es|en|pt|fr)\.json$/, ''))
+      .filter((id) => !enManifiesto.has(id)),
+  ),
+];
+if (huerfanos.length) {
+  console.log('');
+  console.log('  SIN ENTRADA EN EL MANIFIESTO (no llegan a ningun telefono):');
+  for (const h of huerfanos) console.log(`    ${h}`);
+}
 
 const total = { roto: 0, grave: 0, aviso: 0 };
 const porTipo = new Map();

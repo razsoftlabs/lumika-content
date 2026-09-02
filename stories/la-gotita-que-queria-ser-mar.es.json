@@ -2,7 +2,7 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Gota busca el mar",
   "summary": "Una gota de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo.",
   "scenes": [
@@ -64,7 +64,8 @@
           "anchor": "ballena",
           "sfx": "whale_song"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "Nube quiere colores",
   "summary": "Nube es blanca y quiere ser de colores. Una lluvia traviesa le enseña de dónde salen los arcoíris.",
   "scenes": [
@@ -14,7 +14,8 @@
           "anchor": "viento",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s2",
@@ -24,7 +25,8 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s3",
@@ -38,7 +40,8 @@
           "anchor": "mágico",
           "sfx": "magic_shimmer"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s4",
@@ -52,7 +55,9 @@
           "anchor": "dormida",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": "meadow_day",
+      "music": "harp_dreams"
     }
   ]
 }

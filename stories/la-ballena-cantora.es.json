@@ -2,14 +2,14 @@
   "id": "la-ballena-cantora",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La ballena cantora",
   "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano.",
   "scenes": [
     {
       "id": "s1",
       "text": "En lo más profundo del mar azul, donde el agua es tan oscura como la noche pero todavía deja pasar hilos de sol como rayos de oro derretido, vivía una ballena muy pequeña. Era del tamaño de un colchón, con la panza blanca y el lomo color cielo de tormenta. Arriba, muy lejos de ella, se mecían las olas. Pero la ballena guardaba un secreto enorme: nunca hablaba, nunca cantaba, ni siquiera hacía burbujas. Le daba vergüenza su voz, porque pensaba que era demasiado pequeña, demasiado delgada, demasiado nada. Cada día se escondía detrás de los corales rosados, con la cola enrollada bajo la panza, y miraba pasar a los peces de colores sin saludar. \"Hola\", quería decir en voz baja. Pero la palabra se le quedaba atrapada en la garganta, como un caracol tímido. El océano la cuidaba en silencio, paciente, esperando el día en que se animara.",
-      "ambient": "ocean_waves",
+      "ambient": "underwater",
       "cues": [
         {
           "anchor": "olas",
@@ -33,7 +33,8 @@
           "anchor": "cantó",
           "sfx": "whale_song"
         }
-      ]
+      ],
+      "ambient": "underwater"
     },
     {
       "id": "s3",
@@ -43,7 +44,8 @@
           "anchor": "canción",
           "sfx": "whale_song"
         }
-      ]
+      ],
+      "ambient": "underwater"
     },
     {
       "id": "s4",
@@ -53,7 +55,9 @@
           "anchor": "agua",
           "sfx": "water_splash"
         }
-      ]
+      ],
+      "ambient": "underwater",
+      "music": "strings_hopeful"
     }
   ]
 }

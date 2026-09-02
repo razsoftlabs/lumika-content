@@ -2,14 +2,14 @@
   "id": "el-pez-arcoiris-pequeno",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "Rainbow Looks for Friends",
   "summary": "A shy little fish finds friends at the bottom of the sea.",
   "scenes": [
     {
       "id": "s1",
       "text": "In the deepest part of the sea, much further down than the boats reach, where the water is blue, blue, and cool, swam a very special fish. He was tiny, the size of an apple, with a fan-shaped tail. But the most magical thing about him were his scales: they shone with all the colors of the rainbow at the same time. Red on his tail, orange on his belly, yellow on his back, green on his fins, blue on his neck, and violet on his head. When a sun ray came down to the bottom of the sea and hit a scale, the water all around filled up with sparkles. But — and this is the \"but\" of our story — the little fish was very, very shy. When other fish swam by, laughing or playing, he hid behind the corals and stayed very, very still, almost without breathing. He was afraid of speaking, afraid of playing, afraid they'd laugh at him. He spent his days alone, watching the slow rise of the bubbles. He counted them one by one: one, two, three, four, five. The ocean was his home, but also his hiding place.",
-      "ambient": "ocean_waves",
+      "ambient": "underwater",
       "cues": [
         {
           "anchor": "sparkles",
@@ -29,7 +29,8 @@
           "anchor": "whisper",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": "underwater"
     },
     {
       "id": "s3",
@@ -39,7 +40,9 @@
           "anchor": "laugh",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "underwater",
+      "music": "marimba_playful"
     },
     {
       "id": "s4",
@@ -49,7 +52,9 @@
           "anchor": "laughter",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "underwater",
+      "music": "guitar_clear"
     }
   ]
 }

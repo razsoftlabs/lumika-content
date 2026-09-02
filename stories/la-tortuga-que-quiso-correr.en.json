@@ -2,7 +2,7 @@
   "id": "la-tortuga-que-quiso-correr",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Tina Takes Her Time",
   "summary": "Tina the turtle learns that her pace is perfect just the way it is.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "wind",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "bee",
           "sfx": "bee_buzz"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s3",
@@ -46,7 +48,9 @@
           "anchor": "heart",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "ambient": "meadow_day",
+      "music": "gentle_piano"
     },
     {
       "id": "s4",
@@ -60,7 +64,9 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "meadow_day",
+      "music": "strings_hopeful"
     }
   ]
 }

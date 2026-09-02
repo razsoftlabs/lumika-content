@@ -2,14 +2,14 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "Misión a la luna de hielo",
   "summary": "Una niña astronauta y su robot viajan hasta una luna de hielo para averiguar de dónde viene un sonido lejano y suavísimo.",
   "scenes": [
     {
       "id": "s1",
       "text": "Lía tenía siete años, un casco con su nombre pintado y un sueño del tamaño del cielo. En la sala de entrenamiento le mostraron una grabación muy corta: un sonido lejano y suavísimo que venía de Cristal, una luna de hielo que daba vueltas alrededor de un planeta gigante. Nadie sabía qué era ese sonido. 'Alguien tiene que ir a escucharlo de cerca', dijeron los científicos. 'Yo voy', contestó Lía, y lo dijo tan rápido que se le adelantó al corazón. Desde ese día entrenó todas las mañanas. Nadaba con el traje puesto en una piscina enorme, aprendía a moverse despacio, aprendía a respirar tranquila cuando el pecho se le aceleraba. A su lado siempre estaba Chispa, su robot ayudante: del tamaño de un perro, con ruedas anchas y una luz azul en la frente. 'Uno, dos, tres... siete', contaba Chispa mientras ella flotaba en el agua. 'Te saltaste unos números', le decía Lía, y a los dos les daba risa.",
-      "ambient": "snow_wind",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "corazón",
@@ -33,7 +33,8 @@
           "anchor": "puerta",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s3",
@@ -47,7 +48,8 @@
           "anchor": "trueno",
           "sfx": "thunder"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -57,12 +59,13 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s5",
       "text": "Después llegaron los días largos. Muy largos. En el espacio no llueve, no anochece, no pasa ningún perro por la calle. Lía hacía ejercicio agarrada de unas cintas elásticas, dibujó la luna de hielo veinte veces, jugó a las cartas con Chispa, que siempre ganaba y siempre avisaba: 'gané otra vez'. Y escuchó la grabación del sonido misterioso una y otra vez, tratando de adivinar qué era. 'Parece alguien cantando muy lejos', decía ella. 'Parece hielo moviéndose', decía Chispa. Algunas tardes se aburría tanto que le dolía un poco el pecho de extrañar su cama. Entonces se metía en su bolsa de dormir, que iba colgada de la pared como un capullo, y se ponía la foto encima del corazón. Después cerraba los ojos. Cuando uno flota, dormir se siente como estar en el agua sin mojarse. Y al rato, en medio de tanto silencio, a Lía se le escapaba un ronquido. Chispa apagaba las luces y cuidaba los números toda la noche.",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "ronquido",
@@ -83,7 +86,8 @@
           "anchor": "susurró",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s7",
@@ -157,7 +161,8 @@
           "anchor": "burbujas",
           "sfx": "bubbles"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     },
     {
       "id": "s13",
@@ -183,7 +188,8 @@
           "anchor": "durmió",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

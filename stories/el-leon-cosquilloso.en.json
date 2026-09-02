@@ -2,14 +2,14 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The Ticklish Lion",
   "summary": "The king of the savanna is hiding a very funny secret that shows up right when he tries to roar.",
   "scenes": [
     {
       "id": "s1",
       "text": "Every morning, when the sun peeked over the savanna, all the animals waited for the great roar of Leo, the lion. His roar woke up the whole world: strong, brave, like a friendly thunder. Leo took a deep breath, puffed out his chest and opened his mouth wide. But instead of a roar, out came a giggle. 'Hee, hee, hee!'. The animals stared, confused. Leo covered his snout with both paws, red with embarrassment, and ran off to hide behind a big rock. What was happening to the king of the savanna?",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "giggle",
@@ -29,7 +29,8 @@
           "anchor": "laugh",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s3",
@@ -43,7 +44,8 @@
           "anchor": "bee",
           "sfx": "bee_buzz"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s4",
@@ -53,7 +55,8 @@
           "anchor": "leaves",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s5",
@@ -68,7 +71,8 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

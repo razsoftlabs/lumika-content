@@ -2,7 +2,7 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Un huevo para Tobi",
   "summary": "Tobi encuentra un huevo abandonado junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda.",
   "scenes": [
@@ -127,7 +127,8 @@
           "anchor": "latidos",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s11",
@@ -137,7 +138,8 @@
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s12",
@@ -163,7 +165,8 @@
           "anchor": "crujido",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s14",
@@ -174,7 +177,8 @@
           "anchor": "ronquido",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

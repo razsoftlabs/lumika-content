@@ -2,14 +2,14 @@
   "id": "la-semilla-valiente",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "La semilla valiente",
   "summary": "Una semilla muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?",
   "scenes": [
     {
       "id": "s1",
       "text": "En lo hondo de la tierra vivía una semilla muy pequeña. Todo a su alrededor estaba oscuro y callado. La semilla tenía un poco de miedo. —¿Y si me quedo siempre aquí abajo? —pensó, encogida en su cáscara. Afuera, muy lejos, en medio de la noche, cantaba un búho. Como cuando tú te acurrucas en tu cama, la semilla cerró los ojos y respiró. Poco a poco, el miedo se hizo más pequeño, y la tierra la abrazó tibia y segura.",
-      "ambient": "forest_night",
+      "ambient": null,
       "cues": [
         {
           "anchor": "búho",
@@ -44,7 +44,8 @@
           "anchor": "viento",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -59,7 +60,8 @@
           "anchor": "hojas",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s5",
@@ -74,7 +76,8 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

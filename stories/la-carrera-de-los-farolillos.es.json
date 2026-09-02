@@ -2,7 +2,7 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "La carrera de los farolillos",
   "summary": "En un pueblo de montaña, dos amigos rivales suben el sendero con sus farolillos de papel, sin saber que esta noche la carrera va a cambiar de reglas.",
   "scenes": [
@@ -49,7 +49,8 @@
           "anchor": "pasos",
           "sfx": "footsteps"
         }
-      ]
+      ],
+      "ambient": "fireplace"
     },
     {
       "id": "s4",
@@ -107,7 +108,8 @@
           "sfx": "thud",
           "delayMs": 250
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s8",
@@ -135,7 +137,8 @@
           "sfx": "giggle",
           "delayMs": 200
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s10",
@@ -146,7 +149,8 @@
           "anchor": "ronquido",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

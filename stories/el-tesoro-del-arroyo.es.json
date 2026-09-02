@@ -2,7 +2,7 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "El tesoro del arroyo",
   "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa dibujado a mano por su abuelo, y al amanecer salen al bosque a descubrir qué esconde la X junto al arroyo.",
   "scenes": [
@@ -59,7 +59,8 @@
           "anchor": "respiró",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s5",
@@ -139,7 +140,9 @@
           "anchor": "corrieron",
           "sfx": "run_fast"
         }
-      ]
+      ],
+      "ambient": "forest_birds",
+      "music": "gentle_piano"
     },
     {
       "id": "s12",
@@ -153,7 +156,8 @@
           "anchor": "crujió",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "ambient": "forest_birds"
     },
     {
       "id": "s13",
@@ -163,7 +167,9 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "forest_birds",
+      "music": "strings_hopeful"
     },
     {
       "id": "s14",
@@ -189,7 +195,8 @@
           "anchor": "dormidos",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "lullaby_piano"
     }
   ]
 }

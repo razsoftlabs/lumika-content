@@ -2,14 +2,14 @@
   "id": "la-semilla-valiente",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The Brave Little Seed",
   "summary": "A tiny seed is afraid of the dark under the ground… will she find the courage to grow?",
   "scenes": [
     {
       "id": "s1",
       "text": "Deep down in the earth lived a very tiny seed. Everything around her was dark and quiet. The little seed felt a little afraid. \"What if I stay down here forever?\" she thought, curled up in her small shell. Far, far away in the night, she heard an owl. Just like you do when you snuggle into your bed, the little seed closed her eyes and breathed. Little by little, the fear grew smaller, and the earth held her warm and safe.",
-      "ambient": "forest_night",
+      "ambient": null,
       "cues": [
         {
           "anchor": "owl",
@@ -44,7 +44,8 @@
           "anchor": "wind",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -59,7 +60,8 @@
           "anchor": "leaves",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s5",
@@ -74,7 +76,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

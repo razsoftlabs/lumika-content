@@ -2,14 +2,14 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La noche que nevó en el desierto",
   "summary": "En un pueblo donde nunca ha nevado, Amira sueña con ver la nieve de verdad… y una tarde de invierno el viento cambia de lado.",
   "scenes": [
     {
       "id": "s1",
       "text": "En Pozo de Luna, el pueblo donde vivía Amira, el calor era como un abuelo viejo: llevaba tantos años ahí que ya nadie lo saludaba. Las piedras guardaban el sol hasta la medianoche. La tierra olía a polvo tibio y a pan recién horneado. Las chicharras cantaban dentro de los cactus, y por encima del pueblo pasaba, caliente como el aliento de un animal dormido, el viento.\nAmira dormía en el porche, con un trapo mojado en la frente. A los pies de la cama, atento a las sombras del patio, se echaba su perro. Cada tanto Canela ladraba a nada y después suspiraba.\nDebajo de la almohada, Amira guardaba una hoja arrancada de una revista vieja: una calle blanca, techos blancos, árboles con azúcar en las ramas. Nieve. Ella nunca había visto nieve. Nadie en el pueblo la había visto, y por eso Amira la soñaba casi todas las noches, con los ojos abiertos.",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "viento",
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "—Abuelo —dijo esa noche—, ¿la nieve es fría de verdad?\nEl abuelo Simón estaba en su silla de madera, abanicándose con el sombrero. Arriba, el cielo tenía colgada una moneda de plata que era la luna. Alrededor del farol daban vueltas las mariposas de la noche. En el poste del corral abría y cerraba los ojos, muy despacio, una lechuza.\n—Fría como un vaso de agua del aljibe —dijo el abuelo—. Fría y blanda al mismo tiempo. Y cuando la aprietas en la mano, cruje.\nAmira se sentó en el suelo de tierra, abrazando sus rodillas.\n—¿Y tú cómo sabes, abuelo? Si aquí nunca nieva.\nEl abuelo se quedó callado un rato largo, ese rato en que las personas mayores buscan un recuerdo que tienen muy guardado.\n—Porque aquí nevó una vez —dijo despacio—. Hace cien años. Y mi abuela estaba ahí.",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "luna",
@@ -39,7 +39,7 @@
     {
       "id": "s3",
       "text": "—Ella tenía seis años, casi como tú —contó el abuelo—. Era una noche de enero. De las montañas bajó, oliendo a piedra mojada, un viento. La gente sacó las mantas de los baúles y nadie entendía nada.\nY entonces el cielo se puso blanco.\n—Blanco, mi niña. Caía algo que no era lluvia ni era polvo. Caía despacio, como si el cielo estuviera deshojando una flor enorme. La plaza se llenó de gente en pijama. Los viejos se quitaron el sombrero. Los niños llenaban de nieve sus bolsillos para guardarla, y mientras la nieve se volvía agua allí adentro, ellos reían.\n—Mi abuela llenó un frasco y lo puso debajo de la cama. En la mañana solo quedaba agua, y ella lloró. Pero contó esa noche cada día de su vida. Y por eso yo te la estoy contando a ti.",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "reían",
@@ -59,12 +59,13 @@
           "anchor": "susurro",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s5",
       "text": "Pasaron los días y Amira aprendió a mirar el cielo como los grandes.\nCada tarde salía al patio, se ponía la mano de visera y estudiaba las nubes. El abuelo le enseñó sus nombres: las nubes gordas que no traen nada, las nubes de panza gris que sí, las nubes que corren muy alto y solo van de paso. Le enseñó a mojarse el dedo y levantarlo para saber de dónde venía el aire.\nAl mediodía, cuando el calor apretaba, entre las flores del cactus zumbaba una abeja. A Amira le daba risa su torpeza.\nY de noche, acostada en el porche, se ponía a contar estrellas. Siempre perdía la cuenta.\n—¿Y si nieva mientras estoy dormida? —preguntaba.\n—Entonces yo te despierto —prometía el abuelo—. Palabra de abuelo.\nAmira cerraba los ojos e imaginaba su pueblo blanco, tan blanco que parecía dibujado con azúcar.",
-      "ambient": "forest_night",
+      "ambient": "meadow_night",
       "cues": [
         {
           "anchor": "abeja",
@@ -80,7 +81,8 @@
           "anchor": "hojas",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s7",
@@ -90,7 +92,8 @@
           "anchor": "rana",
           "sfx": "frog_croak"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s8",
@@ -119,7 +122,9 @@
           "anchor": "puerta",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "ambient": "snow_wind",
+      "music": "strings_hopeful"
     },
     {
       "id": "s10",
@@ -149,7 +154,8 @@
           "anchor": "crujía",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "music": "marimba_playful"
     },
     {
       "id": "s12",
@@ -197,7 +203,8 @@
           "anchor": "ronquido",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

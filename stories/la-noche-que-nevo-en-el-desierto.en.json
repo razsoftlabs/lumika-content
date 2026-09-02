@@ -2,14 +2,14 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The Night It Snowed in the Desert",
   "summary": "In a village where it has never snowed, Amira dreams of seeing real snow… and one winter afternoon the wind changes sides.",
   "scenes": [
     {
       "id": "s1",
       "text": "In Moon Well, the village where Amira lived, the heat was like an old grandfather: it had been there so many years that nobody said hello to it anymore. The stones kept the sun until midnight. The earth smelled of warm dust and fresh bread. Cicadas sang inside the cactus, and over the village passed something as hot as the breath of a sleeping animal: the wind.\nAmira slept out on the porch, with a wet cloth on her forehead. Curled at the foot of the bed, watching the shadows of the yard, lay her dog. Every now and then Canela barked at nothing and then sighed.\nUnder her pillow, Amira kept a page torn out of an old magazine: a white street, white roofs, trees with sugar on their branches. Snow. She had never seen snow. Nobody in the village had ever seen it, and that is why Amira dreamed about it almost every night, with her eyes open.",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "wind",
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "“Grandpa,” she said that night, “is snow really cold?”\nGrandpa Simón was in his wooden chair, fanning himself with his hat. Up above, the sky had a silver coin hanging from it, and that coin was the moon. Around the lantern circled the night moths. On the fence post by the corral, opening and closing its eyes very slowly, sat an owl.\n“Cold as a glass of water from the well,” said Grandpa. “Cold and soft at the same time. And when you squeeze it in your hand, it crunches.”\nAmira sat down on the dirt floor, hugging her knees.\n“And how do you know, Grandpa? It never snows here.”\nGrandpa stayed quiet for a long moment, the kind of moment when older people go looking for a memory they keep very carefully put away.\n“Because it snowed here once,” he said slowly. “A hundred years ago. And my grandmother was there.”",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "moon",
@@ -39,7 +39,7 @@
     {
       "id": "s3",
       "text": "“She was six years old, almost like you,” Grandpa said. “It was a night in January. Down from the mountains came something that smelled of wet stone: a new wind. People pulled the blankets out of their trunks and nobody understood a thing.\nAnd then the sky turned white.\n“White, my girl. Something was falling that was not rain and was not dust. It fell slowly, as if the sky were pulling the petals off an enormous flower. The square filled up with people in pajamas. The old men took off their hats. The children stuffed snow into their pockets to keep it, and while it turned into water in there, they laughed.\n“My grandmother filled a jar and put it under her bed. In the morning there was only water left, and she cried. But she told that night every single day of her life. And that is why I am telling it to you.”",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "laughed",
@@ -59,12 +59,13 @@
           "anchor": "whisper",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s5",
       "text": "The days went by, and Amira learned to watch the sky the way the grown-ups did.\nEvery afternoon she went out to the yard, put her hand over her eyes like a visor, and studied the clouds. Grandpa taught her their names: the fat clouds that bring nothing, the ones with grey bellies that do, the ones that race up high and are only passing through. He taught her to wet her finger and hold it up to find out where the air was coming from.\nAt midday, when the heat pressed down, among the cactus flowers buzzed a big bee. Its clumsiness made Amira laugh.\nAnd at night, lying on the porch, she counted stars. She always lost count.\n“What if it snows while I am asleep?” she asked.\n“Then I will wake you up,” Grandpa promised. “Grandfather’s word.”\nAmira closed her eyes and imagined her village white, so white it looked drawn with sugar.",
-      "ambient": "forest_night",
+      "ambient": "meadow_night",
       "cues": [
         {
           "anchor": "bee",
@@ -80,7 +81,8 @@
           "anchor": "leaves",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s7",
@@ -90,7 +92,8 @@
           "anchor": "frog",
           "sfx": "frog_croak"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s8",
@@ -119,7 +122,9 @@
           "anchor": "door",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "ambient": "snow_wind",
+      "music": "strings_hopeful"
     },
     {
       "id": "s10",
@@ -149,7 +154,8 @@
           "anchor": "crunched",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "music": "marimba_playful"
     },
     {
       "id": "s12",
@@ -197,7 +203,8 @@
           "anchor": "snore",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

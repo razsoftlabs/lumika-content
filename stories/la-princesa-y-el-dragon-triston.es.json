@@ -2,7 +2,7 @@
   "id": "la-princesa-y-el-dragon-triston",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La princesa y el dragón tristón",
   "summary": "Una princesa descubre que el dragón rugía porque tenía una espina clavada en la pata.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "relincho",
           "sfx": "horse_neigh"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "suspiro",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s3",
@@ -46,7 +48,9 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "fireplace",
+      "music": "guitar_warm"
     },
     {
       "id": "s4",
@@ -60,7 +64,8 @@
           "anchor": "brillaban",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "fireplace"
     }
   ]
 }

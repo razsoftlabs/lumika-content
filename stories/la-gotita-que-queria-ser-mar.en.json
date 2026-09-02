@@ -2,7 +2,7 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Drop Goes Looking for the Sea",
   "summary": "A little raindrop dreams of being as big as the sea and sets off on a journey to find out.",
   "scenes": [
@@ -64,7 +64,8 @@
           "anchor": "whale",
           "sfx": "whale_song"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     }
   ]
 }

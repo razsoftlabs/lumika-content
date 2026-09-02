@@ -2,7 +2,7 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Such a Huge Puddle!",
   "summary": "The biggest dinosaur in the whole valley is terrified of the tiniest thing you can imagine.",
   "scenes": [
@@ -54,7 +54,7 @@
     {
       "id": "s4",
       "text": "Then Rocco took a deep breath, counted to three and... he jumped into the puddle! SPLASH! The water flew up and fell like happy rain. From every side came bubbles: fat ones, small ones, round ones. Rocco stayed still for a second... and then let out a huge belly laugh. \"Ha, ha, ha! Nothing happens! It's soft!\" He splashed and splashed, sprinkling the frog, who laughed with him. The puddle, which had seemed like a monster before, was now the best toy in the valley. The biggest dinosaur wasn't scared of the smallest puddle anymore. He had only needed a little bit of courage.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "puddle",
@@ -64,7 +64,8 @@
           "anchor": "bubbles",
           "sfx": "bubbles"
         }
-      ]
+      ],
+      "music": "marimba_playful"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "lullaby_piano"
     }
   ]
 }

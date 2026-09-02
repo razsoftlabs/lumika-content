@@ -2,7 +2,7 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 10,
   "title": "Michi and the Blue Truck",
   "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "leaves",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "wind",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s3",
@@ -67,7 +69,7 @@
     {
       "id": "s5",
       "text": "The big park appeared around a corner, green and enormous, as if somebody had tucked a piece of the countryside inside the city. Michi slipped in under a bench and felt the cool grass on his belly. Out there the noise of the cars stayed outside. He could hear birds, a ball, the squeak of a swing. He walked beside a pond where the last of the sunlight lit up the water. On a stone sat a frog. It went croak, croak, as if saying hello. Michi answered with a short meow and went on. Two children wanted to pet him and he let them for a moment, because their hands felt like Elena's hands. But when the smaller one tried to hug him, Michi slipped away gently. He could not stay: he had a home waiting for him. On the other side of the park, between the trees, the sun was already hiding. Michi walked faster.",
-      "ambient": "city_soft",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "water",
@@ -121,7 +123,8 @@
           "anchor": "ran",
           "sfx": "run_fast"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s9",
@@ -132,7 +135,8 @@
           "anchor": "door",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s10",
@@ -147,7 +151,8 @@
           "anchor": "snore",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

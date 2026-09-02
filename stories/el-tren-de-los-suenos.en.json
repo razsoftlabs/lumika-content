@@ -2,7 +2,7 @@
   "id": "el-tren-de-los-suenos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "The dream train",
   "summary": "Every night, a magical little train picks up children in pajamas and carries them gently through dreamy landscapes.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "door",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -62,7 +63,9 @@
           "anchor": "wind",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "space_dream"
     },
     {
       "id": "s5",
@@ -76,7 +79,9 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "lullaby_piano"
     }
   ]
 }

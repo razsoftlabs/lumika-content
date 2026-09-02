@@ -2,7 +2,7 @@
   "id": "pancho-el-perro-valiente",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Pancho the brave dog",
   "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "heart",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -28,7 +29,8 @@
           "anchor": "meowing",
           "sfx": "cat_meow"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s3",
@@ -42,7 +44,9 @@
           "anchor": "barked",
           "sfx": "bark"
         }
-      ]
+      ],
+      "ambient": "rain",
+      "music": "strings_hopeful"
     },
     {
       "id": "s4",
@@ -56,7 +60,9 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": "fireplace",
+      "music": "guitar_warm"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "rex-el-pequeno-dinosaurio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Rex, the little dinosaur",
   "summary": "Rex is the smallest in his family, but he has a huge roar that scares even the clouds.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "puddles",
           "sfx": "water_splash"
         }
-      ]
+      ],
+      "ambient": "forest_birds"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "breathed",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "stream_water"
     },
     {
       "id": "s3",
@@ -46,7 +48,8 @@
           "anchor": "flying",
           "sfx": "wing_flap"
         }
-      ]
+      ],
+      "ambient": "forest_birds"
     },
     {
       "id": "s4",
@@ -60,7 +63,9 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": "meadow_day",
+      "music": "guitar_warm"
     }
   ]
 }

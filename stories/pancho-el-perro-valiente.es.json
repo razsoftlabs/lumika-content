@@ -2,7 +2,7 @@
   "id": "pancho-el-perro-valiente",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 6,
   "title": "Pancho el perro valiente",
   "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "maullido",
           "sfx": "cat_meow"
         }
-      ]
+      ],
+      "ambient": "rain"
     },
     {
       "id": "s3",
@@ -46,7 +48,9 @@
           "anchor": "ladró",
           "sfx": "bark"
         }
-      ]
+      ],
+      "ambient": "rain",
+      "music": "strings_hopeful"
     },
     {
       "id": "s4",
@@ -60,7 +64,9 @@
           "anchor": "durmieron",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": "fireplace",
+      "music": "guitar_warm"
     }
   ]
 }

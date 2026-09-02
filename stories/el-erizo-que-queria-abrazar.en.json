@@ -2,7 +2,7 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Careful Hugs",
   "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident.",
   "scenes": [
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "That night, beside the water, Spike found his friend the frog. \"I would love to hug you!\" he said, opening his arms wide. He ran toward her happily, his eyes shining. But the moment he came close, his spines stood on end and... they pricked, just a tiny bit! She gave an enormous leap and landed flat in a puddle. \"Oops, Spike, you prickle without meaning to!\" she laughed, dripping with water. Spike stood very still, his ears drooping. He did not want to prickle anyone. He only wanted to hug.",
-      "ambient": "forest_night",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "frog",
@@ -64,7 +64,8 @@
           "anchor": "giggle",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

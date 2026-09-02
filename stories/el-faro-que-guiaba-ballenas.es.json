@@ -2,7 +2,7 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Aitana y la noche de niebla",
   "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo, hasta que una noche de niebla descubre quién espera su luz.",
   "scenes": [
@@ -20,7 +20,7 @@
     {
       "id": "s2",
       "text": "Después de la sopa caliente, el abuelo colgó su gorra en un clavo y dijo:\n\n—Ven, te presento a la señora del faro.\n\nSubieron juntos. La escalera era de caracol, de hierro frío, y como un tambor lento sonaban los pasos. Tan, tan, tan. Aitana contó veinte, cuarenta, sesenta escalones. En las paredes había caracolas pegadas con cinta, dibujos antiguos de barcos y una lista larga de nombres que ella no conocía. Todo olía a aceite, a metal y a mar dormido.\n\n—¿Cuántos escalones son? —preguntó, un poco sin aire.\n\n—Ciento veinte —dijo el abuelo—. Los subo dos veces cada noche, con lluvia o con calma. Por eso tengo estas piernas de cangrejo viejo.\n\nA Aitana se le escapó una risa. Rebotó por el hueco de la torre y volvió desde arriba, más pequeña.\n\n—¿Oíste eso? —dijo el abuelo, guiñando un ojo—. El faro también se ríe. Solo hay que hacerle cosquillas en el momento justo.",
-      "ambient": "ocean_waves",
+      "ambient": "fireplace",
       "cues": [
         {
           "anchor": "pasos",
@@ -71,7 +71,8 @@
           "anchor": "crujido",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s6",
@@ -116,19 +117,21 @@
           "anchor": "burbujas",
           "sfx": "bubbles"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s10",
       "text": "Cuando el motor volvió a funcionar, ya casi amanecía por dentro de la niebla. El abuelo bajó a Aitana en brazos, escalón por escalón, y la acostó junto a la ventana pequeña, con dos mantas y una caracola en la mano.\n\n—Ya sé por qué haces esto —dijo ella, con la voz pastosa—. No es un trabajo aburrido. Es un trabajo que cuida.\n\nEl abuelo le besó la frente.\n\n—Mañana te enseño a limpiar el vidrio.\n\nSobre el agua asomó un momento la luna. La luz del faro pasó despacio por la pared —un lado, el otro, un lado, el otro—, y afuera el mar siguió respirando, tranquilo, como alguien que también se va a dormir.\n\nMuy lejos, las ballenas cantaron una última nota muy suave.\n\nAitana la escuchó, sonrió con los ojos cerrados y se quedó dormida, mecida por el sonido del mar.",
-      "ambient": "ocean_waves",
+      "ambient": "fireplace",
       "cues": [
         {
           "anchor": "dormir",
           "sfx": "snore_soft",
           "delayMs": 400
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

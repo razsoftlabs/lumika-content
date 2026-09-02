@@ -2,7 +2,7 @@
   "id": "la-princesa-ingeniera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Engineer Princess",
   "summary": "When the kingdom's river dries up and nobody will listen to a princess who builds machines, Mirena decides to ride up the mountain alone with her notebook.",
   "scenes": [
@@ -42,7 +42,8 @@
           "sfx": "footsteps",
           "delayMs": 300
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -57,7 +58,8 @@
           "sfx": "leaves_rustle",
           "delayMs": 300
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s5",
@@ -72,7 +74,8 @@
           "sfx": "frog_croak",
           "delayMs": 400
         }
-      ]
+      ],
+      "ambient": "stream_water"
     },
     {
       "id": "s6",
@@ -87,7 +90,8 @@
           "sfx": "bark",
           "delayMs": 300
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s7",
@@ -98,7 +102,8 @@
           "sfx": "breathe_in",
           "delayMs": 400
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s8",
@@ -147,7 +152,9 @@
           "anchor": "thud",
           "sfx": "thud"
         }
-      ]
+      ],
+      "ambient": "snow_wind",
+      "music": "gentle_piano"
     },
     {
       "id": "s12",
@@ -170,7 +177,8 @@
           "sfx": "giggle",
           "delayMs": 300
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s14",
@@ -193,7 +201,8 @@
           "sfx": "snore_soft",
           "delayMs": 600
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

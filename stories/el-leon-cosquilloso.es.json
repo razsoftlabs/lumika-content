@@ -2,14 +2,14 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "El león cosquilloso",
   "summary": "El rey de la sabana guarda un secreto muy divertido que aparece justo cuando intenta rugir.",
   "scenes": [
     {
       "id": "s1",
       "text": "Cada mañana, cuando el sol asomaba sobre la sabana, todos los animales esperaban el gran rugido de Leo, el león. Su rugido despertaba al mundo entero: fuerte, valiente, como un trueno amistoso. Leo respiró hondo, infló el pecho y abrió la boca bien grande. Pero en lugar de un rugido le salió una risa. '¡Ji, ji, ji!'. Los animales se quedaron confundidos. Leo se tapó el hocico con las dos patas, colorado de vergüenza, y salió corriendo a esconderse detrás de una roca grande. ¿Qué le pasaba al rey de la sabana?",
-      "ambient": "forest_birds",
+      "ambient": "meadow_day",
       "cues": [
         {
           "anchor": "risa",
@@ -25,7 +25,8 @@
           "anchor": "brisa",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s3",
@@ -39,7 +40,8 @@
           "anchor": "abeja",
           "sfx": "bee_buzz"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s4",
@@ -53,7 +55,8 @@
           "anchor": "hojas",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s5",
@@ -68,7 +71,8 @@
           "anchor": "dormidos",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

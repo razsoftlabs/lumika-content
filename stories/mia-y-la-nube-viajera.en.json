@@ -2,7 +2,7 @@
   "id": "mia-y-la-nube-viajera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "Mía and the traveling cloud",
   "summary": "A girl rides on a cloud and discovers how the world looks from above.",
   "scenes": [
@@ -14,7 +14,8 @@
           "anchor": "whale",
           "sfx": "whale_song"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -28,7 +29,8 @@
           "anchor": "whispered",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s3",
@@ -42,7 +44,8 @@
           "anchor": "leaves",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -52,7 +55,9 @@
           "anchor": "moon",
           "sfx": "twinkle"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "harp_dreams"
     }
   ]
 }

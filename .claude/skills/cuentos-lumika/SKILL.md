@@ -59,7 +59,8 @@ mismo id: el bucle continúa sin costura.
 
 ### 5. La música cambia cuando cambia el sentimiento
 
-**Ningún cuento usa `scene.music`.** La música arranca y no se entera de nada.
+Antes de la revision del 2-sep-2026, **ningun cuento usaba `scene.music`**: la
+musica arrancaba y no se enteraba de nada. Ahora los 51 tienen su giro.
 
 Un cuento con giro necesita dos músicas: la de antes y la de después. El cambio
 va en la escena donde el personaje deja de tener miedo, o encuentra lo que
@@ -156,11 +157,22 @@ Se cambia el texto, no se mete a la fuerza.
 
 Dos partes: la mecánica y la humana.
 
-**La mecánica** la hace el script, que no se cansa ni se le olvida:
+**La mecánica** la hacen los scripts, que no se cansan ni se les olvida:
 
 ```bash
 node .claude/skills/cuentos-lumika/auditar.mjs stories/mi-cuento.es.json
 ```
+
+Y para arreglar en lote lo que no necesita criterio:
+
+```bash
+node .claude/skills/cuentos-lumika/quitar-anclas-repetidas.mjs --dry
+node .claude/skills/cuentos-lumika/aplicar-ambientacion.mjs plan.json --dry
+```
+
+El segundo toma un plan de ambientacion —que ambiente y que musica por escena—
+y lo aplica a los dos idiomas a la vez, subiendo las versiones. Los dos admiten
+`--dry` y conviene usarlo siempre antes.
 
 Comprueba identificadores inexistentes, anclas que no están en el texto, anclas
 repetidas, anclas que aparecen varias veces en su escena, escenas sin ambiente y

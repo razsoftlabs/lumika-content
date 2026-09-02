@@ -2,7 +2,7 @@
   "id": "el-osito-y-la-tormenta",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Little Bear and the Storm",
   "summary": "A night full of thunder frightens little Nilo the bear, until Mama Bear teaches him a secret trick to calm his heart.",
   "scenes": [
@@ -37,7 +37,8 @@
           "anchor": "breathe",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "music": "gentle_piano"
     },
     {
       "id": "s4",
@@ -63,7 +64,8 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "lullaby_piano"
     }
   ]
 }

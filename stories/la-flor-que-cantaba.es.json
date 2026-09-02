@@ -2,7 +2,7 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Una voz en el jardín",
   "summary": "Una flor demasiado tímida para cantar esconde una voz que quizás el jardín entero necesita escuchar.",
   "scenes": [
@@ -64,7 +64,8 @@
           "anchor": "abejas",
           "sfx": "bee_buzz"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "susurro",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "music": "guitar_clear"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "los-tres-amigos-del-bosque",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Los tres amigos del bosque",
   "summary": "Un conejo, un erizo y una ardilla descubren que juntos llegan más lejos.",
   "scenes": [
@@ -33,7 +33,8 @@
           "anchor": "rió",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "forest_birds"
     },
     {
       "id": "s3",
@@ -43,7 +44,8 @@
           "anchor": "ramas",
           "sfx": "leaves_rustle"
         }
-      ]
+      ],
+      "ambient": "forest_birds"
     },
     {
       "id": "s4",
@@ -57,7 +59,9 @@
           "anchor": "mordisco",
           "sfx": "crunch"
         }
-      ]
+      ],
+      "ambient": "forest_birds",
+      "music": "guitar_clear"
     }
   ]
 }

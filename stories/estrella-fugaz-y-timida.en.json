@@ -2,14 +2,14 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "Titila, the Shy Shooting Star",
   "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish.",
   "scenes": [
     {
       "id": "s1",
       "text": "High up in the night lived a little star named Titila. Every night, trailing tails of light across the sky, went all the other stars. Down below, sleeping children made their wishes. And waving to every one of them, round and kind, was the Moon. But Titila stayed still in her corner, glowing very softly. She loved to watch the sleeping world down below: the rooftops, the trees, and the rivers. She dreamed of crossing the sky one day... but just thinking about it made her light tremble a bit. She still didn't dare.",
-      "ambient": "forest_night",
+      "ambient": null,
       "cues": [
         {
           "anchor": "stars",
@@ -33,7 +33,8 @@
           "anchor": "whispered",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s3",
@@ -43,7 +44,8 @@
           "anchor": "owl",
           "sfx": "owl_hoot"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -57,18 +59,20 @@
           "anchor": "breathed",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s5",
       "text": "Then, at last, Titila dared. She spread her wings of light and, from one end of the sky to the other, she crossed. Behind her she left a soft golden tail. Down below, a half-asleep girl saw her through the window. She made a tiny wish and whispered. Titila never knew what it was... and she understood it didn't matter. The girl smiled and snuggled into her bed. A little wink came from the Moon. And Titila, peaceful now, drifted back to her corner to rest, glowing softly. Good night, little star. Good night. Time to sleep.",
-      "ambient": "forest_night",
+      "ambient": "meadow_night",
       "cues": [
         {
           "anchor": "crossed",
           "sfx": "whoosh"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     }
   ]
 }

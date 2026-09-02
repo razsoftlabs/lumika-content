@@ -2,14 +2,14 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "Titila, la estrella fugaz tímida",
   "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
   "scenes": [
     {
       "id": "s1",
       "text": "En lo más alto de la noche vivía una estrella llamada Titila. Cada noche, dejando colas de luz, cruzaban el cielo las demás estrellas. Abajo, los niños dormidos pedían deseos. Y a todas las saludaba, redonda y amable, la Luna. Pero Titila se quedaba quieta en su rincón, brillando muy despacio. Le encantaba mirar el mundo dormido allá abajo: los tejados, los árboles y los ríos. Soñaba con cruzar el cielo algún día... pero solo de pensarlo, su luz temblaba un poco. Todavía no se animaba.",
-      "ambient": "forest_night",
+      "ambient": null,
       "cues": [
         {
           "anchor": "estrellas",
@@ -33,7 +33,8 @@
           "anchor": "susurró",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s3",
@@ -43,7 +44,8 @@
           "anchor": "búho",
           "sfx": "owl_hoot"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -57,18 +59,20 @@
           "anchor": "respiró",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s5",
       "text": "Entonces, por fin, Titila se atrevió. Abrió sus alas de luz y, de una punta a la otra del cielo, cruzó. Detrás dejó una cola dorada y suave. Allá abajo, una niña medio dormida la vio por la ventana. Pidió un deseo pequeño y lo susurró. Titila no supo cuál fue... y entendió que no importaba. La niña sonrió y se acurrucó en su cama. Le guiñó un ojo la Luna. Y Titila, tranquila al fin, volvió a su rincón a descansar, brillando en calma. Buenas noches, estrella. Buenas noches. A dormir.",
-      "ambient": "forest_night",
+      "ambient": "meadow_night",
       "cues": [
         {
           "anchor": "cruzó",
           "sfx": "whoosh"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     }
   ]
 }

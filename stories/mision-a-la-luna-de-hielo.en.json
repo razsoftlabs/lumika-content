@@ -2,14 +2,14 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Mission to the Ice Moon",
   "summary": "A young astronaut and her robot travel all the way to an ice moon to find out where a faraway, very gentle sound is coming from.",
   "scenes": [
     {
       "id": "s1",
       "text": "Lía was seven years old, she had a helmet with her name painted on it, and a dream as big as the sky. In the training room they played her a very short recording: a faraway, very gentle sound coming from Cristal, an ice moon that circled around a giant planet. Nobody knew what that sound was. 'Somebody has to go and listen to it up close,' the scientists said. 'I will go,' Lía answered, and she said it so fast that she got ahead of her own heart. From that day on she trained every morning. She swam in a huge pool with her suit on, she learned to move slowly, she learned to breathe calmly when her chest was in a hurry. Chispa, her helper robot, was always beside her: the size of a dog, with wide wheels and a blue light on his forehead. 'One, two, three... seven,' counted Chispa while she floated in the water. 'You skipped a few numbers,' Lía told him, and they both had a laugh.",
-      "ambient": "snow_wind",
+      "ambient": "city_soft",
       "cues": [
         {
           "anchor": "heart",
@@ -33,7 +33,8 @@
           "anchor": "door",
           "sfx": "door_open"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s3",
@@ -47,7 +48,8 @@
           "anchor": "thunder",
           "sfx": "thunder"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -57,12 +59,13 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s5",
       "text": "Then came the long days. The very long days. In space it never rains, it never gets dark, no dog ever walks by on the street. Lía did her exercises holding on to elastic bands, she drew the ice moon twenty times, she played cards with Chispa, who always won and always announced it: 'I won again.' And she listened to the recording of the mysterious sound over and over, trying to guess what it was. 'It sounds like somebody singing very far away,' she would say. 'It sounds like ice moving,' Chispa would say. Some afternoons she got so bored that her chest ached a little from missing her bed. Then she climbed into her sleeping bag, which hung on the wall like a cocoon, and put the photo over her heart. After that she closed her eyes. When you float, sleeping feels like being in water without getting wet. And after a while, in the middle of all that quiet, out of Lía came a soft snore. Chispa turned off the lights and looked after the numbers all night long.",
-      "ambient": "snow_wind",
+      "ambient": null,
       "cues": [
         {
           "anchor": "snore",
@@ -83,7 +86,8 @@
           "anchor": "whispered",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s7",
@@ -161,7 +165,8 @@
           "anchor": "bubbles",
           "sfx": "bubbles"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     },
     {
       "id": "s13",
@@ -187,7 +192,8 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

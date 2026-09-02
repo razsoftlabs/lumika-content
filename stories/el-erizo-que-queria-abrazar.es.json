@@ -2,7 +2,7 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "Abrazos con cuidado",
   "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer.",
   "scenes": [
@@ -24,7 +24,7 @@
     {
       "id": "s2",
       "text": "Esa noche, junto al agua, Espín encontró a su amiga la rana. \"¡Qué ganas tengo de abrazarte!\", dijo, y abrió los brazos bien grandes. Corrió hacia ella feliz, con los ojos brillando. Pero apenas se acercó, sus espinas se pusieron de punta y... ¡pincharon un poco! Su amiga dio un brinco enorme y cayó de espaldas en un charco. \"¡Uy, Espín, pinchas sin querer!\", se rió ella, chorreando agua. Espín se quedó quieto, con las orejas gachas. Él no quería pinchar a nadie. Solo quería abrazar.",
-      "ambient": "forest_night",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "rana",
@@ -64,7 +64,8 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "music": "strings_hopeful"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "dormidos",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

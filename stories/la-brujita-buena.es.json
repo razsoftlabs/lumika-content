@@ -2,7 +2,7 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "La brujita buena",
   "summary": "Cada hechizo de Aura sale al revés, y su gato Bigotes nunca sabe a quién van a terminar ayudando.",
   "scenes": [
@@ -64,7 +64,8 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "harp_dreams"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "luna",
           "sfx": "twinkle"
         }
-      ]
+      ],
+      "music": "guitar_warm"
     }
   ]
 }

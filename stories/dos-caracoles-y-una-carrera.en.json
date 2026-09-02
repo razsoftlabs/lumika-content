@@ -2,7 +2,7 @@
   "id": "dos-caracoles-y-una-carrera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Two Snails and a Race",
   "summary": "Two snail friends challenge each other to the slowest race in the garden and discover a prize far better than crossing the finish line.",
   "scenes": [
@@ -44,7 +44,8 @@
           "anchor": "frog",
           "sfx": "frog_croak"
         }
-      ]
+      ],
+      "ambient": "stream_water"
     },
     {
       "id": "s4",
@@ -54,7 +55,9 @@
           "anchor": "laugh",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "forest_birds",
+      "music": "guitar_clear"
     },
     {
       "id": "s5",
@@ -69,7 +72,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "lullaby_piano"
     }
   ]
 }

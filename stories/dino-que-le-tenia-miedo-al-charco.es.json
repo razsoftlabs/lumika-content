@@ -2,7 +2,7 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "¡Un charco enorme!",
   "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeña que te puedas imaginar.",
   "scenes": [
@@ -54,7 +54,7 @@
     {
       "id": "s4",
       "text": "Entonces Rocco respiró hondo, contó hasta tres y... ¡saltó al charco! ¡CHOF! El agua salió volando y cayó como lluvia alegre. Por todos lados salieron burbujas: gordas, pequeñas, redondas. Rocco se quedó quieto un segundo... y después soltó una carcajada enorme. \"¡Ja, ja, ja! ¡No pasa nada! ¡Es blando!\" Chapoteó y chapoteó, salpicando a la rana, que reía con él. El charco, que antes parecía un monstruo, ahora era el mejor juguete del valle. El dinosaurio más grande ya no le tenía miedo al charco más pequeño. Solo había necesitado un poco de valentía.",
-      "ambient": "forest_birds",
+      "ambient": "stream_water",
       "cues": [
         {
           "anchor": "charco",
@@ -64,7 +64,8 @@
           "anchor": "burbujas",
           "sfx": "bubbles"
         }
-      ]
+      ],
+      "music": "marimba_playful"
     },
     {
       "id": "s5",
@@ -79,7 +80,8 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "music": "lullaby_piano"
     }
   ]
 }

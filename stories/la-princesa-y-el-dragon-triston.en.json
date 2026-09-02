@@ -2,7 +2,7 @@
   "id": "la-princesa-y-el-dragon-triston",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The princess and the sad dragon",
   "summary": "A princess discovers that the dragon was roaring because he had a thorn in his paw.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "neigh",
           "sfx": "horse_neigh"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "sigh",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s3",
@@ -46,7 +48,9 @@
           "anchor": "laughter",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "fireplace",
+      "music": "guitar_warm"
     },
     {
       "id": "s4",
@@ -60,7 +64,8 @@
           "anchor": "sparkled",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "fireplace"
     }
   ]
 }

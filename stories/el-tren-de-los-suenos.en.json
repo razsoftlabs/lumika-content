@@ -2,7 +2,7 @@
   "id": "el-tren-de-los-suenos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The dream train",
   "summary": "Every night, a magical little train picks up children in pajamas and carries them gently through dreamy landscapes.",
   "scenes": [
@@ -12,11 +12,8 @@
       "cues": [
         {
           "anchor": "choo-choo",
-          "sfx": "train_soft"
-        },
-        {
-          "anchor": "door",
-          "sfx": "door_open"
+          "sfx": "train_soft",
+          "delayMs": 400
         }
       ],
       "ambient": "city_soft"
@@ -26,10 +23,6 @@
       "text": "The train sets off slowly, clack-clack, and rolls into a sleeping forest. The tall trees wave their branches as if saying goodbye, and a very soft song rises from the leaves. On a round branch, big round eyes open: it is the owl. Whoo, whoo, he hoots, watching over the way. Golden fireflies drift past the window, dancing in the air. The bear hands out warm blankets and a cup of warm milk for each child. No one speaks loudly here; in the forest of dreams you only speak with your eyes and a tiny smile.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
@@ -42,10 +35,6 @@
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "waves",
-          "sfx": "water_splash"
-        },
-        {
           "anchor": "whale",
           "sfx": "whale_song"
         }
@@ -56,12 +45,12 @@
       "text": "Then the train climbs, climbs, climbs up a rainbow of night until it reaches the sky. Now it travels among a thousand stars. They shine and twinkle like little crumbs of light. Between the cars sings the wind. Cool and gentle, it ruffles the children's hair. Up here everything is calm: no hurry, no noise, only the big, quiet sky. The bear turns off the train's little lights one by one, so the night can be even sweeter. \"We're almost at the land of dreams,\" he says, and his voice sounds like a hug.",
       "cues": [
         {
-          "anchor": "stars",
-          "sfx": "sparkle"
-        },
-        {
           "anchor": "wind",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "stars",
+          "sfx": "twinkle"
         }
       ],
       "ambient": null,

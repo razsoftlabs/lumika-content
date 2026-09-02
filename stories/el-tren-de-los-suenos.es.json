@@ -2,7 +2,7 @@
   "id": "el-tren-de-los-suenos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "El tren de los sueños",
   "summary": "Cada noche, un tren mágico recoge a los niños en pijama y los lleva despacio por paisajes de sueño.",
   "scenes": [
@@ -12,11 +12,8 @@
       "cues": [
         {
           "anchor": "chu-chuuu",
-          "sfx": "train_soft"
-        },
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
+          "sfx": "train_soft",
+          "delayMs": 400
         }
       ],
       "ambient": "city_soft"
@@ -26,10 +23,6 @@
       "text": "El tren arranca despacio, chaca-chaca, y entra en un bosque dormido. Los árboles altos mueven sus ramas como si dijeran adiós, y una canción muy suave sube desde las hojas. En una rama redonda abre sus ojos grandes un búho. Ulula: uhu, uhu, cuidando el camino. Por la ventana pasan luciérnagas doradas que bailan en el aire. El oso reparte mantas tibias y una taza de leche caliente para cada niño. Nadie habla fuerte aquí; en el bosque de los sueños solo se habla con la mirada y con una sonrisa pequeña.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
@@ -42,10 +35,6 @@
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "olas",
-          "sfx": "water_splash"
-        },
-        {
           "anchor": "ballena",
           "sfx": "whale_song"
         }
@@ -56,12 +45,12 @@
       "text": "Entonces el tren sube, sube, sube por un arcoíris de noche hasta llegar al cielo. Ahora viaja entre miles de estrellas. Brillan y titilan como migas de luz. Entre los vagones canta el viento. Pasa fresco y suave, y despeina el pelo de los niños. Aquí arriba todo es tranquilo: no hay prisa, no hay ruido, solo el cielo grande y callado. El oso apaga una a una las luces del tren, para que la noche sea aún más dulce. —Ya casi llegamos al país de los sueños —dice, y su voz suena como un abrazo.",
       "cues": [
         {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
-        },
-        {
           "anchor": "viento",
           "sfx": "wind_soft"
+        },
+        {
+          "anchor": "estrellas",
+          "sfx": "twinkle"
         }
       ],
       "ambient": null,

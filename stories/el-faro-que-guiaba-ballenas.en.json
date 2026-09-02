@@ -2,7 +2,7 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Aitana and the Foggy Night",
   "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light.",
   "scenes": [
@@ -25,10 +25,6 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
         }
       ]
     },
@@ -40,10 +36,6 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -55,10 +47,6 @@
         {
           "anchor": "whales",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
         }
       ]
     },

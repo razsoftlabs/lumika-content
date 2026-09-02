@@ -2,7 +2,7 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Night It Snowed in the Desert",
   "summary": "In a village where it has never snowed, Amira dreams of seeing real snow… and one winter afternoon the wind changes sides.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "dog",
-          "sfx": "bark"
         }
       ]
     },
@@ -26,10 +22,6 @@
       "text": "“Grandpa,” she said that night, “is snow really cold?”\nGrandpa Simón was in his wooden chair, fanning himself with his hat. Up above, the sky had a silver coin hanging from it, and that coin was the moon. Around the lantern circled the night moths. On the fence post by the corral, opening and closing its eyes very slowly, sat an owl.\n“Cold as a glass of water from the well,” said Grandpa. “Cold and soft at the same time. And when you squeeze it in your hand, it crunches.”\nAmira sat down on the dirt floor, hugging her knees.\n“And how do you know, Grandpa? It never snows here.”\nGrandpa stayed quiet for a long moment, the kind of moment when older people go looking for a memory they keep very carefully put away.\n“Because it snowed here once,” he said slowly. “A hundred years ago. And my grandmother was there.”",
       "ambient": null,
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
@@ -51,10 +43,6 @@
       "id": "s4",
       "text": "The next day, Amira took out her pencils and started drawing the snowfall from a hundred years ago.\nShe drew the village seen from above: the church, the well, the roofs, doña Rosalía’s bakery. Then she painted it all white with a worn-down pencil, pressing hard, sharpening it with a knife every time it broke. She put little white dots in the air. Many of them. Hundreds. Thousands. The white pencil ended up as tiny as a bean.\nThe cat of the house was named Higo. He climbed onto the table and sat down right on top of the drawing, because tables and drawings belong to cats.\n“Move, Higo,” Amira said, laughing. “You are sitting on the square.”\nThat night she taped the drawing to the wall, next to the window. Before falling asleep she spoke to it the way you speak to important things, in a whisper:\n“One day I am going to see you for real.”",
       "cues": [
-        {
-          "anchor": "cats",
-          "sfx": "cat_meow"
-        },
         {
           "anchor": "whisper",
           "sfx": "whisper"
@@ -101,10 +89,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "gleam",
           "sfx": "sparkle"
         }
@@ -114,10 +98,6 @@
       "id": "s9",
       "text": "Amira came running out of her room, barefoot.\n“Grandpa! Grandpa, Grandpa, GRANDPA!”\nAll down the hallway rang her footsteps. They were so fast that they sounded like many more feet than she actually had. With both hands she banged on Grandpa’s door. It opened, and there he was, his white hair all messy and his eyes small with sleep.\n“What is it, my girl?”\n“It is falling! Out of the sky! White!”\nGrandpa did not ask anything else. He pulled his boots on without socks, grabbed the blanket off his bed, and came out right behind her. Amira woke her mother, woke her father, woke her little brother who slept with his mouth open, and even woke Canela, who was already wide awake.\n“Everybody outside!” she shouted. “Everybody outside, now!”\nAnd the whole family, in pajamas and with sleepy eyes, went out to the yard to look at the sky.",
       "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "door",
           "sfx": "door_open"
@@ -132,10 +112,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "doors",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "laughter",
           "sfx": "giggle"
         }
@@ -146,10 +122,6 @@
       "text": "What happened next, Amira never forgot.\nThe whole village started playing in the middle of the night. Down the middle of the street, leaving footprints and stepping on them again, the children went running. Under their shoes, with a brand-new and perfect little sound, the snow crunched. Crick, crick, crick.\nAmira learned that night that snow can be caught with your tongue, that it melts in your hand and leaves your palm wet, and that if you blow on it, it flies.\nHer father made a soft ball and tossed it at her little brother, who looked very serious for one second and then laughed so hard that he sat down.\nThe teacher came down in his slippers. The woman from the post office danced by herself. Somebody played music out of a window.\nAnd Grandpa, who almost never ran, crossed the square at a run just to make footprints.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "running",
-          "sfx": "run_fast"
-        },
         {
           "anchor": "crunched",
           "sfx": "crunch"
@@ -165,10 +137,6 @@
         {
           "anchor": "thud",
           "sfx": "thud"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
         }
       ]
     },

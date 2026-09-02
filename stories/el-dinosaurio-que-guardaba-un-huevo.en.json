@@ -2,7 +2,7 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "An Egg for Tobi",
   "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "dinosaur",
           "sfx": "dino_step"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -29,11 +25,6 @@
         {
           "anchor": "stream",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "whisper",
-          "sfx": "whisper",
-          "delayMs": 200
         }
       ]
     },
@@ -88,12 +79,9 @@
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "drops",
-          "sfx": "water_splash"
-        },
-        {
           "anchor": "thunder",
-          "sfx": "thunder"
+          "sfx": "thunder",
+          "delayMs": 500
         }
       ]
     },
@@ -126,10 +114,6 @@
         {
           "anchor": "crunch",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "heartbeat",
-          "sfx": "heartbeat_calm"
         }
       ],
       "ambient": null
@@ -141,10 +125,6 @@
         {
           "anchor": "thud",
           "sfx": "thud"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ],
       "ambient": null
@@ -154,10 +134,6 @@
       "text": "On the other side of the canyon, the world opened up big and golden. There were wide tablelands with soft grass and low little trees full of tender buds. And up above, on a round hill, Tobi found the perfect spot: a hollow of warm earth, sheltered from the air by three big rocks, looking out over the whole new valley. He worked until night fell. He gathered dry leaves, moss and a few feathers he found lying about, and he built the softest nest he had ever made. He set the egg in the middle and lay down all around it, curled up like a doughnut. The sky filled with points of light. Right above them twinkled a star. And slowly, as round as another enormous egg, up came the moon. 'We made it,' said Tobi. 'We are home.' And for the first time in many days, he slept deeply and peacefully.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "moon",
           "sfx": "twinkle"

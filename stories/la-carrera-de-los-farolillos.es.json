@@ -2,7 +2,7 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La carrera de los farolillos",
   "summary": "En un pueblo de montaña, dos amigos rivales suben el sendero con sus farolillos de papel, sin saber que esta noche la carrera va a cambiar de reglas.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "viento",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
         }
       ]
     },
@@ -29,11 +25,6 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle",
-          "delayMs": 200
         }
       ]
     },
@@ -44,10 +35,6 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ],
       "ambient": "fireplace"
@@ -58,13 +45,8 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "crujido",
-          "sfx": "crunch"
-        },
-        {
           "anchor": "búho",
-          "sfx": "owl_hoot",
-          "delayMs": 300
+          "sfx": "owl_hoot"
         }
       ]
     },
@@ -76,10 +58,6 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
         }
       ]
     },
@@ -102,11 +80,6 @@
         {
           "anchor": "ráfaga",
           "sfx": "wind_high"
-        },
-        {
-          "anchor": "golpe",
-          "sfx": "thud",
-          "delayMs": 250
         }
       ],
       "music": "gentle_piano"
@@ -119,11 +92,6 @@
         {
           "anchor": "respiró",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak",
-          "delayMs": 300
         }
       ]
     },

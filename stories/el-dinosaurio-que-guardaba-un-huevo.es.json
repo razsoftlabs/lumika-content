@@ -2,7 +2,7 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Un huevo para Tobi",
   "summary": "Tobi encuentra un huevo abandonado junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "dinosaurio",
           "sfx": "dino_step"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -29,11 +25,6 @@
         {
           "anchor": "arroyo",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "susurro",
-          "sfx": "whisper",
-          "delayMs": 200
         }
       ]
     },
@@ -88,12 +79,9 @@
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "gotas",
-          "sfx": "water_splash"
-        },
-        {
           "anchor": "trueno",
-          "sfx": "thunder"
+          "sfx": "thunder",
+          "delayMs": 500
         }
       ]
     },
@@ -122,12 +110,7 @@
     {
       "id": "s10",
       "text": "El desfiladero era angosto como un pasillo de piedra. Arriba, muy arriba, había una línea fina de cielo. Abajo, el suelo estaba lleno de piedras sueltas que, bajo las patas, hacían un crujido. Entre las rocas silbaba el viento. Sonaba como un montón de voces pequeñas hablando a la vez. Tobi entró último. Llevaba el huevo tan apretado contra el pecho que en la cáscara sentía rebotar sus propios latidos. 'Uno', se dijo. 'Dos. Tres'. Un paso por cada número, sin apurarse nada. A veces las piedras se movían solas y Tobi se quedaba quieto hasta que todo dejaba de sonar. A la mitad del camino se le cerraron los ojos un segundo, de puro cansancio. 'Ya falta poco', susurró. 'Ya casi, ya casi'. Del otro lado se veía una luz dorada y ancha, como una promesa esperándolo.",
-      "cues": [
-        {
-          "anchor": "latidos",
-          "sfx": "heartbeat_calm"
-        }
-      ],
+      "cues": [],
       "ambient": null
     },
     {
@@ -146,10 +129,6 @@
       "text": "Del otro lado del desfiladero, el mundo se abría grande y dorado. Había mesetas anchas, con pasto blando y árboles bajos llenos de brotes tiernos. Y arriba, en una loma redonda, Tobi encontró el lugar perfecto: un hueco de tierra tibia, protegido del aire por tres rocas grandes, con vista a todo el valle nuevo. Trabajó hasta que se hizo de noche. Juntó hojas secas, musgo y unas plumas que encontró por ahí, y armó el nido más blando que había hecho nunca. Puso el huevo en el centro y se acostó alrededor, enroscado como una rosquilla. El cielo se llenó de puntos de luz. Justo encima de ellos parpadeó una estrella. Y despacio, redonda como otro huevo enorme, subió la luna. 'Llegamos', dijo Tobi. 'Estamos en casa'. Y por primera vez en muchos días, durmió profundo y sin sobresaltos.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "estrella",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "luna",
           "sfx": "twinkle"

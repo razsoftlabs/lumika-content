@@ -2,7 +2,7 @@
   "id": "la-luciernaga-que-perdio-su-luz",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 9,
+  "version": 10,
   "title": "Lumi no enciende",
   "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la luz de Lumi no quiere encender.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "En el corazón del bosque, donde los helechos crecen altos y el musgo es blando como una almohada, vivía una luciérnaga muy pequeña que se llamaba Lumi. Cada noche, cuando el cielo se ponía morado, asomaba entre las ramas la luna. Entonces Lumi encendía su luz y volaba en círculos sobre el arroyo. Su luz era dorada y tibia, del color de la miel cuando le da el sol. Aquella noche el bosque entero olía a tierra mojada y a flores de saúco, y todos hablaban de lo mismo. —¡Faltan tres noches para la Fiesta de las Luces! —cantaban los grillos desde la hierba. Lumi dio una vuelta de alegría en el aire. La Fiesta de las Luces era la noche más bonita del año: todas las luciérnagas del bosque se juntaban en el prado y encendían sus luces al mismo tiempo, tantas que el claro parecía un cielo del revés, con la hierba llena de estrellas.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "encendía",
           "sfx": "sparkle"
@@ -46,10 +42,6 @@
         {
           "anchor": "lluvia",
           "ambient": "rain"
-        },
-        {
-          "anchor": "charco",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -95,10 +87,6 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -110,12 +98,6 @@
         {
           "anchor": "rió",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "dorada",
-          "sfx": "magic_shimmer",
-          "music": "strings_hopeful",
-          "delayMs": 600
         }
       ],
       "music": "strings_hopeful"

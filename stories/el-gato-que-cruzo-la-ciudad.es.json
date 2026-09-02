@@ -2,7 +2,7 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 11,
   "title": "Michi y el camión azul",
   "summary": "Michi se sube por curiosidad a un camión azul y despierta al otro lado de la ciudad, muy lejos de la ventana donde siempre lo esperan.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ],
       "ambient": "city_soft"
@@ -28,10 +24,6 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         }
       ],
       "ambient": null
@@ -41,10 +33,6 @@
       "text": "La ciudad hacía un ruido enorme. Bocinas, frenos, una sirena a lo lejos. Michi caminó pegado a las paredes, tratando de hacerse pequeño, hasta que un tarro de basura se cayó cerca con un golpe. Michi saltó tan alto que casi tocó un cartel. Entonces los oyó. Detrás de una reja lo miraban y ladraban con toda su fuerza dos perros. ¡Guau, guau! Michi se metió debajo de un auto y se quedó ahí, temblando, con el corazón haciendo tuc-tuc-tuc en las orejas. —Quiero ir a casa —dijo en voz baja—. Quiero mi manta y a Elena. Esperó un rato largo. Los dos se cansaron de ladrar. La calle se puso más tranquila. Michi sacó primero un bigote, después media nariz, después una pata. El aire olía a humo y a lluvia vieja, pero ya no olía a peligro. Salió despacio y decidió que no se quedaría llorando debajo de un auto.",
       "ambient": "city_soft",
       "cues": [
-        {
-          "anchor": "golpe",
-          "sfx": "thud"
-        },
         {
           "anchor": "perros",
           "sfx": "bark"
@@ -59,10 +47,6 @@
         {
           "anchor": "susurro",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "abeja",
-          "sfx": "bee_buzz"
         }
       ]
     },
@@ -71,10 +55,6 @@
       "text": "El parque grande apareció detrás de una esquina, verde y enorme, como si alguien hubiera guardado un pedazo de campo dentro de la ciudad. Michi entró por debajo de una banca y sintió el pasto fresco en la panza. Ahí el ruido de los autos se quedaba afuera. Se oían pájaros, una pelota, el chirrido de un columpio. Caminó junto a un estanque donde brillaba de color naranja el agua. Desde una piedra lo miró una rana. Le hizo croac, croac, como saludando. Michi le contestó con un maullido corto y siguió. Dos niños quisieron acariciarlo y él los dejó un momento, porque sus manos se parecían a las de Elena. Pero cuando el más pequeño intentó abrazarlo, Michi se soltó con suavidad. No podía quedarse: tenía una casa esperándolo. Al otro lado del parque, entre los árboles, el sol ya se estaba escondiendo. Michi apuró el paso.",
       "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "rana",
           "sfx": "frog_croak"
@@ -86,10 +66,6 @@
       "text": "El mercado era un túnel de olores. Naranjas, cilantro, pescado, pan recién hecho, flores mojadas. Michi caminaba entre canastos y patas de mesa, esquivando zapatos apurados. Alguien barría. Alguien cerraba una persiana de metal. Un carrito pasó salpicándole la cola al chapotear en un charco. Un gato naranja, muy flaco, lo vio desde arriba de unas cajas y maulló. Le preguntaba quién era. —Estoy volviendo a mi casa —le explicó Michi. —Suerte, entonces —dijo el otro, y se hizo a un lado. En ese momento Michi olió algo maravilloso: pescado. Una señora de delantal azul, la del último puesto, se agachó y le dejó un pedazo sobre un papel. —Come, pequeño —le dijo—. Estás muy lejos de tu casa, ¿no? Michi comió todo y se lamió los bigotes. Por primera vez en el día, su barriga estaba contenta. Y la noche empezaba a caer sobre la ciudad.",
       "ambient": "city_soft",
       "cues": [
-        {
-          "anchor": "charco",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "maulló",
           "sfx": "cat_meow"
@@ -104,10 +80,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
         }
       ]
     },
@@ -115,10 +87,6 @@
       "id": "s8",
       "text": "Del otro lado del río, las calles eran más angostas y más calladas. Michi caminó bajo los cables, entre los que asomaban unas estrellas. De pronto se detuvo con una pata en el aire. Cerró los ojos, como le había enseñado la paloma. Y olió. Pan. Pan tibio. Ese pan. Era un hilo de olor muy fino, muy fino, que venía desde la esquina. Michi lo siguió con la nariz levantada y, tres cuadras después, vio algo que conocía: un árbol torcido, una reja verde, un charco donde siempre tomaba agua. ¡Los almendros! ¡Su calle! Entonces corrió. Nunca en su vida había corrido así, con las orejas hacia atrás, saltando el borde de la acera, esquivando una bicicleta, con la cola en alto como una bandera. Pasó la panadería cerrada, pasó el poste de siempre y frenó delante de una puerta pintada de amarillo. Rascó la madera y maulló fuerte, muy fuerte.",
       "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "corrió",
           "sfx": "run_fast"
@@ -143,10 +111,6 @@
       "text": "Después vino el baño más corto de la historia, una toalla que olía a limpio y un cepillado suave. Elena lo llevó a su cuarto y lo puso en el lugar de siempre: a los pies de la cama, sobre la manta de cuadros. Apagó la luz grande y dejó encendida la lámpara del rincón. —Mañana te cuento todo lo que pasó en el colegio —le dijo en voz baja—. Pero ahora dormimos. Michi amasó la manta con sus patas blancas, se hizo un ovillo redondo y respiró. Tres veces hondo, como si guardara la ciudad entera en el pecho y después la soltara. Por la ventana entraba un aire fresco y el canto tranquilo de los grillos. Ya no había camiones, ni rejas, ni puentes. Solo la mano de Elena en su lomo, subiendo y bajando despacio. Y entonces, desde el fondo del pecho de un gato feliz, empezó un ronquido. Michi se quedó profundamente dormido.",
       "ambient": "city_soft",
       "cues": [
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        },
         {
           "anchor": "ronquido",
           "sfx": "snore_soft"

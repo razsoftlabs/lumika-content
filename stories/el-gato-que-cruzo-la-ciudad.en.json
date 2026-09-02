@@ -2,7 +2,7 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
+  "version": 11,
   "title": "Michi and the Blue Truck",
   "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "laugh",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ],
       "ambient": "city_soft"
@@ -28,10 +24,6 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         }
       ],
       "ambient": null
@@ -41,10 +33,6 @@
       "text": "The city made an enormous noise. Horns, brakes, a siren far away. Michi walked close to the walls, trying to make himself small, until a garbage can tipped over nearby with a dry thud. Michi jumped so high he almost touched a sign. That was when he heard them. Behind a fence, staring at him and barking with all their might, were two big dogs. Woof, woof! Michi squeezed under a car and stayed there, trembling, his heart going thump-thump-thump inside his ears. \"I want to go home,\" he said quietly. \"I want my blanket and my Elena.\" He waited a long while. The two of them got tired of barking. The street grew calmer. Michi poked out one whisker first, then half a nose, then a paw. The air smelled of smoke and old rain, but it did not smell of danger anymore. He came out slowly and decided he would not stay crying under a car.",
       "ambient": "city_soft",
       "cues": [
-        {
-          "anchor": "thud",
-          "sfx": "thud"
-        },
         {
           "anchor": "dogs",
           "sfx": "bark"
@@ -59,10 +47,6 @@
         {
           "anchor": "whisper",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "bee",
-          "sfx": "bee_buzz"
         }
       ]
     },
@@ -71,10 +55,6 @@
       "text": "The big park appeared around a corner, green and enormous, as if somebody had tucked a piece of the countryside inside the city. Michi slipped in under a bench and felt the cool grass on his belly. Out there the noise of the cars stayed outside. He could hear birds, a ball, the squeak of a swing. He walked beside a pond where the last of the sunlight lit up the water. On a stone sat a frog. It went croak, croak, as if saying hello. Michi answered with a short meow and went on. Two children wanted to pet him and he let them for a moment, because their hands felt like Elena's hands. But when the smaller one tried to hug him, Michi slipped away gently. He could not stay: he had a home waiting for him. On the other side of the park, between the trees, the sun was already hiding. Michi walked faster.",
       "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "frog",
           "sfx": "frog_croak"
@@ -86,10 +66,6 @@
       "text": "The market was a tunnel of smells. Oranges, cilantro, fish, fresh bread, wet flowers. Michi walked between baskets and table legs, dodging hurried shoes. Someone was sweeping. Someone was closing a metal shutter. A cart rolled by and sprinkled his tail as it splashed through a puddle. An orange cat, very skinny, spotted him from the top of some boxes and meowed. He wanted to know who this stranger was. \"I'm on my way back home,\" Michi explained. \"Good luck, then,\" said the other cat, and moved aside. Just then Michi smelled something wonderful: fish. A lady in a blue apron, the one at the very last stall, crouched down and left him a piece on a scrap of paper. \"Eat, little one,\" she said. \"You're a long way from home, aren't you?\" Michi ate it all and licked his whiskers. For the first time all day his tummy was happy. And night was beginning to fall over the city.",
       "ambient": "city_soft",
       "cues": [
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "meowed",
           "sfx": "cat_meow"
@@ -104,10 +80,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
         }
       ]
     },
@@ -115,10 +87,6 @@
       "id": "s8",
       "text": "On the other side of the river the streets were narrower and quieter. Michi walked beneath the cables, and between them peeked a few stars. Suddenly he stopped with one paw in the air. He closed his eyes, the way the pigeon had taught him. And he smelled. Bread. Warm bread. That bread. It was a thin, thin thread of smell coming from the corner. Michi followed it with his nose in the air and, three blocks later, he saw something he knew: a crooked tree, a green fence, a small puddle where he always stopped to drink. The almond trees! His street! Then he ran. Never in his life had he run like that, ears back, jumping the edge of the sidewalk, dodging a bicycle, his tail up like a flag. He passed the closed bakery, passed the same old lamppost and braked in front of a door painted yellow. He scratched the wood and meowed loudly, very loudly.",
       "cues": [
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "ran",
           "sfx": "run_fast"
@@ -143,10 +111,6 @@
       "text": "Then came the shortest bath in history, a towel that smelled of clean, and a soft brushing. Elena carried him to her room and put him in the usual spot: at the foot of the bed, on the checkered blanket. She turned off the big light and left the corner lamp on. \"Tomorrow I'll tell you everything that happened at school,\" she said quietly. \"But now we sleep.\" Michi kneaded the blanket with his white paws, curled into a round ball and breathed. Three deep breaths, as if he were keeping the whole city in his chest and then letting it go. Cool air came in through the window, along with the calm song of the crickets. There were no more trucks, no fences, no bridges. Only Elena's hand on his back, going up and down, slowly. And then, from deep inside the chest of a happy cat, came a small snore. Michi fell fast asleep.",
       "ambient": "city_soft",
       "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        },
         {
           "anchor": "snore",
           "sfx": "snore_soft"

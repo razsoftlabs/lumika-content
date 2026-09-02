@@ -2,7 +2,7 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Misión a la luna de hielo",
   "summary": "Una niña astronauta y su robot viajan hasta una luna de hielo para averiguar de dónde viene un sonido lejano y suavísimo.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "La última noche antes del viaje, Lía cenó en su casa. Su abuela hizo sopa y no habló mucho, pero le apretó la mano fuerte cuando le sirvió el plato. Su papá le regaló una foto pequeña de los tres, del tamaño de una galleta, para que la llevara en el bolsillo del traje. Su mamá le puso el gorro de lana y le dijo al oído: 'Escucha bien, mi amor, y vuelve'. Al amanecer caminaron juntos hasta la plataforma. El aire de la madrugada olía a metal frío y a café. Lía subió una escalera larguísima. Para no pensar en el hueco que sentía en la barriga, fue contando uno por uno todos sus pasos. Arriba la esperaba la nave, blanca y enorme como una torre. Se abrazó con su familia una vez, dos veces, tres. Después entró y, detrás de ella, se cerró la puerta. Sonó redonda y suave, como cuando se guarda un secreto en una caja de madera. Chispa encendió su luz azul.",
       "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "puerta",
           "sfx": "door_open"
@@ -43,10 +35,6 @@
         {
           "anchor": "cohete",
           "sfx": "rocket"
-        },
-        {
-          "anchor": "trueno",
-          "sfx": "thunder"
         }
       ],
       "ambient": null
@@ -81,10 +69,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
         }
       ],
       "music": "strings_hopeful"
@@ -94,10 +78,6 @@
       "text": "Bajar no fue fácil. Cristal no tiene aire para frenar, así que hubo que frenar con los motores, y el suelo estaba lleno de grietas y de bultos de hielo. Lía se agarró de los brazos de su silla. 'Zona uno: demasiadas grietas', dijo Chispa. 'Zona dos: montañas. Zona tres... podría servir.' 'Vamos a la tres.' Con un silbido largo bajó de costado la nave. Después se enderezó y quedó flotando unos segundos sobre una llanura brillante. El polvo de hielo se levantó en una nube blanca que tapó las ventanillas. Entonces las patas tocaron el suelo con un golpe. Todo saltó dentro de la cabina: ¡pum! Después, silencio. Lía se soltó las correas con los dedos temblorosos y miró a su robot. '¿Estamos enteros?' 'Estamos enteros', contestó Chispa. 'Y aterrizamos un poco torcidos.' Lía se rió, aliviada. Afuera, el hielo la esperaba, quieto y azul.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "nave",
-          "sfx": "rocket"
-        },
         {
           "anchor": "golpe",
           "sfx": "thud"
@@ -130,12 +110,7 @@
       "id": "s10",
       "text": "Lía abrió la mochila y sacó la caja de herramientas. Los guantes eran gordos y las manos le temblaban, así que lo primero que hizo fue arrodillarse en el hielo y quedarse muy quieta hasta que los dedos le hicieran caso. 'Bueno, Chispa', dijo en voz alta, para no sentirse tan sola. 'Vamos a ver qué te pasa.' Abrió la tapa de la espalda del robot. Adentro, una pieza estaba cubierta de escarcha, blanca como el azúcar. La limpió con un paño, con muchísimo cuidado, soplando lo que no se podía tocar. Le puso una manta térmica alrededor, apretó dos tornillos que el frío había aflojado y cambió la batería pequeña por la de repuesto que llevaba en el bolsillo, junto a la foto. Contó hasta diez y la luz azul se encendió despacio, como una estrella. 'Repor... reportando', dijo Chispa. 'Estoy bien. Gracias, Lía.' Ella apoyó la frente en el casco del robot, sonriendo dentro del suyo.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "estrella",
-          "sfx": "sparkle"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s11",
@@ -156,10 +131,6 @@
         {
           "anchor": "ballena",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
         }
       ],
       "music": "harp_dreams"
@@ -180,10 +151,6 @@
       "text": "Volver fue mucho más tranquilo. Cerraron todo, subieron a la nave y el despegue de Cristal fue apenas un empujón suave, porque esa luna pequeña casi no tira hacia abajo. Por la ventanilla, el hielo azul se fue haciendo pequeño hasta parecer una perla en un mar negro. Durante el viaje de regreso, Lía escuchó la grabación todos los días. Les puso nombre a las voces: la que Siempre Contesta, la Grave y la Campana. Y escribió en su cuaderno, con letra grande: 'Hay un océano lleno de canciones. No lo molestamos.' La última noche antes de llegar, se metió en su bolsa de dormir con la memoria de la grabación apretada contra el pecho, como se abraza un peluche. Dejó las voces sonando muy suave. Afuera, la Tierra crecía despacio, azul y tibia, y su casa la esperaba en algún punto de esa canica. Lía sonrió, se acomodó, se abrazó a una canción que nadie había escuchado antes y se durmió.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "Campana",
-          "sfx": "bell_soft"
-        },
         {
           "anchor": "durmió",
           "sfx": "snore_soft"

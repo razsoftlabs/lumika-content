@@ -2,7 +2,7 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "Este invierno no duermo",
   "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -38,10 +34,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
-        {
           "anchor": "crujido",
           "sfx": "crunch"
         }
@@ -55,11 +47,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle",
-          "delayMs": 500
         }
       ]
     },
@@ -71,10 +58,6 @@
         {
           "anchor": "golpe",
           "sfx": "thud"
-        },
-        {
-          "anchor": "risas",
-          "sfx": "giggle"
         }
       ]
     },
@@ -86,10 +69,6 @@
         {
           "anchor": "buho",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "id": "la-luciernaga-que-perdio-su-luz",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 10,
   "title": "Lumi Won't Light Up",
   "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "In the heart of the forest, where the ferns grow tall and the moss is soft as a pillow, there lived a tiny firefly named Lumi. Every night, when the sky turned purple, out between the branches peeked the moon. Then Lumi lit up her little light and flew in circles above the stream. Her light was golden and warm, the color of honey when the sun shines through it. That night the whole forest smelled of wet earth and elderflowers, and everyone was talking about the same thing. \"Only three nights until the Festival of Lights!\" sang the crickets from the grass. Lumi spun a happy loop in the air. The Festival of Lights was the loveliest night of the year: every firefly in the forest gathered in the meadow and lit up all at the same time, so many that the clearing looked like a sky turned upside down, with the grass full of flying stars.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "lit up",
           "sfx": "sparkle"
@@ -46,10 +42,6 @@
         {
           "anchor": "rain",
           "ambient": "rain"
-        },
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -95,10 +87,6 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -110,12 +98,6 @@
         {
           "anchor": "laughed",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "golden",
-          "sfx": "magic_shimmer",
-          "music": "strings_hopeful",
-          "delayMs": 600
         }
       ],
       "music": "strings_hopeful"

@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Midnight Library",
   "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still.",
   "scenes": [
@@ -34,10 +34,6 @@
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
         }
@@ -51,10 +47,6 @@
         {
           "anchor": "chime",
           "sfx": "bell_soft"
-        },
-        {
-          "anchor": "sparks",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -76,10 +68,6 @@
         {
           "anchor": "flutter",
           "sfx": "wing_flap"
-        },
-        {
-          "anchor": "pages",
-          "sfx": "leaves_rustle"
         }
       ],
       "ambient": "rain"
@@ -91,10 +79,6 @@
         {
           "anchor": "whisper",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "bells",
-          "sfx": "bell_soft"
         }
       ],
       "ambient": "rain"
@@ -127,10 +111,6 @@
       "text": "'And how was it supposed to end?' asked Quietbeard, sitting down on the floor with a groan. 'I don't know,' said Lira. 'I never read it. I only know that on the other side of the sea there is an island with a lighthouse, and in that lighthouse my brother is waiting for me. He lights the lamp every night so I know which way to go.' Tomás closed his eyes and could almost hear it: the salty air, the slow movement of the waves. And far away, underneath everything, the song of a whale. 'Then we have to reach that lighthouse,' he said. 'It can't be done,' murmured Lira. 'Without pages there is no road. A character cannot walk where nothing is written.' Sparkler curled around her feet, as if to warm them. Nadia jumped up, tightened her backpack and said in her captain voice: 'Then we look for those pages. Right now, until they turn up.'",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "waves",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "whale",
           "sfx": "whale_song"
@@ -178,10 +158,6 @@
         {
           "anchor": "star",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "flying",
-          "sfx": "wing_flap"
         }
       ],
       "music": "strings_hopeful"

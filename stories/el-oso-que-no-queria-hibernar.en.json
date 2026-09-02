@@ -2,7 +2,7 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "Not Sleeping This Winter",
   "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -38,10 +34,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        },
-        {
           "anchor": "crunch",
           "sfx": "crunch"
         }
@@ -55,11 +47,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle",
-          "delayMs": 500
         }
       ]
     },
@@ -71,10 +58,6 @@
         {
           "anchor": "thud",
           "sfx": "thud"
-        },
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
         }
       ]
     },
@@ -86,10 +69,6 @@
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
         }
       ]
     },

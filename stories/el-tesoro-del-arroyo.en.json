@@ -2,7 +2,7 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Treasure by the Stream",
   "summary": "On a rainy day, three siblings find a map their grandpa drew by hand, and at dawn they set out into the forest to discover what the X beside the stream is hiding.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "It had been raining since morning, and the rain drew little paths down the window. Mateo, Nina, and Beto had already played everything: hide-and-seek, guessing shapes in the grey clouds. There was nothing left to invent. 'We are so bored,' Nina sighed, with her cheek resting against the glass. Mum smiled as she folded the laundry and pointed at the ceiling with her chin. 'If you want something new, there are boxes up in the attic that nobody has opened in years.' The eyes of all three siblings lit up. They climbed the narrow staircase, one behind the other, and the wood repeated like a drum every one of their footsteps. At the top, Mateo leaned in his shoulder and pushed the door. It opened slowly, with one long groan, and let out a smell of old paper, stored wool, and faraway rain. Beto held on to his sister's T-shirt. 'Shall we go in?' he whispered. 'We are going in,' said Mateo.",
       "ambient": "rain",
       "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "door",
           "sfx": "door_open"
@@ -29,10 +25,6 @@
         {
           "anchor": "creak",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
         }
       ]
     },
@@ -41,10 +33,6 @@
       "text": "They unfolded the paper on the floor very carefully, as if it were a butterfly. It was not a map from a shop: it was drawn by hand, with a worn pencil and some colour. There were crooked pines, a bridge made of logs, and a blue line winding along: a stream. And at the end, next to one big tree, a red X and, right beside it, a star. Underneath, in large letters, it said: 'For whoever has a brave heart. Ramon, 9 years old.' 'That is Grandpa's handwriting!' said Mateo, and his voice turned into a whisper. 'Grandpa hid a treasure when he was a boy.' Nina slid her finger along the blue line. 'That is the Singing Stream. It is behind the forest. Dad took us there once.' Beto looked at the X very seriously, with enormous eyes, and said the biggest idea of his life: 'What if we go and find it? Tomorrow.'",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "whisper",
           "sfx": "whisper"
@@ -55,10 +43,6 @@
       "id": "s4",
       "text": "That night, when the house went quiet, the three of them gathered in Mateo's room with a torch shining under the sheet. They packed three backpacks like real explorers: bread, three apples, a bottle of water, a ball of string, and Grandpa's map folded neatly into the front pocket. Beto also packed his cloth rabbit, because an explorer never leaves anybody behind. Onto the pillow climbed Nube, the house cat. He gave a tiny meow, as if asking where they were going. 'It is a secret,' Nina told him, scratching his head. 'Tomorrow we will tell you everything.' Mateo put the alarm clock under his pillow so it would ring softly and not wake anyone else. 'We leave at dawn,' he said. Before lying down, Beto closed his eyes and breathed. He did it deeply, very deeply, and climbed into bed with his boots beside him. He could hardly sleep from the excitement.",
       "cues": [
-        {
-          "anchor": "cat",
-          "sfx": "cat_meow"
-        },
         {
           "anchor": "breathed",
           "sfx": "breathe_in"
@@ -83,10 +67,6 @@
       "ambient": "stream_water",
       "cues": [
         {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        },
-        {
           "anchor": "water",
           "sfx": "water_splash"
         }
@@ -100,10 +80,6 @@
         {
           "anchor": "frog",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "bee",
-          "sfx": "bee_buzz"
         }
       ]
     },
@@ -157,10 +133,6 @@
       "text": "And there stood the tree from the drawing: an enormous oak, with a trunk as wide as a table and a mark in the bark, an old X that the tree had slowly been hugging for years and years. 'This is the one,' said Nina, and she got goosebumps. They dug with what they had: a spoon from the backpack, two strong sticks, and their hands. The soil was damp and smelled of roots and mushrooms. They worked in turns, puffing and laughing, with muddy knees. After a while, Mateo's stick hit something hard and from deep in the soil came a thud. It was dry and different from everything else. 'Did you hear that?' They dug faster. A corner appeared, then a rusty edge, then a whole lid. It was a tin box the size of a book. Mateo lifted it up with both hands and, as if it were yawning after a very long nap, the tin creaked.",
       "cues": [
         {
-          "anchor": "thud",
-          "sfx": "thud"
-        },
-        {
           "anchor": "creaked",
           "sfx": "crunch"
         }
@@ -195,10 +167,6 @@
       "text": "That night, after the bath and the soup, the three of them lay down with their cheeks warm from sun and adventure. The tin box stayed open on the bedside table, with the blue marble on top of everything. Through the window, round and calm, came the moon. Its silver light drew a little path on the floor. 'I thought the treasure was going to be coins,' said Beto, in a voice heavy with sleep. 'This was better,' said Nina. 'It was Grandpa when he was a boy.' Mateo thought for a little while and then said the last true thing of the day: 'The treasure was the whole day. And the three of us.' Nube, the cat, settled at the foot of the bed and began to purr slowly. Outside, very far away, the stream went on singing its same old song. And before that light reached the wall, all three were already fast asleep.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

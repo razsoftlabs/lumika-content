@@ -10,7 +10,7 @@
   "stories": [
     {
       "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 9,
+      "version": 10,
       "locales": [
         "es",
         "en"
@@ -896,7 +896,7 @@
     },
     {
       "id": "el-dinosaurio-que-guardaba-un-huevo",
-      "version": 6,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -1066,7 +1066,7 @@
     },
     {
       "id": "el-faro-que-guiaba-ballenas",
-      "version": 6,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -1109,7 +1109,7 @@
     },
     {
       "id": "el-gato-que-cruzo-la-ciudad",
-      "version": 10,
+      "version": 11,
       "locales": [
         "es",
         "en"
@@ -1152,7 +1152,7 @@
     },
     {
       "id": "el-jardin-secreto-de-la-abuela",
-      "version": 8,
+      "version": 9,
       "locales": [
         "es",
         "en"
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "el-oso-que-no-queria-hibernar",
-      "version": 8,
+      "version": 9,
       "locales": [
         "es",
         "en"
@@ -1456,7 +1456,7 @@
     },
     {
       "id": "el-tesoro-del-arroyo",
-      "version": 6,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -1585,7 +1585,7 @@
     },
     {
       "id": "la-biblioteca-de-medianoche",
-      "version": 7,
+      "version": 8,
       "locales": [
         "es",
         "en"
@@ -1671,7 +1671,7 @@
     },
     {
       "id": "la-carrera-de-los-farolillos",
-      "version": 5,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -1927,7 +1927,7 @@
     },
     {
       "id": "la-noche-que-nevo-en-el-desierto",
-      "version": 6,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -2011,7 +2011,7 @@
     },
     {
       "id": "la-princesa-ingeniera",
-      "version": 8,
+      "version": 9,
       "locales": [
         "es",
         "en"
@@ -2185,7 +2185,7 @@
     },
     {
       "id": "mision-a-la-luna-de-hielo",
-      "version": 5,
+      "version": 6,
       "locales": [
         "es",
         "en"

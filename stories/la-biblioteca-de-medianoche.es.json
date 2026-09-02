@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "La biblioteca de medianoche",
   "summary": "Tomás se queda encerrado sin querer en la biblioteca del pueblo y descubre que, cuando el reloj da las doce, los libros no se quedan quietos.",
   "scenes": [
@@ -34,10 +34,6 @@
       "ambient": "rain",
       "cues": [
         {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
         }
@@ -51,10 +47,6 @@
         {
           "anchor": "campanada",
           "sfx": "bell_soft"
-        },
-        {
-          "anchor": "chispas",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -76,10 +68,6 @@
         {
           "anchor": "aleteo",
           "sfx": "wing_flap"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ],
       "ambient": "rain"
@@ -91,10 +79,6 @@
         {
           "anchor": "susurro",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "campanas",
-          "sfx": "bell_soft"
         }
       ],
       "ambient": "rain"
@@ -106,10 +90,6 @@
         {
           "anchor": "crujido",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "páginas",
-          "sfx": "page_turn"
         }
       ],
       "ambient": null
@@ -131,10 +111,6 @@
       "text": "—¿Y cómo iba a terminar? —preguntó Barbaquieta, sentándose en el suelo con un quejido. —No lo sé —dijo Lira—. Nunca lo leí. Solo sé que del otro lado del mar hay una isla con un faro, y que en ese faro me está esperando mi hermano. Él prende la luz cada noche para que yo sepa por dónde ir. Tomás cerró los ojos y casi pudo escucharlo: el aire salado, el movimiento lento de las olas. Y muy lejos, debajo de todo, el canto de una ballena. —Entonces hay que llegar a ese faro —dijo. —No se puede —murmuró Lira—. Sin páginas no hay camino. Un personaje no puede caminar donde no hay nada escrito. Fósforo se le enroscó en los pies, como para calentárselos. Nadia se levantó de golpe, se ajustó la mochila y dijo con voz de capitana: —Entonces buscamos esas páginas. Ahora mismo, y hasta que aparezcan.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "olas",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "ballena",
           "sfx": "whale_song"
@@ -182,10 +158,6 @@
         {
           "anchor": "estrella",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "volando",
-          "sfx": "wing_flap"
         }
       ],
       "music": "strings_hopeful"

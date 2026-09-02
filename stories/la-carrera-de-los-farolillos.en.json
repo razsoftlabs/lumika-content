@@ -2,7 +2,7 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The Lantern Race",
   "summary": "In a mountain village, two rival friends climb the path with their paper lanterns, not knowing that tonight the race is going to change its rules.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
         }
       ]
     },
@@ -29,11 +25,6 @@
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle",
-          "delayMs": 200
         }
       ]
     },
@@ -44,10 +35,6 @@
         {
           "anchor": "door",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
         }
       ],
       "ambient": "fireplace"
@@ -58,13 +45,8 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "crunch",
-          "sfx": "crunch"
-        },
-        {
           "anchor": "owl",
-          "sfx": "owl_hoot",
-          "delayMs": 300
+          "sfx": "owl_hoot"
         }
       ]
     },
@@ -76,10 +58,6 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
         }
       ]
     },
@@ -102,11 +80,6 @@
         {
           "anchor": "gust",
           "sfx": "wind_high"
-        },
-        {
-          "anchor": "thud",
-          "sfx": "thud",
-          "delayMs": 250
         }
       ],
       "music": "gentle_piano"
@@ -119,11 +92,6 @@
         {
           "anchor": "breathed",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak",
-          "delayMs": 300
         }
       ]
     },

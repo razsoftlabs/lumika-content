@@ -2,7 +2,7 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "La noche que nevó en el desierto",
   "summary": "En un pueblo donde nunca ha nevado, Amira sueña con ver la nieve de verdad… y una tarde de invierno el viento cambia de lado.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "viento",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "perro",
-          "sfx": "bark"
         }
       ]
     },
@@ -26,10 +22,6 @@
       "text": "—Abuelo —dijo esa noche—, ¿la nieve es fría de verdad?\nEl abuelo Simón estaba en su silla de madera, abanicándose con el sombrero. Arriba, el cielo tenía colgada una moneda de plata que era la luna. Alrededor del farol daban vueltas las mariposas de la noche. En el poste del corral abría y cerraba los ojos, muy despacio, una lechuza.\n—Fría como un vaso de agua del aljibe —dijo el abuelo—. Fría y blanda al mismo tiempo. Y cuando la aprietas en la mano, cruje.\nAmira se sentó en el suelo de tierra, abrazando sus rodillas.\n—¿Y tú cómo sabes, abuelo? Si aquí nunca nieva.\nEl abuelo se quedó callado un rato largo, ese rato en que las personas mayores buscan un recuerdo que tienen muy guardado.\n—Porque aquí nevó una vez —dijo despacio—. Hace cien años. Y mi abuela estaba ahí.",
       "ambient": null,
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "lechuza",
           "sfx": "owl_hoot"
@@ -51,10 +43,6 @@
       "id": "s4",
       "text": "Al día siguiente, Amira sacó sus lápices y se puso a dibujar la nevada de hace cien años.\nDibujó el pueblo visto desde arriba: la iglesia, el aljibe, los techos, la panadería de doña Rosalía. Después pintó todo de blanco con un lápiz gastado, apretando fuerte, sacándole punta con un cuchillo cada vez que se rompía. Puso puntos blancos en el aire. Muchos. Cientos. Miles. El lápiz blanco quedó del tamaño de un frijol.\nEl gato de la casa se llamaba Higo. Se subió a la mesa y se sentó justo encima del dibujo, como hacen siempre los gatos.\n—Quítate, Higo —le dijo Amira riéndose—. Estás sentado en la plaza.\nEsa noche pegó el dibujo en la pared, al lado de la ventana. Antes de dormirse le habló como se les habla a las cosas importantes, en un susurro:\n—Algún día voy a verte de verdad.",
       "cues": [
-        {
-          "anchor": "gatos",
-          "sfx": "cat_meow"
-        },
         {
           "anchor": "susurro",
           "sfx": "whisper"
@@ -101,10 +89,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "brillo",
           "sfx": "sparkle"
         }
@@ -114,10 +98,6 @@
       "id": "s9",
       "text": "Amira salió corriendo de su cuarto, descalza.\n—¡Abuelo! ¡Abuelo, abuelo, ABUELO!\nPor todo el pasillo sonaron sus pasos. Eran tan rápidos que parecían muchos más pies de los que ella tenía. Con las dos manos golpeó la puerta. Se abrió, y ahí estaba él, con el pelo blanco todo despeinado y los ojos pequeños de sueño.\n—¿Qué pasa, mi niña?\n—¡Está cayendo! ¡Del cielo! ¡Blanco!\nEl abuelo no preguntó nada más. Se puso las botas sin medias, agarró la manta de su cama y salió detrás de ella. Amira despertó a su mamá, despertó a su papá, despertó a su hermano pequeño que dormía con la boca abierta, y hasta despertó a Canela, que ya estaba bien despierto.\n—¡Todos afuera! —gritaba—. ¡Todos afuera, ya!\nY la familia entera, en pijama y con los ojos pegados, salió al patio a mirar el cielo.",
       "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "puerta",
           "sfx": "door_open"
@@ -132,10 +112,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "puertas",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "risas",
           "sfx": "giggle"
         }
@@ -146,10 +122,6 @@
       "text": "Lo que pasó después, Amira no lo olvidó nunca.\nEl pueblo entero se puso a jugar de madrugada. Por el medio de la calle, dejando huellas y volviendo a pisarlas, los niños salieron corriendo. Debajo de los zapatos, con un ruido nuevo y perfecto, la nieve crujía. Cric, cric, cric.\nAmira aprendió esa noche que la nieve se puede atrapar con la lengua, que se derrite en la mano y deja la palma mojada, y que si le soplas se vuela.\nSu papá hizo una bola blanda y se la lanzó al hermano pequeño, que se quedó muy serio un segundo y después se rio tanto que se cayó sentado.\nEl maestro bajó en pantuflas. La señora del correo bailó sola. Alguien puso música desde una ventana.\nY el abuelo, que casi nunca corría, cruzó la plaza a la carrera solo para dejar huellas.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "corriendo",
-          "sfx": "run_fast"
-        },
         {
           "anchor": "crujía",
           "sfx": "crunch"
@@ -165,10 +137,6 @@
         {
           "anchor": "golpe",
           "sfx": "thud"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },

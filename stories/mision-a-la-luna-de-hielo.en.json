@@ -2,7 +2,7 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Mission to the Ice Moon",
   "summary": "A young astronaut and her robot travel all the way to an ice moon to find out where a faraway, very gentle sound is coming from.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
         }
       ]
     },
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "On the last night before the trip, Lía had dinner at home. Her grandma made soup and did not say very much, but she squeezed Lía's hand tight when she served her plate. Her dad gave her a small photo of the three of them, the size of a cookie, so she could carry it in the pocket of her suit. Her mom put the wool hat on her head and said into her ear: 'Listen carefully, my love, and come back.' At sunrise they all walked together to the launch pad. The early morning air smelled like cold metal and coffee. Lía climbed a very long stairway. So she would not think about the hollow feeling in her tummy, she counted her steps. The ship was waiting up there, white and enormous as a tower. She hugged her family once, twice, three times. Then she went in, and behind her came the round, soft sound of a closing door. It was like a secret being tucked into a wooden box. Chispa switched on his blue light.",
       "cues": [
-        {
-          "anchor": "steps",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "door",
           "sfx": "door_open"
@@ -43,10 +35,6 @@
         {
           "anchor": "rocket",
           "sfx": "rocket"
-        },
-        {
-          "anchor": "thunder",
-          "sfx": "thunder"
         }
       ],
       "ambient": null
@@ -81,10 +69,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
         }
       ],
       "music": "strings_hopeful"
@@ -94,10 +78,6 @@
       "text": "Going down was not easy. Cristal has no air to slow you down, so they had to brake with the engines alone, and the ground was full of cracks and lumps of ice. Lía held on to the arms of her seat. 'Zone one: too many cracks,' said Chispa. 'Zone two: mountains. Zone three... could work.' 'Let us take zone three.' With a long whistle, down sideways came the ship. Then it straightened up and hovered a few seconds above a shiny plain. Ice dust rose in a white cloud that covered the windows. Then the legs touched the ground with a dry thump. Everything jumped inside the cabin: bang! After that, silence. Lía unbuckled her straps with trembling fingers and looked at her robot. 'Are we all in one piece?' 'We are all in one piece,' Chispa answered. 'And we landed a little bit crooked.' Lía chuckled quietly, relieved. Outside, the ice was waiting for her, still and blue.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "ship",
-          "sfx": "rocket"
-        },
         {
           "anchor": "thump",
           "sfx": "thud"
@@ -112,10 +92,6 @@
         {
           "anchor": "crunch",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -134,12 +110,7 @@
       "id": "s10",
       "text": "Lía opened her backpack and took out the toolbox. Her gloves were thick and her hands were shaking, so the first thing she did was kneel down on the ice and keep very still until her fingers agreed to obey her. 'All right, Chispa,' she said out loud, so she would not feel so alone. 'Let us see what is wrong with you.' She opened the little lid on the robot's back. Inside, a small part was covered in frost, white as sugar. She cleaned it with a cloth, very carefully, blowing on what she could not touch. She wrapped a thermal blanket around him, tightened two screws the cold had loosened, and changed the small battery for the spare one she carried in her pocket, next to the photo. She counted to ten, and the blue light came on slowly, like a star. 'Repor... reporting,' said Chispa. 'I am fine. Thank you, Lía.' She leaned her helmet against his, smiling inside her own.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s11",
@@ -160,10 +131,6 @@
         {
           "anchor": "whale",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
         }
       ],
       "music": "harp_dreams"
@@ -184,10 +151,6 @@
       "text": "Coming home was much calmer. They closed everything up, climbed into the ship, and lifting off from Cristal was barely a soft push, because that small moon hardly pulls you down at all. Through the window, the blue ice grew smaller and smaller until it looked like a pearl in a black sea. During the trip back, Lía listened to the recording every single day. She gave the voices names: the One Who Always Answers, the Deep One and the Bell. And she wrote in her notebook, in big letters: 'There is an ocean full of songs. We did not disturb it.' On the last night before arriving, she climbed into her sleeping bag with the memory card of the recording held against her chest, the way you hug a teddy bear. She played the voices very quietly. Outside, the Earth was growing slowly, blue and warm, and her house was waiting somewhere on that marble. Lía smiled, settled in, wrapped herself in a song nobody had ever heard before and fell asleep.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "Bell",
-          "sfx": "bell_soft"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

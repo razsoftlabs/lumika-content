@@ -2,7 +2,7 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "El tesoro del arroyo",
   "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa dibujado a mano por su abuelo, y al amanecer salen al bosque a descubrir qué esconde la X junto al arroyo.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "Llovía desde la mañana y la lluvia dibujaba caminos en la ventana. Mateo, Nina y Beto ya habían jugado a todo: a las escondidas, a adivinar formas en las nubes grises. Ya no quedaba nada por inventar. 'Estamos aburridísimos', suspiró Nina, con la mejilla apoyada en el cristal. Mamá sonrió mientras doblaba la ropa y señaló el techo con la barbilla. 'Si buscan algo nuevo, en el desván hay cajas que nadie abre desde hace años'. A los tres hermanos les brillaron los ojos. Subieron la escalera angosta, uno detrás del otro, y la madera repitió como un tambor cada uno de sus pasos. Arriba, Mateo apoyó el hombro y empujó la puerta. Se abrió despacio, con un quejido largo, y dejó escapar un olor a papel viejo, a lana guardada y a lluvia lejana. Beto se agarró de la camiseta de su hermana. '¿Entramos?', susurró. 'Entramos', dijo Mateo.",
       "ambient": "rain",
       "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "puerta",
           "sfx": "door_open"
@@ -38,10 +34,6 @@
       "ambient": "stream_water",
       "cues": [
         {
-          "anchor": "estrella",
-          "sfx": "sparkle"
-        },
-        {
           "anchor": "susurro",
           "sfx": "whisper"
         }
@@ -51,10 +43,6 @@
       "id": "s4",
       "text": "Esa noche, cuando la casa se quedó en silencio, los tres se juntaron en el cuarto de Mateo con la linterna encendida debajo de la sábana. Prepararon tres mochilas como exploradores de verdad: pan, tres manzanas, una cantimplora de agua, un ovillo de cordel y el mapa del abuelo bien doblado en el bolsillo de adelante. Beto guardó también su conejo de trapo, porque un explorador no deja a nadie atrás. En la almohada se subió a vigilarlos Nube, el gato. Maulló apenas, como preguntando adónde iban. 'Es un secreto', le dijo Nina rascándole la cabeza. 'Mañana te contamos todo'. Mateo puso el despertador debajo de la almohada, para que sonara suave y no despertara a nadie más. 'Salimos al amanecer', dijo. Antes de acostarse, Beto cerró los ojos y respiró. Lo hizo hondo, muy hondo, y se metió en la cama con las botas al lado. Casi no pudo dormir de la emoción.",
       "cues": [
-        {
-          "anchor": "gato",
-          "sfx": "cat_meow"
-        },
         {
           "anchor": "respiró",
           "sfx": "breathe_in"
@@ -92,10 +80,6 @@
         {
           "anchor": "rana",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "abeja",
-          "sfx": "bee_buzz"
         }
       ]
     },
@@ -149,10 +133,6 @@
       "text": "Y ahí estaba el árbol del dibujo: un roble enorme, con el tronco tan ancho como una mesa y una marca en la corteza, una X vieja que el árbol había ido abrazando con los años. 'Es este', dijo Nina, y se le puso la piel de gallina. Cavaron con lo que tenían: una cuchara de la mochila, dos palos fuertes y las manos. La tierra estaba húmeda y olía a raíces y a hongos. Trabajaron por turnos, soplando y riendo, con las rodillas embarradas. Al rato, el palo de Mateo pegó contra algo duro y del fondo de la tierra llegó un golpe. Fue seco y distinto a todo lo demás. '¿Escucharon eso?'. Cavaron más rápido. Apareció una esquina, después un borde oxidado, después una tapa entera. Era una caja de lata del tamaño de un libro. Mateo la levantó con las dos manos y, como si bostezara después de una siesta larguísima, la lata crujió.",
       "cues": [
         {
-          "anchor": "golpe",
-          "sfx": "thud"
-        },
-        {
           "anchor": "crujió",
           "sfx": "crunch"
         }
@@ -187,10 +167,6 @@
       "text": "Esa noche, después del baño y de la sopa, los tres se acostaron con las mejillas tibias de sol y de aventura. La caja de lata quedó abierta en la mesa de noche, con la canica azul arriba de todo. Por la ventana, redonda y tranquila, entraba la luna. Su luz plateada dibujaba un camino en el piso. 'Yo pensaba que el tesoro iban a ser monedas', dijo Beto, con la voz pesada de sueño. 'Esto fue mejor', dijo Nina. 'Era el abuelo cuando era niño'. Mateo pensó un rato y dijo la última verdad del día: 'El tesoro fue el día entero. Y nosotros tres'. Nube, el gato, se acomodó a los pies de la cama y empezó a ronronear despacio. Afuera, muy lejos, el arroyo seguía cantando su canción de siempre. Y antes de que esa luz llegara a la pared, los tres ya estaban dormidos.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "dormidos",
           "sfx": "snore_soft"

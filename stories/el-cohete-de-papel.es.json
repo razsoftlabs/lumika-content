@@ -2,7 +2,7 @@
   "id": "el-cohete-de-papel",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "El cohete de papel",
   "summary": "Dani construye un cohete de papel y vuela hasta una estrella amarilla.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "luna",
           "sfx": "twinkle"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "Fiummm",
           "sfx": "rocket"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s3",
@@ -42,7 +44,9 @@
           "anchor": "risa",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "space_dream"
     },
     {
       "id": "s4",
@@ -56,7 +60,8 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": null
     }
   ]
 }

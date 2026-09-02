@@ -2,7 +2,7 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Despacio se vuela mejor",
   "summary": "Un dragón nervioso aprende que con calma todo se logra.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "chispas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "Plof",
           "sfx": "thud"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s3",
@@ -46,7 +48,8 @@
           "anchor": "respira",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s4",
@@ -60,7 +63,9 @@
           "anchor": "carcajada",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "meadow_day",
+      "music": "strings_hopeful"
     }
   ]
 }

@@ -82,6 +82,9 @@ function auditar(ruta) {
     const donde = s.id ?? `escena ${i + 1}`;
     const texto = s.text ?? '';
 
+    // `null` es una decision: aqui se calla el ambiente a proposito (el espacio,
+    // un sueno, un silencio). Distinto de no poner el campo, que es un olvido.
+    if (s.ambient === null) conAmbiente++;
     if (s.ambient) {
       conAmbiente++;
       ambientes.add(s.ambient);
@@ -156,7 +159,7 @@ function auditar(ruta) {
       `${escenas.length - conAmbiente} de ${escenas.length} escenas sin ambiente`,
     );
 
-  if (escenas.length >= 4 && ambientes.size === 1)
+  if (escenas.length >= 4 && ambientes.size === 1 && !escenas.some((s) => s.ambient === null))
     añade('aviso', 'ambiente-plano', `${escenas.length} escenas y un solo ambiente: nunca cambia de sitio`);
 
   if (escenas.length >= 4 && cambiaMusica === 0)

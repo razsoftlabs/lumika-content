@@ -2,7 +2,7 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Slow Is How You Fly",
   "summary": "A nervous little dragon learns that with calm, anything is possible.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "sparks",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "Splat",
           "sfx": "thud"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s3",
@@ -46,7 +48,8 @@
           "anchor": "breathe",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "meadow_day"
     },
     {
       "id": "s4",
@@ -60,7 +63,9 @@
           "anchor": "laugh",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "meadow_day",
+      "music": "strings_hopeful"
     }
   ]
 }

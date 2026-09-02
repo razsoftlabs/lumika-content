@@ -2,7 +2,7 @@
   "id": "el-cohete-de-papel",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The paper rocket",
   "summary": "Dani builds a paper rocket and flies all the way to a yellow star.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "moon",
           "sfx": "twinkle"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "Whoosh",
           "sfx": "rocket"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s3",
@@ -42,7 +44,9 @@
           "anchor": "laughter",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "space_dream"
     },
     {
       "id": "s4",
@@ -56,7 +60,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": null
     }
   ]
 }

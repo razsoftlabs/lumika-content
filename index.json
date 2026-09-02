@@ -10,7 +10,7 @@
   "stories": [
     {
       "id": "lumi-trae-la-noche",
-      "version": 1,
+      "version": 3,
       "locales": [
         "es",
         "en"
@@ -24,12 +24,12 @@
         "naturaleza"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "playful_flute",
       "tags": [
         "luciernaga",
-        "dormir",
+        "aventura",
+        "animales",
         "sonidos",
-        "noche",
         "lumi"
       ],
       "premium": false,
@@ -151,7 +151,7 @@
     },
     {
       "id": "el-dragon-que-olvidaba-volar",
-      "version": 5,
+      "version": 6,
       "locales": [
         "es",
         "en"
@@ -170,7 +170,7 @@
         "mitos"
       ],
       "mood": "valores",
-      "music": "strings_hopeful",
+      "music": "gentle_piano",
       "tags": [
         "dragón",
         "paciencia",
@@ -242,7 +242,7 @@
     },
     {
       "id": "el-cohete-de-papel",
-      "version": 7,
+      "version": 8,
       "locales": [
         "es",
         "en"
@@ -509,7 +509,7 @@
     },
     {
       "id": "astronauta-en-pijama",
-      "version": 6,
+      "version": 7,
       "locales": [
         "es",
         "en"
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "el-monstruo-amistoso-de-la-cama",
-      "version": 7,
+      "version": 8,
       "locales": [
         "es",
         "en"
@@ -1841,7 +1841,7 @@
     },
     {
       "id": "la-nave-de-caramelo",
-      "version": 6,
+      "version": 7,
       "locales": [
         "es",
         "en"

@@ -1,63 +1,52 @@
 {
   "id": "lumi-trae-la-noche",
-  "version": 1,
-  "title": "Lumi Brings the Night",
-  "summary": "Nico cannot fall asleep. Lumi does not tell him a story: she takes him to three places.",
+  "schemaVersion": 1,
+  "locale": "en",
+  "version": 3,
+  "title": "The Night Lumi Came",
+  "summary": "Lumi does not tell stories: she takes you places. A forest, a river of stepping stones, and a white horse to get home.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Nico had already put on his pyjamas, already brushed his teeth and already been given his goodnight kiss. But his eyes would not close. Outside, the city was still awake. A car. Another car. A motorbike going past somewhere far away. Nico pulled the blanket up to his nose and counted to a hundred. He got to a hundred and was just as awake as before. \"I can't,\" he said quietly, to nobody.",
+      "text": "Nico was not sleepy. He had put on his pyjamas, he had brushed his teeth, and there he still was, staring at the ceiling. Outside, the city was making its usual noises: a car, another car, a motorbike far away.\n\nThen something very small landed on the window. It was a firefly the size of a grape, with a warm golden belly.\n\n\"My name is Lumi,\" she said. \"I don't tell stories. I take you places.\"\n\nAnd to say hello, she opened her wings.",
       "ambient": "city_soft",
-      "cues": []
+      "cues": [{ "anchor": "wings", "sfx": "wing_flap" }]
     },
     {
       "id": "s2",
-      "text": "Then something very small landed on the window. It was a firefly the size of a grape, with a warm golden belly. She opened her wings once, the way you wave hello, and her light painted the whole room the colour of honey. \"My name is Lumi,\" she said. \"I come to houses where somebody can't sleep.\" \"Are you going to tell me a story?\" asked Nico. \"No,\" said Lumi. \"I'm going to take you places.\"",
-      "ambient": null,
-      "cues": [
-        {
-          "anchor": "wings",
-          "sfx": "wing_flap"
-        }
-      ]
+      "text": "Nico never worked out how it happened. One blink, and he was not in his room any more: he was standing on dry leaves, and the trees were so tall you could not see where they ended.\n\n\"First stop,\" said Lumi, and her light grew a little bigger. \"Here you don't look. Here you listen.\"\n\nNico stood very still. High above, through the topmost branches, came the wind.",
+      "ambient": "forest_night",
+      "cues": [{ "anchor": "wind", "sfx": "wind_soft" }]
     },
     {
       "id": "s3",
-      "text": "Lumi settled on the pillow, right beside his ear. \"Close your eyes. Are they closed? Good. Now listen.\" And Nico listened. At first nothing, the same old city. But then, very slowly, a fine rain began to fall on a tin roof. Plip. Plip-plip. Plip. It was not the city. It was somewhere else. Nico did not know where, but it smelled of wet earth.",
-      "ambient": null,
+      "text": "They walked until the ground turned soft and cold. Ahead of them, cutting straight across the path, ran a river.\n\nIn the middle of the water sat flat stones, one after another, like the buttons on a shirt.\n\n\"You cross it hopping,\" said Lumi. \"Stone to stone, no running.\"\n\nNico took a breath, aimed at the first one, and made the jump.",
       "cues": [
-        {
-          "anchor": "rain",
-          "ambient": "rain"
-        }
+        { "anchor": "river", "ambient": "stream_water" },
+        { "anchor": "jump", "sfx": "water_splash" }
       ]
     },
     {
       "id": "s4",
-      "text": "\"Shall we go to another one?\" whispered Lumi. Nico nodded without opening his eyes. And the rain fell away behind them, and in its place came the sea. One long wave rising. And falling. And rising again, in no hurry at all, as if it had the whole night ahead of it. Nico felt the bed rock a little, and his shoulders let go.",
-      "ambient": null,
+      "text": "On the other side the grass came up to his knees and smelled of freshly cut green.\n\nSomething hopped close to his feet and went perfectly still, watching him with two round and very serious eyes: it was a frog.\n\nFurther off, circling a yellow flower and paying attention to nobody, a bee was busy working.",
+      "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "sea",
-          "ambient": "ocean_waves"
-        }
+        { "anchor": "frog", "sfx": "frog_croak" },
+        { "anchor": "bee", "sfx": "bee_buzz" }
       ]
     },
     {
       "id": "s5",
-      "text": "The last place was an open meadow at night, with tall cool grass. There was nothing there but crickets: hundreds of them, far away, all at once, like a blanket made of sound. \"This one is my favourite,\" said Lumi, and her light went softer. \"This is where I stay.\" Nico did not answer. He had fallen asleep with half a smile. Lumi turned her little light down slowly, so as not to wake him, and stayed a while at the window, looking after the meadow.",
-      "ambient": null,
-      "cues": [
-        {
-          "anchor": "crickets",
-          "ambient": "meadow_night"
-        },
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft",
-          "delayMs": 400
-        }
-      ]
+      "text": "\"It's getting late,\" said Lumi. \"But walking back would be terribly boring.\"\n\nOut of the tall grass stepped a white horse, so calm that it looked as though it had been waiting for them for a while.\n\nNico climbed up, took a good hold of the mane, and then began the gallop.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "gallop", "sfx": "horse_gallop" }]
+    },
+    {
+      "id": "s6",
+      "text": "The horse left them right under the window and trotted away without making a sound.\n\nUp there, on the highest branch, somebody was watching them without blinking even once: an owl.\n\n\"See you tomorrow,\" said Lumi, and her light faded slowly, like a good candle.\n\nNico climbed into bed. Now he was sleepy.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "owl", "sfx": "owl_hoot" }]
     }
   ]
 }

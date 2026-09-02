@@ -2,7 +2,7 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "El monstruo amistoso de la cama",
   "summary": "Cuando Iván oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "viento",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -28,7 +29,8 @@
           "anchor": "susurro",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s3",
@@ -42,7 +44,8 @@
           "anchor": "rieron",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s4",
@@ -52,7 +55,9 @@
           "anchor": "estrellas",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "city_soft",
+      "music": "music_box"
     },
     {
       "id": "s5",
@@ -62,7 +67,9 @@
           "anchor": "respiraron",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "city_soft",
+      "music": "lullaby_piano"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Friendly Monster Under the Bed",
   "summary": "When Iván hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "wind",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -28,7 +29,8 @@
           "anchor": "whisper",
           "sfx": "whisper"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s3",
@@ -42,7 +44,8 @@
           "anchor": "laughed",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s4",
@@ -52,7 +55,9 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": "city_soft",
+      "music": "music_box"
     },
     {
       "id": "s5",
@@ -62,7 +67,9 @@
           "anchor": "breathed",
           "sfx": "breathe_in"
         }
-      ]
+      ],
+      "ambient": "city_soft",
+      "music": "lullaby_piano"
     }
   ]
 }

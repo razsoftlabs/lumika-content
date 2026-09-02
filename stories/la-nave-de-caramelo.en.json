@@ -2,7 +2,7 @@
   "id": "la-nave-de-caramelo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Candy Rocket",
   "summary": "Three friends blast off in a ship made of cookies and candy, and up in space they find a little star who needs their help.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "laughter",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -32,7 +33,8 @@
           "anchor": "stars",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s3",
@@ -46,7 +48,9 @@
           "anchor": "star",
           "sfx": "sparkle"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "gentle_piano"
     },
     {
       "id": "s4",
@@ -60,7 +64,9 @@
           "anchor": "laugh",
           "sfx": "giggle"
         }
-      ]
+      ],
+      "ambient": null,
+      "music": "marimba_playful"
     },
     {
       "id": "s5",
@@ -74,7 +80,9 @@
           "anchor": "asleep",
           "sfx": "snore_soft"
         }
-      ]
+      ],
+      "ambient": "city_soft",
+      "music": "lullaby_piano"
     }
   ]
 }

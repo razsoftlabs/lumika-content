@@ -2,7 +2,7 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Astronaut in Pajamas",
   "summary": "When the house goes quiet, Vera's bed turns into a rocket bound for the moon.",
   "scenes": [
@@ -18,7 +18,8 @@
           "anchor": "breeze",
           "sfx": "wind_soft"
         }
-      ]
+      ],
+      "ambient": "city_soft"
     },
     {
       "id": "s2",
@@ -33,7 +34,8 @@
           "sfx": "sparkle",
           "delayMs": 200
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s3",
@@ -44,7 +46,8 @@
           "sfx": "footsteps",
           "delayMs": 150
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s4",
@@ -55,7 +58,8 @@
           "sfx": "giggle",
           "delayMs": 200
         }
-      ]
+      ],
+      "ambient": null
     },
     {
       "id": "s5",
@@ -66,7 +70,9 @@
           "sfx": "breathe_in",
           "delayMs": 300
         }
-      ]
+      ],
+      "ambient": "city_soft",
+      "music": "lullaby_piano"
     }
   ]
 }

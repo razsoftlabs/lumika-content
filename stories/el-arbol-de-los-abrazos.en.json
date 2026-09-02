@@ -2,7 +2,7 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 10,
   "title": "The Hugging Tree",
   "summary": "A very old, lonely tree in the park holds the tenderest secret in the world among its branches.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -50,10 +46,6 @@
       "ambient": "forest_birds",
       "cues": [
         {
-          "anchor": "water",
-          "sfx": "water_splash"
-        },
-        {
           "anchor": "owl",
           "sfx": "owl_hoot"
         }
@@ -64,10 +56,6 @@
       "text": "That night, between the branches peeked the moon. It bathed the tree in silver light. The children were already sleeping in their beds, and the tree watched over them from afar, moving its branches like a lullaby. 'Good night, little ones,' it whispered. It knew that tomorrow they would come to hug it again. The wind blew slowly and the tree closed its wooden eyes, calm and happy. It would never be alone again. And under that silver light, the whole park rested in peace. You sleep too, for tomorrow there are hugs waiting.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "whispered",
           "sfx": "whisper"

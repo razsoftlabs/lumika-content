@@ -2,7 +2,7 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Drop Goes Looking for the Sea",
   "summary": "A little raindrop dreams of being as big as the sea and sets off on a journey to find out.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -28,11 +24,8 @@
       "cues": [
         {
           "anchor": "splashed",
-          "sfx": "water_splash"
-        },
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
+          "sfx": "water_splash",
+          "ambient": "stream_water"
         }
       ]
     },
@@ -41,10 +34,6 @@
       "text": "The stream grew into a river, wide and calm. There were more and more drops: they came from the rain, from the snow, from other rivers far away. The little drop was no longer alone. Over the water, hunting for flowers, flew a bee. She waved at them with her tiny wings and went on her way. The drops told each other jokes and filled the river with laughter. “We are so many,” thought the little drop, “but we are still one single thing.” And that idea, so simple and so big, filled her with warmth as the river carried her lovingly onward.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "bee",
-          "sfx": "bee_buzz"
-        },
         {
           "anchor": "laughter",
           "sfx": "giggle"
@@ -56,10 +45,6 @@
       "text": "And then, rounding a bend, the river opened up... and there it was. The sea. Huge, blue, shining as far as her eyes could reach. The sea welcomed her with a great wave. It lifted her into the air and let her fall among foam and bubbles. “I made it!” cried the little drop, “I am the sea!”. From deep below came the long, gentle song of a whale. The little drop looked all around: millions of drops just like her rocked together, forming something so big it could not fit in a single glance. She was not the sea all by herself. She was the sea, together with all the others.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "wave",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "whale",
           "sfx": "whale_song"
@@ -73,12 +58,8 @@
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
-        {
           "anchor": "stars",
-          "sfx": "sparkle"
+          "sfx": "twinkle"
         }
       ],
       "music": "harp_dreams"

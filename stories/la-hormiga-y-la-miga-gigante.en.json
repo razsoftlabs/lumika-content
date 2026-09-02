@@ -2,7 +2,7 @@
   "id": "la-hormiga-y-la-miga-gigante",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The ant and the giant crumb",
   "summary": "Lupe the little ant finds a crumb as big as her house and is sure she can carry it all by herself.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "breeze",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -29,10 +25,6 @@
         {
           "anchor": "plop",
           "sfx": "thud"
-        },
-        {
-          "anchor": "bee",
-          "sfx": "bee_buzz"
         }
       ]
     },
@@ -43,10 +35,6 @@
         {
           "anchor": "puddle",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
         }
       ],
       "ambient": "forest_birds"
@@ -57,11 +45,8 @@
       "cues": [
         {
           "anchor": "footsteps",
-          "sfx": "footsteps"
-        },
-        {
-          "anchor": "laughed",
-          "sfx": "giggle"
+          "sfx": "footsteps",
+          "delayMs": 300
         }
       ],
       "ambient": "forest_birds",

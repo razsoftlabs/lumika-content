@@ -2,7 +2,7 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Kiko camina a su manera",
   "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "En una playa dorada vivía un cangrejo pequeño llamado Kiko. Tenía el caparazón del color de una naranja y dos pinzas que movía todo el tiempo. Delante de su casa iban y venían, cantando sin parar, las olas. Esa tarde, entre sus antenas, jugaba un viento. Kiko miró a sus vecinos. La tortuga caminaba hacia adelante, despacio. Los pájaros de la orilla trotaban hacia adelante, muy derechos. Pero Kiko, cada vez que daba un paso, se iba para el lado. ¡Siempre de lado! 'Qué raro soy', pensó, mirándose las patas. 'Yo también quiero caminar derecho, como todos los demás.'",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "olas",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "viento",
           "sfx": "wind_soft"
@@ -71,10 +67,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "music": "marimba_playful"

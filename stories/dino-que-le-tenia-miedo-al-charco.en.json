@@ -2,7 +2,7 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "Such a Huge Puddle!",
   "summary": "The biggest dinosaur in the whole valley is terrified of the tiniest thing you can imagine.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "dinosaur",
           "sfx": "dino_step"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -26,10 +22,6 @@
       "text": "To avoid getting close to the puddle, Rocco did very funny things. He took the longest way around the valley. He walked on tiptoe, slowly, glancing sideways. One day, trying to dodge it, he made such a clumsy hop that he sat right on top of a bush. His crest was ruffled by a puff of wind. The birds watching him let out a giggle. \"Hee, hee, hee,\" they sang among the branches. Rocco turned red all the way to the tip of his tail. \"I'm not scared!\", he said loudly. But the moment the puddle shone again, he ran off and hid behind a rock. An enormous dinosaur, hiding from something so small.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "giggle",
           "sfx": "giggle"
@@ -44,10 +36,6 @@
         {
           "anchor": "frog",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -75,10 +63,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

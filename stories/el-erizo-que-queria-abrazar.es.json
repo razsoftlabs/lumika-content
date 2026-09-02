@@ -2,7 +2,7 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Abrazos con cuidado",
   "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "En lo más hondo del bosque vivía un erizo pequeño que se llamaba Espín, y cada noche lo acompañaba desde el cielo la luna. Tenía el corazón más grande y tierno de todo el bosque. Caminaba despacio, y bajo sus patas crujían las hojas. Cris, cras, cris. Espín quería muchísimo a todos sus amigos. Jugaba con ellos, les contaba chistes y los acompañaba a casa. Pero cada noche soñaba con algo que todavía no lograba hacer. Espín quería dar un abrazo. Un abrazo de verdad, apretado y tibio, como los que se dan cuando uno quiere mucho a alguien.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
@@ -26,10 +22,6 @@
       "text": "Esa noche, junto al agua, Espín encontró a su amiga la rana. \"¡Qué ganas tengo de abrazarte!\", dijo, y abrió los brazos bien grandes. Corrió hacia ella feliz, con los ojos brillando. Pero apenas se acercó, sus espinas se pusieron de punta y... ¡pincharon un poco! Su amiga dio un brinco enorme y cayó de espaldas en un charco. \"¡Uy, Espín, pinchas sin querer!\", se rió ella, chorreando agua. Espín se quedó quieto, con las orejas gachas. Él no quería pinchar a nadie. Solo quería abrazar.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
-        },
         {
           "anchor": "charco",
           "sfx": "water_splash"
@@ -44,10 +36,6 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -72,10 +60,6 @@
       "text": "Esa noche, todos los amigos se juntaron alrededor de Espín. La rana, el búho y hasta un conejo se acurrucaron contra sus espinas blandas, tibias como una manta. Entre las ramas cantaba una nana muy suave el viento. Espín repartió abrazos, uno para cada uno, y un beso de nariz para terminar. Poco a poco, todos fueron cerrando los ojos. Y allí, juntos bajo la luna, se quedaron dormidos. Porque el abrazo más lindo no es el más fuerte... es el más tierno. Que duermas bien, pequeño. Buenas noches.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "dormidos",
           "sfx": "snore_soft"

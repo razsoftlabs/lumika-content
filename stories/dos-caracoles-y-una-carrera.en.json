@@ -2,7 +2,7 @@
   "id": "dos-caracoles-y-una-carrera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Two Snails and a Race",
   "summary": "Two snail friends challenge each other to the slowest race in the garden and discover a prize far better than crossing the finish line.",
   "scenes": [
@@ -25,10 +25,6 @@
         {
           "anchor": "bee",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -36,10 +32,6 @@
       "id": "s3",
       "text": "Halfway there they found a puddle. It was small and round like a mirror. At its edge, watching them with big eyes, sat a frog. She greeted them with a friendly croak. \"Look, Cala,\" whispered Lito, \"the sky is reflected in the water.\" The two snails stayed still, watching the clouds float inside the puddle. They forgot about the race for a little while. \"This is nicer than winning,\" said Cala. And Lito, very quietly, agreed.",
       "cues": [
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "frog",
           "sfx": "frog_croak"
@@ -67,10 +59,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

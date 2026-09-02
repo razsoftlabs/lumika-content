@@ -2,7 +2,7 @@
   "id": "el-osito-y-la-tormenta",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "El osito y la tormenta",
   "summary": "Una noche de truenos asusta al osito Nilo, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón.",
   "scenes": [
@@ -13,7 +13,8 @@
       "cues": [
         {
           "anchor": "trueno",
-          "sfx": "thunder"
+          "sfx": "thunder",
+          "delayMs": 600
         }
       ]
     },
@@ -56,10 +57,6 @@
       "text": "Y entonces, sin darse cuenta, la tormenta pasó. Mamá Osa asomó la cabeza fuera de la cueva. —Mira, Nilo —le dijo en voz baja. El cielo estaba limpio y, una a una, se encendieron las estrellas. Parecían luces amigas. Una luna redonda alumbraba el bosque mojado y todo estaba en calma. Nilo tomó aire hondo una última vez y sonrió. Ya no tenía miedo. Acurrucado en los brazos tibios de mamá, con los ojos pesados, dejó que el sueño lo abrazara. —Buenas noches, mi valiente —susurró Mamá Osa. Y así, tranquilo, hasta la mañana siguiente, el osito Nilo se quedó dormido.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "dormido",
           "sfx": "snore_soft"

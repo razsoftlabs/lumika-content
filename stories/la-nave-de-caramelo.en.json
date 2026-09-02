@@ -2,7 +2,7 @@
   "id": "la-nave-de-caramelo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Candy Rocket",
   "summary": "Three friends blast off in a ship made of cookies and candy, and up in space they find a little star who needs their help.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "Noa, Tomi, and Sami were three friends who dreamed of flying. They spent one whole Sunday building a spaceship made of candy and cookies. They put it together with lots of patience and lots of laughter. The walls were chocolate, the windows were sugar, and the buttons were colorful candies. When everything was ready, the three friends climbed inside, hugged each other tight, and counted to three. The ship smelled of warm vanilla. Outside, the moon was waiting for them.",
       "cues": [
-        {
-          "anchor": "cookies",
-          "sfx": "crunch"
-        },
         {
           "anchor": "laughter",
           "sfx": "giggle"
@@ -28,10 +24,6 @@
         {
           "anchor": "rocket",
           "sfx": "rocket"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "ambient": null
@@ -42,11 +34,7 @@
       "cues": [
         {
           "anchor": "comet",
-          "sfx": "wing_flap"
-        },
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
+          "sfx": "whoosh"
         }
       ],
       "ambient": null,
@@ -59,10 +47,6 @@
         {
           "anchor": "cookie",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
         }
       ],
       "ambient": null,
@@ -72,10 +56,6 @@
       "id": "s5",
       "text": "It was time to go back home. The grateful star flew ahead of the ship to light the way back. They drifted down slowly through the clouds, with sleepy eyes and happy hearts. Noa, Tomi, and Sami snuggled up together and yawned a great big yawn. “Good night, little star,” they whispered. From the sky, she twinkled with a soft glow, as if saying good night too. And dreaming of new candy journeys, the three friends fell asleep.",
       "cues": [
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

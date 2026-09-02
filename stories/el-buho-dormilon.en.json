@@ -2,7 +2,7 @@
   "id": "el-buho-dormilon",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Sleepy Little Owl",
   "summary": "A little owl isn't sleepy at night, and his mama teaches him a very gentle secret for waiting until morning.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "High in an old tree lived a small owl named Uli. Every night, when the forest grew quiet, up into the sky climbed the moon. Then all the animals closed their eyes, but Uli opened his very wide. 'I'm not sleepy!' he said, flapping his wings. Through the leaves of the tree slipped a soft wind. It tickled his feathers, and Uli wanted to play, he wanted to fly, he wanted to count every star in the sky. His mama watched him tenderly from the branch beside him and smiled slowly.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "wind",
           "sfx": "wind_soft"
@@ -29,10 +25,6 @@
         {
           "anchor": "frog",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
         }
       ]
     },
@@ -59,7 +51,7 @@
       "cues": [
         {
           "anchor": "stars",
-          "sfx": "sparkle"
+          "sfx": "twinkle"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "id": "el-conejo-que-perdio-su-brinco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 10,
   "title": "Where Did Pipo's Hop Go?",
   "summary": "One morning, Pipo the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "door",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -28,10 +24,6 @@
         {
           "anchor": "buzz",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "steps",
-          "sfx": "footsteps"
         }
       ],
       "ambient": "meadow_day"
@@ -57,10 +49,6 @@
       "ambient": "meadow_day",
       "cues": [
         {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        },
-        {
           "anchor": "wind",
           "sfx": "wind_soft"
         }
@@ -75,10 +63,6 @@
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

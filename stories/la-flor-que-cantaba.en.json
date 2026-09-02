@@ -2,7 +2,7 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "A Voice in the Garden",
   "summary": "A little flower far too shy to sing hides a voice the whole garden just might need to hear.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -29,10 +25,6 @@
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -42,12 +34,12 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "breathed",
+          "sfx": "breathe_in"
         }
       ]
     },
@@ -59,10 +51,6 @@
         {
           "anchor": "magic",
           "sfx": "magic_shimmer"
-        },
-        {
-          "anchor": "bees",
-          "sfx": "bee_buzz"
         }
       ],
       "music": "harp_dreams"
@@ -72,10 +60,6 @@
       "text": "When the sun finished peeking out, the whole garden was awake and glowing. Grateful, all the flowers giggled. They gave a little bow to Lila, who was not shy anymore: she had discovered that her song was a gift. The owl, content, closed his eyes to sleep. As it went by, the wind left her a whisper: 'You did beautifully.' And so, every dawn, Lila sang to wake her friends with tenderness. Now close your eyes, sweet one. Maybe, if you listen with your heart, you'll hear a little flower singing very softly, helping the whole world bloom while you dream.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "giggled",
-          "sfx": "giggle"
-        },
         {
           "anchor": "whisper",
           "sfx": "whisper"

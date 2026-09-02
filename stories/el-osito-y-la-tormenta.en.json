@@ -2,7 +2,7 @@
   "id": "el-osito-y-la-tormenta",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "The Little Bear and the Storm",
   "summary": "A night full of thunder frightens little Nilo the bear, until Mama Bear teaches him a secret trick to calm his heart.",
   "scenes": [
@@ -13,7 +13,8 @@
       "cues": [
         {
           "anchor": "thunder",
-          "sfx": "thunder"
+          "sfx": "thunder",
+          "delayMs": 600
         }
       ]
     },
@@ -56,10 +57,6 @@
       "text": "And then, without noticing, the storm passed. Mama Bear poked her head out of the cave. 'Look, Nilo,' she said softly. The sky was clear and, one by one, out came the stars. They looked like friendly little lights. A round moon lit up the wet forest, and everything was calm. Nilo took a deep breath one last time and smiled. He was not scared anymore. Curled up in his mama's warm arms, with heavy eyes, he let sleep wrap around him. 'Good night, my brave one,' whispered Mama Bear. And so, peaceful, until the next morning, little Nilo fell asleep.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

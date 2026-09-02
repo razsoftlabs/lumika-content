@@ -2,7 +2,7 @@
   "id": "el-caballito-de-mar-perdido",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The Lost Little Seahorse",
   "summary": "When some playful bubbles carry him far from home, a little seahorse discovers that the ocean is full of friends ready to help.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "bubbles",
           "sfx": "bubbles"
-        },
-        {
-          "anchor": "waves",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -40,10 +36,6 @@
         {
           "anchor": "whale",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
         }
       ],
       "music": "strings_hopeful"
@@ -53,10 +45,6 @@
       "text": "As the giant swam, the sky above the sea turned orange and then deep blue. One by one, the stars began to peek out, and the sea filled with light. \"Look!\" said Marino. \"From my home I can see that star.\" The giant stopped beside a familiar reef. In the distance, among the soft shadows, Marino spotted a pink coral swaying with the current. Marino felt a happy little leap inside his heart. \"It's here! I'm almost home!\"",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
@@ -69,13 +57,8 @@
       "ambient": "underwater",
       "cues": [
         {
-          "anchor": "whispered",
-          "sfx": "whisper"
-        },
-        {
           "anchor": "asleep",
-          "sfx": "snore_soft",
-          "delayMs": 600
+          "sfx": "snore_soft"
         }
       ],
       "music": "guitar_warm"

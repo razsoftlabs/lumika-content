@@ -2,7 +2,7 @@
   "id": "la-hormiga-y-la-miga-gigante",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "La hormiga y la miga gigante",
   "summary": "Lupe la hormiguita encuentra una miga tan grande como su casa y está segura de que puede llevarla ella sola.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "brisa",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -29,10 +25,6 @@
         {
           "anchor": "plof",
           "sfx": "thud"
-        },
-        {
-          "anchor": "abeja",
-          "sfx": "bee_buzz"
         }
       ]
     },
@@ -43,10 +35,6 @@
         {
           "anchor": "charco",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
         }
       ],
       "ambient": "forest_birds"
@@ -57,11 +45,8 @@
       "cues": [
         {
           "anchor": "pasos",
-          "sfx": "footsteps"
-        },
-        {
-          "anchor": "rió",
-          "sfx": "giggle"
+          "sfx": "footsteps",
+          "delayMs": 300
         }
       ],
       "ambient": "forest_birds",

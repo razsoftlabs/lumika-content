@@ -2,7 +2,7 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 9,
+  "version": 10,
   "title": "El árbol de los abrazos",
   "summary": "Un árbol viejo y solo del parque guarda entre sus ramas el secreto más tierno del mundo.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "viento",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -50,10 +46,6 @@
       "ambient": "forest_birds",
       "cues": [
         {
-          "anchor": "agua",
-          "sfx": "water_splash"
-        },
-        {
           "anchor": "búho",
           "sfx": "owl_hoot"
         }
@@ -64,10 +56,6 @@
       "text": "Esa noche, entre las ramas asomó la luna. Bañó al árbol con su luz plateada. Los niños ya dormían en sus camas, y el árbol los cuidaba desde lejos, moviendo sus ramas como una nana. 'Buenas noches, pequeños', susurró. Sabía que mañana volverían a abrazarlo. El viento sopló despacio y el árbol cerró sus ojos de madera, tranquilo y feliz. Ya nunca más estaría solo. Y bajo la luz plateada, todo el parque descansó en paz. Duerme tú también, que mañana hay abrazos esperando.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "susurró",
           "sfx": "whisper"

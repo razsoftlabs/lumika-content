@@ -2,7 +2,7 @@
   "id": "el-caballito-de-mar-perdido",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "El caballito de mar perdido",
   "summary": "Cuando unas burbujas juguetonas lo alejan de casa, un caballito de mar descubre que el océano está lleno de amigos dispuestos a ayudar.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
-        },
-        {
-          "anchor": "olas",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -40,10 +36,6 @@
         {
           "anchor": "ballena",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
         }
       ],
       "music": "strings_hopeful"
@@ -53,10 +45,6 @@
       "text": "Mientras la gigante nadaba, el cielo sobre el mar se pintó de naranja y luego de azul oscuro. Una a una, las estrellas comenzaron a asomarse, y el mar se llenó de luces. —¡Mira! —dijo Marino—. Desde mi casa se ve esa estrella. La gigante se detuvo junto a un arrecife conocido. A lo lejos, entre las sombras suaves, Marino distinguió un coral rosado que se mecía con la corriente. De alegría, le dio un salto el corazón. —¡Es aquí! ¡Ya casi llego a casa!",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "estrella",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
@@ -69,13 +57,8 @@
       "ambient": "underwater",
       "cues": [
         {
-          "anchor": "susurró",
-          "sfx": "whisper"
-        },
-        {
           "anchor": "dormido",
-          "sfx": "snore_soft",
-          "delayMs": 600
+          "sfx": "snore_soft"
         }
       ],
       "music": "guitar_warm"

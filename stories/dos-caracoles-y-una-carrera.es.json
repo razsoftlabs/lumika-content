@@ -2,7 +2,7 @@
   "id": "dos-caracoles-y-una-carrera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Dos caracoles y una carrera",
   "summary": "Dos caracoles amigos se retan a la carrera más lenta del jardín y descubren un premio mucho mejor que cruzar la meta.",
   "scenes": [
@@ -25,10 +25,6 @@
         {
           "anchor": "abeja",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -36,10 +32,6 @@
       "id": "s3",
       "text": "A mitad de camino encontraron un charco. Era pequeño y redondo como un espejo. En el borde los miró con ojos grandes una rana. Los saludó con un croac amable. —Mira, Cala —susurró Lito—, el cielo se refleja en el agua. Los dos caracoles se quedaron quietos, mirando las nubes flotar dentro del charco. Se olvidaron de la carrera un rato. —Esto es más bonito que ganar —dijo Cala. Y Lito, en voz muy baja, estuvo de acuerdo.",
       "cues": [
-        {
-          "anchor": "charco",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "rana",
           "sfx": "frog_croak"
@@ -67,10 +59,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

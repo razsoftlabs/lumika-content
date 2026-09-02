@@ -2,7 +2,7 @@
   "id": "el-conejo-que-perdio-su-brinco",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 9,
+  "version": 10,
   "title": "¿Dónde está el brinco de Pipo?",
   "summary": "Una mañana, Pipo el conejo despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -28,10 +24,6 @@
         {
           "anchor": "zumbido",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ],
       "ambient": "meadow_day"
@@ -57,10 +49,6 @@
       "ambient": "meadow_day",
       "cues": [
         {
-          "anchor": "risa",
-          "sfx": "giggle"
-        },
-        {
           "anchor": "viento",
           "sfx": "wind_soft"
         }
@@ -75,10 +63,6 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

@@ -2,7 +2,7 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "El león cosquilloso",
   "summary": "El rey de la sabana guarda un secreto muy divertido que aparece justo cuando intenta rugir.",
   "scenes": [
@@ -35,10 +35,6 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "abeja",
-          "sfx": "bee_buzz"
         }
       ],
       "ambient": "meadow_day"
@@ -50,10 +46,6 @@
         {
           "anchor": "carcajada",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ],
       "ambient": "meadow_day"
@@ -63,10 +55,6 @@
       "text": "Leo abrió los ojos y vio a sus amigos riendo con él, no de él. 'Tu risa es más linda que cualquier rugido', dijo Mona. 'Despiertas la sabana con alegría'. Leo sonrió, y por primera vez no sintió vergüenza. Poco a poco el sol se escondió y salieron las estrellas. Brillaban como chispas de plata. Los cuatro amigos se acurrucaron juntos sobre la hierba tibia, bostezando despacio. Y uno tras otro, bajo el cielo y con una sonrisa en la cara, se quedaron dormidos. Esa noche, la sabana durmió feliz, mecida por el eco suave de las risas del día.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "dormidos",
           "sfx": "snore_soft"

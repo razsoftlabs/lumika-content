@@ -2,7 +2,7 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "The Good Little Witch",
   "summary": "Every one of Aura's spells comes out backwards, and her cat Bigotes never knows who they'll end up helping.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "cat",
           "sfx": "cat_meow"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -26,10 +22,6 @@
       "text": "That afternoon, out in the meadow, Aura came across some bees. They were terribly sad: the wind had blown away all the petals, and there were no flowers left to visit. 'Don't cry, I'll help you,' said Aura. She raised her wand to make a jar of honey... but something odd happened to the spell. Instead of honey, a warm, gentle wind blew out of her hat and scattered the seeds Aura kept in her pocket. Wherever a seed landed, pop!, a flower sprang up. Very soon the whole meadow filled with colors, and they buzzed with joy, flying from flower to flower.",
       "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "bees",
-          "sfx": "bee_buzz"
-        },
         {
           "anchor": "spell",
           "sfx": "magic_shimmer"
@@ -47,7 +39,8 @@
         },
         {
           "anchor": "water",
-          "sfx": "water_splash"
+          "sfx": "water_splash",
+          "ambient": "stream_water"
         }
       ]
     },
@@ -62,7 +55,7 @@
         },
         {
           "anchor": "stars",
-          "sfx": "sparkle"
+          "sfx": "twinkle"
         }
       ],
       "music": "harp_dreams"
@@ -75,10 +68,6 @@
         {
           "anchor": "laughter",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
         }
       ],
       "music": "guitar_warm"

@@ -2,7 +2,7 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Careful Hugs",
   "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "Deep in the forest there lived a tiny hedgehog named Spike, and every night he was watched over from the sky by the moon. He had the biggest, most tender heart in the whole forest. He walked slowly, and under his paws crackled the dry leaves. Crick, crack, crick. Spike loved all his friends so very much. He played with them, told them jokes, and walked them home. But every night he dreamed of something he still could not do. Spike wanted to give a hug. A real hug, snug and warm, like the ones you give when you love someone very much.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
@@ -26,10 +22,6 @@
       "text": "That night, beside the water, Spike found his friend the frog. \"I would love to hug you!\" he said, opening his arms wide. He ran toward her happily, his eyes shining. But the moment he came close, his spines stood on end and... they pricked, just a tiny bit! She gave an enormous leap and landed flat in a puddle. \"Oops, Spike, you prickle without meaning to!\" she laughed, dripping with water. Spike stood very still, his ears drooping. He did not want to prickle anyone. He only wanted to hug.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        },
         {
           "anchor": "puddle",
           "sfx": "water_splash"
@@ -44,10 +36,6 @@
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -72,10 +60,6 @@
       "text": "That night, all his friends gathered around Spike. The frog, the owl, and even a little rabbit snuggled against his soft spines, warm as a cozy blanket. Through the branches a very gentle lullaby was sung by the wind. Spike gave out hugs, one for each friend, and a nose-kiss to finish. Little by little, everyone's eyes began to close. And there, all together under the moon, they fell asleep. Because the loveliest hug is not the tightest one... it is the most tender. Sleep well, little one. Good night.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

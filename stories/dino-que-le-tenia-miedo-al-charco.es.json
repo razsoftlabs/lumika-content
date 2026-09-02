@@ -2,7 +2,7 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "¡Un charco enorme!",
   "summary": "El dinosaurio más grande del valle le tiene miedo a la cosa más pequeña que te puedas imaginar.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "dinosaurio",
           "sfx": "dino_step"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -26,10 +22,6 @@
       "text": "Para no acercarse al charco, Rocco hacía cosas muy graciosas. Daba vueltas larguísimas alrededor del valle. Caminaba en puntas de pie, despacio, mirando de reojo. Un día, para esquivarlo, dio un salto tan torpe que se sentó encima de un arbusto. Le despeinó la cresta un soplo de viento. Los pájaros que lo miraban soltaron una risa. \"Ji, ji, ji\", hacían entre las ramas. Rocco se puso colorado hasta la punta de la cola. \"¡No me da miedo!\", dijo bien fuerte. Pero apenas el charco brilló otra vez, salió corriendo y se escondió detrás de una piedra. Un dinosaurio enorme, escondido de algo tan pequeño.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "risa",
           "sfx": "giggle"
@@ -44,10 +36,6 @@
         {
           "anchor": "rana",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -75,10 +63,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

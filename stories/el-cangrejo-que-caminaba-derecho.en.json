@@ -2,7 +2,7 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Kiko Walks His Own Way",
   "summary": "Kiko the little crab wants to walk straight like everyone else, until he discovers that his own way of moving hides a surprise.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "On a golden beach lived a small crab named Kiko. He had a shell the color of an orange and two claws that he wiggled all the time. In front of his house, singing without stopping, came and went the waves. That afternoon, playing between his antennas, was a soft warm wind. Kiko looked at his neighbors. The turtle walked forward, slowly. The shore birds trotted forward, very straight. But Kiko, every time he took a step, went off to the side. Always sideways! 'How strange I am,' he thought, looking at his legs. 'I want to walk straight too, like everyone else.'",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "waves",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "wind",
           "sfx": "wind_soft"
@@ -71,10 +67,6 @@
         {
           "anchor": "laughter",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "music": "marimba_playful"

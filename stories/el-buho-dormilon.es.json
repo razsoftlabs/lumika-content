@@ -2,7 +2,7 @@
   "id": "el-buho-dormilon",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "El búho dormilón",
   "summary": "Un búho pequeño no tiene sueño de noche, y su mamá le enseña un secreto muy suave para esperar la mañana.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "En lo alto de un árbol viejo vivía un búho pequeño llamado Uli. Cada noche, cuando el bosque se quedaba en silencio, subía al cielo la luna. Entonces todos los animales cerraban los ojos, pero Uli abría los suyos muy grandes. —¡No tengo sueño! —decía, moviendo las alas. Entre las hojas del árbol se colaba el viento. Le hacía cosquillas en las plumas, y Uli quería jugar, quería volar, quería contar cada estrella del cielo. Su mamá lo miraba con cariño desde la rama de al lado y sonreía despacio.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "viento",
           "sfx": "wind_soft"
@@ -29,10 +25,6 @@
         {
           "anchor": "rana",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
         }
       ]
     },
@@ -59,7 +51,7 @@
       "cues": [
         {
           "anchor": "estrellas",
-          "sfx": "sparkle"
+          "sfx": "twinkle"
         }
       ]
     },

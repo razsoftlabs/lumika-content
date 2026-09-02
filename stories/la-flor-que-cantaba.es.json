@@ -2,7 +2,7 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Una voz en el jardín",
   "summary": "Una flor demasiado tímida para cantar esconde una voz que quizás el jardín entero necesita escuchar.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -29,10 +25,6 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "estrella",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -42,12 +34,12 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        },
-        {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
+        },
+        {
+          "anchor": "respiró",
+          "sfx": "breathe_in"
         }
       ]
     },
@@ -59,10 +51,6 @@
         {
           "anchor": "magia",
           "sfx": "magic_shimmer"
-        },
-        {
-          "anchor": "abejas",
-          "sfx": "bee_buzz"
         }
       ],
       "music": "harp_dreams"
@@ -72,10 +60,6 @@
       "text": "Cuando el sol terminó de asomarse, el jardín entero estaba despierto y radiante. Agradecidas, todas las flores reían. Le hacían una reverencia a Lila, que ya no era tímida: había descubierto que su canto era un regalo. El búho, contento, cerró los ojos para dormir. Al pasar, el viento le dejó un susurro: 'Lo hiciste precioso.' Y así, cada amanecer, Lila cantaba para despertar a sus amigas con ternura. Ahora cierra los ojos, pequeño. Quizás, si escuchas con el corazón, oirás una florecita cantando muy suave, ayudando al mundo entero a florecer mientras sueñas.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "reían",
-          "sfx": "giggle"
-        },
         {
           "anchor": "susurro",
           "sfx": "whisper"

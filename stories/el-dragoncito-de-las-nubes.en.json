@@ -2,7 +2,7 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 7,
   "title": "The Little Cloud Dragon",
   "summary": "High on the mountain lives a dragon unlike any other: what will come from his mouth when the village needs him most?",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "blew",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "laughed",
-          "sfx": "giggle"
         }
       ]
     },
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "At the foot of the mountain sat a little village of colorful houses. But that day the sun shone very brightly, far too brightly. It was so hot that the flowers bowed their heads and the trees drooped their tired leaves. The children fanned themselves looking for shade. With his tongue hanging out, in a cool corner, down flopped a thirsty puppy. Nobody felt like playing. \"What a scorching day,\" the grandparents sighed from the doors of their houses. The whole village wished for a cool breeze, but the breeze would not come.",
       "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "puppy",
           "sfx": "bark"
@@ -43,10 +35,6 @@
         {
           "anchor": "flew",
           "sfx": "wing_flap"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
         }
       ],
       "ambient": "meadow_day"
@@ -54,15 +42,12 @@
     {
       "id": "s4",
       "text": "When he reached the houses, Nubo took a breath and, with all his might, blew. And out came so many cotton clouds! Big, white and fluffy, they gathered into a soft roof that covered the hot sun. At once, cool and gentle, in came the wind. From the clouds began to fall tiny drops. They were like a tickly drizzle. The heat went away. The children came out to dance and the flowers lifted their heads. And down below, wagging his tail with pure joy, jumped the puppy. \"Thank you, Nubo!\" cried the whole village, laughing under the shade.",
-      "ambient": "rain",
+      "ambient": null,
       "cues": [
         {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
-        {
           "anchor": "drops",
-          "sfx": "water_splash"
+          "sfx": "water_splash",
+          "ambient": "rain"
         }
       ],
       "music": "strings_hopeful"
@@ -75,10 +60,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

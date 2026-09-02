@@ -2,7 +2,7 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 7,
   "title": "El dragoncito de las nubes",
   "summary": "En la montaña vive un dragón muy distinto a los demás: ¿qué saldrá de su boca cuando el pueblo más lo necesite?",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "sopló",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "rió",
-          "sfx": "giggle"
         }
       ]
     },
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Al pie de la montaña había un pueblo de casas de colores. Pero ese día el sol brillaba muy fuerte, demasiado fuerte. Hacía tanto calor que las flores agachaban la cabeza y los árboles dejaban colgar sus hojas. Los niños se abanicaban buscando la sombra. Con la lengua afuera, en un rincón fresco, se echó a descansar un perro. Nadie tenía ganas de jugar. \"Qué día tan caluroso\", suspiraban los abuelos desde la puerta de sus casas. Todo el pueblo deseaba una brisa fresca, pero la brisa no llegaba.",
       "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "perro",
           "sfx": "bark"
@@ -43,10 +35,6 @@
         {
           "anchor": "voló",
           "sfx": "wing_flap"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
         }
       ],
       "ambient": "meadow_day"
@@ -54,15 +42,12 @@
     {
       "id": "s4",
       "text": "Al llegar sobre las casas, Nubo tomó aire y, con todas sus fuerzas, sopló. ¡Y salieron muchísimas nubes de algodón! Grandes, blancas y esponjosas, se juntaron formando un techo suave que tapó el sol caliente. Enseguida, fresco y suave, llegó el viento. De las nubes empezaron a caer gotas. Eran diminutas, como una llovizna de cosquillas. El calor se fue. Los niños salieron a bailar y las flores levantaron la cabeza. Y allá abajo, moviendo la cola de pura alegría, saltaba el perro. \"¡Gracias, Nubo!\", gritó todo el pueblo, riendo bajo la sombra.",
-      "ambient": "rain",
+      "ambient": null,
       "cues": [
         {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
-        {
           "anchor": "gotas",
-          "sfx": "water_splash"
+          "sfx": "water_splash",
+          "ambient": "rain"
         }
       ],
       "music": "strings_hopeful"
@@ -75,10 +60,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "music": "lullaby_piano"

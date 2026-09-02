@@ -2,7 +2,7 @@
   "id": "la-nave-de-caramelo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "La nave de caramelo",
   "summary": "Tres amigos despegan en una nave de galletas y caramelo, y allá arriba encuentran a una estrella que necesita su ayuda.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "Noa, Tomi y Sami eran tres amigos que soñaban con volar. Un domingo entero lo pasaron construyendo una nave espacial de caramelo y de galletas. La armaron con mucha paciencia y con muchas risas. Las paredes eran de chocolate, las ventanas de azúcar y los botones eran dulces de colores. Cuando todo estuvo listo, los tres amigos se metieron dentro, se abrazaron fuerte y contaron hasta tres. La nave olía a vainilla tibia. Afuera, la luna los esperaba.",
       "cues": [
-        {
-          "anchor": "galletas",
-          "sfx": "crunch"
-        },
         {
           "anchor": "risas",
           "sfx": "giggle"
@@ -28,10 +24,6 @@
         {
           "anchor": "nave",
           "sfx": "rocket"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "ambient": null
@@ -42,11 +34,7 @@
       "cues": [
         {
           "anchor": "cometa",
-          "sfx": "wing_flap"
-        },
-        {
-          "anchor": "estrella",
-          "sfx": "sparkle"
+          "sfx": "whoosh"
         }
       ],
       "ambient": null,
@@ -59,10 +47,6 @@
         {
           "anchor": "galleta",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "reír",
-          "sfx": "giggle"
         }
       ],
       "ambient": null,
@@ -72,10 +56,6 @@
       "id": "s5",
       "text": "Ya era hora de volver a casa. La estrella, agradecida, voló delante de la nave para iluminar el camino de regreso. Bajaron despacio entre las nubes, con los ojos cansados y el corazón contento. Noa, Tomi y Sami se acurrucaron juntos y bostezaron muy grande. —Buenas noches, estrellita —susurraron. Desde el cielo, ella titiló con un brillo suave, como diciendo buenas noches. Y soñando con nuevos viajes de caramelo, los tres amigos se durmieron.",
       "cues": [
-        {
-          "anchor": "susurraron",
-          "sfx": "whisper"
-        },
         {
           "anchor": "durmieron",
           "sfx": "snore_soft"

@@ -2,7 +2,7 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "La brujita buena",
   "summary": "Cada hechizo de Aura sale al revés, y su gato Bigotes nunca sabe a quién van a terminar ayudando.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "gato",
           "sfx": "cat_meow"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -26,10 +22,6 @@
       "text": "Esa tarde, en el prado, Aura se encontró con unas abejas. Estaban muy tristes: el viento había volado todos los pétalos y ya no quedaban flores que visitar. 'No lloren, yo las ayudo', dijo Aura. Levantó su varita para hacer un tarro de miel... pero algo raro le pasó al hechizo. En vez de miel, un viento cálido y suave salió de su sombrero y esparció las semillas que Aura guardaba en el bolsillo. Donde caía cada semilla, ¡pop!, brotaba una flor. Muy pronto todo el prado se llenó de colores, y ellas zumbaron de alegría, volando de flor en flor.",
       "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "abejas",
-          "sfx": "bee_buzz"
-        },
         {
           "anchor": "hechizo",
           "sfx": "magic_shimmer"
@@ -47,7 +39,8 @@
         },
         {
           "anchor": "agua",
-          "sfx": "water_splash"
+          "sfx": "water_splash",
+          "ambient": "stream_water"
         }
       ]
     },
@@ -62,7 +55,7 @@
         },
         {
           "anchor": "estrellas",
-          "sfx": "sparkle"
+          "sfx": "twinkle"
         }
       ],
       "music": "harp_dreams"
@@ -75,10 +68,6 @@
         {
           "anchor": "risas",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
         }
       ],
       "music": "guitar_warm"

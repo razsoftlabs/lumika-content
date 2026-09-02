@@ -2,7 +2,7 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The Ticklish Lion",
   "summary": "The king of the savanna is hiding a very funny secret that shows up right when he tries to roar.",
   "scenes": [
@@ -39,10 +39,6 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "bee",
-          "sfx": "bee_buzz"
         }
       ],
       "ambient": "meadow_day"
@@ -63,10 +59,6 @@
       "text": "Leo opened his eyes and saw his friends laughing with him, not at him. 'Your laugh is lovelier than any roar', said Mona. 'You wake the savanna with joy'. Leo smiled, and for the first time he felt no shame. Little by little the sun went down and out came the stars. They shone like tiny silver sparks. The four friends snuggled up together on the warm grass, yawning slowly. And one by one, under the sky and with a smile on their faces, they fell asleep. That night, the savanna slept happily, rocked by the soft echo of the day's laughter.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

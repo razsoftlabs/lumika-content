@@ -2,7 +2,7 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Friendly Monster Under the Bed",
   "summary": "When Iván hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own.",
   "scenes": [
@@ -58,10 +58,6 @@
       "id": "s5",
       "text": "That night, the monster did not stay under the bed. It curled up beside Iván, with the teddy bear between them. The little lights still glowed on the ceiling and, from the window, over them both watched the moon. 'Goodnight, friend,' yawned Iván. 'Goodnight,' answered the monster, almost asleep already. Very close together and quiet, the two of them breathed. Little by little they closed their eyes. No one was afraid anymore: there was only the quiet night, warm and soft, watching over them until morning.",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "breathed",
           "sfx": "breathe_in"

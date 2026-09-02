@@ -2,7 +2,7 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "The Lantern Race",
   "summary": "In a mountain village, two rival friends climb the path with their paper lanterns, not knowing that tonight the race is going to change its rules.",
   "scenes": [
@@ -90,10 +90,6 @@
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -135,10 +131,6 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
-        {
           "anchor": "laughter",
           "sfx": "giggle",
           "delayMs": 200
@@ -153,11 +145,6 @@
         {
           "anchor": "snore",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "moon",
-          "sfx": "twinkle",
-          "delayMs": 400
         }
       ]
     }

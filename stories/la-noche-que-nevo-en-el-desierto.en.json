@@ -2,7 +2,7 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The Night It Snowed in the Desert",
   "summary": "In a village where it has never snowed, Amira dreams of seeing real snow… and one winter afternoon the wind changes sides.",
   "scenes": [
@@ -42,10 +42,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
-        {
           "anchor": "laughed",
           "sfx": "giggle"
         }
@@ -73,10 +69,6 @@
         {
           "anchor": "bee",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -84,10 +76,6 @@
       "id": "s6",
       "text": "And then, one winter afternoon, something strange happened.\nAmira was sweeping the porch when she felt a shiver run along her arms. She lifted her face. Something thin and icy was coming down from the mountains, and it smelled of wet stone. It no longer rose warm from the desert. It had changed sides, the wind.\nIn the yard, as if they were rehearsing a dance, round and round in circles went the dry leaves. The clothes on the line puffed up like the sails of a boat. The sky turned a colour Amira did not know: grey with a little violet, just like the inside of a shell.\nDoña Rosalía ran out to take down her sheets. The thermometer at the shop, which always showed high numbers, went down, and down, and down.\nGrandpa came out to the yard without his hat. He smelled the air slowly, like an old dog, and said nothing. But his eyes shone.",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_high"
-        },
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"
@@ -98,10 +86,6 @@
       "id": "s7",
       "text": "The animals knew before the people did.\nCanela, who never came inside the house, walked in without permission and lay down under Amira’s bed, trembling and twitching her ears. At the closed door, every now and then, barked the dog.\nThe hens squeezed together into one corner of the coop and turned into a single big, warm hen. Higo climbed onto the clay oven and stayed there, on the hottest part, curled up in a ring.\nThe ants sealed the entrance of their nest with tiny little stones.\nAnd down in the well something that had been quiet for weeks began to sing as if it were the only singer in the whole world: a frog.\n“Grandpa, why is everything so strange?”\n“Because something is coming,” Grandpa said, and put a blanket over her shoulders. “The animals can smell it. We only wait.”",
       "cues": [
-        {
-          "anchor": "dog",
-          "sfx": "bark"
-        },
         {
           "anchor": "frog",
           "sfx": "frog_croak"
@@ -190,10 +174,6 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
         }
       ]
     },
@@ -205,10 +185,6 @@
         {
           "anchor": "drops",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
         }
       ]
     },
@@ -217,10 +193,6 @@
       "text": "“Beautiful things do not have to last to be beautiful,” said Grandpa. “The snow is gone, yes. But look: you saw it. It is already kept in here, and nobody can melt it. My grandmother kept her snowfall for a hundred years. You are going to keep yours, and one day you will tell it to somebody small.”\nAmira thought about that. Then she dried her face with her sleeve and smiled.\nThey walked home slowly, holding hands, stepping in the puddles on purpose. Mama made hot chocolate. Grandpa hung the wet scarf on a chair so it would dry.\nAmira went to bed when it was already daytime, with a golden sky in the window and the curtain moving slowly in the warm wind. She closed her eyes. She saw the white square again, and Flake, and the whole village laughing before dawn.\nAnd happy, hugging the memory of the night it snowed in the desert, she fell asleep with a tiny snore.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "snore",
           "sfx": "snore_soft"

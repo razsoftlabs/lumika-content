@@ -2,7 +2,7 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "Michi y el camión azul",
   "summary": "Michi se sube por curiosidad a un camión azul y despierta al otro lado de la ciudad, muy lejos de la ventana donde siempre lo esperan.",
   "scenes": [
@@ -131,10 +131,6 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },

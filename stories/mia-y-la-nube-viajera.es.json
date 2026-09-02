@@ -2,7 +2,7 @@
   "id": "mia-y-la-nube-viajera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Mía y la nube viajera",
   "summary": "Una niña se sube a una nube y descubre cómo se ve el mundo desde arriba.",
   "scenes": [
@@ -51,10 +51,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
         }
       ]
     }

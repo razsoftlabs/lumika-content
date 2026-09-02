@@ -2,7 +2,7 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "An Egg for Tobi",
   "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can.",
   "scenes": [
@@ -45,10 +45,6 @@
         {
           "anchor": "wind",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "steps",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -71,10 +67,6 @@
         {
           "anchor": "breathe",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "crack",
-          "sfx": "crunch"
         }
       ]
     },
@@ -83,10 +75,6 @@
       "text": "From then on, the egg was the center of all of Tobi's days. In the morning he told it where the tastiest ferns were growing. At noon he fanned it with his tail when the heat pressed down. In the afternoon he sang it the only song he knew, rough and out of tune, in a whisper. It was a song without words that sounded like water running over pebbles. 'You will come out soon,' he told it. 'And when you do, I'll show you the whole valley.' One night, while the fireflies were lighting their lamps, Tobi felt something new. A tap. Very soft, from the inside, as if somebody were knocking on a tiny door. Tobi forgot to breathe. 'Is that you?' he asked. And the egg moved again, just the smallest bit. Tobi fixed the leaves, curled himself around it, and hardly slept at all from the excitement.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        },
         {
           "anchor": "tap",
           "sfx": "thud",
@@ -128,10 +116,6 @@
         {
           "anchor": "steps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -186,10 +170,6 @@
         {
           "anchor": "crack",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
         }
       ]
     },
@@ -201,10 +181,6 @@
         {
           "anchor": "snore",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
         }
       ]
     }

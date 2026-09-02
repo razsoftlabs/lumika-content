@@ -2,7 +2,7 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Hugging Tree",
   "summary": "A very old, lonely tree in the park holds the tenderest secret in the world among its branches.",
   "scenes": [
@@ -27,10 +27,6 @@
       "ambient": "forest_birds",
       "cues": [
         {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        },
-        {
           "anchor": "laughed",
           "sfx": "giggle"
         }
@@ -44,10 +40,6 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         }
       ]
     },

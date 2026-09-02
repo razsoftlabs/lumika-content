@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The Midnight Library",
   "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "door",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -29,10 +25,6 @@
         {
           "anchor": "page",
           "sfx": "page_turn"
-        },
-        {
-          "anchor": "door",
-          "sfx": "door_open"
         }
       ]
     },
@@ -73,10 +65,6 @@
         {
           "anchor": "laugh",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -115,10 +103,6 @@
         {
           "anchor": "creak",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "pages",
-          "sfx": "page_turn"
         }
       ]
     },
@@ -127,10 +111,6 @@
       "text": "Tomás crouched down and opened the green book very carefully. Above the paper appeared a girl with short hair and a yellow coat, so thin that the light showed right through her. She carried an unlit lantern in her hand. 'Hello,' said Tomás. 'I'm Tomás. Why are you crying?' 'My name is Lira,' she answered, drying her face with her sleeve. 'And I can't finish my story.' Nadia turned the book to the very end and went still. After chapter ten there was nothing: only a torn edge and the smell of old paper. 'The last sheets are missing,' she said slowly. Lira lowered her head and answered in a whisper. 'Somebody tore them out ages ago. I walked through the snow, I crossed the forest, I learned to row in the cold water. And here I stayed, one step from the ending. Every night I reach the edge and there is no road left.'",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        },
         {
           "anchor": "water",
           "sfx": "water_splash"
@@ -159,10 +139,6 @@
         {
           "anchor": "footsteps",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "pages",
-          "sfx": "page_turn"
         }
       ]
     },
@@ -171,10 +147,6 @@
       "text": "Nobody said anything for a long while. All they could hear was the rain, gentler now, and Sparkler's paper rustling each time he breathed. Tomás looked at Lira, at her yellow coat, at her unlit lantern, and felt something tight in his chest. And suddenly an idea lit up inside him, just like a real match. 'What if we write it ourselves?' he said. Everyone turned their heads. 'The ending. If it doesn't turn up, we invent it. I have a pencil in my pocket.' Quietbeard stood up so fast that his hat fell off. 'Now that is the work of the brave!' 'Are we allowed to do that?' asked Lira, her eyes very wide. 'I don't know,' Tomás admitted. 'But you didn't know how to row either, and you learned.' And then, for the first time in a hundred years, Lira let out a laugh. It sounded like a just-opened bottle full of bubbles.",
       "ambient": "rain",
       "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        },
         {
           "anchor": "bubbles",
           "sfx": "bubbles"
@@ -186,10 +158,6 @@
       "text": "They sat in a circle around the green book, under the biggest lamp, which hummed like a bumblebee. Tomás took out his chewed pencil and sharpened the tip with his fingernail. Nadia drew the map first: a small boat, a kind current and an island shaped like a hat. Quietbeard dictated the words of the voyage, because about seas he knew everything. 'Write this down: and the water carried her along in no hurry, like a cradle,' he said, and secretly wiped one eye. Tomás wrote slowly, with his tongue poking out, being careful not to slide off the line. Whenever he ran out of ideas, Lira told him what her brother's voice sounded like. At the end, so that nobody would ever feel alone at night, they added a whale. To dry the ink, Sparkler blew. His breath smelled of glitter and clean paper.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "whale",
-          "sfx": "whale_song"
-        },
         {
           "anchor": "blew",
           "sfx": "wind_soft"
@@ -219,10 +187,6 @@
         {
           "anchor": "slept",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "door",
-          "sfx": "door_open"
         }
       ]
     }

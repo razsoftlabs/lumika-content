@@ -2,7 +2,7 @@
   "id": "la-luciernaga-que-perdio-su-luz",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "Lumi no enciende",
   "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la luz de Lumi no quiere encender.",
   "scenes": [
@@ -59,10 +59,6 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
-        {
           "anchor": "resplandor",
           "sfx": "magic_shimmer"
         }
@@ -76,10 +72,6 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "alas",
-          "sfx": "wing_flap"
         }
       ]
     },
@@ -88,11 +80,6 @@
       "text": "El charco quedaba abajo, entre los juncos, y sonaba lleno de vida: croac, croac, croac. Sobre una hoja de nenúfar, mirando su propio reflejo en el agua, había tres ranas. —¡Una luciérnaga apagada! —dijo la primera—. Qué raro. —Yo sé lo que es —dijo la segunda—. Te falta comer rocío. Cómete siete gotas y listo. Lumi se comió siete gotas de rocío. No pasó nada. —No, no —dijo la tercera—. Lo que tienes que hacer es girar tres veces sobre el agua y decir tu nombre al revés. Lumi giró tres veces y dijo \"Imul\". Nada. Las ranas se quedaron calladas, un poco avergonzadas. —Perdón, pequeña —dijeron—. Nosotras solo sabíamos de mosquitos y de burbujas. Lumi se sentó al borde del charco. En el reflejo se vio pequeña y gris, y por primera vez se le llenaron los ojos de lágrimas.",
       "ambient": null,
       "cues": [
-        {
-          "anchor": "charco",
-          "sfx": "water_splash",
-          "ambient": "stream_water"
-        },
         {
           "anchor": "ranas",
           "sfx": "frog_croak"
@@ -136,10 +123,6 @@
       "text": "Dejó al escarabajo en la puerta de su casa, entre las raíces, y volvió volando por el bosque con la luz encendida y el corazón enorme. Ya lo había entendido: su luz no se había roto nunca. Solo estaba esperando que ella dejara de mirarse a sí misma. Su luz encendía cuando ayudaba. La noche siguiente llegó la Fiesta de las Luces. Cientos de luciérnagas subieron al prado y encendieron todas juntas, y el aire se llenó de puntos dorados que subían y bajaban como una respiración. Lumi brilló en la primera fila, al lado de su mamá, con la luz más tranquila y más tibia de todo el bosque. Cuando la fiesta terminó, voló a casa despacio, se acomodó en el musgo blando y cerró los ojos. Afuera, entre las ramas, ululó un búho. Lumi bostezó, dejó que su luz se fuera apagando sola, y se durmió.",
       "ambient": "meadow_night",
       "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        },
         {
           "anchor": "durmió",
           "sfx": "snore_soft"

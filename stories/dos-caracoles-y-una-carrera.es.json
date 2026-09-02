@@ -2,7 +2,7 @@
   "id": "dos-caracoles-y-una-carrera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "Dos caracoles y una carrera",
   "summary": "Dos caracoles amigos se retan a la carrera más lenta del jardín y descubren un premio mucho mejor que cruzar la meta.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },

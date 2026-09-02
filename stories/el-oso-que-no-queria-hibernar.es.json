@@ -2,7 +2,7 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Este invierno no duermo",
   "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos.",
   "scenes": [
@@ -28,10 +28,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
         }
       ]
     },
@@ -104,10 +100,6 @@
         {
           "anchor": "corazon",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_high"
         }
       ]
     },
@@ -119,10 +111,6 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -134,10 +122,6 @@
         {
           "anchor": "respiro",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
         }
       ]
     },
@@ -146,10 +130,6 @@
       "text": "El camino a casa fue lento y bonito. Bruno dejaba huellas grandes y redondas, y en cada huella se juntaba una sombra azul.\n\nLa abuela Rosalinda ni se movio cuando el entro. Bruno acomodo las hojas secas, dio tres vueltas sobre su cama de musgo, como hacen los osos, y se acosto con la barriga hacia arriba.\n\nDesde la boca de la cueva se veia un pedazo de cielo. Ahi estaba, blanca y tranquila, la luna. La nieve brillaba como si alguien hubiera guardado el dia entero en el suelo para que no se perdiera.\n\nBruno cerro los ojos. Penso en el hielo, en las risas, en la cola de Tomas. Penso que el invierno era todavia mas bonito de lo que le habian contado.\n\nY entonces, muy despacio y muy tibio, se le escapo el primer ronquido.\n\nAfuera seguia nevando. Adentro, un oso feliz dormia hasta la primavera.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "ronquido",
           "sfx": "snore_soft",

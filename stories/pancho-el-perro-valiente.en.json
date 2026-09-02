@@ -2,7 +2,7 @@
   "id": "pancho-el-perro-valiente",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Pancho the brave dog",
   "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway.",
   "scenes": [
@@ -24,10 +24,6 @@
       "id": "s2",
       "text": "One October night, a huge storm fell over the neighborhood. It started with a sky that grew darker and darker, then some far-away lightning, and suddenly it broke loose. The rain hit the roof like a thousand small drums, and the windows shook with every clap of thunder. The lightning lit up the walls like giant flashes. Pancho, faithful to his routine, ran to hide under the bed, trembling. \"Please let it stop, please let it stop,\" he thought with his eyes squeezed shut. But in a short pause in the storm, Pancho heard something different. Something that wasn't rain, or wind, or storm. It was a thin, sharp, frightened sound. Meow! Meowww! Meowwwww! Pancho poked his head out from under the blankets and listened carefully. Yes, there it was again: somewhere out there someone was meowing. It was a lost kitten, somewhere in the garden, in the rain, wet and alone, calling for its mom. Pancho felt his heart squeeze with sadness, as if someone were giving him a very tight hug from inside.",
       "cues": [
-        {
-          "anchor": "thunder",
-          "sfx": "thunder"
-        },
         {
           "anchor": "meowing",
           "sfx": "cat_meow"

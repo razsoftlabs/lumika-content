@@ -2,7 +2,7 @@
   "id": "el-cohete-de-papel",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "El cohete de papel",
   "summary": "Dani construye un cohete de papel y vuela hasta una estrella amarilla.",
   "scenes": [
@@ -38,10 +38,6 @@
       "id": "s3",
       "text": "Allá arriba, mucho más allá de las nubes, lo estaba esperando una estrella amarilla y rechoncha. Tenía cara de abuela amable, con cachetes redondos, una boca que sonreía siempre y rayos que le salían como mechones de pelo dorado. \"Hola, Dani, te estaba esperando\", le dijo con voz cantarina, como si lo conociera de toda la vida. Dani se quedó mudo un segundo y después bajó la mirada, tímido. La estrella le tendió un rayo como si fuera una mano. \"¿Quieres bailar conmigo entre las constelaciones?\". Dani le tomó la mano de luz sin dudar. Empezaron a bailar juntos, despacio al principio y después más rápido. Pasaron volando entre cometas con cola de fuego y saludaron a la luna. Jugaron a las escondidas con tres planetas pequeños y le hicieron cosquillas a Saturno en el anillo, y Saturno se sacudió entero de la risa. La Vía Láctea era como un río de leche brillante, y Dani y la estrella la cruzaron de la mano. \"Esto es lo más hermoso que he visto en mi vida\", susurró Dani. La estrella le contestó: \"Y todavía falta lo mejor\".",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "risa",
           "sfx": "giggle"

@@ -2,7 +2,7 @@
   "id": "el-dinosaurio-que-guardaba-un-huevo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "Un huevo para Tobi",
   "summary": "Tobi encuentra un huevo abandonado junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda.",
   "scenes": [
@@ -45,10 +45,6 @@
         {
           "anchor": "viento",
           "sfx": "wind_soft"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -71,10 +67,6 @@
         {
           "anchor": "respira",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "crujido",
-          "sfx": "crunch"
         }
       ]
     },
@@ -83,10 +75,6 @@
       "text": "Desde entonces, el huevo fue el centro de todos los días de Tobi. En la mañana le contaba dónde estaban los helechos más ricos. Al mediodía lo abanicaba con la cola cuando el calor apretaba. En la tarde le cantaba la única canción que se sabía, ronca y desafinada, en un susurro. Era una canción sin palabras, que sonaba como el agua pasando por las piedras. 'Ya vas a salir', le decía. 'Y cuando salgas, te voy a mostrar el valle entero'. Una noche, mientras las luciérnagas encendían sus luces, Tobi sintió algo nuevo. Un golpe. Suave, desde adentro, como si alguien tocara una puerta muy pequeña. Tobi se quedó sin respiración. '¿Eres tú?', preguntó. Y el huevo se movió otra vez, apenas un poco. Tobi acomodó las hojas con el hocico, se enroscó alrededor del huevo y casi no durmió en toda la noche, de pura emoción.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        },
         {
           "anchor": "golpe",
           "sfx": "thud",
@@ -128,10 +116,6 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -139,10 +123,6 @@
       "id": "s10",
       "text": "El desfiladero era angosto como un pasillo de piedra. Arriba, muy arriba, había una línea fina de cielo. Abajo, el suelo estaba lleno de piedras sueltas que, bajo las patas, hacían un crujido. Entre las rocas silbaba el viento. Sonaba como un montón de voces pequeñas hablando a la vez. Tobi entró último. Llevaba el huevo tan apretado contra el pecho que en la cáscara sentía rebotar sus propios latidos. 'Uno', se dijo. 'Dos. Tres'. Un paso por cada número, sin apurarse nada. A veces las piedras se movían solas y Tobi se quedaba quieto hasta que todo dejaba de sonar. A la mitad del camino se le cerraron los ojos un segundo, de puro cansancio. 'Ya falta poco', susurró. 'Ya casi, ya casi'. Del otro lado se veía una luz dorada y ancha, como una promesa esperándolo.",
       "cues": [
-        {
-          "anchor": "crujido",
-          "sfx": "crunch"
-        },
         {
           "anchor": "latidos",
           "sfx": "heartbeat_calm"
@@ -153,10 +133,6 @@
       "id": "s11",
       "text": "Y entonces pasó. Una piedra grande se soltó bajo su pata derecha y Tobi resbaló. Cayó de lado con un golpe. El huevo salió volando de su pecho y Tobi lo vio todo muy despacio: el huevo en el aire, el huevo tocando el suelo, el huevo rodando hacia una grieta oscura. Sintió un salto fuerte, casi doloroso, dentro del pecho: era su corazón. Se levantó como pudo y corrió, aunque le raspaba la rodilla, aunque tenía polvo en los ojos. Estiró el cuello, estiró más, estiró todo lo que pudo, y con la punta del hocico frenó el huevo justo antes del borde. Se quedó ahí, temblando, respirando fuerte. Después lo abrazó con las dos patas y le dijo, con la voz quebrada: 'Perdón. Perdón, perdón. No te vuelvo a soltar nunca'. Y el huevo, tibio, le contestó con un toque suave, como diciendo: 'Está bien'.",
       "cues": [
-        {
-          "anchor": "golpe",
-          "sfx": "thud"
-        },
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
@@ -186,10 +162,6 @@
         {
           "anchor": "crujido",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },
@@ -201,10 +173,6 @@
         {
           "anchor": "ronquido",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
         }
       ]
     }

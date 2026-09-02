@@ -2,7 +2,7 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "Misión a la luna de hielo",
   "summary": "Una niña astronauta y su robot viajan hasta una luna de hielo para averiguar de dónde viene un sonido lejano y suavísimo.",
   "scenes": [
@@ -56,10 +56,6 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },
@@ -68,10 +64,6 @@
       "text": "Después llegaron los días largos. Muy largos. En el espacio no llueve, no anochece, no pasa ningún perro por la calle. Lía hacía ejercicio agarrada de unas cintas elásticas, dibujó la luna de hielo veinte veces, jugó a las cartas con Chispa, que siempre ganaba y siempre avisaba: 'gané otra vez'. Y escuchó la grabación del sonido misterioso una y otra vez, tratando de adivinar qué era. 'Parece alguien cantando muy lejos', decía ella. 'Parece hielo moviéndose', decía Chispa. Algunas tardes se aburría tanto que le dolía un poco el pecho de extrañar su cama. Entonces se metía en su bolsa de dormir, que iba colgada de la pared como un capullo, y se ponía la foto encima del corazón. Después cerraba los ojos. Cuando uno flota, dormir se siente como estar en el agua sin mojarse. Y al rato, en medio de tanto silencio, a Lía se le escapaba un ronquido. Chispa apagaba las luces y cuidaba los números toda la noche.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        },
         {
           "anchor": "ronquido",
           "sfx": "snore_soft"
@@ -116,10 +108,6 @@
         {
           "anchor": "crujido",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -128,10 +116,6 @@
       "text": "El frío de Cristal no es un frío normal. Es un frío que muerde los metales. A los veinte minutos de caminata, Chispa empezó a hablar raro. 'Lía... la tempe... ratura...', dijo, y su luz azul parpadeó dos veces y se apagó. El robot se quedó quieto en medio del hielo, con las ruedas torcidas, sin decir nada más. 'Chispa. Chispa, contéstame.' Nada. Solo el silencio enorme y el planeta gigante mirando desde arriba. Por primera vez en todo el viaje, Lía sintió ganas de llorar. Estaba sola, sola de verdad, más lejos de su casa de lo que nadie había estado nunca, y su único amigo estaba apagado a sus pies. Cerró los ojos dentro del casco. Se acordó de su mamá diciéndole 'escucha bien, y vuelve'. Se acordó de la piscina y del casco con su nombre pintado. Y entonces hizo lo único que sabía hacer cuando se le aceleraba el corazón. Respirar. Muy hondo. Muy despacio.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        },
         {
           "anchor": "Respirar",
           "sfx": "breathe_in"
@@ -154,10 +138,6 @@
       "text": "Después vino la parte lenta. Para escuchar lo que había debajo, tenían que hacer un agujero muy fino en el hielo: fino como un espagueti, nada más. Lía armó la perforadora y la encendió. El taladro giraba despacio, muy despacio, y en cada vuelta le subía por las botas hasta las rodillas un crujido. Un centímetro. Dos. Diez. Una hora entera para atravesar el grosor de un libro. 'Sin apurarse', repetía Chispa. 'Si nos apuramos, el hielo se raja.' 'Sin apurarse', contestaba Lía, y le daba una vuelta más. El sol lejano se movió un poco en el cielo negro. A ella le dolían los brazos y le brillaban los ojos. Cuando ya llevaban muchísimo rato, el taladro se hundió de repente y por el agujero salió un chorro de agua. Se congeló en el aire, en bolas diminutas y brillantes.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "crujido",
-          "sfx": "crunch"
-        },
         {
           "anchor": "agua",
           "sfx": "water_splash"
@@ -187,10 +167,6 @@
         {
           "anchor": "duerme",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
         }
       ]
     },

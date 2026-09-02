@@ -2,7 +2,7 @@
   "id": "el-pez-arcoiris-pequeno",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "Rainbow Looks for Friends",
   "summary": "A shy little fish finds friends at the bottom of the sea.",
   "scenes": [
@@ -26,10 +26,6 @@
       "text": "One calm morning, the little fish was in his coral counting bubbles. Then a purple octopus with eight long arms arrived and stopped right in front of him. He was a friendly octopus, with two googly eyes and a crooked smile. \"Hi, hi, hi!\" he said waving all his tentacles at the same time. The little fish, scared, slipped further into the coral, almost trembling. \"I want to play,\" he wanted to say. But the word got stuck. The octopus, without moving from where he was, waited very patiently. \"I saw your colors from far away. They're so beautiful. They're like a rainbow in the water, did you know?\" The little fish peeked out one eye from between the corals. The octopus wasn't coming any closer, wasn't insisting, just smiling at him. \"Want to play with me? I know a really fun game,\" he offered, tilting his head. The little fish poked his whole head out, hesitated for a second, looked all around, and finally answered in a whisper: \"Okay... but just a little bit.\"",
       "cues": [
         {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        },
-        {
           "anchor": "whisper",
           "sfx": "whisper"
         }
@@ -42,10 +38,6 @@
         {
           "anchor": "laugh",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
         }
       ]
     },
@@ -53,10 +45,6 @@
       "id": "s4",
       "text": "The loud giggling and the bright colors attracted other neighbors from the bottom of the sea, curious. First a pink starfish appeared, with five points that moved like small fingers. \"What's going on here that's so fun?\" she asked. Then came a green seahorse, all elegant with his coiled tail. Then a yellow crab walking sideways, click, click, click. Then a silvery sardine and a small octopus who was the big octopus's son. Soon a group of friends had formed at the very bottom of the sea, all playing together among the corals. They played hide and seek, chase, who could make the most bubbles. The whole ocean filled up with laughter. The little rainbow fish wasn't alone anymore. His colors lit up the whole group, like a happy lantern. He learned three important things that morning: that his colors weren't for hiding, they were a gift to make others happy. That shyness goes away little by little, by playing. And that having a patient friend is the most beautiful thing in the world. From that day on, every time a new fish felt lonely or scared at the bottom of the sea, the little rainbow fish was the first to come over and say, with a smile: \"Want to play with me?\"",
       "cues": [
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        },
         {
           "anchor": "laughter",
           "sfx": "giggle"

@@ -2,7 +2,7 @@
   "id": "el-osito-y-la-tormenta",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "El osito y la tormenta",
   "summary": "Una noche de truenos asusta al osito Nilo, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "Caía la noche sobre el bosque y el osito Nilo se acurrucaba en su cueva tibia, junto a Mamá Osa. Afuera, entre los árboles, empezó a soplar el viento. Muchas gotas de lluvia comenzaron a caer sobre las hojas. Nilo bostezó y cerró los ojos, listo para dormir. Pero, de repente, se oyó a lo lejos un trueno. Sonaba suave todavía, como un tambor dormido. Nilo abrió los ojos grandes, grandes. Se le hizo un nudo en la barriga. —Mamá —susurró—, ¿qué fue ese ruido? Mamá Osa lo abrazó despacio y le dijo: —Es solo la tormenta, mi amor. No te va a pasar nada.",
       "ambient": "rain",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "trueno",
           "sfx": "thunder"
@@ -29,10 +25,6 @@
         {
           "anchor": "viento",
           "sfx": "wind_high"
-        },
-        {
-          "anchor": "trueno",
-          "sfx": "thunder"
         }
       ]
     },
@@ -44,10 +36,6 @@
         {
           "anchor": "respirar",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "trueno",
-          "sfx": "thunder"
         }
       ]
     },
@@ -56,10 +44,6 @@
       "text": "Afuera, la tormenta seguía, pero Nilo y Mamá Osa respiraban juntos, tranquilos. Al rato, sobre la cueva, volvió a sonar un trueno. Esta vez Nilo tomó aire despacio en lugar de esconderse. —¡Lo hice, mamá! —susurró, un poco orgulloso. Mamá Osa sonrió y le dio un beso en la frente. Afuera, la lluvia empezó a caer más despacio, en gotas pequeñas que resbalaban por las hojas: plic, plic, plic. El viento ya no silbaba tan fuerte. Los truenos se fueron alejando, cada vez más lejos, como si la tormenta también tuviera sueño y se fuera caminando a su casa.",
       "ambient": "rain",
       "cues": [
-        {
-          "anchor": "trueno",
-          "sfx": "thunder"
-        },
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"

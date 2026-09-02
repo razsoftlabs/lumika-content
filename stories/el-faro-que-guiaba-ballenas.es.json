@@ -2,7 +2,7 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "Aitana y la noche de niebla",
   "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo, hasta que una noche de niebla descubre quién espera su luz.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "La camioneta se detuvo al final del camino de piedras y Aitana bajó con su maleta pequeña. Frente a ella, en lo alto del acantilado, se levantaba el faro de su abuelo: blanco, altísimo, con una franja roja arriba como un gorro de lana. Olía a sal, a pan tostado y a madera mojada. Abajo, muy abajo, contra las rocas rompían las olas. Se abrían y volvían a juntarse, una y otra vez, sin cansarse nunca.\n\n—Bienvenida a mi casa —dijo el abuelo Nicolás, y empujó con las dos manos la puerta. Era azul, vieja, y sonó como un bostezo largo.\n\nAitana miró adentro. Una mesa, dos sillas, una tetera y una escalera que subía y subía. Ni televisor, ni vecinos, ni parque.\n\n—¿Y qué se hace aquí? —preguntó, arrastrando los pies.\n\n—Se cuida la luz —contestó el abuelo—. Es el trabajo más silencioso del mundo.\n\nAitana suspiró. A ella el silencio le parecía, sobre todo, aburrido.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "olas",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "puerta",
           "sfx": "door_open"
@@ -72,10 +68,6 @@
       "ambient": "ocean_waves",
       "cues": [
         {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
-        {
           "anchor": "crujido",
           "sfx": "crunch"
         }
@@ -89,10 +81,6 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -101,10 +89,6 @@
       "text": "Y así empezó la noche más larga y más bonita de la vida de Aitana.\n\nEl abuelo apoyó las dos manos en la rueda grande y empujó. La rueda cedió un poco y se quejó con un crujido. Aitana contaba en voz alta, despacio, marcando el ritmo con la palma en la rodilla: uno, dos, tres, cuatro...\n\n—Ahora —decía, y el abuelo empujaba otra vez.\n\nLa luz volvió a girar. No sola: girando porque ellos dos la estaban girando.\n\nAl rato, los brazos del abuelo temblaban. Entonces le enseñó a Aitana el secreto para no cansarse: había que respirar.\n\n—Adentro cuando descansamos, afuera cuando empujamos —dijo—. Así no se gasta la fuerza.\n\nAitana se paró en un cajón de madera, puso sus manos pequeñas junto a las grandes y empujó también. Olía a bronce, a niebla y a sudor limpio. Afuera, el mar seguía moviéndose, y la luz seguía saliendo al mundo cada diez segundos, exacta, como una promesa.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "crujido",
-          "sfx": "crunch"
-        },
         {
           "anchor": "respirar",
           "sfx": "breathe_in",
@@ -120,10 +104,6 @@
         {
           "anchor": "olas",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "estrella",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -132,11 +112,6 @@
       "text": "Entonces llegó el sonido.\n\nPrimero fue como un suspiro largo dentro del acantilado. Después subió por las piedras, por el hierro de la escalera, por los pies de Aitana, hasta su pecho: un canto grave, redondo, con curvas, que duraba y duraba sin romperse.\n\n—¿Qué es eso? —preguntó, con los ojos enormes.\n\nAl abuelo se le puso la voz suave cuando contestó. Eran ballenas.\n\n—Cantan cuando el camino está claro —dijo—. Es su manera de decir que llegaron bien.\n\nLa cría contestó a la madre con una nota más aguda, y las tres cantaron juntas, una encima de otra, como campanas debajo del agua. Al pasar cerca de las rocas, la más pequeña sopló y dejó una fila de burbujas. Subieron plateadas hasta la superficie y se rompieron con un chasquido pequeño.\n\nAitana no se movió. Le pareció que el faro, el mar y ella eran una sola cosa que respiraba muy lento.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "ballenas",
-          "sfx": "whale_song",
-          "delayMs": 200
-        },
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
@@ -148,10 +123,6 @@
       "text": "Cuando el motor volvió a funcionar, ya casi amanecía por dentro de la niebla. El abuelo bajó a Aitana en brazos, escalón por escalón, y la acostó junto a la ventana pequeña, con dos mantas y una caracola en la mano.\n\n—Ya sé por qué haces esto —dijo ella, con la voz pastosa—. No es un trabajo aburrido. Es un trabajo que cuida.\n\nEl abuelo le besó la frente.\n\n—Mañana te enseño a limpiar el vidrio.\n\nSobre el agua asomó un momento la luna. La luz del faro pasó despacio por la pared —un lado, el otro, un lado, el otro—, y afuera el mar siguió respirando, tranquilo, como alguien que también se va a dormir.\n\nMuy lejos, las ballenas cantaron una última nota muy suave.\n\nAitana la escuchó, sonrió con los ojos cerrados y se quedó dormida, mecida por el sonido del mar.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "dormir",
           "sfx": "snore_soft",

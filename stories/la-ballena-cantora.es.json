@@ -2,7 +2,7 @@
   "id": "la-ballena-cantora",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "La ballena cantora",
   "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano.",
   "scenes": [
@@ -42,10 +42,6 @@
         {
           "anchor": "canción",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
         }
       ]
     },
@@ -56,10 +52,6 @@
         {
           "anchor": "agua",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "cantó",
-          "sfx": "whale_song"
         }
       ]
     }

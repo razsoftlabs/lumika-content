@@ -29,15 +29,16 @@ luna hace *tin*, el niño ya no está descubriendo nada: está pulsando un botó
 
 La primera vez es magia. La tercera es un juguete roto.
 
-### 2. Nunca ancles una palabra que aparezca dos veces en su escena
+### 2. La palabra mágica aparece una vez en su escena
 
-El lector pinta **todas** las apariciones de la palabra como tocables. Si
-"luna" sale cuatro veces en el párrafo, salen cuatro palabras subrayadas que
-hacen exactamente lo mismo. Hoy pasa en 34 anclas.
+El lector resalta **la primera** aparición y deja el resto como texto normal
+(arreglado el 26-ago-2026; antes las resaltaba todas y salían cuatro palabras
+subrayadas seguidas haciendo lo mismo).
 
-Antes de anclar una palabra, cuéntala en el texto de su escena. Si sale más de
-una vez, **cambia el texto** para que solo aparezca donde quieres el sonido, o
-ancla otra palabra.
+Así que ya no se rompe nada, pero sigue estando mal escrito: si la palabra sale
+cuatro veces, el sonido cae en la primera, que casi nunca es donde querías. Al
+escribir, coloca la palabra **una sola vez y en el sitio de la frase donde el
+sonido debe caer** — normalmente al final, para que el silencio la deje sonar.
 
 ### 3. Una palabra mágica por escena, dos como mucho
 

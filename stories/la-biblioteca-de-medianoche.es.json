@@ -2,7 +2,7 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La biblioteca de medianoche",
   "summary": "Tomás se queda encerrado sin querer en la biblioteca del pueblo y descubre que, cuando el reloj da las doce, los libros no se quedan quietos.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -29,10 +25,6 @@
         {
           "anchor": "página",
           "sfx": "page_turn"
-        },
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
         }
       ]
     },
@@ -73,10 +65,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
         }
       ]
     },
@@ -128,10 +116,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        },
-        {
           "anchor": "agua",
           "sfx": "water_splash"
         }
@@ -159,10 +143,6 @@
         {
           "anchor": "pasos",
           "sfx": "footsteps"
-        },
-        {
-          "anchor": "páginas",
-          "sfx": "page_turn"
         }
       ]
     },
@@ -171,10 +151,6 @@
       "text": "Nadie dijo nada por un rato largo. Solo se oía la lluvia, ya más mansa, y el papel de Fósforo moviéndose cada vez que respiraba. Tomás miraba a Lira, su abrigo amarillo, su farol apagado, y sintió una cosa apretada en el pecho. Y de repente se le encendió una idea, así, como un fósforo de verdad. —¿Y si lo escribimos nosotros? —dijo. Todos giraron la cabeza. —El final. Si no aparece, lo inventamos. Yo tengo lápiz en el bolsillo. Barbaquieta se levantó tan rápido que se le cayó el sombrero. —¡Eso es cosa de valientes! —¿Se puede hacer eso? —preguntó Lira, con los ojos muy grandes. —No sé —admitió Tomás—. Pero tú tampoco sabías remar, y aprendiste. Y entonces, por primera vez en cien años, Lira soltó una risa. Sonó como una botella recién destapada, llena de burbujas.",
       "ambient": "rain",
       "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        },
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
@@ -186,10 +162,6 @@
       "text": "Se sentaron en círculo alrededor del libro verde, debajo de la lámpara más grande, que zumbaba como un abejorro. Tomás sacó su lápiz mordido y le afiló la punta con la uña. Nadia dibujó primero el mapa completo: una barca pequeña, una corriente amable y una isla con forma de sombrero. Barbaquieta dictó las palabras del viaje, porque de mares él sabía todo. —Escribe esto: y el agua la llevó sin apuro, como una cuna —dijo, y se secó un ojo disimulando. Tomás escribía despacio, con la lengua afuera, cuidando de no salirse del renglón. Cuando le faltaban ideas, Lira le contaba cómo era la voz de su hermano. Al final, para que nadie se sintiera solo de noche, agregaron una ballena. Para secar la tinta, Fósforo sopló. Su aliento olía a purpurina y a papel limpio.",
       "ambient": "ocean_waves",
       "cues": [
-        {
-          "anchor": "ballena",
-          "sfx": "whale_song"
-        },
         {
           "anchor": "sopló",
           "sfx": "wind_soft"
@@ -219,10 +191,6 @@
         {
           "anchor": "durmió",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
         }
       ]
     }

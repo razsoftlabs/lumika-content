@@ -2,7 +2,7 @@
   "id": "mision-a-la-luna-de-hielo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "Mission to the Ice Moon",
   "summary": "A young astronaut and her robot travel all the way to an ice moon to find out where a faraway, very gentle sound is coming from.",
   "scenes": [
@@ -56,10 +56,6 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
         }
       ]
     },
@@ -68,10 +64,6 @@
       "text": "Then came the long days. The very long days. In space it never rains, it never gets dark, no dog ever walks by on the street. Lía did her exercises holding on to elastic bands, she drew the ice moon twenty times, she played cards with Chispa, who always won and always announced it: 'I won again.' And she listened to the recording of the mysterious sound over and over, trying to guess what it was. 'It sounds like somebody singing very far away,' she would say. 'It sounds like ice moving,' Chispa would say. Some afternoons she got so bored that her chest ached a little from missing her bed. Then she climbed into her sleeping bag, which hung on the wall like a cocoon, and put the photo over her heart. After that she closed her eyes. When you float, sleeping feels like being in water without getting wet. And after a while, in the middle of all that quiet, out of Lía came a soft snore. Chispa turned off the lights and looked after the numbers all night long.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        },
         {
           "anchor": "snore",
           "sfx": "snore_soft"
@@ -129,10 +121,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        },
-        {
           "anchor": "Breathe",
           "sfx": "breathe_in"
         }
@@ -154,10 +142,6 @@
       "text": "Then came the slow part. To listen to what was underneath, they had to make one very thin hole in the ice: as thin as a piece of spaghetti, nothing more. Lía put the drill together and switched it on. The drill turned slowly, very slowly, and every single turn made the same small sound: crunch. One centimetre. Two. Ten. A whole hour to get through the thickness of a book. 'No rushing,' Chispa kept saying. 'If we rush, the ice will crack.' 'No rushing,' Lía answered, and gave it one more turn. The faraway sun moved a little across the black sky. Her arms ached and her eyes were shining. When they had been at it for ages, the drill suddenly sank deeper, and out of the hole came a thin trickle of water. It froze in the air into tiny, glittering beads.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "crunch",
-          "sfx": "crunch"
-        },
         {
           "anchor": "water",
           "sfx": "water_splash"
@@ -187,10 +171,6 @@
         {
           "anchor": "sleeping",
           "sfx": "snore_soft"
-        },
-        {
-          "anchor": "door",
-          "sfx": "door_open"
         }
       ]
     },

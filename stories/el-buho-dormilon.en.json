@@ -2,7 +2,7 @@
   "id": "el-buho-dormilon",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The Sleepy Little Owl",
   "summary": "A little owl isn't sleepy at night, and his mama teaches him a very gentle secret for waiting until morning.",
   "scenes": [
@@ -59,10 +59,6 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
         }
       ]
     },

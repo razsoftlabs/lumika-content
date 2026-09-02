@@ -2,7 +2,7 @@
   "id": "el-zorro-y-la-luna",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "El zorro y la luna",
   "summary": "Un zorro curioso quiere alcanzar la luna y descubre algo más bonito en el camino.",
   "scenes": [
@@ -43,10 +43,6 @@
         {
           "anchor": "sapo",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
         }
       ]
     },

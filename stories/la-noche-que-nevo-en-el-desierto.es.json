@@ -2,7 +2,7 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "La noche que nevó en el desierto",
   "summary": "En un pueblo donde nunca ha nevado, Amira sueña con ver la nieve de verdad… y una tarde de invierno el viento cambia de lado.",
   "scenes": [
@@ -42,10 +42,6 @@
       "ambient": "snow_wind",
       "cues": [
         {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
-        {
           "anchor": "reían",
           "sfx": "giggle"
         }
@@ -73,10 +69,6 @@
         {
           "anchor": "abeja",
           "sfx": "bee_buzz"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ]
     },
@@ -84,10 +76,6 @@
       "id": "s6",
       "text": "Y entonces, una tarde de invierno, pasó algo raro.\nAmira estaba barriendo el porche cuando sintió un escalofrío en los brazos. Levantó la cara. Algo bajaba de las montañas, delgado y helado, con olor a piedra mojada. Ya no subía tibio del desierto: había cambiado de lado el viento.\nEn el patio, como si ensayaran un baile, empezaron a girar en círculos todas las hojas. La ropa del tendedero se infló como velas de barco. El cielo se puso de un color que Amira no conocía: gris con un poco de violeta, igual que el interior de una concha.\nDoña Rosalía salió corriendo a descolgar sus sábanas. El termómetro de la tienda, que siempre marcaba mucho, bajó, bajó y bajó.\nEl abuelo salió al patio sin sombrero. Olió el aire despacio, como un perro viejo, y no dijo nada. Pero le brillaron los ojos.",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_high"
-        },
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
@@ -98,10 +86,6 @@
       "id": "s7",
       "text": "Los animales lo supieron antes que las personas.\nCanela, que nunca se metía a la casa, entró sin permiso y se acostó debajo de la cama de Amira, temblando y moviendo las orejas. A la puerta cerrada, cada tanto, le ladraba el perro.\nLas gallinas se apretaron todas en una esquina del corral y se hicieron una sola gallina grande y tibia. Higo se subió al horno de barro y se quedó ahí, en la parte caliente, hecho una rosca.\nLas hormigas taparon la entrada de su hormiguero con piedras diminutas.\nY en el aljibe empezó a cantar, como si fuera la única cantante del mundo, una rana.\n—Abuelo, ¿por qué está todo tan raro?\n—Porque algo viene —dijo el abuelo, y le puso una manta en los hombros—. Los animales lo huelen. Nosotros solo esperamos.",
       "cues": [
-        {
-          "anchor": "perro",
-          "sfx": "bark"
-        },
         {
           "anchor": "rana",
           "sfx": "frog_croak"
@@ -190,10 +174,6 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
         }
       ]
     },
@@ -205,10 +185,6 @@
         {
           "anchor": "gotas",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
         }
       ]
     },
@@ -217,10 +193,6 @@
       "text": "—Lo bonito no tiene que durar para ser bonito —dijo el abuelo—. La nieve se fue, sí. Pero mira: tú la viste. Ya está guardada aquí adentro, y nadie te la puede derretir. Mi abuela guardó su nevada cien años. Tú vas a guardar la tuya, y algún día se la vas a contar a alguien pequeño.\nAmira se quedó pensando. Después se secó la cara con la manga y sonrió.\nVolvieron a la casa despacio, agarrados de la mano, pisando charcos a propósito. Mamá hizo chocolate caliente. El abuelo colgó la bufanda mojada en una silla, para que se secara.\nAmira se acostó cuando ya era de día, con el cielo dorado en la ventana y la cortina moviéndose despacio con el viento. Cerró los ojos. Vio la plaza blanca otra vez, y a Copito, y a todo el pueblo riéndose de madrugada.\nY feliz, abrazando el recuerdo de la noche que nevó en el desierto, se quedó dormida con un ronquido.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "ronquido",
           "sfx": "snore_soft"

@@ -2,7 +2,7 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "Michi and the Blue Truck",
   "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting.",
   "scenes": [
@@ -131,10 +131,6 @@
         {
           "anchor": "door",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
         }
       ]
     },

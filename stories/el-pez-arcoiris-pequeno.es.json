@@ -2,7 +2,7 @@
   "id": "el-pez-arcoiris-pequeno",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "Arcoíris busca amigos",
   "summary": "Un pez tímido encuentra amigos en el fondo del mar.",
   "scenes": [
@@ -26,10 +26,6 @@
       "text": "Una mañana de aguas calmadas, el pez estaba en su coral contando burbujas. Entonces llegó un pulpo lila de ocho brazos largos y se detuvo justo enfrente. Era un pulpo amistoso, con dos ojos saltones y una sonrisa chueca. \"¡Hola, hola, hola!\", le dijo agitando todos sus tentáculos al mismo tiempo. El pez, asustado, se metió más adentro del coral, casi temblando. \"Quiero jugar\", quería decir. Pero la palabra se le quedó atrapada. El pulpo, sin moverse de donde estaba, esperó con mucha paciencia. \"Vi tus colores desde lejos. Son hermosísimos. Son como un arcoíris en el agua, ¿sabías?\". El pez asomó un ojo por entre el coral. El pulpo no se acercaba más, no insistía, solo le sonreía. \"¿Quieres jugar conmigo? Conozco un juego muy divertido\", le ofreció, ladeando la cabeza. El pez asomó la cabeza entera, dudó un segundo, miró para todos lados, y por fin contestó en un susurro: \"Bueno... pero un poco nada más\".",
       "cues": [
         {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
-        },
-        {
           "anchor": "susurro",
           "sfx": "whisper"
         }
@@ -42,10 +38,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
         }
       ]
     },
@@ -53,10 +45,6 @@
       "id": "s4",
       "text": "Las carcajadas y las luces de colores atrajeron a otros vecinos del fondo del mar, curiosos. Primero apareció una estrella de mar rosada, con cinco puntas que se movían como dedos pequeños. \"¿Qué pasa por acá tan divertido?\", preguntó. Después llegó un caballito de mar verde, todo elegante con su cola enroscada. Después un cangrejo amarillo caminando de lado, plic, plic, plic. Después una sardina plateada y un pulpo pequeño que era hijo del pulpo grande. Pronto se armó un grupo de amigos en pleno fondo del mar, todos jugando juntos entre los corales. Jugaron a las escondidas, a perseguirse, a quién hace más burbujas. El agua entera se llenó de risas. El pez arcoíris ya no estaba solo. Sus colores iluminaban el grupo entero, como si fuera una linterna alegre. Aprendió tres cosas importantes esa mañana: que sus colores no eran para esconder, eran un regalo para alegrar a los demás. Que la timidez se va poco a poco, jugando. Y que tener un amigo paciente es la cosa más linda del mundo. Desde ese día, siempre que algún pez nuevo se sentía solo o asustado en el fondo del mar, el pez arcoíris era el primero en acercarse y decirle, con una sonrisa: \"¿Quieres jugar conmigo?\".",
       "cues": [
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
-        },
         {
           "anchor": "risas",
           "sfx": "giggle"

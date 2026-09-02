@@ -2,7 +2,7 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The Astronaut in Pajamas",
   "summary": "When the house goes quiet, Vera's bed turns into a rocket bound for the moon.",
   "scenes": [
@@ -40,10 +40,6 @@
       "text": "The rocket came down slowly and landed on ground as soft as flour: it had reached the moon. Vera slid out one foot, then the other, and on the silver dust she took her first steps. Everything was quiet, a lovely, round kind of quiet. All around rose gentle mountains and valleys full of light. In every corner, small stars had fallen asleep on the ground, blinking very slowly, like tired lanterns. Vera looked at them tenderly and thought they would be perfect for lighting up her room.",
       "cues": [
         {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
-        {
           "anchor": "steps",
           "sfx": "footsteps",
           "delayMs": 150
@@ -55,10 +51,6 @@
       "text": "Very carefully, Vera opened her glass jar and began to gather, one by one, the stars. Each time she caught one, the star let out a small laugh. It was as if the light were tickling her hands. Soon the jar filled with golden sparkles dancing inside. Vera did not squeeze them or rush; she gathered them slowly, with gentle fingers, and promised to take care of them. When the jar was full, she closed it softly, so she would not wake them completely. Then she climbed back onto her rocket-bed, hugged her teddy, and turned the ship toward home.",
       "cues": [
         {
-          "anchor": "stars",
-          "sfx": "sparkle"
-        },
-        {
           "anchor": "laugh",
           "sfx": "giggle",
           "delayMs": 200
@@ -69,10 +61,6 @@
       "id": "s5",
       "text": "The rocket-bed floated back through the window and settled again in Vera's room, warm and still. She set the jar of stars beside her pillow, and its soft light filled the room like a kind lamp. From outside the window came a quiet good night from the moon. Vera snuggled under her blanket, closed her eyes, and breathed. Very slowly, once, twice. The golden glow hugged her from the inside. And so, among saved-up stars and peaceful dreams, Vera fell fast asleep.",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "breathed",
           "sfx": "breathe_in",

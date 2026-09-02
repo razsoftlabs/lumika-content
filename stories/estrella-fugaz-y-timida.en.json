@@ -2,7 +2,7 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Titila, the Shy Shooting Star",
   "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish.",
   "scenes": [
@@ -40,10 +40,6 @@
       "text": "That very night, her trembling was seen by the Moon. In her soft voice, she asked, 'Little Titila, why do you never cross the sky?' From a branch, with big round eyes, listened an old owl. Very quietly, Titila confessed her secret: 'I'm afraid of giving a child the wrong wish.' She smiled the slow, wide smile that only clear nights have. 'Oh, my little star,' she said. 'Come closer. Let me tell you how wishes really work.' And curious Titila floated just a little bit nearer.",
       "cues": [
         {
-          "anchor": "Moon",
-          "sfx": "twinkle"
-        },
-        {
           "anchor": "owl",
           "sfx": "owl_hoot"
         }
@@ -71,10 +67,6 @@
         {
           "anchor": "crossed",
           "sfx": "whoosh"
-        },
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
         }
       ]
     }

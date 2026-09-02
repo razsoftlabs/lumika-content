@@ -2,7 +2,7 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La astronauta en pijama",
   "summary": "Cuando la casa se queda en silencio, la cama de Vera se convierte en un cohete rumbo a la luna.",
   "scenes": [
@@ -40,10 +40,6 @@
       "text": "El cohete bajó despacio y aterrizó sobre un suelo blando como la harina: había llegado a la luna. Vera sacó un pie, luego el otro, y sobre el polvo plateado dio sus primeros pasos. Todo estaba en silencio, un silencio bonito y redondo. Alrededor se abrían montañas suaves y valles llenos de luz. En cada rincón, pequeñas estrellas se habían quedado dormidas sobre el suelo, parpadeando muy despacio, como faroles cansados. Vera las miró con ternura y pensó que serían perfectas para iluminar su cuarto.",
       "cues": [
         {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
-        {
           "anchor": "pasos",
           "sfx": "footsteps",
           "delayMs": 150
@@ -55,10 +51,6 @@
       "text": "Con mucho cuidado, Vera abrió su frasco de vidrio y empezó a recoger, una por una, las estrellas. Cada vez que atrapaba una, la estrella soltaba una risa. Era como si la luz le hiciera cosquillas en las manos. Pronto el frasco se llenó de destellos dorados que bailaban dentro. Vera no las apretó ni corrió; las juntó despacio, con dedos amables, y les prometió cuidarlas. Cuando el frasco estuvo lleno, lo tapó con suavidad para no despertarlas del todo. Después se subió de nuevo a su cama-cohete, abrazó a su oso y giró la nave hacia casa.",
       "cues": [
         {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
-        },
-        {
           "anchor": "risa",
           "sfx": "giggle",
           "delayMs": 200
@@ -69,10 +61,6 @@
       "id": "s5",
       "text": "La cama-cohete regresó flotando por la ventana y se posó otra vez en el cuarto de Vera, tibia y quieta. Ella dejó el frasco de estrellas junto a su almohada, y su luz suave llenó la habitación como una lámpara amable. Afuera, las buenas noches se las dio la luna. Vera se acurrucó bajo la manta, cerró los ojos y respiró. Muy despacio, una vez, dos veces. El brillo dorado la abrazó por dentro. Y así, entre estrellas guardadas y sueños tranquilos, Vera se quedó profundamente dormida.",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "respiró",
           "sfx": "breathe_in",

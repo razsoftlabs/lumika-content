@@ -2,7 +2,7 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Not Sleeping This Winter",
   "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes.",
   "scenes": [
@@ -28,10 +28,6 @@
         {
           "anchor": "laugh",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "door",
-          "sfx": "door_open"
         }
       ]
     },
@@ -104,10 +100,6 @@
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_high"
         }
       ]
     },
@@ -119,10 +111,6 @@
         {
           "anchor": "door",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ]
     },
@@ -134,10 +122,6 @@
         {
           "anchor": "breathed",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
         }
       ]
     },
@@ -146,10 +130,6 @@
       "text": "The walk home was slow and lovely. Bruno left great big round footprints, and inside each one a blue shadow gathered.\n\nGrandmother Rosalinda didn't even move when he came in. Bruno arranged the dry leaves, turned around three times on his bed of moss, the way bears do, and lay down with his belly facing up.\n\nFrom the mouth of the cave he could see a piece of sky. There it was, white and calm, the moon. The snow was shining as if somebody had saved the whole day on the ground so that it would not be lost.\n\nBruno closed his eyes. He thought about the ice, about the laughing, about the tail of Tomas. He thought that winter was even more beautiful than everyone had told him.\n\nAnd then, very slowly and very warmly, out slipped his first snore.\n\nOutside it kept snowing. Inside, a happy bear slept until spring.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "snore",
           "sfx": "snore_soft",

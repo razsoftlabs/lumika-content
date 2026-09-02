@@ -2,7 +2,7 @@
   "id": "la-princesa-ingeniera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "La princesa ingeniera",
   "summary": "Cuando el río del reino se seca y nadie quiere escuchar a una princesa que construye máquinas, Mirena decide subir sola a la montaña con su cuaderno.",
   "scenes": [
@@ -14,11 +14,6 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "gato",
-          "sfx": "cat_meow",
-          "delayMs": 400
         }
       ]
     },
@@ -42,10 +37,6 @@
       "id": "s3",
       "text": "Una mañana, Mirena bajó al salón del trono con la Regadora Uno en brazos. El rey Aurelio, su papá, estaba firmando papeles. Los cortesanos hablaban de banquetes y de sombreros nuevos. Mirena puso su máquina sobre la alfombra y explicó, con las orejas rojas, cómo el agua subía y bajaba sola. Hubo un silencio largo. Después el chambelán Ciro se inclinó y dijo algo que todos oyeron, aunque lo dijo con un susurro: —Muy bonito, princesa. Ideal para jugar. Alguien comentó que las princesas no debían llenarse las manos de aceite. El rey le dio un beso en la frente y volvió a sus papeles. Por el pasillo de mármol se fueron alejando, uno por uno, los pasos. Mirena se quedó sola con su invento y con el eco. Recogió la Regadora despacio, no dijo nada y volvió a subir a la torre.",
       "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        },
         {
           "anchor": "pasos",
           "sfx": "footsteps",
@@ -103,10 +94,6 @@
       "text": "A la mañana siguiente, Mirena entró al salón con un rollo de papel casi tan alto como ella. Lo desenrolló sobre la mesa larga y puso la piedra del río encima para que no se cerrara. —Se llama acueducto —dijo con voz clara—. Un canal de piedra y madera que baja desde el manantial de Cabeza Blanca hasta el valle. El agua no necesita que la empujen: solo necesita una cuesta suave y paciencia. Hubo tres segundos de silencio. Después el chambelán Ciro se rió tan fuerte que se le movió el bigote, y otros lo acompañaron. —Princesa, eso es un juguete gigante. —Los canales los hacen los ingenieros, no las niñas. El rey, incómodo, dijo: —Hablamos luego, hija. Mirena enrolló su plano, salió y cerró con cuidado la puerta. Del otro lado apoyó la frente en la madera y, para que no se le cayera ninguna lágrima, se puso a respirar.",
       "cues": [
         {
-          "anchor": "puerta",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "respirar",
           "sfx": "breathe_in",
           "delayMs": 400
@@ -121,11 +108,6 @@
         {
           "anchor": "gato",
           "sfx": "cat_meow"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps",
-          "delayMs": 300
         }
       ]
     },
@@ -134,10 +116,6 @@
       "text": "El manantial estaba escondido entre dos rocas grises, más arriba de donde llegaban las cabras. Mirena lo escuchó antes de verlo: de una grieta de la piedra salía un hilo de agua. Era tan claro que se veían los granos de arena bailando en el fondo, y estaba fresco. Al caer levantaba burbujas. Eran diminutas, subían despacio y se rompían sin ruido. Mirena metió las manos y se rió sola de puro alivio. —Aquí estás —le dijo—. No te habías ido. Solo te quedaste arriba. Sacó la cuerda de nudos y midió: el ancho del chorro, la altura de la roca, la distancia hasta el primer pino. Anotó cada número en el cuaderno con letra ordenada. Después dibujó la forma de la ladera, con sus curvas y sus lomas, igual que se dibuja la espalda de un gigante dormido. Tuerca cazaba mariposas. La montaña la dejaba trabajar, en silencio.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "burbujas",
           "sfx": "bubbles",
@@ -168,11 +146,6 @@
         {
           "anchor": "golpe",
           "sfx": "thud"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft",
-          "delayMs": 400
         }
       ]
     },
@@ -184,11 +157,6 @@
         {
           "anchor": "susurro",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "gato",
-          "sfx": "cat_meow",
-          "delayMs": 400
         }
       ]
     },
@@ -197,10 +165,6 @@
       "text": "En la plaza del pueblo, Mirena desenrolló su plano sobre el borde de la fuente vacía y empezó a explicarlo en voz alta, a nadie en particular. Se paró a escuchar don Timoteo, el panadero. Después la señora Rosa, que hacía tejas. Después Nico y su hermana. Por las calles fueron llegando poco a poco más pasos: el herrero, las hermanas del molino, el pastor con sus perros, la maestra, dieciocho vecinos, cuarenta, casi todo el pueblo. —Explíquelo otra vez, princesa —pidió el herrero—, pero más despacio. Mirena lo explicó tres veces. Alguien trajo agua de pozo para todos. Alguien más trajo una tabla y un carbón para dibujar. Los niños midieron la plaza con la cuerda de nudos, y midieron también al pastor y al perro, entre risas. —Nosotros tenemos manos —dijo la señora Rosa—. Usted tiene el plano. Empecemos mañana.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "risas",
           "sfx": "giggle",
@@ -216,11 +180,6 @@
         {
           "anchor": "agua",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak",
-          "delayMs": 500
         }
       ]
     },
@@ -229,10 +188,6 @@
       "text": "El rey Aurelio bajó al valle a ver el agua correr y se quedó mirándola mucho tiempo sin decir nada. Después se agachó, mojó la mano y se la puso en la frente. —Hija —dijo—, yo estaba firmando papeles mientras tú medías la montaña. Perdóname. El chambelán Ciro, muy colorado, preguntó si podía cargar el cuaderno de la princesa cuando ella lo necesitara. Mirena le dijo que sí, y también que la llamara ingeniera. Esa noche hubo pan otra vez, pan grande, del que cruje. Ya tarde, Mirena subió a su torre. No inventó nada. Dejó el plano enrollado en su lugar, apagó la vela y se acostó con la ventana abierta, para escuchar el hilo de agua allá abajo. Sobre la manta entraba despacio la luna. Tuerca se acomodó en sus pies y soltó un ronquido. Y la princesa ingeniera se durmió, por fin, tranquila.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "ronquido",
           "sfx": "snore_soft",

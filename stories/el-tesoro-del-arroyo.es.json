@@ -2,7 +2,7 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 4,
+  "version": 5,
   "title": "El tesoro del arroyo",
   "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa dibujado a mano por su abuelo, y al amanecer salen al bosque a descubrir qué esconde la X junto al arroyo.",
   "scenes": [
@@ -29,10 +29,6 @@
         {
           "anchor": "crujido",
           "sfx": "crunch"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },
@@ -71,10 +67,6 @@
       "ambient": "meadow_day",
       "cues": [
         {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
-        {
           "anchor": "viento",
           "sfx": "wind_soft"
         }
@@ -85,10 +77,6 @@
       "text": "El bosque era alto, verde y fresco. Los pinos dejaban pasar el sol en rayas doradas y en el suelo crecían helechos que les llegaban a las rodillas. Solo para oír el ruido, Nina iba pisando una por una las hojas. Mateo marcaba el camino atando trozos de cordel en las ramas, igual que en los libros de aventuras. De pronto Beto se detuvo y levantó un dedo. '¡Escuchen!'. Muy despacio, entre los cantos de los pájaros, apareció otro sonido: un chapoteo alegre, un murmullo que no paraba nunca. Corrieron los últimos metros y ahí estaba, al fondo de una bajada, brillando entre las piedras redondas, el agua. 'El arroyo Cantarín', dijo Nina, casi sin aire. Se agacharon a mojarse las manos y estaba tan fría que les dio risa. El mapa del abuelo, de repente, ya no parecía un dibujo viejo: parecía una promesa.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "agua",
           "sfx": "water_splash"
@@ -118,10 +106,6 @@
         {
           "anchor": "charco",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
         }
       ]
     },
@@ -130,10 +114,6 @@
       "text": "Pero después del arroyo el camino se partió en dos y el mapa no ayudó nada: la línea azul del abuelo terminaba en un borrón, como si el lápiz se hubiera cansado. 'Es por la izquierda', dijo Mateo. 'Es por la derecha', dijo Nina. 'Se ve el pino torcido del dibujo'. 'Ese pino no está torcido, está inclinado'. '¡Es lo mismo!'. Caminaron un rato para un lado, volvieron, caminaron para el otro. Empezaron a hablar más fuerte de lo necesario, y las palabras les salían con puntas. De repente, entre los árboles, bajó un viento. Una nube tapó el sol. Muy lejos, en alguna granja, ladró un perro. Beto se sentó en una raíz, abrazado a su conejo de trapo, y no dijo nada. Nadie le preguntó nada tampoco, porque los grandes estaban ocupadísimos discutiendo quién tenía razón. Y así, sin darse cuenta, los tres estaban perdidos y enojados.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "perro",
           "sfx": "bark"
@@ -148,10 +128,6 @@
         {
           "anchor": "hojas",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
         }
       ]
     },
@@ -159,10 +135,6 @@
       "id": "s11",
       "text": "'Perdón', dijo Mateo, y se le puso la cara colorada. 'Estaba tan seguro que no te estaba escuchando'. 'Yo tampoco te escuché', dijo Nina. 'Perdón, Beto'. Beto se encogió de hombros, feliz, y les mostró el sol de la piedra otra vez, por si acaso. Desde ese momento fueron un equipo de verdad. Mateo iba adelante levantando las ramas para que pasaran los demás. Nina leía el mapa en voz alta y avisaba los charcos de barro. Y Beto, que era el que miraba el suelo, buscaba las señales: encontró dos más, un sol rayado en un tronco y un montón de piedras junto al agua. Cruzaron un tronco caído tomados de la mano, cantando una canción inventada que decía 'tesoro, tesoro, te vamos a encontrar'. En la última cuesta, con las mochilas saltando en la espalda, los tres corrieron.",
       "cues": [
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "corrieron",
           "sfx": "run_fast"
@@ -190,10 +162,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -205,10 +173,6 @@
         {
           "anchor": "búho",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
         }
       ]
     },

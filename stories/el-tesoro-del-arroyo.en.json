@@ -2,7 +2,7 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The Treasure by the Stream",
   "summary": "On a rainy day, three siblings find a map their grandpa drew by hand, and at dawn they set out into the forest to discover what the X beside the stream is hiding.",
   "scenes": [
@@ -71,10 +71,6 @@
       "ambient": "meadow_day",
       "cues": [
         {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        },
-        {
           "anchor": "wind",
           "sfx": "wind_soft"
         }
@@ -118,10 +114,6 @@
         {
           "anchor": "puddle",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
         }
       ]
     },
@@ -130,10 +122,6 @@
       "text": "But after the stream the path split in two, and the map did not help at all: Grandpa's blue line ended in a smudge, as if the pencil had grown tired. 'It is to the left,' said Mateo. 'It is to the right,' said Nina. 'You can see the crooked pine from the drawing.' 'That pine is not crooked, it is leaning.' 'It is the same thing!' They walked one way for a while, came back, and walked the other way. They began to talk louder than they needed to, and their words came out with sharp points on them. Suddenly, down through the trees, came a cool wind. A cloud covered the sun. Far away, on some farm, they heard a dog. Beto sat down on a root, hugging his cloth rabbit, and said nothing at all. Nobody asked him anything either, because the big ones were terribly busy arguing about who was right. And so, without noticing, all three were lost and cross.",
       "ambient": "stream_water",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "dog",
           "sfx": "bark"
@@ -146,10 +134,6 @@
       "ambient": "stream_water",
       "cues": [
         {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        },
-        {
           "anchor": "whispered",
           "sfx": "whisper"
         }
@@ -159,10 +143,6 @@
       "id": "s11",
       "text": "'I am sorry,' said Mateo, and his face went red. 'I was so sure of myself that I was not listening to you.' 'I did not listen either,' said Nina. 'I am sorry, Beto.' Beto shrugged his shoulders, happy, and showed them the sun on the stone one more time, just in case. From that moment on they were a real team. Mateo went in front, lifting the branches so the others could pass. Nina read the map out loud and warned everyone about the mud holes. And Beto, the one who looked at the ground, hunted for the signs: he found two more, a sun scratched on a trunk and a little heap of stones beside the water. They crossed a fallen log holding hands, singing a made-up song that went 'treasure, treasure, we are going to find you'. On the last slope, with their backpacks bouncing on their backs, all three raced.",
       "cues": [
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "raced",
           "sfx": "run_fast"
@@ -190,10 +170,6 @@
         {
           "anchor": "laugh",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         }
       ]
     },
@@ -205,10 +181,6 @@
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "door",
-          "sfx": "door_open"
         }
       ]
     },

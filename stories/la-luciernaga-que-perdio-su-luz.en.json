@@ -2,7 +2,7 @@
   "id": "la-luciernaga-que-perdio-su-luz",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "Lumi Won't Light Up",
   "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on.",
   "scenes": [
@@ -59,10 +59,6 @@
       "ambient": "forest_night",
       "cues": [
         {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
-        {
           "anchor": "glow",
           "sfx": "magic_shimmer"
         }
@@ -76,10 +72,6 @@
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "wings",
-          "sfx": "wing_flap"
         }
       ]
     },
@@ -88,11 +80,6 @@
       "text": "The puddle was down below, among the reeds, and it was full of noise: croak, croak, croak. On a lily pad, looking at their own reflection in the water, sat three green frogs. \"A firefly with no light!\" said the first one. \"How strange.\" \"I know what it is,\" said the second. \"You need to eat dew. Swallow seven drops and you will be fine.\" Lumi swallowed seven drops of dew. Nothing happened. \"No, no,\" said the third. \"What you have to do is spin three times over the water and say your name backwards.\" Lumi spun three times and said \"Imul.\" Nothing. The frogs went quiet, a little embarrassed. \"Sorry, little one,\" they said. \"We only knew about mosquitoes and bubbles.\" Lumi sat down at the edge of the puddle. In the reflection she saw herself small and gray, and for the first time her eyes filled with tears.",
       "ambient": null,
       "cues": [
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash",
-          "ambient": "stream_water"
-        },
         {
           "anchor": "frogs",
           "sfx": "frog_croak"
@@ -136,10 +123,6 @@
       "text": "She left the beetle at the door of his little house among the roots, and flew back through the forest with her light on and her heart enormous. She had understood it now: her light had never been broken. It had only been waiting for her to stop looking at herself. Her light turned on when she helped. The next night the Festival of Lights arrived. Hundreds of fireflies rose over the meadow and lit up all together, and the air filled with golden dots that went up and down like a slow breath. Lumi shone in the front row, beside her mother, with the calmest and warmest light in the whole forest. When the festival was over, she flew home slowly, settled into the soft moss and closed her eyes. Outside, from a branch, came the soft hoot of an owl. Lumi yawned, let her little light fade out on its own, and fell asleep.",
       "ambient": "meadow_night",
       "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

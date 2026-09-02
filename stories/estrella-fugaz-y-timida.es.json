@@ -2,7 +2,7 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Titila, la estrella fugaz tímida",
   "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
   "scenes": [
@@ -40,10 +40,6 @@
       "text": "Esa misma noche la vio temblar la Luna. Con su voz suave, le preguntó: —Titila, ¿por qué nunca cruzas el cielo? Desde una rama, con sus ojos grandes, escuchaba un búho. Titila, en voz baja, confesó su secreto: —Tengo miedo de darle a un niño el deseo equivocado. Ella sonrió despacio, con esa sonrisa ancha y calmada de las noches claras. —Ay, mi estrella —dijo—. Ven, acércate. Deja que te cuente cómo funcionan de verdad los deseos. Y Titila, curiosa, se acercó un poco más.",
       "cues": [
         {
-          "anchor": "Luna",
-          "sfx": "twinkle"
-        },
-        {
           "anchor": "búho",
           "sfx": "owl_hoot"
         }
@@ -71,10 +67,6 @@
         {
           "anchor": "cruzó",
           "sfx": "whoosh"
-        },
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "id": "los-tres-amigos-del-bosque",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "The three forest friends",
   "summary": "A bunny, a hedgehog, and a squirrel discover that together they go further.",
   "scenes": [
@@ -42,10 +42,6 @@
         {
           "anchor": "branches",
           "sfx": "leaves_rustle"
-        },
-        {
-          "anchor": "jumped",
-          "sfx": "jump_hop"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "id": "la-princesa-que-queria-ensuciarse",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 4,
+  "version": 5,
   "title": "Mud to the Ears",
   "summary": "A princess tired of always being clean and combed discovers, out in the garden, a joy that no castle can hold.",
   "scenes": [
@@ -43,10 +43,6 @@
         {
           "anchor": "puddle",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "giggle",
-          "sfx": "giggle"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "id": "el-cohete-de-papel",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The paper rocket",
   "summary": "Dani builds a paper rocket and flies all the way to a yellow star.",
   "scenes": [
@@ -38,10 +38,6 @@
       "id": "s3",
       "text": "Up there, far beyond the clouds, a chubby yellow star was waiting for him. She had the face of a kind grandmother, with round cheeks, a huge smile, and rays that came out of her like locks of golden hair. \"Hello Dani, I was waiting for you,\" the star said with a singing voice, as if she had known him forever. Dani went silent for a moment, then lowered his gaze, shy. The star reached out a ray as if it were a hand. \"Would you like to dance with me among the constellations?\" Dani took her hand of light without hesitating. They started dancing together, slowly at first, then faster. They flew between comets with fiery tails and greeted the moon. They played hide and seek with three tiny planets and tickled Saturn on his ring until he shook all over with laughter. The Milky Way was like a river of glowing milk, and Dani and the star crossed it hand in hand. \"This is the most beautiful thing I've ever seen,\" whispered Dani. The star answered: \"And the best part is yet to come.\"",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "laughter",
           "sfx": "giggle"

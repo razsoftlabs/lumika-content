@@ -2,7 +2,7 @@
   "id": "la-princesa-ingeniera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Engineer Princess",
   "summary": "When the kingdom's river dries up and nobody will listen to a princess who builds machines, Mirena decides to ride up the mountain alone with her notebook.",
   "scenes": [
@@ -14,11 +14,6 @@
         {
           "anchor": "door",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "cat",
-          "sfx": "cat_meow",
-          "delayMs": 400
         }
       ]
     },
@@ -42,10 +37,6 @@
       "id": "s3",
       "text": "One morning Mirena carried Waterer One down to the throne room, holding it in both arms. King Aurelio, her father, was signing papers. The courtiers were chatting among themselves about banquets and new hats. Mirena set her machine down on the carpet and explained, with her ears turning red, how the water climbed up and came down again all by itself. There was a long silence. Then the chamberlain Ciro leaned over and said something everybody heard, although he said it in a whisper: \"Very pretty, Princess. Perfect for playing.\" Someone remarked that princesses should not get oil on their hands. The king kissed her forehead and went back to his papers. Away down the marble hallway went the court, one by one, until all she could hear were their footsteps. Mirena was left alone with her invention and the echo. She picked up the Waterer slowly, said nothing at all, and climbed back up to the tower.",
       "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        },
         {
           "anchor": "footsteps",
           "sfx": "footsteps",
@@ -103,10 +94,6 @@
       "text": "The next morning Mirena walked into the hall with a roll of paper almost as tall as she was. She unrolled it on the long table and put the river stone on top so it would not curl shut. \"It is called an aqueduct,\" she said in a clear voice. \"A channel of stone and wood that comes down from the spring on White Head all the way to the valley. Water doesn't need pushing: it only needs a gentle slope and patience.\" There were three seconds of silence. Then chamberlain Ciro laughed so hard that his moustache wobbled, and others joined in. \"Princess, that is a giant toy.\" \"Channels are built by engineers, not by little girls.\" The king, uncomfortable, said, \"We'll talk later, daughter.\" Mirena rolled up her plan, walked out and carefully closed the door. On the other side she leaned her forehead on the wood and, so that no tear would fall, made herself breathe.",
       "cues": [
         {
-          "anchor": "door",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "breathe",
           "sfx": "breathe_in",
           "delayMs": 400
@@ -121,11 +108,6 @@
         {
           "anchor": "cat",
           "sfx": "cat_meow"
-        },
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps",
-          "delayMs": 300
         }
       ]
     },
@@ -134,10 +116,6 @@
       "text": "The spring was hidden between two grey rocks, higher up than the goats ever went. Mirena heard it before she saw it: out of a crack in the rock slipped a thread of water. It was so clear that you could see the grains of sand dancing at the bottom, and it was cool. Where it fell it raised bubbles. They were tiny, they rose slowly and broke without a sound. Mirena put her hands in and laughed out loud from pure relief. \"There you are,\" she told it. \"You never left. You just stayed up here.\" She took out her knotted rope and measured: the width of the flow, the height of the rock, the distance to the first pine. She wrote every number in her notebook in tidy letters. Then she drew the shape of the hillside, with its curves and its humps, the way you would draw the back of a sleeping giant. Tuerca chased butterflies. The mountain let her work, in silence.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "bubbles",
           "sfx": "bubbles",
@@ -168,11 +146,6 @@
         {
           "anchor": "thud",
           "sfx": "thud"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft",
-          "delayMs": 400
         }
       ]
     },
@@ -184,11 +157,6 @@
         {
           "anchor": "whisper",
           "sfx": "whisper"
-        },
-        {
-          "anchor": "cat",
-          "sfx": "cat_meow",
-          "delayMs": 400
         }
       ]
     },
@@ -197,10 +165,6 @@
       "text": "In the village square, Mirena unrolled her plan on the rim of the empty fountain and began to explain it out loud, to nobody in particular. Timoteo the baker stopped to listen. Then Mrs Rosa, who made roof tiles. Then Nico and his sister. Through the narrow streets came more and more footsteps: the blacksmith, the sisters from the mill, the shepherd with his dogs, the schoolteacher, eighteen neighbours, forty, almost the whole village. \"Explain it again, Princess,\" the blacksmith asked, \"but slower.\" Mirena explained it three times. Someone brought well water for everybody. Someone else brought a board and a piece of charcoal for drawing. The children measured the square with the knotted rope, and they measured the shepherd and the dog too, in fits of laughter. \"We have hands,\" said Mrs Rosa. \"You have the plan. Let's start tomorrow.\"",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "laughter",
           "sfx": "giggle",
@@ -216,11 +180,6 @@
         {
           "anchor": "water",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak",
-          "delayMs": 500
         }
       ]
     },
@@ -229,10 +188,6 @@
       "text": "King Aurelio came down to the valley to see the water running and stood watching it a long time without saying anything. Then he crouched, wet his hand and pressed it to his forehead. \"Daughter,\" he said, \"I was signing papers while you were measuring the mountain. Forgive me.\" Chamberlain Ciro, very red in the face, asked whether he might carry the princess's notebook whenever she needed him to. Mirena said yes, and also that he should call her engineer. That night there was bread again, big bread, the crusty kind. Late on, Mirena climbed up to her tower. She invented nothing. She put the rolled plan back in its place, blew out the candle and lay down with the window open, so she could hear the thread of water far below. Slowly, across her blanket, crept the moon. Tuerca settled on her feet and let out a tiny snore. And the engineer princess fell asleep, at last, in peace.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "snore",
           "sfx": "snore_soft",

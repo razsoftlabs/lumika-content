@@ -2,7 +2,7 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 3,
+  "version": 4,
   "title": "The Ticklish Lion",
   "summary": "The king of the savanna is hiding a very funny secret that shows up right when he tries to roar.",
   "scenes": [
@@ -49,10 +49,6 @@
       "id": "s4",
       "text": "The bee landed ever so gently on the tip of his nose. And Leo burst into a giggle! 'HA, HA, HA!'. Kicking with joy, he rolled happily among the dry leaves. Then the friends understood the king's secret: Leo was the most ticklish lion in the world! He could not roar because everything, the wind, the grass, a feather, tickled him too much. And seeing him so happy, the three friends could not hold back any longer. Mona laughed, Pío laughed, the bee laughed, and the whole savanna filled up with laughter.",
       "cues": [
-        {
-          "anchor": "giggle",
-          "sfx": "giggle"
-        },
         {
           "anchor": "leaves",
           "sfx": "leaves_rustle"

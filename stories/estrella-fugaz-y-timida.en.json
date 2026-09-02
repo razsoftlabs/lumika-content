@@ -2,7 +2,7 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "Titila, the Shy Shooting Star",
   "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "stars",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "Moon",
-          "sfx": "twinkle"
         }
       ]
     },
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Why was Titila so afraid? She thought: 'What if a child makes a wish and I get it wrong? What if they ask for a hug and I give them a balloon?' Just imagining it, she hid behind a cloud. One night her face was stroked by a warm wind. 'It's alright, little one. Nobody wishes for perfect wishes,' it whispered. But shy Titila closed her eyes and kept trembling in silence. She would rather watch from far away, where no one could see her cross.",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "whispered",
           "sfx": "whisper"
@@ -54,10 +46,6 @@
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
         }
       ],
       "ambient": null

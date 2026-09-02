@@ -2,7 +2,7 @@
   "id": "la-princesa-que-queria-ensuciarse",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Mud to the Ears",
   "summary": "A princess tired of always being clean and combed discovers, out in the garden, a joy that no castle can hold.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "In a castle with pink towers lived Princess Amapola. Every morning, three ladies bathed her, perfumed her, and combed her with a silver brush until she shone like a mirror. \"Don't move, princess! Don't get dirty, princess!\" they told her. Amapola had to sit up very straight, with her hands still and her dress without a single wrinkle. But inside, tucked away and longing to come out and play, she was keeping a giggle. She looked out the window at the wet garden and sighed. \"What if one day I got dirty... just a little?\" she thought, with a naughty tickle in her tummy.",
       "cues": [
-        {
-          "anchor": "giggle",
-          "sfx": "giggle"
-        },
         {
           "anchor": "sighed",
           "sfx": "breathe_in"
@@ -29,10 +25,6 @@
         {
           "anchor": "door",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "puddles",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -67,10 +59,6 @@
       "id": "s5",
       "text": "Then the queen did something no one expected: she took off her shoes, lifted her golden dress... and jumped into the puddle with both legs. Splash! \"I was a little girl who loved mud too,\" she said, laughing. Mother and daughter splashed together until the moon came out. That night, all bathed and warm, Amapola climbed into bed smelling of soap and garden. Her mother gave her a kiss, leaned close to her ear and whispered: \"You can be a princess and still get dirty, my love. What matters most is that you are you.\" Amapola smiled, closed her eyes and, dreaming of a thousand puddles to jump in, fell asleep.",
       "cues": [
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

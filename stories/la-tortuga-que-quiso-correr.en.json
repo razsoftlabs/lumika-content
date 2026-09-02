@@ -2,7 +2,7 @@
   "id": "la-tortuga-que-quiso-correr",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Tina Takes Her Time",
   "summary": "Tina the turtle learns that her pace is perfect just the way it is.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "Zoom",
           "sfx": "whoosh"
-        },
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
         }
       ],
       "ambient": "meadow_day"
@@ -28,10 +24,6 @@
         {
           "anchor": "fell",
           "sfx": "thud"
-        },
-        {
-          "anchor": "bee",
-          "sfx": "bee_buzz"
         }
       ],
       "ambient": "meadow_day"
@@ -40,10 +32,6 @@
       "id": "s3",
       "text": "The little bee landed on a yellow flower right next to Tina and looked at her kindly, bending her two little antennas. \"Tina, dear, can I ask you something?\" Tina nodded with her head, still sad. \"Do you know what beautiful things you see when you walk slowly?\" Tina looked at her without understanding, blinking. The bee continued: \"Think about it. You see the tiny petals of every flower, the dewdrops that look like pearls, the ants working in line, the hidden butterflies, the sun warming the earth bit by bit. You see how the wind changes, you hear the song of every bird. The rabbit doesn't see any of that. He's going so fast he only sees blurs.\" Tina stayed quiet, thinking. She lowered her little head and looked at the ground. And then she realized: right under her nose was a row of tiny ants carrying a shiny green leaf. There were about ten of them, all in order, one behind the other. Tina had never seen them before. Further on, on a low branch, a spiderweb was holding a single drop of water. It shone like a tiny diamond. And next to the spiderweb, a red ladybug with black dots that looked like a precious stone. Tina felt something warm light up inside her, right in her heart. She smiled slowly, as slowly as she walked.",
       "cues": [
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
@@ -59,10 +47,6 @@
         {
           "anchor": "laugh",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "ambient": "meadow_day",

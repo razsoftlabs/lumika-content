@@ -2,7 +2,7 @@
   "id": "pancho-el-perro-valiente",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Pancho el perro valiente",
   "summary": "Pancho descubre que ser valiente no es no tener miedo, sino seguir adelante.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "Pancho era un perro pequeño de pelo café con manchas blancas, orejas largas y caídas, y una cola que se movía como un metrónomo cada vez que estaba contento. Vivía en una casa pequeña con su familia, en un barrio tranquilo lleno de árboles. La casa tenía un jardín con flores de todos los colores: rojas, amarillas, violetas, blancas. Pancho era cariñoso y juguetón, le encantaba perseguir pelotas y dar volteretas en el pasto. Todos los vecinos lo conocían y le sonreían cuando salía a pasear. Pero Pancho tenía un secreto que nadie sabía, ni su familia, ni los amigos del parque, ni siquiera el gato del vecino: les tenía muchísimo miedo a las tormentas. Cada vez que el cielo se ponía gris, allá arriba empezaba a tronar. Entonces algo saltaba dentro de su pecho como un conejo asustado: su corazón. Bumbumbumbum. Las orejas se le caían más todavía y la cola se le metía entre las patas. Corría a esconderse bajo la cama de su humana, en el rincón más oscuro, y allí se quedaba muy quieto, con las patas tapándole las orejas, esperando a que pasara todo ese ruido feo.",
       "cues": [
-        {
-          "anchor": "tronar",
-          "sfx": "thunder"
-        },
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
@@ -27,7 +23,8 @@
       "cues": [
         {
           "anchor": "trueno",
-          "sfx": "thunder"
+          "sfx": "thunder",
+          "delayMs": 500
         },
         {
           "anchor": "maullido",
@@ -41,10 +38,6 @@
       "text": "Pancho seguía temblando de miedo. La tormenta no había parado; al contrario, parecía cada vez peor. Pero algo dentro de él, una voz pequeña y firme, le dijo: \"Pancho, tienes que ayudar\". El perro abrió los ojos. Miró hacia el pasillo. Tragó saliva. \"No puedo\", pensó al principio. \"Sí puedes\", contestó la voz. Pancho respiró hondo, una vez, dos veces. Salió de su escondite paso a paso, con las patas un poco flojas. Cruzó la sala, pasó al lado del sillón y llegó hasta la puerta. La empujó con el hocico, click, y se asomó. La lluvia le mojó el pelaje en un segundo, los truenos rugían arriba, las gotas le caían en los ojos. Pero Pancho siguió caminando, oliendo el aire para encontrar al gato. Mojado y hecho un ovillo, lo encontró debajo de un arbusto. Entonces juntó todo su valor y ladró. \"¡Aquí estoy! ¡No tengas miedo!\". Se acercó despacio, lo levantó con la boca con muchísimo cuidado de no lastimarlo y lo cargó hasta su casa. Le trajo su toalla favorita, la más suave, y lo ayudó a secarse.",
       "cues": [
         {
-          "anchor": "puerta",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "ladró",
           "sfx": "bark"
         }
@@ -56,10 +49,6 @@
       "id": "s4",
       "text": "El gato, al sentirse seco y abrigado, dejó de temblar poco a poco. Sus ojos verdes se fueron calmando. Empezó a ronronear en voz baja, un ronroneo de gratitud, prrr, prrr, prrr. Pancho se acurrucó a su lado y lo abrazó con sus patas peludas, como si fuera un peluche. Los dos se quedaron así, muy juntos, en la cama de Pancho, escuchando la tormenta desde adentro. Pancho apoyó la oreja contra su pecho y escuchó sus latidos. Afuera la lluvia seguía cayendo y los truenos seguían rugiendo, pero adentro había calor, había compañía, había seguridad. Y de pronto Pancho se dio cuenta de algo importante: ya no tenía miedo. Bueno, sí tenía miedo, pero un miedo distinto, más pequeño, porque dentro de él había crecido algo más grande que el miedo: el cariño. Esa noche Pancho aprendió un secreto que iba a recordar para siempre: ser valiente no es no tener miedo. Ser valiente es tener miedo y, aun así, salir a ayudar a los demás. Mientras la lluvia allá afuera los arrullaba como una canción de cuna, los dos amigos se durmieron.",
       "cues": [
-        {
-          "anchor": "latidos",
-          "sfx": "heartbeat_calm"
-        },
         {
           "anchor": "durmieron",
           "sfx": "snore_soft"

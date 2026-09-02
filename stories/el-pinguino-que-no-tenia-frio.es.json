@@ -2,7 +2,7 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "A Pip nunca le da frío",
   "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "En un lugar de hielo y nieve blanca vivía un pingüino llamado Pip. Todos sus amigos jugaban felices en el frío. Se acurrucaban, temblaban un poco y se reían. Pero Pip era distinto: Pip nunca, nunca tenía frío. Mientras los demás buscaban calor, él se abanicaba con un ala. '¡Uf, qué calor!', decía, soplando el flequillo de plumas. Alrededor silbaba y silbaba un viento. A Pip le encantaba. Sus amigos no entendían nada, y cada vez que Pip resoplaba, todos soltaban una risa. Pip también reía, aunque por dentro deseaba, solo un poco, poder enfriarse como los demás.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "risa",
           "sfx": "giggle"
@@ -37,10 +33,6 @@
       "text": "Pip no se rindió. Se acercó al mar azul y se lanzó de cabeza. ¡Plum! Bajo el agua todo era silencio y fresco. Pip soplaba y soplaba, y del pico le salían burbujas. Subían redondas, haciendo cosquillas. De pronto, del fondo azul apareció una ballena. Era enorme y amable, y le cantó una canción profunda y suave. Pip se sintió pequeño y feliz. Nadó y nadó, dando vueltas entre la espuma. Pero los pingüinos no pueden quedarse abajo para siempre, así que Pip subió a respirar. Al salir al aire, sacudió las plumas… y otra vez tenía calor. Se rió de sí mismo y se despidió de ella con un ala.",
       "ambient": "underwater",
       "cues": [
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
-        },
         {
           "anchor": "ballena",
           "sfx": "whale_song"
@@ -66,10 +58,6 @@
         {
           "anchor": "suspiraron",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "music": "guitar_warm"

@@ -2,7 +2,7 @@
   "id": "la-tortuga-que-quiso-correr",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Tina no tiene prisa",
   "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "Zoom",
           "sfx": "whoosh"
-        },
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
         }
       ],
       "ambient": "meadow_day"
@@ -28,10 +24,6 @@
         {
           "anchor": "cayó",
           "sfx": "thud"
-        },
-        {
-          "anchor": "abeja",
-          "sfx": "bee_buzz"
         }
       ],
       "ambient": "meadow_day"
@@ -40,10 +32,6 @@
       "id": "s3",
       "text": "La abeja se posó en una flor amarilla justo al lado de Tina y la miró con cariño, doblando sus dos antenas. \"Tina, querida, ¿puedo preguntarte algo?\". Tina asintió con la cabeza, todavía triste. \"¿Sabes cuántas cosas hermosas ves al caminar despacio?\". Tina la miró sin entender, parpadeando. La abeja siguió: \"Piensa un momento. Tú ves los pétalos de cada flor, las gotas de rocío que parecen perlas, las hormigas trabajando en fila, las mariposas escondidas, el sol que calienta la tierra poco a poco. Ves cómo cambia el viento y escuchas el canto de cada pájaro. El conejo no ve nada de eso. Va tan rápido que solo ve borrones\". Tina se quedó callada, pensando. Bajó la cabeza y miró el suelo. Y entonces se dio cuenta: justo debajo de su nariz había una hilera de hormigas cargando una hoja verde brillante. Eran como diez, todas ordenadas, una detrás de otra. Tina nunca antes las había visto. Más allá, en una rama baja, una telaraña sostenía una gota de agua. La gota brillaba como un diamante. Y al lado de la telaraña, una mariquita roja con puntos negros que parecía una piedra preciosa. Tina sintió algo tibio que se encendía adentro, justo en el corazón. Y sonrió despacio, tan despacio como caminaba.",
       "cues": [
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
@@ -59,10 +47,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "ambient": "meadow_day",

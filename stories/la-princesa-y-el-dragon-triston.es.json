@@ -2,7 +2,7 @@
   "id": "la-princesa-y-el-dragon-triston",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "La princesa y el dragón tristón",
   "summary": "Una princesa descubre que el dragón rugía porque tenía una espina clavada en la pata.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "En un reino lejano, muy lejano, había torres altas, un río que cruzaba la aldea como una serpiente azul y banderas de colores que se movían con el viento. Allí vivía la princesa Ana. Pero Ana no era una princesa común. Mientras las otras princesas se peinaban delante del espejo y tomaban té con galletas, Ana andaba con las rodillas raspadas, el pelo despeinado, una venda en el codo y una mochila roja llena de cosas raras: pinzas, gasas, una linterna, un cuchillo sin filo, un frasco de miel y una libreta para anotar todo lo que descubría. A Ana le gustaba más explorar el bosque y curar los rasguños de los animales que ir a las fiestas del castillo. Una mañana de primavera, mientras desayunaba con sus padres, un ruido enorme bajó de las montañas y asustó a todo el reino: ¡GRRROOOAAAARR! Era un rugido tan fuerte que las ventanas vibraron, los platos se sacudieron, los gatos se escondieron debajo de las camas y en los establos los caballos soltaron un relincho. La aldea entera corrió a refugiarse gritando: \"¡el dragón, el dragón!\". Pero Ana no se escondió. Dejó la cuchara sobre la mesa, se limpió la boca con la manga, tomó su mochila roja, se puso las botas y salió a investigar. \"Algo raro pasa\", pensó.",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "relincho",
           "sfx": "horse_neigh"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Ana caminó por el sendero polvoriento que subía a las montañas, esquivando piedras sueltas y saludando a las flores que conocía por su nombre. Subió, subió, subió, hasta llegar a la montaña más alta del reino. Allí, escondida entre rocas grises y arbustos espinosos, había una cueva oscura, con la entrada abierta como una boca enorme. Adentro se escuchaba un sonido extraño. Ana, que tenía muy buen oído, prestó atención: no era un rugido feroz, era un sollozo. ¿Un dragón llorando? Ana arrugó la nariz, intrigada. Sacó la linterna de su mochila, la encendió y entró con mucho cuidado. La cueva olía a humo viejo y a tierra mojada, y en aquel silencio enorme solo se escuchaban sus pisadas. Y entonces lo vio: era un dragón gigantesco, de escamas verdes brillantes, con dos cuernos largos, las alas plegadas y la cola enroscada. Estaba acostado en el suelo, con la cabeza apoyada sobre sus patas delanteras, y por sus mejillas rodaban dos lágrimas enormes, plip, plop. \"¿Qué te pasa, dragón?\", preguntó Ana sin miedo, dando un paso más. El dragón levantó los ojos, rojos de tanto llorar, y soltó un suspiro. Después le mostró la pata trasera: tenía una espina clavada muy adentro, y toda la pata hinchada y roja. Le dolía muchísimo.",
       "cues": [
-        {
-          "anchor": "pisadas",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "suspiro",
           "sfx": "breathe_in"
@@ -42,7 +34,7 @@
       "cues": [
         {
           "anchor": "destello",
-          "sfx": "sparkle"
+          "sfx": "magic_shimmer"
         },
         {
           "anchor": "risa",
@@ -59,10 +51,6 @@
         {
           "anchor": "volar",
           "sfx": "wing_flap"
-        },
-        {
-          "anchor": "brillaban",
-          "sfx": "sparkle"
         }
       ],
       "ambient": "fireplace"

@@ -2,7 +2,7 @@
   "id": "los-tres-amigos-del-bosque",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The three forest friends",
   "summary": "A bunny, a hedgehog, and a squirrel discover that together they go further.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "It was a fresh and sunny morning in the forest, one of those mornings when the birds sang so loudly it sounded like they were sharing a juicy new piece of gossip. The dew still glistened on the grass and the rays of the sun slipped between the leaves like golden threads. Lola, a white bunny with long ears and a pink nose, ran between the trees looking for something tasty for breakfast. Pum, pum, pum! On the wet earth you could hear her steps. Suddenly, Lola stopped short. She lifted her nose, sniffed the air, and opened her eyes wide as two plates: at the very top of a big tree, hanging from the highest branch, was an apple. But not just any apple. It was red, round, shiny, juicy, the kind that look painted. Lola's mouth watered just looking at it. She gathered momentum and jumped. Then she jumped higher. Then she jumped with all her strength. But the apple was too, too high. \"Oh, what a shame,\" she sighed, sitting down in the grass with her ears drooping.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "steps",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "jumped",
           "sfx": "jump_hop"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "A noise made her turn around: something was moving among the leaves. Crick, crick. Out of the ferns came Pim, a small hedgehog with soft brown spines and a friendly smile that took up half his face. \"Hello, hello,\" said Pim, shaking a leaf off his head. \"I also saw that apple this morning, while I was out walking.\" He came up to Lola walking slowly, because hedgehogs aren't very fast. \"And I want it too, you know? But I'm so short, I can't even reach the first branch.\" Pim stood next to Lola and the two of them looked at the apple with the same sad face. They tried one at a time: Pim hopped, Lola hopped. They tried together: Pim made a step-stool and Lola climbed on his soft spines. But oh, the spines tickled and Lola laughed. She fell off, plop, and the two of them ended up rolling on the grass. The apple was still up there, far away, shining as if it were making fun of them. Lola and Pim looked at each other and sighed at the same time.",
       "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "laughed",
           "sfx": "giggle"

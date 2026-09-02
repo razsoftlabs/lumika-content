@@ -2,7 +2,7 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "Titila, la estrella fugaz tímida",
   "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "estrellas",
           "sfx": "sparkle"
-        },
-        {
-          "anchor": "Luna",
-          "sfx": "twinkle"
         }
       ]
     },
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "¿Por qué tenía tanto miedo Titila? Ella pensaba: «¿Y si un niño pide un deseo y yo lo confundo? ¿Y si pide un abrazo y le doy un globo?». Solo de imaginarlo, se escondía detrás de una nube. Una noche se le acercó, tibio y despacio, un viento. Le acarició la cara con mucho cuidado. —No pasa nada, pequeña. Nadie pide deseos perfectos —le susurró. Pero Titila, tímida, cerró los ojos y siguió temblando en silencio. Prefería mirar desde lejos, sin que nadie la viera cruzar.",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "susurró",
           "sfx": "whisper"
@@ -54,10 +46,6 @@
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
         }
       ],
       "ambient": null

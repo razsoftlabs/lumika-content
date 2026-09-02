@@ -2,7 +2,7 @@
   "id": "la-princesa-que-queria-ensuciarse",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Barro hasta las orejas",
   "summary": "Una princesa cansada de estar siempre limpia y peinada descubre en el jardín una alegría que no cabe en ningún castillo.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "En un castillo de torres rosadas vivía la princesa Amapola. Todas las mañanas, tres damas la bañaban, la perfumaban y la peinaban con un cepillo de plata hasta dejarla brillante como un espejo. \"¡No te muevas, princesa! ¡No te ensucies, princesa!\", le decían. Amapola tenía que sentarse muy derecha, con las manos quietas y el vestido sin una sola arruga. Pero por dentro, guardada y con muchas ganas de salir a jugar, llevaba una risa. Miró por la ventana el jardín mojado y suspiró. \"¿Y si un día me ensucio... solo un poco?\", pensó, con un cosquilleo travieso en la barriga.",
       "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        },
         {
           "anchor": "suspiró",
           "sfx": "breathe_in"
@@ -29,10 +25,6 @@
         {
           "anchor": "puerta",
           "sfx": "door_open"
-        },
-        {
-          "anchor": "charcos",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -60,10 +52,6 @@
         {
           "anchor": "rana",
           "sfx": "frog_croak"
-        },
-        {
-          "anchor": "perro",
-          "sfx": "bark"
         }
       ]
     },
@@ -71,10 +59,6 @@
       "id": "s5",
       "text": "Entonces la reina hizo algo que nadie esperaba: se quitó los zapatos, se levantó el vestido dorado... y saltó al charco con las dos piernas. ¡Plaf! \"Yo también fui una niña que amaba el barro\", dijo riéndose. Mamá e hija chapotearon juntas hasta que salió la luna. Esa noche, ya bañada y tibia, Amapola se metió en la cama oliendo a jabón y a jardín. Su mamá le dio un beso, se acercó a su oído y le susurró: \"Puedes ser princesa y ensuciarte, mi amor. Lo más importante es que seas tú.\" Amapola sonrió, cerró los ojos y, soñando con mil charcos por saltar, se durmió.",
       "cues": [
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
-        },
         {
           "anchor": "durmió",
           "sfx": "snore_soft"

@@ -2,7 +2,7 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Pip Is Never Cold",
   "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "In a land of ice and white snow lived a penguin named Pip. All his friends played happily in the cold. They huddled together, shivered a little, and laughed. But Pip was different: Pip was never, ever cold. While the others looked for warmth, he fanned himself with a wing. 'Phew, so hot!' he said, blowing the feathers off his forehead. All around, whistling and whistling, blew an icy wind. Pip loved it. His friends did not understand at all, and every time Pip puffed and huffed, they let out a giggle. Pip laughed too, though deep inside he wished, just a little, that he could cool off like everyone else.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "giggle",
           "sfx": "giggle"
@@ -37,10 +33,6 @@
       "text": "Pip did not give up. He waddled to the blue sea and dove in headfirst. Ploomp! Under the water everything was quiet and cool. Pip blew and blew, and out of his beak came bubbles. They floated up round and tickly. Suddenly, out of the blue depths came a whale. She was huge and kind, and she sang him a deep, gentle song. Pip felt tiny and happy. He swam and swam, spinning through the foam. But penguins can't stay down forever, so Pip came up to breathe. As he reached the air, he shook his feathers… and there it was again, warm and toasty. He laughed at himself and waved goodbye to her with a wing.",
       "ambient": "underwater",
       "cues": [
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        },
         {
           "anchor": "whale",
           "sfx": "whale_song"
@@ -66,10 +58,6 @@
         {
           "anchor": "sighed",
           "sfx": "breathe_in"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "music": "guitar_warm"

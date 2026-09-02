@@ -2,7 +2,7 @@
   "id": "la-noche-de-las-luciernagas",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La noche de las luciérnagas",
   "summary": "Un cuento muy corto y calmado, perfecto para ojos pesados.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "Era una noche de verano y todo estaba quieto, muy quieto. Tan quieto que se podía escuchar el silencio. Sobre el techo de la casa de la abuela, redonda y blanca como un queso, brillaba la luna. En la ventana del cuarto pequeño, una niña en pijama de estrellas miraba hacia el jardín, con el pelo despeinado y los ojos curiosos. Tenía sueño, pero todavía no quería dormirse. De pronto vio algo que la dejó con la boca abierta. Entre las flores del jardín, en el pasto y en las hojas de los árboles, volaban unas chispas. Prendían y apagaban, prendían y apagaban, como estrellas que se hubieran caído del cielo y anduvieran perdidas buscando volver. La abuela apareció a su lado, con su olor a pan recién hecho, y le susurró al oído: \"Son luciérnagas, mi vida. Vienen una vez al año, en las noches más calladas, a saludar a la noche\". La niña abrió los ojos grandes.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "chispas",
           "sfx": "sparkle"
@@ -26,10 +22,6 @@
       "text": "La niña se puso las pantuflas y bajó al jardín sin hacer ruido, despacio como una hoja que cae. La abuela la siguió, sonriendo. El pasto estaba fresco bajo sus pasos. Las flores cerradas dormían. Las luciérnagas, al verla llegar, se acercaron volando todas juntas. Una se posó en su dedo, otra en su hombro, otra dio dos vueltas alrededor de su cabeza. Eran como linternas mágicas con corazón propio. La niña se quedó muy quieta, con miedo de asustarlas. \"Hola\", les dijo en un susurro. Las luciérnagas le contestaron parpadeando con sus luces, una vez, dos veces, tres veces, como si estuvieran de acuerdo con algo importante.",
       "cues": [
         {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
-        {
           "anchor": "susurro",
           "sfx": "whisper"
         }
@@ -40,10 +32,6 @@
       "id": "s3",
       "text": "La abuela le contó al oído un secreto: \"Cada luz lleva un sueño adentro. Mira esa: esa lleva el sueño de volar. Esa otra, el de bailar entre las nubes. Aquella, el de descubrir un tesoro escondido\". La niña miró cada luciérnaga con ternura, tratando de adivinar qué sueño llevaba dentro. Se sentó en el pasto fresco, con la abuela al lado. El aire olía a noche, a tierra y a jazmín, y la niña soltó un suspiro. Las luciérnagas, una a una, fueron formando una corona de luces sobre su cabeza. Los ojos se le fueron cerrando despacio, sin que ella se diera cuenta. La abuela la levantó con cuidado, la llevó a la cama y allí se quedó dormida. Y esa misma noche ya estaba volando con las luciérnagas, como una luciérnaga más entre los sueños de la noche. Y soñó hasta el amanecer.",
       "cues": [
-        {
-          "anchor": "suspiro",
-          "sfx": "breathe_in"
-        },
         {
           "anchor": "dormida",
           "sfx": "snore_soft"

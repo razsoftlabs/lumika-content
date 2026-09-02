@@ -2,7 +2,7 @@
   "id": "el-zorro-y-la-luna",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The fox and the moon",
   "summary": "A curious little fox wants to reach the moon and discovers something prettier on the way.",
   "scenes": [
@@ -14,10 +14,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
         }
       ]
     },
@@ -28,10 +24,6 @@
         {
           "anchor": "jumped",
           "sfx": "jump_hop"
-        },
-        {
-          "anchor": "laughed",
-          "sfx": "giggle"
         }
       ],
       "ambient": "forest_night"

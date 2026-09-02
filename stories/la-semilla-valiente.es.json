@@ -2,7 +2,7 @@
   "id": "la-semilla-valiente",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "La semilla valiente",
   "summary": "Una semilla muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?",
   "scenes": [
@@ -13,7 +13,8 @@
       "cues": [
         {
           "anchor": "búho",
-          "sfx": "owl_hoot"
+          "sfx": "owl_hoot",
+          "delayMs": 700
         },
         {
           "anchor": "respiró",
@@ -29,10 +30,6 @@
         {
           "anchor": "gotas",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
         }
       ]
     },
@@ -55,10 +52,6 @@
         {
           "anchor": "risa",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
         }
       ],
       "music": "strings_hopeful"
@@ -71,10 +64,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "music": "guitar_warm"

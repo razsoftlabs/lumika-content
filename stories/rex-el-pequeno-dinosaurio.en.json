@@ -2,7 +2,7 @@
   "id": "rex-el-pequeno-dinosaurio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "Rex, the little dinosaur",
   "summary": "Rex is the smallest in his family, but he has a huge roar that scares even the clouds.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "footsteps",
           "sfx": "dino_step"
-        },
-        {
-          "anchor": "puddles",
-          "sfx": "water_splash"
         }
       ],
       "ambient": "forest_birds"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "One sunny morning, while Rex was skipping flat stones across a clear stream, he heard a cry. It was a sharp, frightened cry. Rex lifted his head and swiveled his ears like two antennas, paf, paf. The cry was coming from some nearby bushes. Rex walked over there slowly, intrigued. And he saw something that broke his heart: an orange butterfly, with wings as bright as the setting sun, had been trapped under a giant branch. The branch was enormous, heavy, gray, much bigger than Rex. The butterfly flapped her wings desperately, unable to escape, and her eyes were full of tears. \"Help, help!\" she squeaked in a thin voice. Rex looked around: his parents were far away, eating on the other side of the valley. His brothers and sisters too. He was alone. For a second he wanted to run off and find someone bigger. But the butterfly looked into his eyes, and Rex knew what he had to do. Before roaring, he closed his eyes and breathed. Then he filled his lungs until his belly puffed up like a balloon, opened his mouth, and roared with all his might: GRRRROOOAAAAAR!",
       "cues": [
-        {
-          "anchor": "bushes",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "breathed",
           "sfx": "breathe_in"
@@ -58,10 +50,6 @@
         {
           "anchor": "stream",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
         }
       ],
       "ambient": "meadow_day",

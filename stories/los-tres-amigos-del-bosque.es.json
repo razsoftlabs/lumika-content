@@ -2,7 +2,7 @@
   "id": "los-tres-amigos-del-bosque",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Los tres amigos del bosque",
   "summary": "Un conejo, un erizo y una ardilla descubren que juntos llegan más lejos.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "Era una mañana fresca y soleada en el bosque, una de esas mañanas en que los pájaros cantan tan fuerte que parece que están contando un chisme nuevo. El rocío todavía brillaba sobre el pasto y los rayos del sol se colaban entre las hojas como hilos dorados. Lola, una coneja blanca de orejas largas y nariz rosada, corría entre los árboles buscando algo rico para desayunar. ¡Pum, pum, pum! Sobre la tierra húmeda sonaban sus pasos. De pronto, Lola se detuvo en seco. Levantó la nariz, olfateó el aire y abrió los ojos como dos platos: en lo más alto de un árbol grande, colgada de la rama más alta, había una manzana. Pero no cualquier manzana. Era roja, redonda, brillante, jugosa, de esas que parecen pintadas. A Lola se le hizo agua la boca de solo mirarla. Tomó impulso y saltó. Después saltó más alto. Después saltó con todas sus fuerzas. Pero la manzana estaba demasiado, demasiado alta. \"Ay, qué pena\", suspiró, sentándose en el pasto con las orejas caídas.",
       "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "saltó",
           "sfx": "jump_hop"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Un ruido la hizo voltear: algo se movía entre las hojas. Crick, crick. De entre los helechos salió Pim, un erizo pequeño de pinchos suaves color marrón y una sonrisa simpática que le ocupaba media cara. \"Hola, hola\", dijo Pim sacudiéndose una hoja de la cabeza. \"Yo también vi esa manzana esta mañana, mientras paseaba\". Se acercó a Lola caminando despacio, porque los erizos no son muy rápidos. \"Y también la quiero, ¿sabes? Pero soy muy bajo, ni siquiera llego a la primera rama\". Pim se puso al lado de Lola y los dos miraron la manzana con la misma cara de tristeza. Probaron uno por uno: Pim saltaba, Lola saltaba. Probaron juntos: Pim hizo una escalera y Lola se trepó a sus pinchos suaves. Pero ay, los pinchos hacían cosquillas y Lola se rió. Se cayó, ploc, y los dos terminaron rodando por el pasto. La manzana seguía allá arriba, lejana, brillando como si se estuviera burlando de ellos. Lola y Pim se miraron y suspiraron al mismo tiempo.",
       "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "rió",
           "sfx": "giggle"

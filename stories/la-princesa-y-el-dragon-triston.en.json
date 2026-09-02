@@ -2,7 +2,7 @@
   "id": "la-princesa-y-el-dragon-triston",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The princess and the sad dragon",
   "summary": "A princess discovers that the dragon was roaring because he had a thorn in his paw.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "In a far-away kingdom, very far away, there were tall towers, a river that crossed the village like a blue snake, and colorful flags that swayed in the wind. There lived Princess Ana. But Ana was no ordinary princess. While the other princesses combed their hair in front of the mirror and drank tea with cookies, Ana ran around with skinned knees, messy hair, a bandage on her elbow, and a red backpack full of strange things: tweezers, gauze, a flashlight, a knife with no blade, a jar of honey, and a notebook for writing down everything she discovered. Ana liked exploring the forest and patching up animal scratches more than going to castle parties. One spring morning, while she was having breakfast with her parents, a huge noise came down from the mountains and startled the whole kingdom: GRRROOOAAAARR! It was a roar so loud that the glass rattled, the plates shook, the cats hid under the beds, and in the stables the horses let out a neigh. The whole village ran for cover, shouting: \"the dragon, the dragon!\" But Ana didn't hide. She put down her spoon, wiped her mouth on her sleeve, took her red backpack, put on her boots, and went out to investigate. \"Something strange is going on,\" she thought.",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "neigh",
           "sfx": "horse_neigh"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Ana walked along the dusty path that climbed up to the mountains, dodging loose stones and saying hello to the flowers she knew by name. She climbed, climbed, climbed, until she reached the highest mountain in the kingdom. There, hidden between gray rocks and thorny bushes, was a dark cave, its entrance open like a huge mouth. Inside, a strange sound could be heard. Ana, who had very sharp ears, listened closely: it wasn't a fierce roar, it was a sob. A dragon crying? Ana wrinkled her nose, intrigued. She pulled the flashlight out of her backpack, turned it on, and went in very carefully. The cave smelled of old smoke and wet earth, and in that huge silence all she could hear were her own footsteps. And then she saw him: a gigantic dragon with shiny green scales, two long horns, folded wings, and a coiled tail. He was lying on the ground, his head resting on his front paws, and down his cheeks rolled two enormous tears, drip, drop. \"What's wrong, dragon?\" asked Ana without fear, taking one more step. The dragon lifted his eyes, red from so much crying, and let out a sigh. Then he showed her his back paw: there was a thorn stuck deep inside, and the whole paw was swollen and red. It hurt a lot.",
       "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        },
         {
           "anchor": "sigh",
           "sfx": "breathe_in"
@@ -42,7 +34,7 @@
       "cues": [
         {
           "anchor": "sparkle",
-          "sfx": "sparkle"
+          "sfx": "magic_shimmer"
         },
         {
           "anchor": "laughter",
@@ -59,10 +51,6 @@
         {
           "anchor": "flying",
           "sfx": "wing_flap"
-        },
-        {
-          "anchor": "sparkled",
-          "sfx": "sparkle"
         }
       ],
       "ambient": "fireplace"

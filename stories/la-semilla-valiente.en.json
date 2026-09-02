@@ -2,7 +2,7 @@
   "id": "la-semilla-valiente",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 6,
   "title": "The Brave Little Seed",
   "summary": "A tiny seed is afraid of the dark under the ground… will she find the courage to grow?",
   "scenes": [
@@ -13,7 +13,8 @@
       "cues": [
         {
           "anchor": "owl",
-          "sfx": "owl_hoot"
+          "sfx": "owl_hoot",
+          "delayMs": 700
         },
         {
           "anchor": "breathed",
@@ -29,10 +30,6 @@
         {
           "anchor": "drops",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
         }
       ]
     },
@@ -55,10 +52,6 @@
         {
           "anchor": "giggle",
           "sfx": "giggle"
-        },
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
         }
       ],
       "music": "strings_hopeful"
@@ -71,10 +64,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "music": "guitar_warm"

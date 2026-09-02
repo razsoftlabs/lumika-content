@@ -2,7 +2,7 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "El monstruo amistoso de la cama",
   "summary": "Cuando Iván oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "Iván se acurrucó bajo las mantas. Por la ventana entraba una luz redonda y plateada: la luna. Afuera, los árboles se mecían despacio con el viento. Todo estaba en calma... hasta que, desde debajo de la cama, llegó un ruido pequeño. Un tiritón. Un suspiro. Iván se quedó muy quieto, escuchando su propio corazón. ¿Qué podía ser ese sonido tan tímido en la oscuridad?",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "viento",
           "sfx": "wind_soft"
@@ -37,10 +33,6 @@
       "text": "—No voy a hacerte nada —dijo Iván en voz baja—. ¿Por qué tiemblas? El monstruo bajó la mirada. —Es que... me da mucho miedo la oscuridad —confesó—. Aquí abajo todo está negro, y cuando apagan la luz me siento muy solo. Iván abrió mucho los ojos: él sentía exactamente lo mismo. Por eso, cada noche, dejaba abierta la puerta. Sorprendidos de parecerse tanto, los dos se rieron. Fue una risa suave, de esas que se comparten en secreto.",
       "cues": [
         {
-          "anchor": "puerta",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "rieron",
           "sfx": "giggle"
         }
@@ -53,7 +45,7 @@
       "cues": [
         {
           "anchor": "estrellas",
-          "sfx": "sparkle"
+          "sfx": "twinkle"
         }
       ],
       "ambient": "city_soft",

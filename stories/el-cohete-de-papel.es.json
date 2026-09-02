@@ -2,7 +2,7 @@
   "id": "el-cohete-de-papel",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 9,
   "title": "El cohete de papel",
   "summary": "Dani construye un cohete de papel y vuela hasta una estrella amarilla.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "Dani tenía cinco años y un sueño tan grande que casi no le entraba en el pecho: quería viajar al espacio. En su cuarto, las paredes estaban tapizadas de mapas de planetas que él mismo había pegado, con la lengua afuera de tanta concentración. Júpiter el gigante, Saturno con su anillo, Marte rojo, la Tierra azul como una canica. Sobre la cama, su peluche favorito, un astronauta llamado Pepe, lo miraba siempre con la misma sonrisa pintada. Una tarde de brisa, después de tomar la merienda, Dani sacó una hoja blanca y limpia de su cuaderno. La estiró sobre el escritorio y se puso a doblarla con muchísimo cuidado. Pliegue arriba, pliegue al medio, pliegue en las puntas, repliegue del repliegue. Sus dedos trabajaron despacio, sin apuro, mordiéndose el labio de la concentración. La hoja se fue transformando: primero parecía un barco, después un sombrero, después... ¡un cohete! Lo sostuvo entre las manos, blanco y brillante como la luna. Dani lo miró con orgullo, sonrió y le susurró: \"¿Listo para despegar, amigo?\".",
       "cues": [
-        {
-          "anchor": "cohete",
-          "sfx": "rocket"
-        },
         {
           "anchor": "luna",
           "sfx": "twinkle"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Dani abrió la ventana de su cuarto y se asomó al cielo nocturno. El pelo se le revolvió con el viento. Llegaba olor a noche, a flores cerradas. Las estrellas titilaban allá arriba como ojos curiosos, esperando algo. Dani levantó el cohete de papel con las dos manos, lo apuntó hacia el cielo y empezó la cuenta regresiva en voz baja. \"Tres... dos... uno...\". Y lo lanzó al aire con todas sus fuerzas. ¡Fiummm! El cohete subió y subió, más rápido cada vez, dejando detrás una estela de chispas plateadas. Pasó las copas de los árboles, pasó el balcón del vecino que tenía gatos, pasó las nubes blancas que dormían. Dejó atrás a los pájaros que descansaban en sus nidos y a los murciélagos que jugaban entre las ramas. Y entonces, sin saber cómo —porque las cosas mágicas siempre pasan así, sin avisar—, Dani se encontró arriba del cohete, agarrado de la punta con las dos manos, los ojos abiertos como dos platos, las mejillas coloradas. ¡Estaba volando de verdad!",
       "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "Fiummm",
           "sfx": "rocket"
@@ -55,10 +47,6 @@
         {
           "anchor": "magia",
           "sfx": "magic_shimmer"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
         }
       ],
       "ambient": null

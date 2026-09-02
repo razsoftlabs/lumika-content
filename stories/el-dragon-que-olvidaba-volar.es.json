@@ -2,7 +2,7 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "Despacio se vuela mejor",
   "summary": "Un dragón nervioso aprende que con calma todo se logra.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "corazón",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "chispas",
-          "sfx": "sparkle"
         }
       ],
       "ambient": "meadow_day"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Una mañana de cielo despejado, Tito decidió que ese era el día. Subió a una piedra grande con paso firme, infló el pecho como había visto hacer a su papá, cerró los ojos y se preparó. \"Vamos, Tito, tú puedes\", se dijo a sí mismo. Contó tres, dos, uno y saltó. Por un segundo sintió el viento en la cara y pensó \"¡lo logré!\". Pero entonces sus alas se trabaron, una se cruzó con la otra y... ¡Plof! Cayó de boca al suelo, con la nariz llena de hojas y una flor amarilla pegada en la frente. Una mariposa que pasaba volando cerca se rió tanto que se mareó y aterrizó torcida en una rama. Tito se puso muy triste. Se le hizo un nudo en la garganta y dos lágrimas enormes le mojaron las escamas. \"Nunca, nunca, nunca voy a poder volar\", suspiró el pequeño dragón, y se acostó panza arriba, mirando el cielo.",
       "cues": [
-        {
-          "anchor": "saltó",
-          "sfx": "jump_hop"
-        },
         {
           "anchor": "Plof",
           "sfx": "thud"
@@ -40,10 +32,6 @@
       "id": "s3",
       "text": "La mariposa, ya repuesta de su risa, sintió pena por el dragón. Bajó volando despacio y se posó en su nariz. Tenía las alas naranjas con puntos negros, como una flor con manchas. \"Perdóname, no me reía de ti\", le susurró. \"Lo que pasa es que te pones muy duro. Piensas demasiado\". Tito abrió un ojo, después el otro. La mariposa siguió: \"Te voy a contar un secreto, ¿sí? Cierra los ojos. Ahora respira. Hondo, así, mira cómo lo hago yo\". La mariposa infló su panza y soltó el aire con un soplido suave. Tito la copió. \"De nuevo. Una vez más. Imagina las nubes, imagina el viento en tus alas. No pienses en volar. Tus alas ya saben. Solo hay que dejarlas tranquilas\". Tito hizo todo lo que le decía la mariposa. Tomó aire una vez, dos veces, tres veces, cuatro. Su corazón, que antes saltaba como un conejo, empezó a latir despacio. La panza se le fue poniendo tibia.",
       "cues": [
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
-        },
         {
           "anchor": "respira",
           "sfx": "breathe_in"

@@ -2,7 +2,7 @@
   "id": "el-cohete-de-papel",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "The paper rocket",
   "summary": "Dani builds a paper rocket and flies all the way to a yellow star.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "Dani was five years old and had a dream so big it almost didn't fit in his chest: he wanted to travel to space. In his bedroom, the walls were covered with maps of planets that he had taped up himself, with his tongue sticking out from concentration. Big Jupiter, Saturn with his ring, red little Mars, blue Earth like a marble. On his bed, his favorite stuffed animal, an astronaut named Pepe, watched him always with the same painted smile. One soft, windy afternoon, after eating his snack, Dani took a clean white sheet from his notebook. He smoothed it out on his desk and began to fold it very, very carefully. Fold up, fold in the middle, fold the corners, fold of the fold. His little fingers worked slowly, without rushing, biting his lip in concentration. The sheet of paper transformed: first it looked like a little boat, then a hat, then... a rocket! He held it in his hands, white and shining like the full moon. Dani looked at it with pride, smiled, and whispered softly: \"Ready to take off, friend?\"",
       "cues": [
-        {
-          "anchor": "rocket",
-          "sfx": "rocket"
-        },
         {
           "anchor": "moon",
           "sfx": "twinkle"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Dani opened his bedroom window and leaned out to the night sky. His hair was ruffled by the breeze. The night air smelled of closed flowers. The stars twinkled up there like curious little eyes, waiting for something. Dani lifted the paper rocket with both hands, pointed it at the sky and started the countdown in a low voice. \"Three... two... one...\" And he threw it into the air with all his strength. Whoosh! The rocket went up and up, faster and faster, leaving a trail of silver sparkles behind. It passed the tops of the trees, passed the neighbor's balcony with the cats, passed the sleeping white clouds. It left behind the little birds resting in their nests and the bats playing among the branches. And then, without knowing how — because magic things always happen like that, without warning — Dani found himself on top of the rocket, holding the tip with his little hands, eyes wide as two plates, cheeks rosy. He was actually flying!",
       "cues": [
-        {
-          "anchor": "breeze",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "Whoosh",
           "sfx": "rocket"
@@ -55,10 +47,6 @@
         {
           "anchor": "magic",
           "sfx": "magic_shimmer"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "ambient": null

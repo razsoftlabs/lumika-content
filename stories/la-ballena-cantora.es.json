@@ -2,7 +2,7 @@
   "id": "la-ballena-cantora",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "La ballena cantora",
   "summary": "Una ballena pequeña descubre que su voz es el regalo más bonito del océano.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "En lo más profundo del mar azul, donde el agua es tan oscura como la noche pero todavía deja pasar hilos de sol como rayos de oro derretido, vivía una ballena muy pequeña. Era del tamaño de un colchón, con la panza blanca y el lomo color cielo de tormenta. Arriba, muy lejos de ella, se mecían las olas. Pero la ballena guardaba un secreto enorme: nunca hablaba, nunca cantaba, ni siquiera hacía burbujas. Le daba vergüenza su voz, porque pensaba que era demasiado pequeña, demasiado delgada, demasiado nada. Cada día se escondía detrás de los corales rosados, con la cola enrollada bajo la panza, y miraba pasar a los peces de colores sin saludar. \"Hola\", quería decir en voz baja. Pero la palabra se le quedaba atrapada en la garganta, como un caracol tímido. El océano la cuidaba en silencio, paciente, esperando el día en que se animara.",
       "ambient": "underwater",
       "cues": [
-        {
-          "anchor": "olas",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "burbujas",
           "sfx": "bubbles"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Una mañana de aguas calmadas, mientras nadaba sola entre las algas, escuchó algo distinto. Un sonido delgado, lloroso. Era un pulpo perdido, sentado sobre una almeja, con sus ocho brazos enroscados de tristeza. Tenía los ojos llenos de lágrimas que se mezclaban con el agua salada. La ballena lo miró desde lejos, dudó un segundo, se acercó un poco, dudó otra vez. Después cerró los ojos y respiró. Y, casi sin querer, abrió la boca y cantó. De ella salió un sonido tembloroso y suave, como un suspiro de agua. El pulpo dejó de llorar al instante, sorprendido. Levantó la cabeza, parpadeó y movió todos sus brazos al mismo tiempo. \"¿Tú cantaste?\", preguntó en voz baja, como si no se atreviera a creerlo. La ballena quiso esconderse otra vez detrás del coral y agachó la cabeza. Pero el pulpo le sonrió con una sonrisa enorme, llena de ternura, y le dijo: \"Es la cosa más bonita que escuché en mi vida\".",
       "cues": [
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        },
         {
           "anchor": "cantó",
           "sfx": "whale_song"

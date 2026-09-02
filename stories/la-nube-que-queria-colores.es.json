@@ -2,7 +2,7 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 7,
   "title": "Nube quiere colores",
   "summary": "Nube es blanca y quiere ser de colores. Una lluvia traviesa le enseña de dónde salen los arcoíris.",
   "scenes": [
@@ -34,23 +34,20 @@
       "cues": [
         {
           "anchor": "gotas",
-          "sfx": "water_splash"
+          "sfx": "water_splash",
+          "ambient": "rain"
         },
         {
           "anchor": "mágico",
           "sfx": "magic_shimmer"
         }
       ],
-      "ambient": "rain"
+      "ambient": null
     },
     {
       "id": "s4",
       "text": "¡Era un arcoíris! Rojo, naranja, amarillo, verde, azul y morado, todos salidos de sus propias gotas. Nube entendió que sus colores no estaban afuera: estaban dentro de ella, esperando el momento justo para brillar. Y meciéndose feliz en el cielo, se quedó dormida.",
       "cues": [
-        {
-          "anchor": "brillar",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "dormida",
           "sfx": "snore_soft"

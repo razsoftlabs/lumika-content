@@ -2,7 +2,7 @@
   "id": "rex-el-pequeno-dinosaurio",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 5,
+  "version": 6,
   "title": "Rex, el pequeño dinosaurio",
   "summary": "Rex es el más pequeño de su familia, pero tiene un rugido enorme que asusta hasta a las nubes.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "pasos",
           "sfx": "dino_step"
-        },
-        {
-          "anchor": "charcos",
-          "sfx": "water_splash"
         }
       ],
       "ambient": "forest_birds"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "Una mañana de sol, mientras Rex jugaba a lanzar piedras planas sobre un arroyo cristalino, escuchó un grito. Era un grito agudo y asustado. Rex levantó la cabeza y movió las orejas como dos antenas, paf, paf. El grito venía de unos arbustos. Rex caminó hasta allá despacio, intrigado. Y vio algo que le partió el corazón: una mariposa naranja, de alas brillantes como el sol del atardecer, había quedado atrapada bajo una rama gigante. La rama era enorme, pesada, gris, mucho más grande que Rex. La mariposa movía las alas con desesperación, sin poder salir, y tenía los ojos llenos de lágrimas. \"¡Ayuda, ayuda!\", chillaba con voz delgada. Rex miró alrededor: sus papás estaban lejos, comiendo del otro lado del valle. Sus hermanos también. Estaba solo. Por un segundo sintió ganas de salir corriendo a buscar a alguien grande. Pero la mariposa lo miró a los ojos, y Rex supo lo que tenía que hacer. Antes de rugir, cerró los ojos y respiró. Después llenó los pulmones hasta que la panza se le infló como un globo, abrió la boca y rugió con todas sus fuerzas: ¡GRRRROOOAAAAAR!",
       "cues": [
-        {
-          "anchor": "arbustos",
-          "sfx": "leaves_rustle"
-        },
         {
           "anchor": "respiró",
           "sfx": "breathe_in"
@@ -58,10 +50,6 @@
         {
           "anchor": "arroyo",
           "sfx": "water_splash"
-        },
-        {
-          "anchor": "durmió",
-          "sfx": "snore_soft"
         }
       ],
       "ambient": "meadow_day",

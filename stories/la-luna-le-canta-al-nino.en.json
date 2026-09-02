@@ -2,7 +2,7 @@
   "id": "la-luna-le-canta-al-nino",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The Moon Sings to the Boy",
   "summary": "A boy who doesn't want to sleep discovers, with the moon by his side, that closing his eyes is the start of a beautiful adventure.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "moon",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
         }
       ],
       "ambient": "city_soft"
@@ -26,10 +22,6 @@
       "text": "\"Come, I'll tell you a secret,\" said the moon. Outside, the curtains swayed in the wind. It was as if it too wanted to listen. The moon began to sing a very quiet song, made of silence and calm. In a nearby tree, something stirred awake: an owl. It opened its eyes and listened closely. The song spoke of beautiful places, of dreams where everything is possible. \"Closing your eyes is not the end of the day,\" sang the moon. \"It is the start of a very special adventure.\" The boy listened, perfectly still, and felt his eyelids grow a little heavy.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
         {
           "anchor": "owl",
           "sfx": "owl_hoot"
@@ -44,10 +36,6 @@
         {
           "anchor": "whale",
           "sfx": "whale_song"
-        },
-        {
-          "anchor": "waves",
-          "sfx": "water_splash"
         }
       ]
     },
@@ -67,14 +55,8 @@
       "text": "Little by little, the moon brought him back to his warm bed. Once and again, very slowly, the boy breathed. His little eyes could barely stay open. \"Every night, when you sleep, a new adventure will wait for you,\" whispered the moon. \"I will watch over your dreams from the sky.\" The boy smiled, hugged his pillow, and finally fell asleep. Outside, the moon kept shining, soft and faithful, singing very quietly for all the children who, like him, were already traveling happily through the land of dreams.",
       "cues": [
         {
-          "anchor": "breathed",
-          "sfx": "breathe_in",
-          "delayMs": 300
-        },
-        {
           "anchor": "asleep",
-          "sfx": "snore_soft",
-          "delayMs": 800
+          "sfx": "snore_soft"
         }
       ],
       "ambient": "city_soft",

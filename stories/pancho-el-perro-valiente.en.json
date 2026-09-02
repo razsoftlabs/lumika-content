@@ -2,7 +2,7 @@
   "id": "pancho-el-perro-valiente",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Pancho the brave dog",
   "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway.",
   "scenes": [
@@ -12,7 +12,8 @@
       "cues": [
         {
           "anchor": "thunder",
-          "sfx": "thunder"
+          "sfx": "thunder",
+          "delayMs": 500
         },
         {
           "anchor": "heart",
@@ -37,10 +38,6 @@
       "text": "Pancho was still trembling with fear. The storm hadn't stopped; just the opposite, it seemed worse and worse. But something inside him, a small and firm voice, said: \"Pancho, you have to help.\" The little dog opened his eyes. He looked toward the hallway. He swallowed hard. \"I can't,\" he thought at first. \"Yes you can,\" answered the voice. Pancho took a deep breath, once, twice. He came out of his hiding spot step by step, with his paws a little wobbly. He crossed the living room, passed the couch, and reached the garden door. He pushed it with his snout, click, and peeked out. The rain soaked his fur in a second, the thunder roared above, the drops fell into his eyes. But Pancho kept walking, sniffing the air to find the kitten. Soaking wet and curled up in a ball, he found it under a bush. Then he gathered all his courage and barked. \"I'm here! Don't be scared!\" He came closer slowly, picked it up gently with his mouth, taking great care not to hurt it, and carried it home. He brought his favorite towel, the softest one, and helped it dry off.",
       "cues": [
         {
-          "anchor": "door",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "barked",
           "sfx": "bark"
         }
@@ -52,10 +49,6 @@
       "id": "s4",
       "text": "The kitten, now feeling dry and warm, slowly stopped trembling. Its green eyes calmed down. It began to purr softly, a purr of gratitude, prrr, prrr, prrr. Pancho curled up next to the kitten and hugged it with his furry paws, like a stuffed animal. The two of them stayed like that, close together, on Pancho's bed, listening to the storm from inside. Pancho rested his ear against its chest and listened to the heartbeat. Outside the rain kept falling and the thunder kept roaring, but inside there was warmth, there was company, there was safety. And suddenly Pancho realized something important: he wasn't scared anymore. Well, yes, he was scared, but a different kind of scared, smaller, because something bigger than fear had grown inside him: love. That night Pancho learned a secret he would remember forever: being brave doesn't mean having no fear. Being brave means having fear and, even so, going out to help others. While the rain far outside lulled them like a lullaby, the two friends fell asleep.",
       "cues": [
-        {
-          "anchor": "heartbeat",
-          "sfx": "heartbeat_calm"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

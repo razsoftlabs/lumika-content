@@ -2,7 +2,7 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "Slow Is How You Fly",
   "summary": "A nervous little dragon learns that with calm, anything is possible.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "heart",
           "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "sparks",
-          "sfx": "sparkle"
         }
       ],
       "ambient": "meadow_day"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "One clear morning, Tito decided that today was the day. He climbed onto a big rock with firm steps, puffed up his chest like he had seen his dad do, closed his eyes tight, and got ready. \"Come on, Tito, you can do it,\" he told himself. He counted three, two, one, and jumped. For just a second he felt the wind on his face and thought \"I did it!\" But then his wings tangled up, one crossed over the other, and... Splat! He fell flat on the ground, his nose full of leaves and a yellow flower stuck to his forehead. A butterfly flying nearby laughed so hard she got dizzy and landed sideways on a branch. Tito got very sad. A lump formed in his throat and two big tears wet his scales. \"Never, never, never am I going to be able to fly,\" sighed the little dragon, and lay down belly-up, looking at the sky.",
       "cues": [
-        {
-          "anchor": "jumped",
-          "sfx": "jump_hop"
-        },
         {
           "anchor": "Splat",
           "sfx": "thud"
@@ -40,10 +32,6 @@
       "id": "s3",
       "text": "The butterfly, now recovered from her laughter, felt sorry for the little dragon. She flew down slowly and landed on his nose. She had orange wings with black dots, like a flower with spots. \"Forgive me, I wasn't laughing at you,\" she whispered. \"It's just that you get so stiff. You think too much.\" Tito opened one eye, then the other. The butterfly continued: \"I'm going to tell you a secret, okay? Close your eyes. Now breathe. Deeply, like this, watch how I do it.\" The butterfly puffed up her belly and let the air out with a soft blow. Tito copied her. \"Again. One more time. Imagine the clouds, imagine the wind on your wings. Don't think about flying. Your wings already know. We just have to leave them alone.\" Tito did everything the butterfly told him. He took in air once, twice, three times, four. His heart, which before jumped like a rabbit, began to beat slowly. His belly grew warm.",
       "cues": [
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
-        },
         {
           "anchor": "breathe",
           "sfx": "breathe_in"

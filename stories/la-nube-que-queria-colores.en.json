@@ -2,7 +2,7 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 5,
+  "version": 7,
   "title": "Cloud Wants Colours",
   "summary": "Cloud is white and longs to be colorful. A mischievous rain shower shows her where rainbows come from.",
   "scenes": [
@@ -34,23 +34,20 @@
       "cues": [
         {
           "anchor": "drops",
-          "sfx": "water_splash"
+          "sfx": "water_splash",
+          "ambient": "rain"
         },
         {
           "anchor": "magical",
           "sfx": "magic_shimmer"
         }
       ],
-      "ambient": "rain"
+      "ambient": null
     },
     {
       "id": "s4",
       "text": "It was a rainbow! Red, orange, yellow, green, blue, and purple, all born from her own drops. Cloud understood that her colors were never outside: they had been inside her all along, waiting for the right moment to shine. And rocking happily in the sky, she fell asleep.",
       "cues": [
-        {
-          "anchor": "shine",
-          "sfx": "sparkle"
-        },
         {
           "anchor": "asleep",
           "sfx": "snore_soft"

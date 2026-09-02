@@ -2,7 +2,7 @@
   "id": "la-ballena-cantora",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 7,
   "title": "The little singing whale",
   "summary": "A tiny whale discovers her voice is the most beautiful gift in the ocean.",
   "scenes": [
@@ -11,10 +11,6 @@
       "text": "In the deepest part of the blue sea, where the water is as dark as night but still lets through little sun rays like threads of melted gold, lived a very tiny whale. She was the size of a mattress, with a white belly and a back the color of a stormy sky. High above her, the sea rolled in long, slow waves. But the tiny whale kept a huge secret: she never spoke, she never sang, she never even made bubbles. She was ashamed of her voice because she thought it was too small, too thin, too nothing. Every day she hid behind the pink corals, with her tail curled under her belly, and watched the colorful fish go by without saying hello. \"Hello,\" she wanted to say quietly. But the word got stuck in her throat, like a shy little snail. The ocean watched over her in silence, patient, waiting for the day she would feel brave enough.",
       "ambient": "underwater",
       "cues": [
-        {
-          "anchor": "waves",
-          "sfx": "water_splash"
-        },
         {
           "anchor": "bubbles",
           "sfx": "bubbles"
@@ -25,10 +21,6 @@
       "id": "s2",
       "text": "One calm morning, while she swam alone among the seaweed, she heard something different. A thin, weeping sound. It was a lost little octopus, sitting on a clam, with all eight of his arms curled up in sadness. His eyes were full of tears that mixed with the salt water. The tiny whale watched him from afar, hesitated for a second, came a little closer, hesitated again. Then she closed her eyes and breathed. And, almost without meaning to, she opened her mouth and sang. Out of her came a trembling, gentle sound, like a sigh of water. The little octopus stopped crying instantly, surprised. He lifted his head, blinked, and waved all his arms at the same time. \"Was that you?\" he asked quietly, as if he didn't dare believe it. The whale wanted to hide behind the coral again and lowered her head. But the octopus smiled at her with a huge smile, full of tenderness, and said: \"It's the most beautiful thing I've ever heard in my life.\"",
       "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        },
         {
           "anchor": "sang",
           "sfx": "whale_song"

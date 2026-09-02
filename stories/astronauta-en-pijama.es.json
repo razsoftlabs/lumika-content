@@ -2,7 +2,7 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "La astronauta en pijama",
   "summary": "Cuando la casa se queda en silencio, la cama de Vera se convierte en un cohete rumbo a la luna.",
   "scenes": [
@@ -13,10 +13,6 @@
         {
           "anchor": "luna",
           "sfx": "twinkle"
-        },
-        {
-          "anchor": "brisa",
-          "sfx": "wind_soft"
         }
       ],
       "ambient": "city_soft"
@@ -28,11 +24,6 @@
         {
           "anchor": "cohete",
           "sfx": "rocket"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle",
-          "delayMs": 200
         }
       ],
       "ambient": null
@@ -43,8 +34,7 @@
       "cues": [
         {
           "anchor": "pasos",
-          "sfx": "footsteps",
-          "delayMs": 150
+          "sfx": "footsteps"
         }
       ],
       "ambient": null
@@ -55,8 +45,7 @@
       "cues": [
         {
           "anchor": "risa",
-          "sfx": "giggle",
-          "delayMs": 200
+          "sfx": "giggle"
         }
       ],
       "ambient": null
@@ -67,8 +56,7 @@
       "cues": [
         {
           "anchor": "respiró",
-          "sfx": "breathe_in",
-          "delayMs": 300
+          "sfx": "breathe_in"
         }
       ],
       "ambient": "city_soft",

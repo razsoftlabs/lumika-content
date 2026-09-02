@@ -2,7 +2,7 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 9,
   "title": "The Friendly Monster Under the Bed",
   "summary": "When Iván hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own.",
   "scenes": [
@@ -10,10 +10,6 @@
       "id": "s1",
       "text": "Iván snuggled down under the blankets. Through the open curtains came a round, silver light: the moon. Outside, the trees rocked gently in the wind. Everything was calm... until, from under the bed, came a tiny noise. A shiver. A sigh. Iván lay very still, listening to his own heartbeat. What could that shy little sound be, there in the dark?",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        },
         {
           "anchor": "wind",
           "sfx": "wind_soft"
@@ -37,10 +33,6 @@
       "text": "'I won't hurt you,' said Iván softly. 'Why are you shivering?' The monster looked down. 'It's just... I'm very afraid of the dark,' it confessed. 'Down here everything is black, and when the light goes out, I feel so alone.' Iván's eyes went wide: he felt exactly the same way. That was why, every night, he left a little gap in his door. Surprised to be so alike, the two of them laughed. It was a soft laugh, the kind you share in secret.",
       "cues": [
         {
-          "anchor": "door",
-          "sfx": "door_open"
-        },
-        {
           "anchor": "laughed",
           "sfx": "giggle"
         }
@@ -53,7 +45,7 @@
       "cues": [
         {
           "anchor": "stars",
-          "sfx": "sparkle"
+          "sfx": "twinkle"
         }
       ],
       "ambient": "city_soft",

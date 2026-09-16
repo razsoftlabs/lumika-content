@@ -9,49 +9,6 @@
   ],
   "stories": [
     {
-      "id": "la-luciernaga-que-perdio-su-luz",
-      "version": 10,
-      "locales": [
-        "es",
-        "en"
-      ],
-      "json": {
-        "es": "stories/la-luciernaga-que-perdio-su-luz.es.json",
-        "en": "stories/la-luciernaga-que-perdio-su-luz.en.json"
-      },
-      "cover": "covers/la-luciernaga-que-perdio-su-luz.webp",
-      "ageMin": 4,
-      "ageMax": 8,
-      "durationMin": 8,
-      "categories": [
-        "animales",
-        "amistad"
-      ],
-      "mood": "magico",
-      "music": "music_box",
-      "tags": [
-        "luciérnaga",
-        "bosque",
-        "noche",
-        "ayudar",
-        "amistad"
-      ],
-      "premium": true,
-      "preload": [
-        "music/music_box"
-      ],
-      "preview": {
-        "es": {
-          "title": "Lumi no enciende",
-          "summary": "Una noche, justo antes de la fiesta más bonita del bosque, la luz de Lumi no quiere encender."
-        },
-        "en": {
-          "title": "Lumi Won't Light Up",
-          "summary": "One night, just before the loveliest party in the forest, Lumi's little light refuses to turn on."
-        }
-      }
-    },
-    {
       "id": "lumi-trae-la-noche",
       "version": 3,
       "locales": [

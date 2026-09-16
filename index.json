@@ -10,21 +10,21 @@
   "stories": [
     {
       "id": "lumi-trae-la-noche",
-      "version": 3,
+      "version": 6,
       "locales": [
         "es",
         "en"
       ],
       "ageMin": 3,
       "ageMax": 8,
-      "durationMin": 3,
+      "durationMin": 5,
       "categories": [
         "dormir",
         "amistad",
         "naturaleza"
       ],
       "mood": "calmado",
-      "music": "playful_flute",
+      "music": "guitar_night",
       "tags": [
         "luciernaga",
         "aventura",
@@ -36,13 +36,20 @@
       "flagship": true,
       "cover": "covers/lumi-trae-la-noche.webp",
       "preload": [
-        "music/lullaby_piano",
         "ambient/city_soft",
+        "ambient/forest_night",
         "ambient/rain",
-        "ambient/ocean_waves",
-        "ambient/meadow_night",
-        "sfx/wing_flap",
-        "sfx/snore_soft"
+        "ambient/stream_water",
+        "music/guitar_night",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/breathe_in",
+        "sfx/heartbeat_calm",
+        "sfx/magic_shimmer",
+        "sfx/owl_hoot",
+        "sfx/thunder",
+        "sfx/water_splash",
+        "sfx/wing_flap"
       ],
       "json": {
         "es": "stories/lumi-trae-la-noche.es.json",

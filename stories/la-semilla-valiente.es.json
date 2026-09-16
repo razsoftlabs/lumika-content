@@ -2,13 +2,13 @@
   "id": "la-semilla-valiente",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 7,
   "title": "La semilla valiente",
   "summary": "Una semilla muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo hondo de la tierra vivía una semilla muy pequeña. Todo a su alrededor estaba oscuro y callado. La semilla tenía un poco de miedo. —¿Y si me quedo siempre aquí abajo? —pensó, encogida en su cáscara. Afuera, muy lejos, en medio de la noche, cantaba un búho. Como cuando tú te acurrucas en tu cama, la semilla cerró los ojos y respiró. Poco a poco, el miedo se hizo más pequeño, y la tierra la abrazó tibia y segura.",
+      "text": "En lo hondo de la tierra vivía una semilla muy pequeña. Todo a su alrededor estaba oscuro y callado. La semilla tenía un poco de miedo.\n\n—¿Y si me quedo siempre aquí abajo? —pensó, encogida en su cáscara. Afuera, muy lejos, en medio de la noche, cantaba un búho.\n\nComo cuando tú te acurrucas en tu cama, la semilla cerró los ojos y respiró.\n\nPoco a poco, el miedo se hizo más pequeño, y la tierra la abrazó tibia y segura.",
       "ambient": null,
       "cues": [
         {
@@ -24,7 +24,7 @@
     },
     {
       "id": "s2",
-      "text": "Una mañana, la lluvia se filtró por la tierra y llegó hasta ella en forma de gotas. El agua se acercó y le habló con un susurro: —Hola, pequeña. Vengo a darte de beber. Las gotas la mojaron con cariño, y la semilla sintió algo nuevo: unas ganas tibias de estirarse. Todavía tenía miedo de lo oscuro, pero la lluvia le cantó una canción muy suave. —No tengas prisa —dijo—. Crecer se hace despacio, con calma. La semilla bebió y bebió, y por dentro empezó a sentirse un poco más fuerte y valiente.",
+      "text": "Una mañana, la lluvia se filtró por la tierra y llegó hasta ella en forma de gotas.\n\nEl agua se acercó y le habló con un susurro: —Hola, pequeña. Vengo a darte de beber. Las gotas la mojaron con cariño, y la semilla sintió algo nuevo: unas ganas tibias de estirarse.\n\nTodavía tenía miedo de lo oscuro, pero la lluvia le cantó una canción muy suave. —No tengas prisa —dijo—. Crecer se hace despacio, con calma.\n\nLa semilla bebió y bebió, y por dentro empezó a sentirse un poco más fuerte y valiente.",
       "ambient": "rain",
       "cues": [
         {
@@ -35,7 +35,7 @@
     },
     {
       "id": "s3",
-      "text": "Llegó el día en que la semilla debía crecer hacia arriba. El camino era oscuro y no sabía qué había al final. —Tengo miedo —dijo en voz baja. Pero recordó la canción de la lluvia y fue muy valiente. Con mucha calma, empujó un brazo verde a través de la tierra. Empujó, y empujó, y empujó. Desde arriba la llamaba un viento: —Ven, ya casi llegas. Las raíces se agarraron fuerte allá abajo, como manos, y el brote subió y subió buscando la luz.",
+      "text": "Llegó el día en que la semilla debía crecer hacia arriba. El camino era oscuro y no sabía qué había al final. —Tengo miedo —dijo en voz baja.\n\nPero recordó la canción de la lluvia y fue muy valiente. Con mucha calma, empujó un brazo verde a través de la tierra. Empujó, y empujó, y empujó.\n\nDesde arriba la llamaba un viento: —Ven, ya casi llegas.\n\nLas raíces se agarraron fuerte allá abajo, como manos, y el brote subió y subió buscando la luz.",
       "cues": [
         {
           "anchor": "viento",
@@ -46,7 +46,7 @@
     },
     {
       "id": "s4",
-      "text": "Y entonces… ¡la semilla salió a la luz! Abrió su primera hoja al cielo y vio el sol brillar tibio y dorado. —¡Lo logré! —dijo, y de adentro le salió una risa. El sol la saludó con un rayo cálido, y la brisa hizo bailar sus hojas. Ya no estaba oscuro ni daba miedo. La pequeña planta entendió que crecer sí valía la pena. A su alrededor los pájaros cantaban, y el mundo era ancho, verde y luminoso.",
+      "text": "Y entonces… ¡la semilla salió a la luz! Abrió su primera hoja al cielo y vio el sol brillar tibio y dorado.\n\n—¡Lo logré! —dijo, y de adentro le salió una risa.\n\nEl sol la saludó con un rayo cálido, y la brisa hizo bailar sus hojas.\n\nYa no estaba oscuro ni daba miedo. La pequeña planta entendió que crecer sí valía la pena. A su alrededor los pájaros cantaban, y el mundo era ancho, verde y luminoso.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -58,7 +58,7 @@
     },
     {
       "id": "s5",
-      "text": "Pasaron muchas noches y muchos soles. La semilla valiente se volvió un árbol grande y fuerte, con ramas que abrazaban el cielo. Cuando llegaba la noche, lo cubría con su luz de plata la luna. Entre sus hojas titilaban las estrellas. Bajo sus ramas dormían los pájaros, tranquilos y abrigados. El árbol recordaba, feliz, aquella semilla que tuvo miedo en la oscuridad. Y ahora, igual que tú, cerraba los ojos despacio. Buenas noches, semillita valiente. Que crezcas bonito mientras sueñas.",
+      "text": "Pasaron muchas noches y muchos soles. La semilla valiente se volvió un árbol grande y fuerte, con ramas que abrazaban el cielo. Cuando llegaba la noche, lo cubría con su luz de plata la luna.\n\nEntre sus hojas titilaban las estrellas. Bajo sus ramas dormían los pájaros, tranquilos y abrigados. El árbol recordaba, feliz, aquella semilla que tuvo miedo en la oscuridad.\n\nY ahora, igual que tú, cerraba los ojos despacio. Buenas noches, semillita valiente. Que crezcas bonito mientras sueñas.",
       "ambient": "forest_night",
       "cues": [
         {

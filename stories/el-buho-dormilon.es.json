@@ -2,13 +2,13 @@
   "id": "el-buho-dormilon",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "El búho dormilón",
   "summary": "Un búho pequeño no tiene sueño de noche, y su mamá le enseña un secreto muy suave para esperar la mañana.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto de un árbol viejo vivía un búho pequeño llamado Uli. Cada noche, cuando el bosque se quedaba en silencio, subía al cielo la luna. Entonces todos los animales cerraban los ojos, pero Uli abría los suyos muy grandes. —¡No tengo sueño! —decía, moviendo las alas. Entre las hojas del árbol se colaba el viento. Le hacía cosquillas en las plumas, y Uli quería jugar, quería volar, quería contar cada estrella del cielo. Su mamá lo miraba con cariño desde la rama de al lado y sonreía despacio.",
+      "text": "En lo alto de un árbol viejo vivía un búho pequeño llamado Uli. Cada noche, cuando el bosque se quedaba en silencio, subía al cielo la luna. Entonces todos los animales cerraban los ojos, pero Uli abría los suyos muy grandes.\n\n—¡No tengo sueño! —decía, moviendo las alas. Entre las hojas del árbol se colaba el viento.\n\nLe hacía cosquillas en las plumas, y Uli quería jugar, quería volar, quería contar cada estrella del cielo. Su mamá lo miraba con cariño desde la rama de al lado y sonreía despacio.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "—Mamá, ¿por qué debo dormir ahora? —preguntó Uli—. La noche es para volar. Mamá Búho lo abrazó con sus alas tibias. —Antes, los búhos volábamos de noche —le dijo—. Pero tú eres especial, mi pequeño. Tú puedes descansar cuando llega la oscuridad, igual que los niños. Uli infló el pecho. —¡Pero yo quiero ver todo! Abajo, cerca del río, cantó una rana. Un grillo le respondió, y Uli quiso ir a saludarlos. Mamá le dio un beso entre los ojos. —El bosque también duerme, escucha qué tranquilo está todo —susurró.",
+      "text": "—Mamá, ¿por qué debo dormir ahora? —preguntó Uli—. La noche es para volar.\n\nMamá Búho lo abrazó con sus alas tibias. —Antes, los búhos volábamos de noche —le dijo—. Pero tú eres especial, mi pequeño.\n\nTú puedes descansar cuando llega la oscuridad, igual que los niños. Uli infló el pecho. —¡Pero yo quiero ver todo!\n\nAbajo, cerca del río, cantó una rana.\n\nUn grillo le respondió, y Uli quiso ir a saludarlos. Mamá le dio un beso entre los ojos. —El bosque también duerme, escucha qué tranquilo está todo —susurró.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "—Te enseñaré un secreto —dijo Mamá Búho—. Cierra los ojos, quédate quieto como el bosque y respira. Uli cerró un ojo, luego el otro. Tomó aire hondo una vez, y otra vez más. La rama se mecía como una cuna. —Muy bien, mi amor —dijo Mamá—. Ahora imagina que tus alas son dos mantas tibias. Uli acomodó las plumas. Se apoyó en el pecho de su mamá y escuchó muy cerca su corazón. Tuc, tuc, tuc. Afuera, un búho pequeño ya no quería volar. Solo quería quedarse ahí, tibio y tranquilo, escuchando el bosque dormido.",
+      "text": "—Te enseñaré un secreto —dijo Mamá Búho—. Cierra los ojos, quédate quieto como el bosque y respira.\n\nUli cerró un ojo, luego el otro. Tomó aire hondo una vez, y otra vez más. La rama se mecía como una cuna.\n\n—Muy bien, mi amor —dijo Mamá—. Ahora imagina que tus alas son dos mantas tibias. Uli acomodó las plumas.\n\nSe apoyó en el pecho de su mamá y escuchó muy cerca su corazón.\n\nTuc, tuc, tuc. Afuera, un búho pequeño ya no quería volar. Solo quería quedarse ahí, tibio y tranquilo, escuchando el bosque dormido.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -46,7 +46,7 @@
     },
     {
       "id": "s4",
-      "text": "—¿Y si me pierdo algo bonito? —bostezó Uli, con la voz ya suave. —No te preocupes —dijo Mamá—. Mientras duermes, el cielo lo cuidan las estrellas. Y de guardia se queda la luna. Cuando abras los ojos, el sol traerá un día nuevo para ti. Uli imaginó la mañana: las gotas de rocío brillando, los pájaros cantando, el bosque despertando poco a poco. —¿Me lo prometes? —preguntó en voz baja. —Te lo prometo, mi tesoro. La mañana siempre llega. Uli sonrió con los ojos cerrados, mientras una luz plateada, callada y buena, los cubría a los dos.",
+      "text": "—¿Y si me pierdo algo bonito? —bostezó Uli, con la voz ya suave. —No te preocupes —dijo Mamá—.\n\nMientras duermes, el cielo lo cuidan las estrellas.\n\nY de guardia se queda la luna. Cuando abras los ojos, el sol traerá un día nuevo para ti. Uli imaginó la mañana: las gotas de rocío brillando, los pájaros cantando, el bosque despertando poco a poco.\n\n—¿Me lo prometes? —preguntó en voz baja. —Te lo prometo, mi tesoro.\n\nLa mañana siempre llega. Uli sonrió con los ojos cerrados, mientras una luz plateada, callada y buena, los cubría a los dos.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -57,7 +57,7 @@
     },
     {
       "id": "s5",
-      "text": "Poco a poco, la respiración de Uli se hizo lenta y calmada. Sus plumas subían y bajaban, subían y bajaban. Y entonces, muy suave, se escuchó un ronquido. Pfff... pfff... El búho por fin dormía. Mamá Búho lo cubrió con un ala y miró el cielo. Muy lejos, detrás de las montañas, empezaba a asomarse una luz tibia. La mañana venía en camino, tal como lo había prometido. —Buenas noches, mi Uli. Yo te despierto cuando salga el sol —susurró. Y en el árbol viejo, los dos durmieron felices hasta el nuevo día.",
+      "text": "Poco a poco, la respiración de Uli se hizo lenta y calmada. Sus plumas subían y bajaban, subían y bajaban. Y entonces, muy suave, se escuchó un ronquido.\n\nPfff... pfff... El búho por fin dormía.\n\nMamá Búho lo cubrió con un ala y miró el cielo. Muy lejos, detrás de las montañas, empezaba a asomarse una luz tibia. La mañana venía en camino, tal como lo había prometido.\n\n—Buenas noches, mi Uli. Yo te despierto cuando salga el sol —susurró. Y en el árbol viejo, los dos durmieron felices hasta el nuevo día.",
       "ambient": "forest_night",
       "cues": [
         {

@@ -2,13 +2,13 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "A Voice in the Garden",
   "summary": "A little flower far too shy to sing hides a voice the whole garden just might need to hear.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a sleeping garden lived a very shy flower. Her name was Lila, and her petals were the color of sunset. Every night the garden filled with the silver glow of the moon. A soft whisper ran through the swaying leaves. Lila wanted to sing, but she felt terribly shy. 'What if my voice sounds funny?' she thought, hiding her face among the petals. So she kept her song deep inside, quiet, and watched the sky without making a sound. And the light of the night greeted her with a wink, as if to say there was nothing to fear.",
+      "text": "In a sleeping garden lived a very shy flower. Her name was Lila, and her petals were the color of sunset. Every night the garden filled with the silver glow of the moon.\n\nA soft whisper ran through the swaying leaves. Lila wanted to sing, but she felt terribly shy. 'What if my voice sounds funny?\n\n' she thought, hiding her face among the petals. So she kept her song deep inside, quiet, and watched the sky without making a sound. And the light of the night greeted her with a wink, as if to say there was nothing to fear.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "From the branch of a tree she was watched by a kind old owl. 'Why don't you sing, little one?' he asked in a calm voice. Lila turned rosy. 'I'm afraid no one will want to listen to me,' she answered softly. He smiled and pointed to the sky, where tenderly there shone a star. 'They were all shy once,' he said, 'until they dared to shine.' Lila looked at it for a long while and felt a warm tingle in her chest. Maybe, just maybe, her voice had something lovely to give the sleeping world too.",
+      "text": "From the branch of a tree she was watched by a kind old owl.\n\n'Why don't you sing, little one? ' he asked in a calm voice. Lila turned rosy.\n\n'I'm afraid no one will want to listen to me,' she answered softly. He smiled and pointed to the sky, where tenderly there shone a star. 'They were all shy once,' he said, 'until they dared to shine.\n\n' Lila looked at it for a long while and felt a warm tingle in her chest. Maybe, just maybe, her voice had something lovely to give the sleeping world too.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "Little by little, the night began to turn gray and soft. A warm wind drifted through the garden, ruffling the petals with care. The owl gave her a wink. 'It's almost dawn,' he whispered. 'This is your moment.' Lila closed her eyes. She felt the air on her face and, very slowly, she breathed. Deep, deep, filling herself with courage. Like a drum beat her heart. Then, as soft as the flutter of a butterfly, she let out the first note of her song. It was barely a thread of voice, trembling and sweet, but it was hers.",
+      "text": "Little by little, the night began to turn gray and soft. A warm wind drifted through the garden, ruffling the petals with care. The owl gave her a wink.\n\n'It's almost dawn,' he whispered. 'This is your moment. ' Lila closed her eyes.\n\nShe felt the air on her face and, very slowly, she breathed.\n\nDeep, deep, filling herself with courage. Like a drum beat her heart.\n\nThen, as soft as the flutter of a butterfly, she let out the first note of her song. It was barely a thread of voice, trembling and sweet, but it was hers.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -45,7 +45,7 @@
     },
     {
       "id": "s4",
-      "text": "And then, all at once, the garden filled with magic. With every note, a petal woke up. The flower beside her opened its leaves and breathed out a sigh of colors. Farther away, a daisy stretched its yellow arms toward the first sparkle of the sun. Lila's song was making the garden bloom! Among the newly awakened flowers buzzed the happy bees. Lila sang and sang, no longer afraid, and her voice filled the air with sweetness. The whole garden seemed to wake on tiptoe, listening to the flower who once did not dare to sing.",
+      "text": "And then, all at once, the garden filled with magic.\n\nWith every note, a petal woke up. The flower beside her opened its leaves and breathed out a sigh of colors. Farther away, a daisy stretched its yellow arms toward the first sparkle of the sun.\n\nLila's song was making the garden bloom! Among the newly awakened flowers buzzed the happy bees. Lila sang and sang, no longer afraid, and her voice filled the air with sweetness.\n\nThe whole garden seemed to wake on tiptoe, listening to the flower who once did not dare to sing.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -57,7 +57,7 @@
     },
     {
       "id": "s5",
-      "text": "When the sun finished peeking out, the whole garden was awake and glowing. Grateful, all the flowers giggled. They gave a little bow to Lila, who was not shy anymore: she had discovered that her song was a gift. The owl, content, closed his eyes to sleep. As it went by, the wind left her a whisper: 'You did beautifully.' And so, every dawn, Lila sang to wake her friends with tenderness. Now close your eyes, sweet one. Maybe, if you listen with your heart, you'll hear a little flower singing very softly, helping the whole world bloom while you dream.",
+      "text": "When the sun finished peeking out, the whole garden was awake and glowing. Grateful, all the flowers giggled. They gave a little bow to Lila, who was not shy anymore: she had discovered that her song was a gift.\n\nThe owl, content, closed his eyes to sleep. As it went by, the wind left her a whisper: 'You did beautifully.\n\n' And so, every dawn, Lila sang to wake her friends with tenderness. Now close your eyes, sweet one. Maybe, if you listen with your heart, you'll hear a little flower singing very softly, helping the whole world bloom while you dream.",
       "ambient": "forest_birds",
       "cues": [
         {

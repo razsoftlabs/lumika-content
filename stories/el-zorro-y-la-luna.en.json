@@ -2,13 +2,13 @@
   "id": "el-zorro-y-la-luna",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The fox and the moon",
   "summary": "A curious little fox wants to reach the moon and discovers something prettier on the way.",
   "scenes": [
     {
       "id": "s1",
-      "text": "It was a quiet night in the forest, one of those nights when even the wind walks on tiptoe so as not to wake anyone up. The leaves swayed gently with the breeze, making a soft rustle like crumpled paper, and the crickets sang their secret melody between the roots. From a den hidden between two big trees came a little orange fox, with a cold nose and eyes full of curiosity. He poked out one paw first, then the other, then his whole head. When he looked up, he froze. Up there, between the tallest branches, round and bright like a big silver coin, shone the moon. The little fox had never seen anything so beautiful in his life, and he felt a tickle in his belly. Suddenly, from a crooked branch, he was greeted by an owl. He was old and wise, and he watched without blinking. \"Where are you going so late, little one?\" he asked in a calm voice.",
+      "text": "It was a quiet night in the forest, one of those nights when even the wind walks on tiptoe so as not to wake anyone up. The leaves swayed gently with the breeze, making a soft rustle like crumpled paper, and the crickets sang their secret melody between the roots.\n\nFrom a den hidden between two big trees came a little orange fox, with a cold nose and eyes full of curiosity. He poked out one paw first, then the other, then his whole head. When he looked up, he froze.\n\nUp there, between the tallest branches, round and bright like a big silver coin, shone the moon.\n\nThe little fox had never seen anything so beautiful in his life, and he felt a tickle in his belly. Suddenly, from a crooked branch, he was greeted by an owl. He was old and wise, and he watched without blinking.\n\n\"Where are you going so late, little one?\" he asked in a calm voice.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "The little fox lifted his head and looked at the owl with shining eyes. \"I want to touch the moon,\" he said excitedly, his tail wagging from side to side. \"Touch her?\" repeated the owl, and turned his head almost upside down, surprised. The fox nodded with confidence, crouched down on his paws, gathered his strength and jumped. Whoosh! He flew for barely an instant and landed back on the soft grass, plop. He shook his head, spit out a leaf, and tried again. He leaped a second time, higher. He leaped a third time, higher still. But the moon stayed up there, far away, smiling with her round face as if to say \"almost, almost.\" The fox sat down on the ground, belly up, looking at the sky. And then he laughed. He laughed at himself, quietly at first and then with all his heart, because sometimes the loveliest thing is to try, even when it doesn't work.",
+      "text": "The little fox lifted his head and looked at the owl with shining eyes. \"I want to touch the moon,\" he said excitedly, his tail wagging from side to side. \"Touch her?\"\n\nrepeated the owl, and turned his head almost upside down, surprised. The fox nodded with confidence, crouched down on his paws, gathered his strength and jumped.\n\nWhoosh! He flew for barely an instant and landed back on the soft grass, plop. He shook his head, spit out a leaf, and tried again.\n\nHe leaped a second time, higher. He leaped a third time, higher still. But the moon stayed up there, far away, smiling with her round face as if to say \"almost, almost.\"\n\nThe fox sat down on the ground, belly up, looking at the sky. And then he laughed. He laughed at himself, quietly at first and then with all his heart, because sometimes the loveliest thing is to try, even when it doesn't work.",
       "cues": [
         {
           "anchor": "jumped",
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "Just then, from among the sleeping flowers, appeared a frog. He had a round green belly, and he croaked very softly, as if not wanting to wake the petals. He hopped over to the fox in short little hops: hop, hop, hop. He sat down beside him, lifted his face, and the two of them gazed up at the moon. \"Nobody can touch her, my friend,\" he said with a kind smile. The fox tilted his head, not understanding. \"Then what is she for?\" he asked. The frog took a deep breath, looked at the sky, and explained slowly: \"She is for watching. She is for caring for. She is for singing to, for making wishes upon, for telling the day's secrets. And tonight she shines just for you.\" The fox looked at his new friend, then looked up, and understood something important in his heart: the moon was not for grabbing, she was for keeping company.",
+      "text": "Just then, from among the sleeping flowers, appeared a frog.\n\nHe had a round green belly, and he croaked very softly, as if not wanting to wake the petals. He hopped over to the fox in short little hops: hop, hop, hop. He sat down beside him, lifted his face, and the two of them gazed up at the moon.\n\n\"Nobody can touch her, my friend,\" he said with a kind smile. The fox tilted his head, not understanding. \"Then what is she for?\"\n\nhe asked. The frog took a deep breath, looked at the sky, and explained slowly: \"She is for watching.\n\nShe is for caring for. She is for singing to, for making wishes upon, for telling the day's secrets. And tonight she shines just for you.\"\n\nThe fox looked at his new friend, then looked up, and understood something important in his heart: the moon was not for grabbing, she was for keeping company.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -41,7 +41,7 @@
     },
     {
       "id": "s4",
-      "text": "The little fox lay down on the cool grass, with his paws stretched out and his head resting on a soft root. The owl watched over him from the branch, blinking slowly. The frog sang beside him, in a voice so calm it sounded like a lullaby. And the whole forest, the trees, the crickets, the flowers, breathed in peace. The moon stroked his nose with her silver light, warm as a mother's hand. The fox told her his secrets in a whisper: that he had a butterfly friend, that his den smelled like wet earth, that sometimes he felt afraid. The moon listened to it all, without interrupting. Little by little, without noticing, he fell asleep. He dreamed he was flying with her among the stars, laughing, playing, and his dreams were silver that night and every night that came after.",
+      "text": "The little fox lay down on the cool grass, with his paws stretched out and his head resting on a soft root. The owl watched over him from the branch, blinking slowly. The frog sang beside him, in a voice so calm it sounded like a lullaby.\n\nAnd the whole forest, the trees, the crickets, the flowers, breathed in peace. The moon stroked his nose with her silver light, warm as a mother's hand. The fox told her his secrets in a whisper: that he had a butterfly friend, that his den smelled like wet earth, that sometimes he felt afraid.\n\nThe moon listened to it all, without interrupting. Little by little, without noticing, he fell asleep.\n\nHe dreamed he was flying with her among the stars, laughing, playing, and his dreams were silver that night and every night that came after.",
       "cues": [
         {
           "anchor": "whisper",

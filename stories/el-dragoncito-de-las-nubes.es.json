@@ -2,13 +2,13 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "El dragoncito de las nubes",
   "summary": "En la montaña vive un dragón muy distinto a los demás: ¿qué saldrá de su boca cuando el pueblo más lo necesite?",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto de una montaña verde vivía Nubo, un dragón muy especial. Todos los dragones echaban fuego, pero Nubo era distinto: cuando abría la boca, en vez de llamas le salían suaves nubes de algodón. Una mañana, muy despacio, Nubo sopló. Una nube redonda subió flotando hasta el cielo azul, y las mariposas llegaron a descansar sobre ella. Al verlas, Nubo se rió. \"¡Mis nubes son suaves y bonitas!\", pensó. Y aunque no tenía fuego como los demás, a Nubo le gustaba mucho ser como era.",
+      "text": "En lo alto de una montaña verde vivía Nubo, un dragón muy especial. Todos los dragones echaban fuego, pero Nubo era distinto: cuando abría la boca, en vez de llamas le salían suaves nubes de algodón. Una mañana, muy despacio, Nubo sopló.\n\nUna nube redonda subió flotando hasta el cielo azul, y las mariposas llegaron a descansar sobre ella. Al verlas, Nubo se rió. \"¡Mis nubes son suaves y bonitas!\",\n\npensó. Y aunque no tenía fuego como los demás, a Nubo le gustaba mucho ser como era.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "Al pie de la montaña había un pueblo de casas de colores. Pero ese día el sol brillaba muy fuerte, demasiado fuerte. Hacía tanto calor que las flores agachaban la cabeza y los árboles dejaban colgar sus hojas. Los niños se abanicaban buscando la sombra. Con la lengua afuera, en un rincón fresco, se echó a descansar un perro. Nadie tenía ganas de jugar. \"Qué día tan caluroso\", suspiraban los abuelos desde la puerta de sus casas. Todo el pueblo deseaba una brisa fresca, pero la brisa no llegaba.",
+      "text": "Al pie de la montaña había un pueblo de casas de colores. Pero ese día el sol brillaba muy fuerte, demasiado fuerte. Hacía tanto calor que las flores agachaban la cabeza y los árboles dejaban colgar sus hojas.\n\nLos niños se abanicaban buscando la sombra. Con la lengua afuera, en un rincón fresco, se echó a descansar un perro.\n\nNadie tenía ganas de jugar. \"Qué día tan caluroso\", suspiraban los abuelos desde la puerta de sus casas. Todo el pueblo deseaba una brisa fresca, pero la brisa no llegaba.",
       "cues": [
         {
           "anchor": "perro",
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "Desde su montaña, Nubo vio al pueblo sufrir bajo el sol. Vio a los niños acalorados. Vio la lengua afuera y la sed del perro. Y sintió un cosquilleo en la panza. \"¡Ya sé cómo ayudar!\", dijo abriendo sus alas enormes. Tomó aire profundo, muy profundo, hasta llenarse como un globo redondo. Entonces saltó del borde de la montaña y, planeando despacio entre las nubes, voló. Le latía muy fuerte el corazón. Pero estaba decidido: iba a regalarles la sombra más suave y más fresca del mundo entero.",
+      "text": "Desde su montaña, Nubo vio al pueblo sufrir bajo el sol. Vio a los niños acalorados. Vio la lengua afuera y la sed del perro.\n\nY sintió un cosquilleo en la panza. \"¡Ya sé cómo ayudar!\", dijo abriendo sus alas enormes.\n\nTomó aire profundo, muy profundo, hasta llenarse como un globo redondo. Entonces saltó del borde de la montaña y, planeando despacio entre las nubes, voló.\n\nLe latía muy fuerte el corazón. Pero estaba decidido: iba a regalarles la sombra más suave y más fresca del mundo entero.",
       "cues": [
         {
           "anchor": "voló",
@@ -41,7 +41,7 @@
     },
     {
       "id": "s4",
-      "text": "Al llegar sobre las casas, Nubo tomó aire y, con todas sus fuerzas, sopló. ¡Y salieron muchísimas nubes de algodón! Grandes, blancas y esponjosas, se juntaron formando un techo suave que tapó el sol caliente. Enseguida, fresco y suave, llegó el viento. De las nubes empezaron a caer gotas. Eran diminutas, como una llovizna de cosquillas. El calor se fue. Los niños salieron a bailar y las flores levantaron la cabeza. Y allá abajo, moviendo la cola de pura alegría, saltaba el perro. \"¡Gracias, Nubo!\", gritó todo el pueblo, riendo bajo la sombra.",
+      "text": "Al llegar sobre las casas, Nubo tomó aire y, con todas sus fuerzas, sopló. ¡Y salieron muchísimas nubes de algodón! Grandes, blancas y esponjosas, se juntaron formando un techo suave que tapó el sol caliente.\n\nEnseguida, fresco y suave, llegó el viento. De las nubes empezaron a caer gotas.\n\nEran diminutas, como una llovizna de cosquillas. El calor se fue. Los niños salieron a bailar y las flores levantaron la cabeza.\n\nY allá abajo, moviendo la cola de pura alegría, saltaba el perro. \"¡Gracias, Nubo!\", gritó todo el pueblo, riendo bajo la sombra.",
       "ambient": null,
       "cues": [
         {
@@ -54,7 +54,7 @@
     },
     {
       "id": "s5",
-      "text": "Poco a poco, la tarde se puso fresca y dorada. Cuando cayó la noche, las nubes de Nubo se quedaron cuidando el cielo. Sobre el pueblo dormido se encendió, redonda y amarilla, la luna. Y alrededor aparecieron, titilando despacio, muchas estrellas. Nubo, cansado y feliz, subió a la más grande de sus nubes y se acurrucó como en una almohada blanda. Bostezó muy despacio. Ahora sabía que su don, tan distinto y tan suyo, era el más bonito de todos. Y con una sonrisa, el dragoncito de las nubes se quedó dormido. Buenas noches.",
+      "text": "Poco a poco, la tarde se puso fresca y dorada. Cuando cayó la noche, las nubes de Nubo se quedaron cuidando el cielo. Sobre el pueblo dormido se encendió, redonda y amarilla, la luna.\n\nY alrededor aparecieron, titilando despacio, muchas estrellas. Nubo, cansado y feliz, subió a la más grande de sus nubes y se acurrucó como en una almohada blanda. Bostezó muy despacio.\n\nAhora sabía que su don, tan distinto y tan suyo, era el más bonito de todos. Y con una sonrisa, el dragoncito de las nubes se quedó dormido. Buenas noches.",
       "ambient": "forest_night",
       "cues": [
         {

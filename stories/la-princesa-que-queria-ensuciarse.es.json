@@ -2,13 +2,13 @@
   "id": "la-princesa-que-queria-ensuciarse",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "Barro hasta las orejas",
   "summary": "Una princesa cansada de estar siempre limpia y peinada descubre en el jardín una alegría que no cabe en ningún castillo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un castillo de torres rosadas vivía la princesa Amapola. Todas las mañanas, tres damas la bañaban, la perfumaban y la peinaban con un cepillo de plata hasta dejarla brillante como un espejo. \"¡No te muevas, princesa! ¡No te ensucies, princesa!\", le decían. Amapola tenía que sentarse muy derecha, con las manos quietas y el vestido sin una sola arruga. Pero por dentro, guardada y con muchas ganas de salir a jugar, llevaba una risa. Miró por la ventana el jardín mojado y suspiró. \"¿Y si un día me ensucio... solo un poco?\", pensó, con un cosquilleo travieso en la barriga.",
+      "text": "En un castillo de torres rosadas vivía la princesa Amapola. Todas las mañanas, tres damas la bañaban, la perfumaban y la peinaban con un cepillo de plata hasta dejarla brillante como un espejo. \"¡No te muevas, princesa!\n\n¡No te ensucies, princesa!\", le decían. Amapola tenía que sentarse muy derecha, con las manos quietas y el vestido sin una sola arruga.\n\nPero por dentro, guardada y con muchas ganas de salir a jugar, llevaba una risa. Miró por la ventana el jardín mojado y suspiró.\n\n\"¿Y si un día me ensucio... solo un poco?\", pensó, con un cosquilleo travieso en la barriga.",
       "cues": [
         {
           "anchor": "suspiró",
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "Esa tarde el cielo se llenó de nubes y empezó a caer la lluvia, tin, tin, tin, sobre los cristales. Cuando el castillo entero se quedó en silencio, Amapola bajó de puntillas por la escalera. Con mucho cuidado, sin hacer ni un ruido, empujó la gran puerta. Criii, sonó al abrirse. Afuera, el aire olía a tierra mojada y a flores despiertas. La lluvia ya se iba y había dejado el jardín lleno de charcos. Brillaban como espejos entre el pasto. Amapola se quitó los zapatos, respiró el aire fresco y sonrió como nunca. Por fin estaba sola, libre, sin nadie que le dijera \"no\".",
+      "text": "Esa tarde el cielo se llenó de nubes y empezó a caer la lluvia, tin, tin, tin, sobre los cristales. Cuando el castillo entero se quedó en silencio, Amapola bajó de puntillas por la escalera. Con mucho cuidado, sin hacer ni un ruido, empujó la gran puerta.\n\nCriii, sonó al abrirse. Afuera, el aire olía a tierra mojada y a flores despiertas. La lluvia ya se iba y había dejado el jardín lleno de charcos.\n\nBrillaban como espejos entre el pasto. Amapola se quitó los zapatos, respiró el aire fresco y sonrió como nunca. Por fin estaba sola, libre, sin nadie que le dijera \"no\".",
       "ambient": "rain",
       "cues": [
         {
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "Amapola miró el jardín y eligió el más grande de todos: aquel charco. Sin pensarlo dos veces, saltó con los dos pies juntos. ¡Plaf! El agua salpicó por todos lados y le mojó la cara, el vestido y hasta la nariz. La princesa se rió tan fuerte que los pájaros salieron volando, asustados por semejante carcajada. ¡Saltó otra vez, y otra, y otra! Chap, chap, chap, hacían sus pies descalzos en el barro. Se llenó de lodo las rodillas, se pintó bigotes de tierra y se rió hasta que le dolió la panza. Nunca, nunca en su vida se había sentido tan feliz y tan despeinada.",
+      "text": "Amapola miró el jardín y eligió el más grande de todos: aquel charco.\n\nSin pensarlo dos veces, saltó con los dos pies juntos. ¡Plaf! El agua salpicó por todos lados y le mojó la cara, el vestido y hasta la nariz.\n\nLa princesa se rió tan fuerte que los pájaros salieron volando, asustados por semejante carcajada.\n\n¡Saltó otra vez, y otra, y otra! Chap, chap, chap, hacían sus pies descalzos en el barro. Se llenó de lodo las rodillas, se pintó bigotes de tierra y se rió hasta que le dolió la panza.\n\nNunca, nunca en su vida se había sentido tan feliz y tan despeinada.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -46,7 +46,7 @@
     },
     {
       "id": "s4",
-      "text": "De pronto, croac, del charco saltó algo verde y se sentó sobre su rodilla llena de barro: era una rana. \"¡Hola!\", le dijo Amapola entre risas. Del fondo del jardín llegó corriendo un perro. ¡Guau, guau! También se puso a chapotear con ella. Los tres saltaban y salpicaban juntos bajo las últimas gotas. Pero entonces se escuchó una voz: \"¡Amapola!\". Era la reina, su mamá, parada en la puerta con los ojos muy abiertos. La princesa se quedó quieta, toda embarrada, esperando un regaño. La rana croó despacio. El perro escondió la cola. Y hubo un silencio largo, largo...",
+      "text": "De pronto, croac, del charco saltó algo verde y se sentó sobre su rodilla llena de barro: era una rana.\n\n\"¡Hola!\", le dijo Amapola entre risas. Del fondo del jardín llegó corriendo un perro.\n\n¡Guau, guau! También se puso a chapotear con ella. Los tres saltaban y salpicaban juntos bajo las últimas gotas.\n\nPero entonces se escuchó una voz: \"¡Amapola!\". Era la reina, su mamá, parada en la puerta con los ojos muy abiertos. La princesa se quedó quieta, toda embarrada, esperando un regaño.\n\nLa rana croó despacio.\n\nEl perro escondió la cola. Y hubo un silencio largo, largo...",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -57,7 +57,7 @@
     },
     {
       "id": "s5",
-      "text": "Entonces la reina hizo algo que nadie esperaba: se quitó los zapatos, se levantó el vestido dorado... y saltó al charco con las dos piernas. ¡Plaf! \"Yo también fui una niña que amaba el barro\", dijo riéndose. Mamá e hija chapotearon juntas hasta que salió la luna. Esa noche, ya bañada y tibia, Amapola se metió en la cama oliendo a jabón y a jardín. Su mamá le dio un beso, se acercó a su oído y le susurró: \"Puedes ser princesa y ensuciarte, mi amor. Lo más importante es que seas tú.\" Amapola sonrió, cerró los ojos y, soñando con mil charcos por saltar, se durmió.",
+      "text": "Entonces la reina hizo algo que nadie esperaba: se quitó los zapatos, se levantó el vestido dorado... y saltó al charco con las dos piernas. ¡Plaf!\n\n\"Yo también fui una niña que amaba el barro\", dijo riéndose. Mamá e hija chapotearon juntas hasta que salió la luna. Esa noche, ya bañada y tibia, Amapola se metió en la cama oliendo a jabón y a jardín.\n\nSu mamá le dio un beso, se acercó a su oído y le susurró: \"Puedes ser princesa y ensuciarte, mi amor. Lo más importante es que seas tú.\" Amapola sonrió, cerró los ojos y, soñando con mil charcos por saltar, se durmió.",
       "cues": [
         {
           "anchor": "durmió",

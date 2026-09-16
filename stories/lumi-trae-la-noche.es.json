@@ -2,7 +2,7 @@
   "id": "lumi-trae-la-noche",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 3,
+  "version": 4,
   "title": "La noche que Lumi vino",
   "summary": "Lumi no cuenta cuentos: lleva a sitios. Un bosque, un río de piedras y un caballo blanco para volver.",
   "scenes": [
@@ -10,20 +10,36 @@
       "id": "s1",
       "text": "Nico no tenía sueño. Se había puesto el pijama, se había lavado los dientes, y ahí seguía, mirando el techo. Afuera, la ciudad hacía sus ruidos de siempre: un coche, otro coche, una moto muy lejos.\n\nEntonces algo pequeñísimo se posó en la ventana. Era una luciérnaga del tamaño de una uva, con la barriga tibia y dorada.\n\n—Me llamo Lumi —dijo—. Yo no cuento cuentos. Yo llevo a sitios.\n\nY para saludar, abrió las alas.",
       "ambient": "city_soft",
-      "cues": [{ "anchor": "alas", "sfx": "wing_flap" }]
+      "cues": [
+        {
+          "anchor": "alas",
+          "sfx": "wing_flap"
+        }
+      ]
     },
     {
       "id": "s2",
       "text": "Nico no supo cómo pasó. Un parpadeo, y ya no estaba en su cuarto: estaba de pie sobre hojas secas, y los árboles eran tan altos que no se les veía el final.\n\n—Primera parada —dijo Lumi, y su luz se hizo un poquito más grande—. Aquí no hay que mirar. Hay que escuchar.\n\nNico se quedó quieto. Arriba, entre las ramas más altas, se coló el viento.",
       "ambient": "forest_night",
-      "cues": [{ "anchor": "viento", "sfx": "wind_soft" }]
+      "cues": [
+        {
+          "anchor": "viento",
+          "sfx": "wind_soft"
+        }
+      ]
     },
     {
       "id": "s3",
-      "text": "Caminaron hasta que el suelo se puso blando y frío. Delante, cruzando el camino entero, corría un río.\n\nEn medio del agua había piedras planas, una detrás de otra, como los botones de una camisa.\n\n—Se cruza brincando —dijo Lumi—. De piedra en piedra, sin correr.\n\nNico tomó aire, apuntó a la primera y dio el salto.",
+      "text": "Caminaron hasta que el suelo se puso blando y frío.\n\nDelante, cruzando el camino entero, corría un río.\n\nEn medio del agua había piedras planas, una detrás de otra, como los botones de una camisa.\n\n—Se cruza brincando —dijo Lumi—. De piedra en piedra, sin correr.\n\nNico tomó aire, apuntó a la primera y dio el salto.",
       "cues": [
-        { "anchor": "río", "ambient": "stream_water" },
-        { "anchor": "salto", "sfx": "water_splash" }
+        {
+          "anchor": "río",
+          "ambient": "stream_water"
+        },
+        {
+          "anchor": "salto",
+          "sfx": "water_splash"
+        }
       ]
     },
     {
@@ -31,22 +47,38 @@
       "text": "Al otro lado, el pasto le llegaba a las rodillas y olía a verde recién cortado.\n\nAlgo pegó un brinco cerca de sus pies y se quedó quieto, mirándolo con dos ojos redondos y muy serios: era una rana.\n\nMás allá, dando vueltas sobre una flor amarilla y sin hacerle caso a nadie, trabajaba una abeja.",
       "ambient": "meadow_day",
       "cues": [
-        { "anchor": "rana", "sfx": "frog_croak" },
-        { "anchor": "abeja", "sfx": "bee_buzz" }
+        {
+          "anchor": "rana",
+          "sfx": "frog_croak"
+        },
+        {
+          "anchor": "abeja",
+          "sfx": "bee_buzz"
+        }
       ]
     },
     {
       "id": "s5",
       "text": "—Se hace tarde —dijo Lumi—. Pero volver caminando sería un aburrimiento.\n\nDe entre la hierba alta salió un caballo blanco, tan tranquilo que parecía que llevaba un rato esperándolos.\n\nNico se subió, se agarró bien de las crines, y entonces empezó el galope.",
       "ambient": "meadow_day",
-      "cues": [{ "anchor": "galope", "sfx": "horse_gallop" }]
+      "cues": [
+        {
+          "anchor": "galope",
+          "sfx": "horse_gallop"
+        }
+      ]
     },
     {
       "id": "s6",
       "text": "El caballo los dejó justo debajo de la ventana y se fue trotando sin hacer ruido.\n\nArriba, en la rama más alta, alguien los miraba sin parpadear ni una vez: un búho.\n\n—Hasta mañana —dijo Lumi, y su luz se fue apagando despacio, como una vela buena.\n\nNico se metió en la cama. Ahora sí tenía sueño.",
       "ambient": "city_soft",
       "music": "lullaby_piano",
-      "cues": [{ "anchor": "búho", "sfx": "owl_hoot" }]
+      "cues": [
+        {
+          "anchor": "búho",
+          "sfx": "owl_hoot"
+        }
+      ]
     }
   ]
 }

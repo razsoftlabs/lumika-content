@@ -2,13 +2,13 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "Despacio se vuela mejor",
   "summary": "Un dragón nervioso aprende que con calma todo se logra.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto de una montaña verde, donde las nubes pasaban tan cerca que se podían tocar con la pata, vivía un dragón llamado Tito. Tito era pequeño, no más grande que un perro mediano, y sus escamas brillaban como pedazos de fuego cuando les daba el sol de la mañana. Tenía dos alas cortas con bordes dorados y una cola enrollada que terminaba en punta. Pero Tito tenía un problema muy grande para alguien tan pequeño: cada vez que iba a volar, se le olvidaba cómo. Sus alas se quedaban quietas, paradas a los lados, sin saber qué hacer. Y entonces le empezaba a galopar el corazón. Mientras tanto, sus amigos dragones volaban felices entre las nubes, haciendo piruetas en el aire, persiguiéndose unos a otros entre risas y soplando bocanadas de chispas. Tito los miraba desde su rincón en la montaña, con la panza pegada al suelo. \"Yo también quiero\", pensaba en voz baja, mordiéndose la cola. Pero apenas abría las alas, todo se le iba de la cabeza, como si alguien le robara el truco.",
+      "text": "En lo alto de una montaña verde, donde las nubes pasaban tan cerca que se podían tocar con la pata, vivía un dragón llamado Tito. Tito era pequeño, no más grande que un perro mediano, y sus escamas brillaban como pedazos de fuego cuando les daba el sol de la mañana.\n\nTenía dos alas cortas con bordes dorados y una cola enrollada que terminaba en punta. Pero Tito tenía un problema muy grande para alguien tan pequeño: cada vez que iba a volar, se le olvidaba cómo. Sus alas se quedaban quietas, paradas a los lados, sin saber qué hacer.\n\nY entonces le empezaba a galopar el corazón.\n\nMientras tanto, sus amigos dragones volaban felices entre las nubes, haciendo piruetas en el aire, persiguiéndose unos a otros entre risas y soplando bocanadas de chispas. Tito los miraba desde su rincón en la montaña, con la panza pegada al suelo. \"Yo también quiero\", pensaba en voz baja, mordiéndose la cola.\n\nPero apenas abría las alas, todo se le iba de la cabeza, como si alguien le robara el truco.",
       "cues": [
         {
           "anchor": "corazón",
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "Una mañana de cielo despejado, Tito decidió que ese era el día. Subió a una piedra grande con paso firme, infló el pecho como había visto hacer a su papá, cerró los ojos y se preparó. \"Vamos, Tito, tú puedes\", se dijo a sí mismo. Contó tres, dos, uno y saltó. Por un segundo sintió el viento en la cara y pensó \"¡lo logré!\". Pero entonces sus alas se trabaron, una se cruzó con la otra y... ¡Plof! Cayó de boca al suelo, con la nariz llena de hojas y una flor amarilla pegada en la frente. Una mariposa que pasaba volando cerca se rió tanto que se mareó y aterrizó torcida en una rama. Tito se puso muy triste. Se le hizo un nudo en la garganta y dos lágrimas enormes le mojaron las escamas. \"Nunca, nunca, nunca voy a poder volar\", suspiró el pequeño dragón, y se acostó panza arriba, mirando el cielo.",
+      "text": "Una mañana de cielo despejado, Tito decidió que ese era el día. Subió a una piedra grande con paso firme, infló el pecho como había visto hacer a su papá, cerró los ojos y se preparó. \"Vamos, Tito, tú puedes\", se dijo a sí mismo.\n\nContó tres, dos, uno y saltó. Por un segundo sintió el viento en la cara y pensó \"¡lo logré!\". Pero entonces sus alas se trabaron, una se cruzó con la otra y...\n\n¡Plof!\n\nCayó de boca al suelo, con la nariz llena de hojas y una flor amarilla pegada en la frente. Una mariposa que pasaba volando cerca se rió tanto que se mareó y aterrizó torcida en una rama. Tito se puso muy triste.\n\nSe le hizo un nudo en la garganta y dos lágrimas enormes le mojaron las escamas. \"Nunca, nunca, nunca voy a poder volar\", suspiró el pequeño dragón, y se acostó panza arriba, mirando el cielo.",
       "cues": [
         {
           "anchor": "Plof",
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "La mariposa, ya repuesta de su risa, sintió pena por el dragón. Bajó volando despacio y se posó en su nariz. Tenía las alas naranjas con puntos negros, como una flor con manchas. \"Perdóname, no me reía de ti\", le susurró. \"Lo que pasa es que te pones muy duro. Piensas demasiado\". Tito abrió un ojo, después el otro. La mariposa siguió: \"Te voy a contar un secreto, ¿sí? Cierra los ojos. Ahora respira. Hondo, así, mira cómo lo hago yo\". La mariposa infló su panza y soltó el aire con un soplido suave. Tito la copió. \"De nuevo. Una vez más. Imagina las nubes, imagina el viento en tus alas. No pienses en volar. Tus alas ya saben. Solo hay que dejarlas tranquilas\". Tito hizo todo lo que le decía la mariposa. Tomó aire una vez, dos veces, tres veces, cuatro. Su corazón, que antes saltaba como un conejo, empezó a latir despacio. La panza se le fue poniendo tibia.",
+      "text": "La mariposa, ya repuesta de su risa, sintió pena por el dragón. Bajó volando despacio y se posó en su nariz. Tenía las alas naranjas con puntos negros, como una flor con manchas.\n\n\"Perdóname, no me reía de ti\", le susurró. \"Lo que pasa es que te pones muy duro. Piensas demasiado\".\n\nTito abrió un ojo, después el otro. La mariposa siguió: \"Te voy a contar un secreto, ¿sí? Cierra los ojos.\n\nAhora respira.\n\nHondo, así, mira cómo lo hago yo\". La mariposa infló su panza y soltó el aire con un soplido suave. Tito la copió.\n\n\"De nuevo. Una vez más. Imagina las nubes, imagina el viento en tus alas.\n\nNo pienses en volar. Tus alas ya saben. Solo hay que dejarlas tranquilas\".\n\nTito hizo todo lo que le decía la mariposa. Tomó aire una vez, dos veces, tres veces, cuatro. Su corazón, que antes saltaba como un conejo, empezó a latir despacio.\n\nLa panza se le fue poniendo tibia.",
       "cues": [
         {
           "anchor": "respira",
@@ -41,7 +41,7 @@
     },
     {
       "id": "s4",
-      "text": "Cuando Tito abrió los ojos, algo mágico estaba pasando: sus alas ya se movían solas. Subían y bajaban con un ritmo suave, sin que él pensara nada, como si hicieran lo que siempre habían sabido hacer. De pronto, Tito notó que sus pies dejaron de tocar el suelo. Miró hacia abajo. La piedra estaba lejos. Las flores se hacían cada vez más pequeñas. ¡Estaba volando! Subió alto, alto, hasta rozar las nubes blancas con la punta de la cola. Sintió el viento fresco en la cara, en las orejas, en cada escama. Y soltó una carcajada. Con ella salió también una bocanada de chispas doradas que dibujó un corazón en el aire. Desde lejos, sus amigos dragones lo aplaudieron con las alas. La mariposa bailaba a su lado, contenta. Esa tarde, Tito aprendió un secreto que iba a recordar toda su vida: cada vez que el miedo le ganara, iba a respirar hondo como le enseñó su amiga, y todo se iba a hacer más fácil.",
+      "text": "Cuando Tito abrió los ojos, algo mágico estaba pasando: sus alas ya se movían solas. Subían y bajaban con un ritmo suave, sin que él pensara nada, como si hicieran lo que siempre habían sabido hacer. De pronto, Tito notó que sus pies dejaron de tocar el suelo.\n\nMiró hacia abajo. La piedra estaba lejos. Las flores se hacían cada vez más pequeñas.\n\n¡Estaba volando!\n\nSubió alto, alto, hasta rozar las nubes blancas con la punta de la cola. Sintió el viento fresco en la cara, en las orejas, en cada escama. Y soltó una carcajada.\n\nCon ella salió también una bocanada de chispas doradas que dibujó un corazón en el aire. Desde lejos, sus amigos dragones lo aplaudieron con las alas. La mariposa bailaba a su lado, contenta.\n\nEsa tarde, Tito aprendió un secreto que iba a recordar toda su vida: cada vez que el miedo le ganara, iba a respirar hondo como le enseñó su amiga, y todo se iba a hacer más fácil.",
       "cues": [
         {
           "anchor": "volando",

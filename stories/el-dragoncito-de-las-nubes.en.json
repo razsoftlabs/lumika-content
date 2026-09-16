@@ -2,13 +2,13 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 8,
   "title": "The Little Cloud Dragon",
   "summary": "High on the mountain lives a dragon unlike any other: what will come from his mouth when the village needs him most?",
   "scenes": [
     {
       "id": "s1",
-      "text": "High on a green mountain lived Nubo, a very special little dragon. All the other dragons breathed fire, but Nubo was different: when he opened his mouth, instead of flames, soft cotton clouds came out. One morning, very slowly, Nubo blew. A round little cloud went floating up into the blue sky, and butterflies came to rest upon it. Seeing them there, the little dragon laughed. \"My clouds are soft and pretty!\" he thought. And even though he had no fire like the others, Nubo really liked being just the way he was.",
+      "text": "High on a green mountain lived Nubo, a very special little dragon. All the other dragons breathed fire, but Nubo was different: when he opened his mouth, instead of flames, soft cotton clouds came out. One morning, very slowly, Nubo blew.\n\nA round little cloud went floating up into the blue sky, and butterflies came to rest upon it. Seeing them there, the little dragon laughed. \"My clouds are soft and pretty!\"\n\nhe thought. And even though he had no fire like the others, Nubo really liked being just the way he was.",
       "ambient": "forest_birds",
       "cues": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "At the foot of the mountain sat a little village of colorful houses. But that day the sun shone very brightly, far too brightly. It was so hot that the flowers bowed their heads and the trees drooped their tired leaves. The children fanned themselves looking for shade. With his tongue hanging out, in a cool corner, down flopped a thirsty puppy. Nobody felt like playing. \"What a scorching day,\" the grandparents sighed from the doors of their houses. The whole village wished for a cool breeze, but the breeze would not come.",
+      "text": "At the foot of the mountain sat a little village of colorful houses. But that day the sun shone very brightly, far too brightly. It was so hot that the flowers bowed their heads and the trees drooped their tired leaves.\n\nThe children fanned themselves looking for shade. With his tongue hanging out, in a cool corner, down flopped a thirsty puppy.\n\nNobody felt like playing. \"What a scorching day,\" the grandparents sighed from the doors of their houses. The whole village wished for a cool breeze, but the breeze would not come.",
       "cues": [
         {
           "anchor": "puppy",
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "From his mountain, Nubo watched the village suffer under the sun. He saw the overheated children. He saw the hanging tongue of the thirsty puppy. And he felt a tickle in his tummy. \"I know how to help!\" he said, spreading his enormous wings. He took a deep breath, a very deep breath, until he filled up like a round balloon. Then he leaped from the edge of the mountain and, gliding gently among the clouds, he flew. Very hard indeed pounded his heart. But he was sure: he was going to give them the softest, coolest shade in the whole wide world.",
+      "text": "From his mountain, Nubo watched the village suffer under the sun. He saw the overheated children. He saw the hanging tongue of the thirsty puppy.\n\nAnd he felt a tickle in his tummy. \"I know how to help!\" he said, spreading his enormous wings.\n\nHe took a deep breath, a very deep breath, until he filled up like a round balloon. Then he leaped from the edge of the mountain and, gliding gently among the clouds, he flew.\n\nVery hard indeed pounded his heart. But he was sure: he was going to give them the softest, coolest shade in the whole wide world.",
       "cues": [
         {
           "anchor": "flew",
@@ -41,7 +41,7 @@
     },
     {
       "id": "s4",
-      "text": "When he reached the houses, Nubo took a breath and, with all his might, blew. And out came so many cotton clouds! Big, white and fluffy, they gathered into a soft roof that covered the hot sun. At once, cool and gentle, in came the wind. From the clouds began to fall tiny drops. They were like a tickly drizzle. The heat went away. The children came out to dance and the flowers lifted their heads. And down below, wagging his tail with pure joy, jumped the puppy. \"Thank you, Nubo!\" cried the whole village, laughing under the shade.",
+      "text": "When he reached the houses, Nubo took a breath and, with all his might, blew. And out came so many cotton clouds! Big, white and fluffy, they gathered into a soft roof that covered the hot sun.\n\nAt once, cool and gentle, in came the wind. From the clouds began to fall tiny drops.\n\nThey were like a tickly drizzle. The heat went away. The children came out to dance and the flowers lifted their heads.\n\nAnd down below, wagging his tail with pure joy, jumped the puppy. \"Thank you, Nubo!\" cried the whole village, laughing under the shade.",
       "ambient": null,
       "cues": [
         {
@@ -54,7 +54,7 @@
     },
     {
       "id": "s5",
-      "text": "Little by little, the afternoon turned cool and golden. When night fell, Nubo's clouds stayed behind to watch over the sky. Over the sleeping village, round and yellow, rose the moon. And all around it appeared, twinkling softly, many stars. Nubo, tired and happy, climbed onto the biggest of his clouds and curled up as if on a soft pillow. He yawned very slowly. Now he knew that his gift, so different and so his own, was the loveliest of all. And with a smile, the little cloud dragon fell fast asleep. Good night.",
+      "text": "Little by little, the afternoon turned cool and golden. When night fell, Nubo's clouds stayed behind to watch over the sky. Over the sleeping village, round and yellow, rose the moon.\n\nAnd all around it appeared, twinkling softly, many stars. Nubo, tired and happy, climbed onto the biggest of his clouds and curled up as if on a soft pillow. He yawned very slowly.\n\nNow he knew that his gift, so different and so his own, was the loveliest of all. And with a smile, the little cloud dragon fell fast asleep. Good night.",
       "ambient": "forest_night",
       "cues": [
         {

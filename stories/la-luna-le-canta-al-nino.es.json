@@ -2,13 +2,13 @@
   "id": "la-luna-le-canta-al-nino",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 8,
   "title": "La luna le canta al niño",
   "summary": "Un niño que no quiere dormir descubre, de la mano de la luna, que cerrar los ojos es el comienzo de una aventura preciosa.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Ya era de noche, pero el niño no quería dormir. Daba vueltas en la cama, con los ojos bien abiertos. Entonces, por la ventana, entró una luz suave y plateada. Era la luna. Redonda y tranquila, lo miraba desde el cielo. A su alrededor, como pequeñas chispas de luz, brillaban muchas estrellas. «¿Todavía despierto, pequeño?», susurró la luna con voz dulce. El niño asintió, un poco tímido. «No tengo sueño», dijo en voz baja. La luna sonrió, y su luz lo abrazó con calma, como una manta tibia.",
+      "text": "Ya era de noche, pero el niño no quería dormir. Daba vueltas en la cama, con los ojos bien abiertos. Entonces, por la ventana, entró una luz suave y plateada.\n\nEra la luna.\n\nRedonda y tranquila, lo miraba desde el cielo. A su alrededor, como pequeñas chispas de luz, brillaban muchas estrellas. «¿Todavía despierto, pequeño?»,\n\nsusurró la luna con voz dulce.\n\nEl niño asintió, un poco tímido. «No tengo sueño», dijo en voz baja. La luna sonrió, y su luz lo abrazó con calma, como una manta tibia.",
       "cues": [
         {
           "anchor": "luna",
@@ -19,7 +19,7 @@
     },
     {
       "id": "s2",
-      "text": "«Ven, te voy a contar un secreto», dijo la luna. Afuera, las cortinas se mecían con el viento. Era como si él también quisiera escuchar. La luna empezó a cantar una canción muy suave, hecha de silencio y de calma. En un árbol cercano se despertó un búho. Abrió los ojos y escuchó con atención. La canción hablaba de lugares bonitos, de sueños donde todo es posible. «Cerrar los ojos no es el final del día», cantó la luna. «Es el comienzo de una aventura muy especial». El niño la escuchó, muy quieto, y sintió que sus párpados pesaban un poco.",
+      "text": "«Ven, te voy a contar un secreto», dijo la luna. Afuera, las cortinas se mecían con el viento. Era como si él también quisiera escuchar.\n\nLa luna empezó a cantar una canción muy suave, hecha de silencio y de calma. En un árbol cercano se despertó un búho.\n\nAbrió los ojos y escuchó con atención. La canción hablaba de lugares bonitos, de sueños donde todo es posible. «Cerrar los ojos no es el final del día», cantó la luna.\n\n«Es el comienzo de una aventura muy especial». El niño la escuchó, muy quieto, y sintió que sus párpados pesaban un poco.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -30,7 +30,7 @@
     },
     {
       "id": "s3",
-      "text": "Y entonces, sin moverse de su cama, el niño empezó a soñar. Volaba despacio sobre un mar azul y brillante, cubierto por la luz de la luna. Abajo, en el agua, nadaba una ballena. Su canción era profunda y larga, y hacía cosquillas por dentro. Suaves, como si respiraran, subían y bajaban las olas. «¿Ves? Soñar es viajar sin miedo», dijo la luna a su lado. El niño reía, feliz, mientras el aire tibio lo llevaba de un lado a otro. Nunca había volado, y era la cosa más bonita del mundo.",
+      "text": "Y entonces, sin moverse de su cama, el niño empezó a soñar. Volaba despacio sobre un mar azul y brillante, cubierto por la luz de la luna. Abajo, en el agua, nadaba una ballena.\n\nSu canción era profunda y larga, y hacía cosquillas por dentro. Suaves, como si respiraran, subían y bajaban las olas. «¿Ves?\n\nSoñar es viajar sin miedo», dijo la luna a su lado. El niño reía, feliz, mientras el aire tibio lo llevaba de un lado a otro. Nunca había volado, y era la cosa más bonita del mundo.",
       "ambient": "ocean_waves",
       "cues": [
         {
@@ -41,7 +41,7 @@
     },
     {
       "id": "s4",
-      "text": "El sueño lo llevó luego a un bosque tranquilo, iluminado por miles de estrellas. Con el viento, los árboles susurraban una nana entre las hojas. A su lado apareció un búho. Le guiñó un ojo y voló con él un rato. Todo era blando, todo era seguro. El niño se sentó sobre una nube que pasaba y sintió cómo su cuerpo se volvía ligero y tibio. «Aquí puedes descansar todo lo que quieras», dijo la luna desde lo alto. Y el niño, por fin, dejó de tener prisa por despertar.",
+      "text": "El sueño lo llevó luego a un bosque tranquilo, iluminado por miles de estrellas. Con el viento, los árboles susurraban una nana entre las hojas.\n\nA su lado apareció un búho. Le guiñó un ojo y voló con él un rato. Todo era blando, todo era seguro.\n\nEl niño se sentó sobre una nube que pasaba y sintió cómo su cuerpo se volvía ligero y tibio. «Aquí puedes descansar todo lo que quieras», dijo la luna desde lo alto. Y el niño, por fin, dejó de tener prisa por despertar.",
       "ambient": "forest_night",
       "cues": [
         {
@@ -52,7 +52,7 @@
     },
     {
       "id": "s5",
-      "text": "Poco a poco, la luna lo trajo de vuelta a su cama tibia. Una vez y otra vez, muy despacio, el niño respiró. Sus ojos ya casi no podían abrirse. «Cada noche, cuando duermas, te esperará una nueva aventura», susurró la luna. «Yo cuidaré tus sueños desde el cielo». El niño sonrió, abrazó su almohada y por fin se quedó dormido. Afuera, la luna siguió brillando, suave y fiel, cantando en voz baja para todos los niños que, como él, ya viajaban felices por el país de los sueños.",
+      "text": "Poco a poco, la luna lo trajo de vuelta a su cama tibia. Una vez y otra vez, muy despacio, el niño respiró. Sus ojos ya casi no podían abrirse.\n\n«Cada noche, cuando duermas, te esperará una nueva aventura», susurró la luna. «Yo cuidaré tus sueños desde el cielo». El niño sonrió, abrazó su almohada y por fin se quedó dormido.\n\nAfuera, la luna siguió brillando, suave y fiel, cantando en voz baja para todos los niños que, como él, ya viajaban felices por el país de los sueños.",
       "cues": [
         {
           "anchor": "dormido",

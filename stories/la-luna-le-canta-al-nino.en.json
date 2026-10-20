@@ -2,65 +2,41 @@
   "id": "la-luna-le-canta-al-nino",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "The Moon Sings to the Boy",
-  "summary": "A boy who doesn't want to sleep discovers, with the moon by his side, that closing his eyes is the start of a beautiful adventure.",
+  "summary": "Emilio doesn't want to go to sleep, because he says nothing happens when you sleep. The moon, watching him through the window, is going to show him otherwise.",
   "scenes": [
     {
       "id": "s1",
-      "text": "It was already night, but the boy did not want to sleep. He tossed and turned in bed, with his eyes wide open. Then, through the window, a soft, silvery light came in.\n\nIt was the moon.\n\nRound and calm, she watched him from the sky. All around her, like tiny sparks of light, shone many stars. \"Still awake, little one?\"\n\nthe moon whispered in a sweet voice.\n\nThe boy nodded, a little shy. \"I'm not sleepy,\" he said softly. The moon smiled, and her light hugged him gently, like a warm blanket.",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "It was already night-time, but Emilio didn't want to go to sleep.\n\nHe tossed and turned. He kicked off the covers. He pulled them back on. He counted the squares on his quilt: blue, yellow, grey, blue.\n\n\"Sleeping is boring,\" he told the window. \"You close your eyes, and nothing happens.\"\n\nAnd the window answered him.\n\nWell, not the window. The moon, who was peeping in right in the middle of it, thin and curved like a smile.\n\n\"Nothing happens?\" said the moon, in a voice as soft as warm milk. \"That's because you don't know how to look.\"\n\n\"Look with my eyes closed?\"\n\n\"Try it. Close your eyes, and I'll sing you what's there.\"",
+      "ambient": "city_soft",
+      "music": "harp_dreams",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "\"Come, I'll tell you a secret,\" said the moon. Outside, the curtains swayed in the wind. It was as if it too wanted to listen.\n\nThe moon began to sing a very quiet song, made of silence and calm. In a nearby tree, something stirred awake: an owl.\n\nIt opened its eyes and listened closely. The song spoke of beautiful places, of dreams where everything is possible. \"Closing your eyes is not the end of the day,\" sang the moon.\n\n\"It is the start of a very special adventure.\" The boy listened, perfectly still, and felt his eyelids grow a little heavy.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "Emilio closed his eyes.\n\nThe moon began to sing, very softly. It wasn't a song with words. It was more like a swing going back and forth.\n\nAnd Emilio felt his bed begin to move. It rocked gently, from side to side.\n\nHis bed wasn't a bed any more. It was a boat. And all around the boat, blue and calm, there was a sea.\n\n\"A boat!\" shouted Emilio, and he opened his eyes to see it.\n\nBut there was only his room. The chair. The wardrobe. The patchwork quilt.\n\n\"It's gone!\" he complained.\n\n\"Of course it's gone,\" said the moon. \"Dreams are shy. If you open your eyes, they hide.\"",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "sea", "ambient": "ocean_waves" }]
     },
     {
       "id": "s3",
-      "text": "And then, without leaving his bed, the boy began to dream. He flew slowly over a blue and shining sea, covered by the light of the moon. Below, in the water, swam a whale.\n\nHer song was deep and long, and it tickled him inside. Soft, as if they were breathing, up and down went the waves. \"See?\n\nDreaming is traveling without fear,\" said the moon beside him. The boy laughed, happy, while the warm air carried him from side to side. He had never flown before, and it was the most beautiful thing in the world.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "whale",
-          "sfx": "whale_song"
-        }
-      ]
+      "text": "Emilio closed his eyes again. This time, squeezed tight.\n\nThe moon kept on singing.\n\nThe boat came to the edge of a forest. But it wasn't any old forest. The trees were as tall as giraffes, and instead of leaves they had colourful kites, fluttering in the breeze.\n\nEmilio walked among the trees. There was a swing hanging from a branch, so high it reached the clouds. There was a river of warm chocolate. There was a rabbit reading the newspaper, who turned a page and said goodnight to him.\n\nEmilio really, really wanted to open his eyes, so he could go and tell Mum.\n\nBut he didn't open them.",
+      "ambient": "forest_night",
+      "cues": [{ "anchor": "page", "sfx": "page_turn" }]
     },
     {
       "id": "s4",
-      "text": "The dream then took him to a peaceful forest, lit by thousands of stars. With the wind, the trees whispered a lullaby through their leaves.\n\nAt his side flew a friendly owl. It winked at him and stayed with him a while. Everything was soft, everything was safe.\n\nThe boy sat on a passing cloud and felt his body become light and warm. \"Here you can rest as much as you like,\" said the moon from high above. And the boy, at last, stopped being in a hurry to wake up.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "text": "\"Now comes the best part,\" whispered the moon.\n\nEmilio felt his body grow heavy. Heavy and warm, like when you climb into the bath.\n\nAnd light, at the same time.\n\nHe breathed slowly. Once. Twice.\n\nAnd he began to float. He rose above the forest of kites, above the clouds, among the stars, until he was very, very high up.\n\nAll the way to the moon.\n\nThe moon sat him in her curve, which was just the right size for a boy. And from there, Emilio saw the whole world asleep and silent, with all its windows dark.\n\n\"You see?\" said the moon. \"When you're asleep, lots and lots of things happen.\"",
+      "ambient": null,
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "breathed", "sfx": "breathe_in" }]
     },
     {
       "id": "s5",
-      "text": "Little by little, the moon brought him back to his warm bed. Once and again, very slowly, the boy breathed. His little eyes could barely stay open.\n\n\"Every night, when you sleep, a new adventure will wait for you,\" whispered the moon. \"I will watch over your dreams from the sky.\" The boy smiled, hugged his pillow, and finally fell asleep.\n\nOutside, the moon kept shining, soft and faithful, singing very quietly for all the children who, like him, were already traveling happily through the land of dreams.",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "\"Tomorrow I'll show you somewhere else,\" said the moon.\n\nBut Emilio didn't answer.\n\nHe was in his bed, with his quilt pulled up to his chin, hugging his little blue blanket. His mouth was a tiny bit open, and out of it came a teeny-tiny snore.\n\nAnd the moon stayed at the window all night long, singing softly, watching over his dreams.\n\nJust in case any of them wanted to hide.",
       "ambient": "city_soft",
-      "music": "lullaby_piano"
+      "cues": [{ "anchor": "snore", "sfx": "snore_soft" }]
     }
   ]
 }

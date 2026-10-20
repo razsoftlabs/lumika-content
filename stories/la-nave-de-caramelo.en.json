@@ -2,67 +2,46 @@
   "id": "la-nave-de-caramelo",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 20,
   "title": "The Candy Rocket",
-  "summary": "Three friends blast off in a ship made of cookies and candy, and up in space they find a little star who needs their help.",
+  "summary": "Three friends blast off in a rocket made of biscuits and sweets, and up in the sky they meet a little star who needs their help.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Noa, Tomi, and Sami were three friends who dreamed of flying. They spent one whole Sunday building a spaceship made of candy and cookies. They put it together with lots of patience and lots of laughter.\n\nThe walls were chocolate, the windows were sugar, and the buttons were colorful candies. When everything was ready, the three friends climbed inside, hugged each other tight, and counted to three. The ship smelled of warm vanilla.\n\nOutside, the moon was waiting for them.",
-      "cues": [
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Noa, Tomi and Sami spent a whole Sunday building a spaceship in the back garden.\n\nIt wasn't any old spaceship. It was a spaceship made of sweets.\n\nThe walls were candy canes, striped red and white. The buttons were lollipops. The door was an enormous biscuit. And in the round window at the top, to be the passengers, they put a row of gummy bears.\n\n\"Rule number one,\" said Noa, very seriously. \"No eating the spaceship.\"\n\n\"No eating it,\" said Sami.\n\n\"Absolutely no eating it,\" said Tomi, licking his fingers.",
+      "ambient": "city_soft",
+      "music": "marimba_playful",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "“Three, two, one!” they shouted together. With a sweet roar and a happy shiver, up went the rocket.\n\nIt climbed and climbed and climbed through the clouds. Whoosh! Soon the sky turned dark and soft like velvet, and everywhere around them appeared thousands of stars.\n\nNoa laughed, Tomi pointed, and Sami floated like a feather. Space was huge and quiet, and everything smelled a little like candy. The three friends held hands.\n\nThey had never seen anything so beautiful.",
-      "cues": [
-        {
-          "anchor": "rocket",
-          "sfx": "rocket"
-        }
-      ],
-      "ambient": null
+      "text": "The three of them climbed in, fastened their liquorice seat belts and counted together:\n\n\"Three! Two! One!\"\n\nAnd then… blastoff!\n\nThe candy rocket rose through clouds of candyfloss, pink, yellow and pale blue. Tiny coloured sparks flew past the window, as if someone had shaken a tub of sprinkles.\n\nEverything smelled of vanilla.\n\n\"I'm just going to taste a little bit of window,\" said Tomi. \"To see if it works.\"\n\n\"Tomi!\" said Noa and Sami together.",
+      "ambient": null,
+      "cues": [{ "anchor": "blastoff", "sfx": "rocket" }]
     },
     {
       "id": "s3",
-      "text": "Suddenly, something bright crossed the sky right in front of them: a comet.\n\nAnd just behind it came a small star. She was barely shining and had a sad face. “What’s wrong?”\n\nasked Noa sweetly. She sighed: “I’m very, very hungry, and I have a bit of a sweet tooth. Without something sweet in my tummy, I can’t shine.”\n\nThe three friends looked at each other and smiled, because their whole ship was made of yummy things. “Don’t worry,” said Tomi. “We’ll help you!”",
-      "cues": [
-        {
-          "anchor": "comet",
-          "sfx": "whoosh"
-        }
-      ],
+      "text": "Up, up high, where the clouds came to an end, they met someone.\n\nIt was a tiny star, sitting all alone on the edge of a cloud. She was hardly shining at all. She was pale, like a candle going out.\n\n\"What's the matter?\" Noa asked her.\n\n\"I'm hungry,\" said the star, in a very small voice. \"Stars eat sugar dust, the kind that falls from the sweet clouds. But this year, none fell. And without sugar I can't shine. And if I can't shine, I can't find my place in the sky.\"\n\nThe three friends looked at each other.\n\nThen they looked at their spaceship.\n\nTheir spaceship, made entirely of sweets.",
       "ambient": null,
-      "music": "gentle_piano"
+      "music": "gentle_piano",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Sami pulled a piece off the ship’s door: it was a cookie.\n\nNoa took a candy from a window. Tomi offered her a sweet from a button. The little star took a slow bite: crunch!\n\nThen she tried the candy, and then the sweet. All at once she began to shine so brightly that she lit up all of space, and out of pure joy she started to laugh. “Thank you, friends!”\n\nshe said, spinning happily. Never had a star been so happy with a tummy full of sweets.",
-      "cues": [
-        {
-          "anchor": "cookie",
-          "sfx": "crunch"
-        }
-      ],
+      "text": "\"Rule number one…\" Noa began.\n\n\"No eating the spaceship,\" said Sami. \"But it doesn't say anything about giving it away.\"\n\nSami gave the star the biscuit door. The star took a bite: crunch!\n\nNoa gave her a lollipop button. And Tomi, after thinking about it for a moment, gave her the gummy bears from the window. All except one.\n\n\"This one's the captain,\" he explained.\n\nThe star ate the lot. And she began to shine. A little at first. Then more. And in the end so much, so very much, that she lit up the whole sky, and let out a laugh of pure happiness.",
       "ambient": null,
-      "music": "marimba_playful"
+      "music": "marimba_playful",
+      "cues": [
+        { "anchor": "crunch", "sfx": "crunch" },
+        { "anchor": "laugh", "sfx": "giggle" }
+      ]
     },
     {
       "id": "s5",
-      "text": "It was time to go back home. The grateful star flew ahead of the ship to light the way back. They drifted down slowly through the clouds, with sleepy eyes and happy hearts.\n\nNoa, Tomi, and Sami snuggled up together and yawned a great big yawn. “Good night, little star,” they whispered. From the sky, she twinkled with a soft glow, as if saying good night too.\n\nAnd dreaming of new candy journeys, the three friends fell asleep.",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "The trouble was, now the rocket had a hole where the door used to be, and another where the buttons had been. And it began to wobble.\n\n\"Hold on tight!\" said the star.\n\nShe threw them a beam of light, like a golden rope, and lowered them gently down through the clouds, until they were back in the garden. Just in time for dinner.\n\nThat night, the three friends looked up at the sky from the window.\n\nThere was a new star, brighter than all the others. And she gave them a wink.\n\n\"Goodnight, little star,\" they whispered.\n\n\"I've got something to confess,\" said Tomi, nearly asleep. \"I ate the captain.\"",
       "ambient": "city_soft",
-      "music": "lullaby_piano"
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "wink", "sfx": "twinkle" }]
     }
   ]
 }

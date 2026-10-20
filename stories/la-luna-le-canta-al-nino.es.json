@@ -2,65 +2,41 @@
   "id": "la-luna-le-canta-al-nino",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "La luna le canta al niño",
-  "summary": "Un niño que no quiere dormir descubre, de la mano de la luna, que cerrar los ojos es el comienzo de una aventura preciosa.",
+  "summary": "Emilio no quiere dormirse, porque dice que cuando uno duerme no pasa nada. La luna, que lo mira por la ventana, le va a demostrar lo contrario.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Ya era de noche, pero el niño no quería dormir. Daba vueltas en la cama, con los ojos bien abiertos. Entonces, por la ventana, entró una luz suave y plateada.\n\nEra la luna.\n\nRedonda y tranquila, lo miraba desde el cielo. A su alrededor, como pequeñas chispas de luz, brillaban muchas estrellas. «¿Todavía despierto, pequeño?»,\n\nsusurró la luna con voz dulce.\n\nEl niño asintió, un poco tímido. «No tengo sueño», dijo en voz baja. La luna sonrió, y su luz lo abrazó con calma, como una manta tibia.",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Ya era de noche, pero Emilio no quería dormir.\n\nDaba vueltas en la cama. Se destapaba. Se volvía a tapar. Contaba los cuadritos de su manta: azul, amarillo, gris, azul.\n\n—Dormir es aburrido —le dijo a la ventana—. Cierras los ojos, y no pasa nada.\n\nY la ventana le contestó.\n\nBueno, la ventana no. La luna, que estaba asomada justo en el medio, fina y curvada como una sonrisa.\n\n—¿Que no pasa nada? —dijo la luna, con una voz suave como la leche tibia—. Eso es porque no sabes mirar.\n\n—¿Mirar con los ojos cerrados?\n\n—Pruébalo. Cierra los ojos, y yo te canto lo que hay.",
+      "ambient": "city_soft",
+      "music": "harp_dreams",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "«Ven, te voy a contar un secreto», dijo la luna. Afuera, las cortinas se mecían con el viento. Era como si él también quisiera escuchar.\n\nLa luna empezó a cantar una canción muy suave, hecha de silencio y de calma. En un árbol cercano se despertó un búho.\n\nAbrió los ojos y escuchó con atención. La canción hablaba de lugares bonitos, de sueños donde todo es posible. «Cerrar los ojos no es el final del día», cantó la luna.\n\n«Es el comienzo de una aventura muy especial». El niño la escuchó, muy quieto, y sintió que sus párpados pesaban un poco.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "Emilio cerró los ojos.\n\nLa luna empezó a cantar, muy bajito. No era una canción con palabras. Era más bien como un columpio que va y viene.\n\nY Emilio sintió que su cama se movía. Se mecía despacio, de un lado a otro.\n\nSu cama ya no era una cama. Era una barca. Y alrededor de la barca, azul y tranquilo, había un mar.\n\n—¡Un barco! —gritó Emilio, y abrió los ojos para verlo.\n\nPero solo estaba su cuarto. La silla. El armario. La manta de cuadritos.\n\n—¡Se fue! —protestó.\n\n—Claro que se fue —dijo la luna—. Los sueños son tímidos. Si abres los ojos, se esconden.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "mar", "ambient": "ocean_waves" }]
     },
     {
       "id": "s3",
-      "text": "Y entonces, sin moverse de su cama, el niño empezó a soñar. Volaba despacio sobre un mar azul y brillante, cubierto por la luz de la luna. Abajo, en el agua, nadaba una ballena.\n\nSu canción era profunda y larga, y hacía cosquillas por dentro. Suaves, como si respiraran, subían y bajaban las olas. «¿Ves?\n\nSoñar es viajar sin miedo», dijo la luna a su lado. El niño reía, feliz, mientras el aire tibio lo llevaba de un lado a otro. Nunca había volado, y era la cosa más bonita del mundo.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "ballena",
-          "sfx": "whale_song"
-        }
-      ]
+      "text": "Emilio volvió a cerrar los ojos. Esta vez, muy apretados.\n\nLa luna siguió cantando.\n\nLa barca llegó a la orilla de un bosque. Pero no era un bosque cualquiera. Los árboles eran altos como jirafas, y en lugar de hojas tenían cometas de colores, que se movían con el aire.\n\nEmilio caminó entre los árboles. Había un columpio colgado de una rama, tan alto que llegaba a las nubes. Había un río de chocolate tibio. Había un conejo leyendo el periódico, que pasó la página y le dio las buenas noches.\n\nA Emilio le dieron muchísimas ganas de abrir los ojos, para ir a contárselo a mamá.\n\nPero no los abrió.",
+      "ambient": "forest_night",
+      "cues": [{ "anchor": "página", "sfx": "page_turn" }]
     },
     {
       "id": "s4",
-      "text": "El sueño lo llevó luego a un bosque tranquilo, iluminado por miles de estrellas. Con el viento, los árboles susurraban una nana entre las hojas.\n\nA su lado apareció un búho. Le guiñó un ojo y voló con él un rato. Todo era blando, todo era seguro.\n\nEl niño se sentó sobre una nube que pasaba y sintió cómo su cuerpo se volvía ligero y tibio. «Aquí puedes descansar todo lo que quieras», dijo la luna desde lo alto. Y el niño, por fin, dejó de tener prisa por despertar.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "text": "—Ahora viene lo mejor —susurró la luna.\n\nEmilio sintió el cuerpo pesado. Pesado y tibio, como cuando uno se mete en la bañera.\n\nY al mismo tiempo, ligero.\n\nRespiró despacio. Una vez. Dos.\n\nY empezó a flotar. Subió por encima del bosque de cometas, por encima de las nubes, entre las estrellas, hasta llegar muy, muy arriba.\n\nHasta la luna.\n\nLa luna lo sentó en su curva, que era justo del tamaño de un niño. Y desde ahí, Emilio vio el mundo entero dormido y en silencio, con todas las ventanas apagadas.\n\n—¿Ves? —le dijo la luna—. Cuando duermes, pasan muchísimas cosas.",
+      "ambient": null,
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "respiró", "sfx": "breathe_in" }]
     },
     {
       "id": "s5",
-      "text": "Poco a poco, la luna lo trajo de vuelta a su cama tibia. Una vez y otra vez, muy despacio, el niño respiró. Sus ojos ya casi no podían abrirse.\n\n«Cada noche, cuando duermas, te esperará una nueva aventura», susurró la luna. «Yo cuidaré tus sueños desde el cielo». El niño sonrió, abrazó su almohada y por fin se quedó dormido.\n\nAfuera, la luna siguió brillando, suave y fiel, cantando en voz baja para todos los niños que, como él, ya viajaban felices por el país de los sueños.",
-      "cues": [
-        {
-          "anchor": "dormido",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "—Mañana te enseño otro sitio —dijo la luna.\n\nPero Emilio ya no contestó.\n\nEstaba en su cama, con la manta de cuadritos hasta la barbilla, abrazado a su mantita azul. Tenía la boca un poquito abierta, y de ella salía un ronquido chiquitito.\n\nY la luna se quedó en la ventana toda la noche, cantando bajito, cuidándole los sueños.\n\nPor si acaso alguno quería esconderse.",
       "ambient": "city_soft",
-      "music": "lullaby_piano"
+      "cues": [{ "anchor": "ronquido", "sfx": "snore_soft" }]
     }
   ]
 }

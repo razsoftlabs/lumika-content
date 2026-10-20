@@ -2,177 +2,101 @@
   "id": "la-noche-que-nevo-en-el-desierto",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "La noche que nevó en el desierto",
-  "summary": "En un pueblo donde nunca ha nevado, Amira sueña con ver la nieve de verdad… y una tarde de invierno el viento cambia de lado.",
+  "summary": "En un pueblo donde nunca nieva, Amira sueña con ver la nieve de verdad. Y una tarde de invierno, el viento cambia de lado.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En Pozo de Luna, el pueblo donde vivía Amira, el calor era como un abuelo viejo: llevaba tantos años ahí que ya nadie lo saludaba. Las piedras guardaban el sol hasta la medianoche. La tierra olía a polvo tibio y a pan recién horneado.\n\nLas chicharras cantaban dentro de los cactus, y por encima del pueblo pasaba, caliente como el aliento de un animal dormido, el viento.\n\nAmira dormía en el porche, con un trapo mojado en la frente. A los pies de la cama, atento a las sombras del patio, se echaba su perro. Cada tanto Canela ladraba a nada y después suspiraba.\n\nDebajo de la almohada, Amira guardaba una hoja arrancada de una revista vieja: una calle blanca, techos blancos, árboles con azúcar en las ramas. Nieve. Ella nunca había visto nieve.\n\nNadie en el pueblo la había visto, y por eso Amira la soñaba casi todas las noches, con los ojos abiertos.",
-      "ambient": null,
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ]
+      "text": "En Pozo de Luna, el pueblo donde vivía Amira, siempre hacía calor.\n\nLas piedras guardaban el sol hasta la medianoche. La tierra olía a polvo tibio y a pan recién horneado. Y los cactus, altos como abuelos, miraban el desierto sin moverse.\n\nPor las noches, Amira dormía en el porche, con un trapo mojado en la frente. A los pies de la cama dormía Canela, la perra de la casa.\n\nY debajo de la almohada, Amira guardaba un tesoro: una hoja arrancada de una revista vieja.\n\nEn la foto había una calle blanca, techos blancos, árboles con azúcar en las ramas.\n\nNieve.\n\nAmira nunca había visto la nieve. Nadie en el pueblo la había visto. Por eso la soñaba casi todas las noches.",
+      "ambient": "meadow_night",
+      "music": "harp_canon",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "—Abuelo —dijo esa noche—, ¿la nieve es fría de verdad?\n\nEl abuelo Simón estaba en su silla de madera, abanicándose con el sombrero. Arriba, el cielo tenía colgada una moneda de plata que era la luna. Alrededor del farol daban vueltas las mariposas de la noche.\n\nEn el poste del corral abría y cerraba los ojos, muy despacio, una lechuza.\n\n—Fría como un vaso de agua del aljibe —dijo el abuelo—. Fría y blanda al mismo tiempo. Y cuando la aprietas en la mano, cruje.\n\nAmira se sentó en el suelo de tierra, abrazando sus rodillas.\n\n—¿Y tú cómo sabes, abuelo? Si aquí nunca nieva.\n\nEl abuelo se quedó callado un rato largo, ese rato en que las personas mayores buscan un recuerdo que tienen muy guardado.\n\n—Porque aquí nevó una vez —dijo despacio—. Hace cien años. Y mi abuela estaba ahí.",
-      "ambient": null,
-      "cues": [
-        {
-          "anchor": "lechuza",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "—Abuelo —dijo esa noche—, ¿la nieve es fría de verdad?\n\nEl abuelo Simón estaba en su silla de madera, abanicándose con el sombrero.\n\n—Fría como el agua del pozo —dijo—. Fría y blandita, al mismo tiempo. Y cuando la aprietas en la mano, cruje.\n\nAmira lo miró con los ojos entrecerrados.\n\n—¿Y tú cómo sabes, abuelo? Si aquí nunca nieva.\n\nEl abuelo se quedó callado un rato largo. Ese rato en que las personas mayores buscan un recuerdo muy guardado.\n\n—Porque aquí nevó una vez —dijo despacio—. Hace cien años. Y mi abuela estaba ahí.",
+      "ambient": "meadow_night",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "—Ella tenía seis años, casi como tú —contó el abuelo—. Era una noche de enero. De las montañas bajó, oliendo a piedra mojada, un viento.\n\nLa gente sacó las mantas de los baúles y nadie entendía nada.\n\nY entonces el cielo se puso blanco.\n\n—Blanco, mi niña. Caía algo que no era lluvia ni era polvo. Caía despacio, como si el cielo estuviera deshojando una flor enorme.\n\nLa plaza se llenó de gente en pijama. Los viejos se quitaron el sombrero. Los niños llenaban de nieve sus bolsillos para guardarla, y mientras la nieve se volvía agua allí adentro, ellos reían.\n\n—Mi abuela llenó un frasco y lo puso debajo de la cama. En la mañana solo quedaba agua, y ella lloró. Pero contó esa noche cada día de su vida.\n\nY por eso yo te la estoy contando a ti.",
-      "ambient": null,
-      "cues": [
-        {
-          "anchor": "reían",
-          "sfx": "giggle"
-        }
-      ]
+      "text": "—Ella tenía seis años, casi como tú —contó el abuelo—. Era una noche de enero. De las montañas bajó un aire helado, y la gente sacó las mantas de los baúles sin entender nada.\n\n»Y entonces, el cielo se puso blanco.\n\n»Caía algo que no era lluvia, ni era polvo. Caía despacio, como si el cielo estuviera deshojando una flor enorme.\n\n»Todo el pueblo salió a la plaza en pijama. Los niños se llenaban los bolsillos de nieve para guardarla.\n\n»Mi abuela llenó un frasco y lo puso debajo de la cama. A la mañana siguiente solo quedaba agua, y lloró.\n\n»Pero se acordó de esa noche todos los días de su vida. Y por eso yo te la estoy contando a ti.",
+      "ambient": "meadow_night",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Al día siguiente, Amira sacó sus lápices y se puso a dibujar la nevada de hace cien años.\n\nDibujó el pueblo visto desde arriba: la iglesia, el aljibe, los techos, la panadería de doña Rosalía. Después pintó todo de blanco con un lápiz gastado, apretando fuerte, sacándole punta con un cuchillo cada vez que se rompía. Puso puntos blancos en el aire.\n\nMuchos. Cientos. Miles.\n\nEl lápiz blanco quedó del tamaño de un frijol.\n\nEl gato de la casa se llamaba Higo. Se subió a la mesa y se sentó justo encima del dibujo, como hacen siempre los gatos.\n\n—Quítate, Higo —le dijo Amira riéndose—. Estás sentado en la plaza.\n\nEsa noche pegó el dibujo en la pared, al lado de la ventana. Antes de dormirse le habló como se les habla a las cosas importantes, en un susurro:\n\n—Algún día voy a verte de verdad.",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": null
+      "text": "Al día siguiente, Amira sacó sus lápices y dibujó la nevada de hace cien años.\n\nDibujó el pueblo visto desde arriba: la iglesia, el pozo, los techos, la panadería de doña Rosalía. Y después lo pintó todo de blanco, con un lápiz gastado, apretando fuerte.\n\nPuso puntitos blancos en el aire. Muchos. Cientos. Miles.\n\nEl lápiz blanco quedó del tamaño de un frijol.\n\nHigo, el gato de la casa, se subió a la mesa y se sentó justo encima del dibujo, como hacen siempre los gatos.\n\n—Quítate, Higo —se rió Amira—. Estás sentado en la plaza.\n\nEsa noche pegó el dibujo en la pared, al lado de la ventana. Y antes de dormirse, le habló en un susurro:\n\n—Algún día te voy a ver de verdad.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "susurro", "sfx": "whisper" }]
     },
     {
       "id": "s5",
-      "text": "Pasaron los días y Amira aprendió a mirar el cielo como los grandes.\n\nCada tarde salía al patio, se ponía la mano de visera y estudiaba las nubes. El abuelo le enseñó sus nombres: las nubes gordas que no traen nada, las nubes de panza gris que sí, las nubes que corren muy alto y solo van de paso.\n\nLe enseñó a mojarse el dedo y levantarlo para saber de dónde venía el aire.\n\nAl mediodía, cuando el calor apretaba, entre las flores del cactus zumbaba una abeja.\n\nA Amira le daba risa su torpeza.\n\nY de noche, acostada en el porche, se ponía a contar estrellas. Siempre perdía la cuenta.\n\n—¿Y si nieva mientras estoy dormida? —preguntaba.\n\n—Entonces yo te despierto —prometía el abuelo—. Palabra de abuelo.\n\nAmira cerraba los ojos e imaginaba su pueblo blanco, tan blanco que parecía dibujado con azúcar.",
-      "ambient": "meadow_night",
-      "cues": [
-        {
-          "anchor": "abeja",
-          "sfx": "bee_buzz"
-        }
-      ]
+      "text": "Pasaron los días, y Amira aprendió a mirar el cielo como los grandes.\n\nEl abuelo le enseñó los nombres de las nubes. Las gordas, que no traen nada. Las de panza gris, que a veces sí. Las que corren muy alto, que solo van de paso.\n\nLe enseñó a mojarse un dedo y levantarlo, para saber de dónde viene el aire.\n\n—¿Y si nieva mientras estoy dormida? —preguntaba Amira.\n\n—Entonces yo te despierto —prometía el abuelo—. Palabra de abuelo.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s6",
-      "text": "Y entonces, una tarde de invierno, pasó algo raro.\n\nAmira estaba barriendo el porche cuando sintió un escalofrío en los brazos. Levantó la cara. Algo bajaba de las montañas, delgado y helado, con olor a piedra mojada.\n\nYa no subía tibio del desierto: había cambiado de lado el viento.\n\nEn el patio, como si ensayaran un baile, empezaron a girar en círculos todas las hojas.\n\nLa ropa del tendedero se infló como velas de barco. El cielo se puso de un color que Amira no conocía: gris con un poco de violeta, igual que el interior de una concha.\n\nDoña Rosalía salió corriendo a descolgar sus sábanas. El termómetro de la tienda, que siempre marcaba mucho, bajó, bajó y bajó.\n\nEl abuelo salió al patio sin sombrero. Olió el aire despacio, como un perro viejo, y no dijo nada. Pero le brillaron los ojos.",
-      "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        }
-      ],
-      "ambient": null
+      "text": "Y entonces, una tarde de invierno, pasó algo raro.\n\nAmira estaba barriendo el porche cuando sintió un escalofrío en los brazos. Levantó la cara. Se mojó un dedo y lo levantó, como le había enseñado el abuelo.\n\nEl aire ya no venía tibio del desierto. Bajaba de las montañas, delgado y helado.\n\nHabía cambiado de lado el viento.\n\nLa ropa del tendedero se infló como las velas de un barco. El cielo se puso de un color que Amira no conocía: gris, con un poco de violeta, como el interior de una concha.\n\nEl abuelo salió al patio sin sombrero. Olió el aire despacio, y no dijo nada.\n\nPero le brillaron los ojos.",
+      "ambient": "meadow_day",
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "viento", "sfx": "wind_high", "ambient": "snow_wind" }]
     },
     {
       "id": "s7",
-      "text": "Los animales lo supieron antes que las personas.\n\nCanela, que nunca se metía a la casa, entró sin permiso y se acostó debajo de la cama de Amira, temblando y moviendo las orejas. A la puerta cerrada, cada tanto, le ladraba el perro.\n\nLas gallinas se apretaron todas en una esquina del corral y se hicieron una sola gallina grande y tibia. Higo se subió al horno de barro y se quedó ahí, en la parte caliente, hecho una rosca.\n\nLas hormigas taparon la entrada de su hormiguero con piedras diminutas.\n\nY en el aljibe empezó a cantar, como si fuera la única cantante del mundo, una rana.\n\n—Abuelo, ¿por qué está todo tan raro?\n\n—Porque algo viene —dijo el abuelo, y le puso una manta en los hombros—. Los animales lo huelen. Nosotros solo esperamos.",
-      "cues": [
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
-        }
-      ],
-      "ambient": null
+      "text": "Los animales lo supieron antes que las personas.\n\nCanela, que nunca entraba en la casa, se metió debajo de la cama de Amira, temblando, y desde ahí le ladraba a la ventana.\n\nLas gallinas se apretaron en una esquina del corral, hasta parecer una sola gallina grande y tibia. Higo se subió al horno de barro y se quedó ahí, en la parte calentita, hecho una rosca.\n\nHasta las hormigas taparon la entrada de su hormiguero con piedritas.\n\n—Abuelo, ¿por qué está todo tan raro?\n\n—Porque algo viene —dijo el abuelo, y le puso una manta en los hombros—. Los animales lo huelen. Nosotros solo esperamos.",
+      "ambient": "snow_wind",
+      "cues": [{ "anchor": "ladraba", "sfx": "bark" }]
     },
     {
       "id": "s8",
-      "text": "Esa noche la casa se acostó temprano, porque el frío daba sueño.\n\nAmira no. Amira se quedó despierta con la nariz pegada al vidrio de la ventana, envuelta en dos mantas, mirando la calle vacía. El farol de la esquina hacía un círculo de luz amarilla en el suelo.\n\nSe oía el reloj de la cocina. Nada más.\n\nSe le cerraban los ojos. Sobre el vidrio frío, para empañarlo, Amira respiró. Después dibujó con el dedo una casa con humo.\n\nY en ese momento, dentro del círculo de luz del farol, bajó algo.\n\nBajó despacio, dando vueltas lentas, como si no tuviera ninguna prisa. Era pequeño y blanco, y al cruzar la luz soltó un brillo.\n\nUn copo.\n\nAmira se quedó completamente quieta, con la boca abierta. Detrás del primero venía otro. Y otro.\n\nY otro más.\n\nEstaba nevando en Pozo de Luna.",
+      "text": "Esa noche, la casa se acostó temprano, porque el frío daba sueño.\n\nAmira no. Amira se quedó despierta, con la nariz pegada al vidrio de la ventana, envuelta en dos mantas, mirando la calle vacía. El farol de la esquina hacía un círculo de luz amarilla en el suelo.\n\nSe le cerraban los ojos. Respiró sobre el vidrio para empañarlo, y dibujó con el dedo una casita con humo.\n\nY en ese momento, dentro del círculo de luz del farol, bajó algo.\n\nBajaba despacio, dando vueltas, sin ninguna prisa. Era pequeño y blanco, y al cruzar la luz, brilló.\n\nEra un copo.\n\nDetrás venía otro. Y otro. Y otro más.\n\nEstaba nevando en Pozo de Luna.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "brillo",
-          "sfx": "sparkle"
-        }
+        { "anchor": "respiró", "sfx": "breathe_in" },
+        { "anchor": "copo", "sfx": "twinkle" }
       ]
     },
     {
       "id": "s9",
-      "text": "Amira salió corriendo de su cuarto, descalza.\n\n—¡Abuelo! ¡Abuelo, abuelo, ABUELO!\n\nPor todo el pasillo sonaron sus pasos. Eran tan rápidos que parecían muchos más pies de los que ella tenía. Con las dos manos golpeó la puerta.\n\nSe abrió, y ahí estaba él, con el pelo blanco todo despeinado y los ojos pequeños de sueño.\n\n—¿Qué pasa, mi niña?\n\n—¡Está cayendo! ¡Del cielo! ¡Blanco!\n\nEl abuelo no preguntó nada más. Se puso las botas sin medias, agarró la manta de su cama y salió detrás de ella. Amira despertó a su mamá, despertó a su papá, despertó a su hermano pequeño que dormía con la boca abierta, y hasta despertó a Canela, que ya estaba bien despierto.\n\n—¡Todos afuera! —gritaba—. ¡Todos afuera, ya!\n\nY la familia entera, en pijama y con los ojos pegados, salió al patio a mirar el cielo.",
-      "cues": [
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
-        }
-      ],
+      "text": "Amira salió corriendo de su cuarto, descalza.\n\n—¡Abuelo! ¡Abuelo, abuelo, ABUELO!\n\nGolpeó con las dos manos la puerta.\n\nSe abrió, y ahí estaba él, con el pelo blanco todo despeinado y los ojos chiquitos de sueño.\n\n—¿Qué pasa, mi niña?\n\n—¡Está cayendo! ¡Del cielo! ¡Blanco!\n\nEl abuelo no preguntó nada más. Se puso las botas sin calcetines, agarró la manta de su cama y salió detrás de ella.\n\nAmira despertó a su mamá. Despertó a su papá. Despertó a su hermano pequeño, que dormía con la boca abierta.\n\nY la familia entera salió al patio en pijama, a mirar el cielo.",
       "ambient": "snow_wind",
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "puerta", "sfx": "door_open" }]
     },
     {
       "id": "s10",
-      "text": "En Pozo de Luna, las noticias no necesitan teléfono.\n\nPrimero se encendió una ventana. Después otra. Después, a lo largo de la calle, empezaron a abrirse una por una las puertas.\n\nDe cada casa salía gente en pijama, con abrigos encima, con mantas, con gorros de lana que nadie había usado nunca.\n\nNadie hablaba fuerte. Al principio solo se oían susurros, como en la iglesia. La plaza estaba cambiando de color: el suelo pardo se ponía blanco, los techos se ponían blancos, y el borde del aljibe tenía un sombrerito de nieve.\n\nLos perros ladraban de pura emoción sin saber a qué.\n\nY entonces alguien se rio. Fue el panadero, que abrió la boca para que le cayera un copo en la lengua. Y de una punta a la otra del pueblo, como el fuego en la leña seca, se contagiaron las risas.",
+      "text": "En Pozo de Luna, las noticias no necesitan teléfono.\n\nPrimero se encendió una ventana. Después otra. Después, a lo largo de la calle, se fueron abriendo las casas, una por una.\n\nDe cada casa salía gente en pijama, con abrigos encima, con mantas, con gorros de lana que nadie se había puesto nunca.\n\nAl principio nadie hablaba fuerte. Solo se oían susurros, como en la iglesia. La plaza iba cambiando de color: el suelo se ponía blanco, los techos se ponían blancos, y el borde del pozo tenía un sombrerito de nieve.\n\nHasta un zorrito del desierto salió de su cueva a mirar, con sus orejas enormes.\n\nY entonces el panadero abrió la boca para atrapar nieve con la lengua. Y alguien se rió. Y de una punta a la otra del pueblo, se contagiaron las risas.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "risas",
-          "sfx": "giggle"
-        }
-      ]
+      "cues": [{ "anchor": "risas", "sfx": "giggle" }]
     },
     {
       "id": "s11",
-      "text": "Lo que pasó después, Amira no lo olvidó nunca.\n\nEl pueblo entero se puso a jugar de madrugada. Por el medio de la calle, dejando huellas y volviendo a pisarlas, los niños salieron corriendo. Debajo de los zapatos, con un ruido nuevo y perfecto, la nieve crujía.\n\nCric, cric, cric.\n\nAmira aprendió esa noche que la nieve se puede atrapar con la lengua, que se derrite en la mano y deja la palma mojada, y que si le soplas se vuela.\n\nSu papá hizo una bola blanda y se la lanzó al hermano pequeño, que se quedó muy serio un segundo y después se rio tanto que se cayó sentado.\n\nEl maestro bajó en pantuflas. La señora del correo bailó sola. Alguien puso música desde una ventana.\n\nY el abuelo, que casi nunca corría, cruzó la plaza a la carrera solo para dejar huellas.",
+      "text": "Lo que pasó después, Amira no lo olvidó nunca.\n\nEl pueblo entero se puso a jugar, de madrugada.\n\nLos niños corrían por el medio de la calle, dejando huellas y volviendo a pisarlas. Debajo de los zapatos, la nieve hacía un ruido nuevo y perfecto: ¡cric!\n\nAmira aprendió esa noche que la nieve se atrapa con la lengua, que se derrite en la mano, y que si le soplas, se vuela.\n\nSu papá hizo una bola blandita y se la tiró a su hermano, que se quedó muy serio un segundo… y después se rió tanto que se cayó sentado.\n\nEl maestro bajó en pantuflas. La señora del correo bailó sola.\n\nY el abuelo, que casi nunca corría, cruzó la plaza a la carrera, solo para dejar huellas.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "crujía",
-          "sfx": "crunch"
-        }
-      ],
-      "music": "marimba_playful"
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "cric", "sfx": "crunch" }]
     },
     {
       "id": "s12",
-      "text": "—Hay que hacer un muñeco —dijo Amira.\n\nEl problema fue que la nieve era poca. Así que todo el pueblo ayudó: juntaron con las manos la nieve del suelo, la de las bancas y la del borde del aljibe, y la llevaron hasta la mitad de la plaza como quien lleva un tesoro en un plato.\n\nEl muñeco les llegó apenas a la rodilla de Amira. Era pequeño, redondo y un poco torcido.\n\nLe pusieron dos granos de café por ojos y un ají seco de nariz. El abuelo le amarró su propia bufanda, la de rayas. Alguien le clavó dos ramas de mezquite por brazos.\n\nPara acomodarlo, Amira le dio en la barriga un golpe.\n\nY el muñeco se quedó firme.\n\n—¿Y cómo se llama? —preguntó su hermano.\n\n—Copito —dijo Amira, y se le escapó una risa. Le salió como el agua de un balde.",
+      "text": "—Hay que hacer un muñeco —dijo Amira.\n\nEl problema era que había poca nieve. Así que todo el pueblo ayudó. Juntaron la nieve del suelo, la de las bancas y la del borde del pozo, y la llevaron al medio de la plaza, como quien lleva un tesoro en un plato.\n\nEl muñeco les llegó apenas a la rodilla. Era pequeño, redondo y un poco torcido.\n\nLe pusieron dos granos de café por ojos y un ají seco de nariz. El abuelo le amarró su propia bufanda de rayas.\n\n—¿Cómo se llama? —preguntó el hermano de Amira.\n\n—Copito —dijo Amira.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "golpe",
-          "sfx": "thud"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s13",
-      "text": "Cuando la nieve dejó de caer, las nubes se abrieron despacio y, limpias y mojadas como recién lavadas, aparecieron las estrellas.\n\nFue entonces cuando Amira miró a los viejos del pueblo.\n\nDon Efraín, que tenía noventa y dos años y un bastón de palo, estaba parado en el medio de la plaza con las manos abiertas, y le rodaban lágrimas por la cara sin que hiciera ningún ruido. Lo que dijo, lo dijo en un susurro:\n\n—Toda la vida esperando esto. Toda la vida.\n\nDoña Rosalía lloraba y se reía al mismo tiempo, que es la manera más bonita de llorar.\n\nY el abuelo Simón, el abuelo de siempre, el que arreglaba todo y no se quejaba nunca, tenía los ojos brillantes.\n\n—Mi abuela tenía razón —dijo—. Es exactamente así.\n\nAmira le agarró la mano. Estaba fría por fuera y tibia por dentro, como todas las manos de los abuelos.",
+      "text": "Cuando dejó de nevar, las nubes se abrieron, y aparecieron las estrellas, limpias como recién lavadas.\n\nFue entonces cuando Amira miró a los viejos del pueblo.\n\nDon Efraín, que tenía noventa y dos años y un bastón de palo, estaba en el medio de la plaza con las manos abiertas. Le rodaban lágrimas por la cara.\n\n—Toda la vida esperando esto —decía bajito—. Toda la vida.\n\nY el abuelo Simón tenía los ojos brillantes.\n\n—Mi abuela tenía razón —dijo—. Es exactamente así.\n\nAmira le agarró la mano. Estaba fría por fuera y tibia por dentro, como todas las manos de los abuelos.\n\nAl rato, por detrás de las lomas, salió el sol. Y el sol, que no sabía nada de leyendas, empezó a derretir la nieve.\n\nDe los techos empezaron a caer gotas. Plic.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
-        }
-      ]
+      "cues": [{ "anchor": "plic", "sfx": "water_splash" }]
     },
     {
       "id": "s14",
-      "text": "El cielo se puso rosado por detrás de las lomas, y entonces salió el sol de siempre.\n\nY el sol, que no sabía nada de leyendas, empezó a derretir la nieve.\n\nPrimero, de los techos, empezaron a caer las gotas.\n\nPlic, plic, plic, en los charcos que se formaban en la tierra. Después la plaza empezó a mostrar manchones pardos, como un mantel blanco lleno de agujeros. Copito se puso flaco, se dobló hacia un lado, y al final solo quedaron dos granos de café, un ají seco y la bufanda de rayas toda mojada.\n\nA Amira le dolió el pecho.\n\n—No quiero que se vaya —dijo, y le tembló la voz.\n\nEl abuelo se agachó a su altura, miró el charco donde había estado Copito y, muy hondo, respiró.\n\n—Ven acá, mi niña. Te voy a decir algo que me dijo mi abuela.",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "gotas",
-          "sfx": "water_splash"
-        }
-      ]
-    },
-    {
-      "id": "s15",
-      "text": "—Lo bonito no tiene que durar para ser bonito —dijo el abuelo—. La nieve se fue, sí. Pero mira: tú la viste.\n\nYa está guardada aquí adentro, y nadie te la puede derretir. Mi abuela guardó su nevada cien años. Tú vas a guardar la tuya, y algún día se la vas a contar a alguien pequeño.\n\nAmira se quedó pensando. Después se secó la cara con la manga y sonrió.\n\nVolvieron a la casa despacio, agarrados de la mano, pisando charcos a propósito. Mamá hizo chocolate caliente. El abuelo colgó la bufanda mojada en una silla, para que se secara.\n\nAmira se acostó cuando ya era de día, con el cielo dorado en la ventana y la cortina moviéndose despacio con el viento. Cerró los ojos. Vio la plaza blanca otra vez, y a Copito, y a todo el pueblo riéndose de madrugada.\n\nY feliz, abrazando el recuerdo de la noche que nevó en el desierto, se quedó dormida con un ronquido.",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "ronquido",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "Copito se fue poniendo flaco. Se dobló hacia un lado. Y al final solo quedaron dos granos de café, un ají seco y la bufanda de rayas, toda mojada.\n\n—No quiero que se vaya —dijo Amira, y le tembló la voz.\n\nEl abuelo se agachó a su altura.\n\n—Lo bonito no tiene que durar para ser bonito —le dijo—. La nieve se fue, sí. Pero tú la viste. Ya está guardada aquí adentro, y nadie te la puede derretir.\n\n»Mi abuela guardó su nevada cien años. Tú vas a guardar la tuya. Y algún día se la vas a contar a alguien pequeño.\n\nVolvieron a casa despacio, de la mano, pisando charcos a propósito. Mamá hizo chocolate caliente.\n\nY Amira se durmió cuando ya era de día, abrazada al recuerdo de la noche que nevó en el desierto.",
+      "ambient": "fireplace",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

@@ -2,65 +2,45 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 20,
   "title": "Titila, la estrella fugaz tímida",
-  "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado.",
+  "summary": "Titila es una estrella fugaz tan tímida que nunca se atreve a cruzar el cielo. Tiene miedo de equivocarse con los deseos de los niños.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más alto de la noche vivía una estrella llamada Titila. Cada noche, dejando colas de luz, cruzaban el cielo las demás estrellas.\n\nAbajo, los niños dormidos pedían deseos. Y a todas las saludaba, redonda y amable, la Luna. Pero Titila se quedaba quieta en su rincón, brillando muy despacio.\n\nLe encantaba mirar el mundo dormido allá abajo: los tejados, los árboles y los ríos. Soñaba con cruzar el cielo algún día... pero solo de pensarlo, su luz temblaba un poco.\n\nTodavía no se animaba.",
+      "text": "En lo más alto de la noche vivía una estrella fugaz muy pequeña. Se llamaba Titila.\n\nCada noche, las otras estrellas fugaces cruzaban el cielo de punta a punta, dejando colas de oro. Y abajo, en sus camas, los niños las veían pasar y pedían deseos.\n\nTodas cruzaban. Menos Titila.\n\nTitila se quedaba escondida detrás de una nube gorda y blanca. Desde ahí miraba el mundo dormido: los tejados, los ríos, las ventanas con luz.\n\nY brillaba muy despacito, titilando, para que nadie la viera.",
       "ambient": null,
-      "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "sparkle"
-        }
-      ]
+      "music": "space_dream",
+      "cues": [{ "anchor": "titilando", "sfx": "twinkle" }]
     },
     {
       "id": "s2",
-      "text": "¿Por qué tenía tanto miedo Titila? Ella pensaba: «¿Y si un niño pide un deseo y yo lo confundo? ¿Y si pide un abrazo y le doy un globo?».\n\nSolo de imaginarlo, se escondía detrás de una nube. Una noche se le acercó, tibio y despacio, un viento. Le acarició la cara con mucho cuidado.\n\n—No pasa nada, pequeña. Nadie pide deseos perfectos —le susurró.\n\nPero Titila, tímida, cerró los ojos y siguió temblando en silencio. Prefería mirar desde lejos, sin que nadie la viera cruzar.",
-      "cues": [
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": null
+      "text": "¿Por qué no cruzaba?\n\nPorque tenía miedo.\n\n—¿Y si un niño pide un abrazo y yo le traigo un globo? —pensaba—. ¿Y si pide un perrito y le traigo un pato? ¿Y si me equivoco de deseo?\n\nSolo de pensarlo, se escondía todavía más detrás de la nube.\n\nHasta que la nube habló.\n\n—Oye —dijo, con una voz blandita—. ¿Te puedes mover un poco? Me haces cosquillas.\n\nTitila se puso roja. Bueno, más amarilla.\n\n—Perdón. Es que me escondo.\n\n—Ya lo sé —dijo la nube, con una risa esponjosa—. Llevas tres semanas escondida detrás de mí. Me llamo Algodón.",
+      "ambient": null,
+      "cues": [{ "anchor": "risa", "sfx": "giggle" }]
     },
     {
       "id": "s3",
-      "text": "Esa misma noche la vio temblar la Luna. Con su voz suave, le preguntó: —Titila, ¿por qué nunca cruzas el cielo? Desde una rama, con sus ojos grandes, escuchaba un búho.\n\nTitila, en voz baja, confesó su secreto: —Tengo miedo de darle a un niño el deseo equivocado. Ella sonrió despacio, con esa sonrisa ancha y calmada de las noches claras. —Ay, mi estrella —dijo—.\n\nVen, acércate. Deja que te cuente cómo funcionan de verdad los deseos. Y Titila, curiosa, se acercó un poco más.",
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        }
-      ],
-      "ambient": null
+      "text": "—¿Y de qué te escondes? —preguntó Algodón.\n\nTitila le contó su miedo. Lo del abrazo y el globo. Lo del perrito y el pato.\n\nAlgodón se quedó pensando, que en una nube es como estirarse despacio.\n\n—Titila —dijo—. Tú no cumples los deseos.\n\n—¿No?\n\n—No. Tú solo pasas, y brillas. El deseo lo pone cada niño, y lo guarda en su corazón. Tú eres la luz que le ayuda a pedirlo.\n\nTitila lo pensó mucho.\n\n—Entonces… ¿no me puedo equivocar?\n\n—Nadie se equivoca brillando —dijo Algodón—. Mira. Yo me corro un poquito, y tú solo te asomas. ¿Te parece?",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Y entonces, con esa voz que calma, se lo explicó despacio. —Los deseos no viven en ti. Viven en quien sueña, muy dentro de su corazón.\n\nTú solo llevas tu luz; el niño pone el deseo. Nunca puedes equivocarte, porque tú regalas brillo, no órdenes. Titila lo pensó despacio.\n\nSe llenó de aire y respiró. Fue como llenarse de valor. Desde su rama, alguien ululó en voz baja, como diciendo «tú puedes».\n\nPor primera vez, la estrella sintió que su miedo era pequeño, del tamaño de una miga. Y por dentro, muy callada, empezó a nacer una chispa de valentía.",
+      "text": "Algodón se corrió un poquito.\n\nY Titila se asomó.\n\nAllá abajo, en una ventana, había una niña que no se podía dormir. Estaba sentada en la cama, abrazada a sus rodillas, mirando el cielo. Como si esperara algo.\n\nTitila sintió que le temblaba toda la luz.\n\nTomó aire. Respiró, una vez, muy hondo.\n\nY cruzó.\n\nDe una punta a la otra del cielo, dejando detrás una cola dorada, larga y suave.\n\nAllá abajo, la niña abrió mucho los ojos. Después los cerró, juntó las manos y pidió un deseo en voz bajita.",
+      "ambient": null,
+      "music": "strings_hopeful",
       "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "ambient": null
+        { "anchor": "respiró", "sfx": "breathe_in" },
+        { "anchor": "cruzó", "sfx": "magic_shimmer" }
+      ]
     },
     {
       "id": "s5",
-      "text": "Entonces, por fin, Titila se atrevió. Abrió sus alas de luz y, de una punta a la otra del cielo, cruzó.\n\nDetrás dejó una cola dorada y suave. Allá abajo, una niña medio dormida la vio por la ventana. Pidió un deseo pequeño y lo susurró.\n\nTitila no supo cuál fue... y entendió que no importaba. La niña sonrió y se acurrucó en su cama.\n\nLe guiñó un ojo la Luna. Y Titila, tranquila al fin, volvió a su rincón a descansar, brillando en calma. Buenas noches, estrella.\n\nBuenas noches. A dormir.",
-      "ambient": "meadow_night",
-      "cues": [
-        {
-          "anchor": "cruzó",
-          "sfx": "whoosh"
-        }
-      ],
-      "music": "strings_hopeful"
+      "text": "Titila nunca supo cuál fue el deseo.\n\nPero vio que la niña sonreía. Que se metía debajo de la manta. Y que se quedaba dormida, tranquila, con la sonrisa todavía puesta.\n\nY entendió que no hacía falta saberlo.\n\nVolvió despacito a su rincón del cielo, donde la esperaba Algodón.\n\n—¿Y? —preguntó la nube.\n\n—Mañana otra vez —dijo Titila.\n\nY esa noche, por primera vez, brilló sin esconderse.",
+      "ambient": null,
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

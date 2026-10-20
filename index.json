@@ -1631,7 +1631,7 @@
     },
     {
       "id": "el-tesoro-del-arroyo",
-      "version": 7,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1643,7 +1643,7 @@
       "cover": "covers/el-tesoro-del-arroyo.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 15,
+      "durationMin": 11,
       "categories": [
         "aventuras",
         "familia"
@@ -1659,22 +1659,36 @@
       ],
       "premium": true,
       "preload": [
-        "music/guitar_warm"
+        "ambient/fireplace",
+        "ambient/forest_birds",
+        "ambient/rain",
+        "ambient/stream_water",
+        "music/adventure_soft",
+        "music/guitar_clear",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/door_open",
+        "sfx/giggle",
+        "sfx/leaves_rustle",
+        "sfx/magic_shimmer",
+        "sfx/run_fast",
+        "sfx/thud",
+        "sfx/water_splash"
       ],
       "preview": {
         "es": {
           "title": "El tesoro del arroyo",
-          "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa dibujado a mano por su abuelo, y al amanecer salen al bosque a descubrir qué esconde la X junto al arroyo."
+          "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa que dibujó su abuelo cuando era niño. Al día siguiente salen al bosque a buscar la X junto al arroyo."
         },
         "en": {
           "title": "The Treasure by the Stream",
-          "summary": "On a rainy day, three siblings find a map their grandpa drew by hand, and at dawn they set out into the forest to discover what the X beside the stream is hiding."
+          "summary": "On a rainy day, three children find a map in the attic that their grandpa drew when he was a boy. The next day, they set off into the woods to look for the X by the stream."
         }
       }
     },
     {
       "id": "el-tren-de-los-suenos",
-      "version": 5,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1686,7 +1700,7 @@
       "cover": "covers/el-tren-de-los-suenos.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "dormir",
         "aventuras"
@@ -1702,22 +1716,27 @@
       ],
       "premium": true,
       "preload": [
-        "music/music_box"
+        "ambient/city_soft",
+        "music/harp_dreams",
+        "music/lullaby_piano",
+        "sfx/bell_soft",
+        "sfx/breathe_in",
+        "sfx/train_soft"
       ],
       "preview": {
         "es": {
           "title": "El tren de los sueños",
-          "summary": "Cada noche, un tren mágico recoge a los niños en pijama y los lleva despacio por paisajes de sueño."
+          "summary": "Cada noche, cuando la casa se queda en silencio, un tren pasa a buscar a los niños en pijama y se los lleva a soñar."
         },
         "en": {
-          "title": "The dream train",
-          "summary": "Every night, a magical little train picks up children in pajamas and carries them gently through dreamy landscapes."
+          "title": "The Dream Train",
+          "summary": "Every night, when the house goes quiet, a train comes to collect the children in their pyjamas and takes them off to dream."
         }
       }
     },
     {
       "id": "estrella-fugaz-y-timida",
-      "version": 9,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1729,7 +1748,7 @@
       "cover": "covers/estrella-fugaz-y-timida.webp",
       "ageMin": 3,
       "ageMax": 8,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "espacio",
         "dormir"
@@ -1745,16 +1764,22 @@
       ],
       "premium": true,
       "preload": [
-        "music/music_box"
+        "music/lullaby_piano",
+        "music/space_dream",
+        "music/strings_hopeful",
+        "sfx/breathe_in",
+        "sfx/giggle",
+        "sfx/magic_shimmer",
+        "sfx/twinkle"
       ],
       "preview": {
         "es": {
           "title": "Titila, la estrella fugaz tímida",
-          "summary": "Una estrella tímida no se atreve a cruzar el cielo por miedo a conceder un deseo equivocado."
+          "summary": "Titila es una estrella fugaz tan tímida que nunca se atreve a cruzar el cielo. Tiene miedo de equivocarse con los deseos de los niños."
         },
         "en": {
           "title": "Titila, the Shy Shooting Star",
-          "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish."
+          "summary": "Titila is a shooting star so shy that she never dares to cross the sky. She's afraid of getting children's wishes wrong."
         }
       }
     },

@@ -2,177 +2,97 @@
   "id": "el-tesoro-del-arroyo",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "El tesoro del arroyo",
-  "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa dibujado a mano por su abuelo, y al amanecer salen al bosque a descubrir qué esconde la X junto al arroyo.",
+  "summary": "Un día de lluvia, tres hermanos encuentran en el desván un mapa que dibujó su abuelo cuando era niño. Al día siguiente salen al bosque a buscar la X junto al arroyo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Llovía desde la mañana y la lluvia dibujaba caminos en la ventana. Mateo, Nina y Beto ya habían jugado a todo: a las escondidas, a adivinar formas en las nubes grises. Ya no quedaba nada por inventar.\n\n'Estamos aburridísimos', suspiró Nina, con la mejilla apoyada en el cristal. Mamá sonrió mientras doblaba la ropa y señaló el techo con la barbilla. 'Si buscan algo nuevo, en el desván hay cajas que nadie abre desde hace años'.\n\nA los tres hermanos les brillaron los ojos. Subieron la escalera angosta, uno detrás del otro, y la madera repitió como un tambor cada uno de sus pasos. Arriba, Mateo apoyó el hombro y empujó la puerta.\n\nSe abrió despacio, con un quejido largo, y dejó escapar un olor a papel viejo, a lana guardada y a lluvia lejana. Beto se agarró de la camiseta de su hermana. '¿Entramos?\n\n', susurró. 'Entramos', dijo Mateo.",
+      "text": "Llovía desde la mañana.\n\nNina, Mateo y Bea ya habían jugado a todo. A las escondidas, a los piratas, a adivinar formas en las nubes grises. Ya no quedaba nada por inventar.\n\n—Estamos aburridísimos —dijo Nina, con la frente pegada a la ventana.\n\nMamá, que doblaba la ropa, señaló el techo con la barbilla.\n\n—En el desván hay cajas que nadie abre desde hace años.\n\nA los tres se les encendieron los ojos.\n\nSubieron la escalera estrecha, uno detrás de otro. Arriba había una puerta pequeña, con un pestillo oxidado.\n\nNina la empujó con el hombro. Y se abrió con un quejido.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
-        }
-      ]
+      "music": "adventure_soft",
+      "cues": [{ "anchor": "quejido", "sfx": "door_open" }]
     },
     {
       "id": "s2",
-      "text": "El desván era como un país entero guardado debajo del tejado. Había una silla sin una pata, un baúl con hebillas doradas, una lámpara dormida y montañas de cajas de cartón. Cada vez que pisaban, la madera contestaba con un crujido.\n\nEra como si el desván también estuviera despertando. Nina encontró un sombrero de paja y se lo puso torcido. Beto sacó un caracol de mar y se lo pegó a la oreja para escuchar las olas.\n\nMateo destapó una caja llena de fotos en blanco y negro. '¡Mira este! ', dijo Nina, y levantó un soldadito de plomo sin un brazo.\n\nLos tres se rieron tan fuerte que las vigas del techo devolvieron la risa. Y entonces, en el fondo del baúl, debajo de una bufanda azul, Mateo tocó algo distinto: una caja de madera cerrada con un cordel. Dentro había un papel doblado en cuatro, amarillo en los bordes, suave como una hoja seca.",
+      "text": "El desván era como un país entero escondido debajo del tejado.\n\nHabía una silla de tres patas, un baúl con hebillas doradas, una lámpara sin bombillo y montañas de cajas. Olía a papel viejo y a lana guardada.\n\nBea encontró un sombrero de paja y se lo puso torcido. Mateo encontró un soldadito sin un brazo. Nina abrió una caja llena de fotos en blanco y negro.\n\nY en el fondo del baúl, debajo de una bufanda azul, había una cajita de madera, atada con un cordel.\n\nDentro había un papel doblado en cuatro, amarillo en los bordes, suave como una hoja seca.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "crujido",
-          "sfx": "crunch"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Desplegaron el papel en el suelo con mucho cuidado, como si fuera una mariposa. No era un mapa de librería: estaba dibujado a mano, con lápiz gastado y algo de color. Se veían pinos torcidos, un puente de troncos y una línea azul que serpenteaba: un arroyo.\n\nY al final, junto a un árbol grandote, una X roja y, al lado, una estrella. Abajo, con letra grande, decía: 'Para quien tenga el corazón valiente. Ramón, 9 años'.\n\n'¡Es la letra del abuelo! ', dijo Mateo, y su voz se convirtió en un susurro.\n\n'El abuelo escondió un tesoro cuando era niño'. Nina pasó el dedo por la línea azul. 'Este es el arroyo Cantarín.\n\nEstá detrás del bosque. Papá nos llevó una vez'. Beto miró la X muy serio, con los ojos enormes, y dijo la idea más grande de su vida: '¿Y si vamos a buscarlo?\n\nMañana'.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ]
+      "text": "Lo desplegaron en el suelo, con mucho cuidado.\n\nEra un mapa, dibujado a mano con lápiz y colores. Tenía pinos, un puente de troncos y una línea azul que hacía curvas. Y al final, junto a un árbol enorme, una X roja.\n\nAbajo, con letra grande y torcida, decía:\n\n«Para quien tenga el corazón valiente. Ramón, 9 años».\n\n—¡Es el abuelo! —susurró Mateo—. ¡El abuelo escondió un tesoro cuando era niño!\n\n—Esto está detrás del bosque —dijo Nina, siguiendo la línea azul con el dedo—. Papá nos llevó una vez.\n\nBea miró la X muy seria, con los ojos enormes.\n\n—¿Y si vamos a buscarlo? Mañana.",
+      "ambient": "rain",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Esa noche, cuando la casa se quedó en silencio, los tres se juntaron en el cuarto de Mateo con la linterna encendida debajo de la sábana. Prepararon tres mochilas como exploradores de verdad: pan, tres manzanas, una cantimplora de agua, un ovillo de cordel y el mapa del abuelo bien doblado en el bolsillo de adelante.\n\nBeto guardó también su conejo de trapo, porque un explorador no deja a nadie atrás. En la almohada se subió a vigilarlos Nube, el gato. Maulló apenas, como preguntando adónde iban.\n\n'Es un secreto', le dijo Nina rascándole la cabeza. 'Mañana te contamos todo'. Mateo puso el despertador debajo de la almohada, para que sonara suave y no despertara a nadie más.\n\n'Salimos al amanecer', dijo. Antes de acostarse, Beto cerró los ojos y respiró.\n\nLo hizo hondo, muy hondo, y se metió en la cama con las botas al lado. Casi no pudo dormir de la emoción.",
-      "cues": [
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "rain"
+      "text": "Esa noche, los tres se juntaron debajo de una sábana con una linterna, como los exploradores de verdad.\n\nPrepararon las mochilas: pan, tres manzanas, una cantimplora, un ovillo de cordel, una cuchara para cavar y el mapa del abuelo, bien doblado en el bolsillo de adelante.\n\nBea metió también su conejo de trapo. Un explorador no deja a nadie atrás.\n\n—Salimos al amanecer —dijo Nina.\n\nAfuera, la lluvia fue parando poco a poco. Y Bea se durmió con las botas puestas.",
+      "ambient": "rain",
+      "cues": []
     },
     {
       "id": "s5",
-      "text": "El cielo estaba apenas rosado cuando salieron. El aire olía a tierra mojada y todo brillaba de rocío, como si la lluvia hubiera dejado el mundo recién lavado. Dejaron una nota sobre la mesa: 'Fuimos a una misión importante.\n\nVolvemos para el almuerzo. Los queremos'. Cruzaron el prado con las botas húmedas y entraron al bosque por el sendero de siempre.\n\nSobre la tierra oscura sonaban blandos sus pasos. Arriba, los pájaros se despertaban uno por uno: primero un silbido corto, después otro, hasta que el bosque entero se puso a cantar. Por las ramas más altas pasó un viento.\n\nEra tibio, y les revolvió el pelo. Beto caminaba en el medio, agarrado de la mano de Nina, mirando todo con la boca abierta. '¿Falta mucho?\n\n', preguntó. 'Falta lo justo', contestó Mateo, y miró el mapa como un capitán mira el mar.",
-      "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ]
+      "text": "El cielo estaba apenas rosado cuando salieron.\n\nDejaron una nota en la mesa: «Fuimos a una misión importante. Volvemos para el almuerzo».\n\nTodo brillaba de rocío, como si la lluvia hubiera dejado el mundo recién lavado. Cruzaron el prado con las botas mojadas y entraron en el bosque.\n\nArriba, los pájaros se iban despertando uno por uno, hasta que el bosque entero se puso a cantar.\n\n—¿Falta mucho? —preguntó Bea.\n\n—Falta lo justo —dijo Nina, mirando el mapa como un capitán mira el mar.\n\nY entonces, entre los árboles, lo oyeron. Un murmullo alegre, que no paraba nunca.\n\n¡El arroyo!",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "arroyo", "ambient": "stream_water" }]
     },
     {
       "id": "s6",
-      "text": "El bosque era alto, verde y fresco. Los pinos dejaban pasar el sol en rayas doradas y en el suelo crecían helechos que les llegaban a las rodillas. Solo para oír el ruido, Nina iba pisando una por una las hojas.\n\nMateo marcaba el camino atando trozos de cordel en las ramas, igual que en los libros de aventuras. De pronto Beto se detuvo y levantó un dedo. '¡Escuchen!\n\n'. Muy despacio, entre los cantos de los pájaros, apareció otro sonido: un chapoteo alegre, un murmullo que no paraba nunca. Corrieron los últimos metros y ahí estaba, al fondo de una bajada, brillando entre las piedras redondas, el agua.\n\n'El arroyo Cantarín', dijo Nina, casi sin aire. Se agacharon a mojarse las manos y estaba tan fría que les dio risa. El mapa del abuelo, de repente, ya no parecía un dibujo viejo: parecía una promesa.",
+      "text": "El agua corría clarita entre piedras redondas. Estaba tan fría que, al mojarse las manos, les dio risa.\n\n—La primera pista está «donde el agua se sienta a descansar» —leyó Nina.\n\nBuscaron un buen rato. Hasta que Mateo encontró un remanso quieto, redondo como un plato, donde el agua se calmaba y el cielo se reflejaba entero.\n\nY ahí, medio tapada de musgo, había una piedra plana con un sol amarillo pintado encima.\n\nLa pintura estaba viejísima, gastada por muchas lluvias. Pero todavía se veía.\n\n—¡Lo pintó el abuelo! —gritó Mateo.\n\nJunto a la piedra, alguien había puesto guijarros en fila, formando una flecha que apuntaba hacia arriba, siguiendo el agua.",
       "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
-        }
-      ]
+      "cues": [{ "anchor": "risa", "sfx": "giggle" }]
     },
     {
       "id": "s7",
-      "text": "El mapa decía que la primera pista estaba 'donde el agua se sienta a descansar'. Buscaron un buen rato, hasta que Nina descubrió un remanso quieto, con forma de plato, donde el arroyo se calmaba y el cielo se reflejaba entero. Y ahí, medio tapada de musgo, había una piedra plana con un sol amarillo pintado encima.\n\nLa pintura estaba viejísima, gastada por muchas lluvias, pero todavía se veía. '¡Lo pintó el abuelo! ', gritó Mateo.\n\nSobre la piedra, sentada como una guardiana, había una rana.\n\nCroó una vez, dio un salto y desapareció en el arroyo. Junto a la piedra, alguien había puesto guijarros en fila, formando una flecha que apuntaba río arriba. Entre las flores de la orilla, ocupada en sus propias cosas, pasó zumbando una abeja.\n\n'Por aquí', dijo Mateo, y siguieron la flecha con el corazón haciendo tuc-tuc-tuc de pura emoción.",
+      "text": "Más adelante no había ningún puente. Solo unas piedras grandes y resbalosas que asomaban del agua, como lomos de tortuga.\n\n—Pisen donde piso yo —dijo Nina.\n\nFue pasando despacio, con los brazos abiertos como una equilibrista. Mateo la siguió, contando las piedras en voz alta.\n\nBea llegó a la del medio y se quedó quieta.\n\n—Está muy lejos —dijo bajito.\n\n—Estoy aquí —dijo Mateo, y le estiró la mano.\n\nBea saltó. Casi lo consiguió. Pero su bota izquierda cayó en el agua. ¡Plaf!\n\nLe salpicó hasta las orejas.\n\nHubo un segundo de silencio. Y después, los tres se echaron a reír en la orilla, con una bota chorreando y el sol calentándoles la espalda.",
       "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
-        }
-      ]
+      "cues": [{ "anchor": "plaf", "sfx": "water_splash" }]
     },
     {
       "id": "s8",
-      "text": "Más adelante, el arroyo se ensanchaba y no había ningún puente. Solo unas piedras grandes, mojadas y resbalosas, asomando como espaldas de tortuga. 'Yo voy primero', dijo Mateo.\n\n'Pisen donde piso yo'. Fue pasando despacio, con los brazos abiertos como un equilibrista de circo. Nina lo siguió, contando cada piedra en voz alta: 'una, dos, tres...\n\n'. Beto llegó al medio y se quedó quieto, con la nariz arrugada. 'Está lejos', dijo en voz baja.\n\n'Estoy aquí', contestó Nina, y le estiró la mano. Beto saltó, casi lo logra, y su bota izquierda cayó justo en un charco.\n\n¡Plaf! El agua salpicó para todos lados y le mojó hasta la oreja. Hubo un segundo de silencio.\n\nY después llegó la risa: primero Beto, después Nina, después Mateo, los tres doblados en la orilla sin poder parar, con una bota chorreando y el sol calentándoles la espalda.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "charco",
-          "sfx": "water_splash"
-        }
-      ]
+      "text": "Pero después del agua, el camino se partía en dos. Y el mapa no ayudaba nada: la línea del abuelo terminaba en un borrón, como si el lápiz se hubiera cansado.\n\n—Es por la izquierda —dijo Nina.\n\n—Es por la derecha —dijo Mateo—. ¿No ves el pino torcido del dibujo?\n\n—Ese pino no está torcido. Está inclinado.\n\n—¡Es lo mismo!\n\nCaminaron para un lado. Volvieron. Caminaron para el otro. Cada vez hablaban más fuerte, y las palabras les salían con puntas.\n\nBea se sentó en una raíz, abrazada a su conejo, y no dijo nada.\n\nY nadie le preguntó nada, porque los dos grandes estaban ocupadísimos teniendo razón.",
+      "ambient": "forest_birds",
+      "cues": []
     },
     {
       "id": "s9",
-      "text": "Pero después del arroyo el camino se partió en dos y el mapa no ayudó nada: la línea azul del abuelo terminaba en un borrón, como si el lápiz se hubiera cansado. 'Es por la izquierda', dijo Mateo. 'Es por la derecha', dijo Nina.\n\n'Se ve el pino torcido del dibujo'. 'Ese pino no está torcido, está inclinado'. '¡Es lo mismo!\n\n'. Caminaron un rato para un lado, volvieron, caminaron para el otro. Empezaron a hablar más fuerte de lo necesario, y las palabras les salían con puntas.\n\nDe repente, entre los árboles, bajó un viento. Una nube tapó el sol. Muy lejos, en alguna granja, ladró un perro.\n\nBeto se sentó en una raíz, abrazado a su conejo de trapo, y no dijo nada. Nadie le preguntó nada tampoco, porque los grandes estaban ocupadísimos discutiendo quién tenía razón. Y así, sin darse cuenta, los tres estaban perdidos y enojados.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "perro",
-          "sfx": "bark"
-        }
-      ]
+      "text": "Mientras los grandes discutían, Bea miraba el suelo. Era lo que más le gustaba mirar.\n\nY vio algo raro. Entre la hojarasca asomaba la punta de una piedra gris, demasiado ordenada para estar ahí por casualidad.\n\nDespacio, como quien abre un regalo, apartó las hojas.\n\nDebajo había tres piedras apiladas. Y en la de arriba, rayado con un clavo, un sol pequeñito.\n\n—Nina —dijo Bea—. Mateo.\n\nNadie la oyó.\n\nEntonces llenó el pecho de aire y gritó con toda su voz:\n\n—¡AQUÍ HAY UN SOL!",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "hojas", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s10",
-      "text": "Mientras los dos grandes discutían, Beto se puso a mirar el suelo, que era lo que más le gustaba mirar. Y vio algo raro: asomando entre la hojarasca había una punta de piedra gris, demasiado ordenada para ser casualidad. Con la mano, despacio, como quien destapa un regalo, apartó las hojas.\n\nDebajo había tres piedras apiladas, una encima de la otra, y en la de arriba, rayado con un clavo, un sol pequeño igual al de la orilla del arroyo. 'Mateo', susurró. 'Nina'.\n\nNadie lo escuchó. Entonces Beto llenó el pecho de aire y lo dijo con toda su voz: '¡AQUÍ HAY UN SOL! '.\n\nLos dos grandes se dieron la vuelta al mismo tiempo. Llegaron corriendo, se agacharon y miraron. Era verdad.\n\nEra la señal del abuelo, esperándolos desde hacía muchísimos años, justo al lado del sendero que ninguno de los dos había querido mirar.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "text": "Los dos grandes se dieron la vuelta al mismo tiempo. Llegaron corriendo y se agacharon a mirar.\n\nEra verdad. Era la señal del abuelo. Llevaba muchísimos años esperándolos, justo al lado del camino que ninguno de los dos había querido mirar.\n\n—Perdón, Bea —dijo Nina, colorada—. No te estábamos escuchando.\n\n—Perdón —dijo Mateo.\n\nBea se encogió de hombros, feliz, y les volvió a enseñar el sol, por si acaso.\n\nDesde ese momento fueron un equipo de verdad. Nina leía el mapa. Mateo apartaba las ramas para que pasaran los demás. Y Bea, que era la que miraba el suelo, buscaba las señales.\n\nEncontró dos más. Y en la última cuesta, con las mochilas saltando en la espalda, los tres se echaron a correr.",
+      "ambient": "forest_birds",
+      "music": "guitar_clear",
+      "cues": [{ "anchor": "correr", "sfx": "run_fast" }]
     },
     {
       "id": "s11",
-      "text": "'Perdón', dijo Mateo, y se le puso la cara colorada. 'Estaba tan seguro que no te estaba escuchando'. 'Yo tampoco te escuché', dijo Nina.\n\n'Perdón, Beto'. Beto se encogió de hombros, feliz, y les mostró el sol de la piedra otra vez, por si acaso. Desde ese momento fueron un equipo de verdad.\n\nMateo iba adelante levantando las ramas para que pasaran los demás. Nina leía el mapa en voz alta y avisaba los charcos de barro. Y Beto, que era el que miraba el suelo, buscaba las señales: encontró dos más, un sol rayado en un tronco y un montón de piedras junto al agua.\n\nCruzaron un tronco caído tomados de la mano, cantando una canción inventada que decía 'tesoro, tesoro, te vamos a encontrar'. En la última cuesta, con las mochilas saltando en la espalda, los tres corrieron.",
-      "cues": [
-        {
-          "anchor": "corrieron",
-          "sfx": "run_fast"
-        }
-      ],
+      "text": "Y ahí estaba: el árbol del dibujo.\n\nEra un roble enorme, con el tronco tan ancho como una mesa. En la corteza tenía una X vieja, que el árbol había ido abrazando con los años.\n\nCavaron con lo que tenían: la cuchara, dos palos y las manos. La tierra estaba húmeda y olía a raíces.\n\nHasta que el palo de Mateo pegó contra algo duro. ¡Toc!\n\nCavaron más rápido. Apareció una esquina. Después un borde. Después una tapa entera.\n\nEra un cofre de madera, pequeño, del tamaño de una caja de zapatos, con un cierre de hierro oxidado.\n\nLos tres se miraron. Y lo abrieron juntos.",
       "ambient": "forest_birds",
-      "music": "gentle_piano"
+      "cues": [{ "anchor": "toc", "sfx": "thud" }]
     },
     {
       "id": "s12",
-      "text": "Y ahí estaba el árbol del dibujo: un roble enorme, con el tronco tan ancho como una mesa y una marca en la corteza, una X vieja que el árbol había ido abrazando con los años. 'Es este', dijo Nina, y se le puso la piel de gallina.\n\nCavaron con lo que tenían: una cuchara de la mochila, dos palos fuertes y las manos. La tierra estaba húmeda y olía a raíces y a hongos. Trabajaron por turnos, soplando y riendo, con las rodillas embarradas.\n\nAl rato, el palo de Mateo pegó contra algo duro y del fondo de la tierra llegó un golpe. Fue seco y distinto a todo lo demás. '¿Escucharon eso?\n\n'. Cavaron más rápido. Apareció una esquina, después un borde oxidado, después una tapa entera.\n\nEra una caja de lata del tamaño de un libro. Mateo la levantó con las dos manos y, como si bostezara después de una siesta larguísima, la lata crujió.",
-      "cues": [
-        {
-          "anchor": "crujió",
-          "sfx": "crunch"
-        }
-      ],
-      "ambient": "forest_birds"
+      "text": "No había monedas de oro. No había collares.\n\nHabía cosas que brillaban más.\n\nUna canica azul que parecía tener un mar adentro. Un silbato de madera. Un puñado de chapas de botella, relucientes como monedas. Una foto de un niño flaco con una caña de pescar, y detrás, escrito a lápiz: «Ramón y el pez que se escapó».\n\nY un papel doblado que decía:\n\n«Si encontraste esto, ya eres un poco aventurero. Cuídalo».\n\nNina lo leyó dos veces, y se le llenaron los ojos de lágrimas, de las bonitas.\n\n—El abuelo era como nosotros —dijo Bea, mirando la canica contra el sol.",
+      "ambient": "forest_birds",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "brillaban", "sfx": "magic_shimmer" }]
     },
     {
       "id": "s13",
-      "text": "Se sentaron en ronda, con la caja en el medio, y la abrieron entre los tres. No había monedas de oro. No había collares ni diamantes.\n\nHabía una foto en blanco y negro de un niño flaco con una caña de pescar y, en el reverso, escrito con lápiz: 'Ramón y el pez que se escapó'. Había una canica azul que parecía tener un mar adentro. Un silbato de madera.\n\nUn dibujo de un perro con la palabra 'Tuco'. Una pluma de lechuza. Y un papel doblado que decía: 'Si encontraste esto, ya eres un poco aventurero.\n\nCuídalo'. Nina lo leyó dos veces y se le llenaron los ojos de lágrimas, pero de las lindas. A Mateo, de la sorpresa, se le escapó una risa.\n\n'El abuelo era... como nosotros', dijo Beto, sosteniendo la canica contra la luz del atardecer. Como si alguien estuviera de acuerdo, las hojas del roble se movieron con el viento.",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "forest_birds",
-      "music": "strings_hopeful"
+      "text": "Volvieron a casa cuando el sol ya se escondía.\n\nMamá los esperaba en la puerta, con cara de «después hablamos». Pero en el porche, en su silla de siempre, con la manta sobre las piernas, estaba el abuelo Ramón.\n\nBea le puso el cofre en las rodillas.\n\nEl abuelo se quedó mirándolo un rato largo, sin decir nada.\n\n—No puede ser —dijo por fin, muy bajito—. Esto lo enterré cuando tenía nueve años.\n\nSacó la canica azul, y se le arrugaron los ojos de tanto sonreír. Y les contó, uno por uno, todos sus tesoros. El pez que se escapó. El silbato que hizo con su papá. Las chapas que juntó todo un verano.\n\nLos tres lo escucharon sin moverse, hasta que se hizo de noche.",
+      "ambient": "fireplace",
+      "cues": []
     },
     {
       "id": "s14",
-      "text": "Volvieron cuando el sol ya se acostaba y el bosque se ponía azul. Desde una rama alta llegaron dos notas redondas, uhú, uhú: era un búho.\n\nBeto contestó igual y el pájaro le respondió otra vez. En la casa, mamá los esperaba con cara de 'después hablamos' y con la mesa servida. Pero el abuelo Ramón estaba en su silla del porche, con la manta sobre las piernas.\n\nBeto empujó con el codo la puerta. El abuelo vio la caja de lata en sus manos y se quedó sin palabras. 'No puede ser', dijo en voz baja.\n\n'Esto lo enterré cuando tenía nueve años'. Tomó la canica azul y se le arrugaron los ojos de tanto sonreír. Después contó, uno por uno, todos sus tesoros: el pez que se escapó, el silbato que hizo con su papá, y Tuco, que dormía a los pies de su cama.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        }
-      ]
-    },
-    {
-      "id": "s15",
-      "text": "Esa noche, después del baño y de la sopa, los tres se acostaron con las mejillas tibias de sol y de aventura. La caja de lata quedó abierta en la mesa de noche, con la canica azul arriba de todo. Por la ventana, redonda y tranquila, entraba la luna.\n\nSu luz plateada dibujaba un camino en el piso. 'Yo pensaba que el tesoro iban a ser monedas', dijo Beto, con la voz pesada de sueño. 'Esto fue mejor', dijo Nina.\n\n'Era el abuelo cuando era niño'. Mateo pensó un rato y dijo la última verdad del día: 'El tesoro fue el día entero. Y nosotros tres'.\n\nNube, el gato, se acomodó a los pies de la cama y empezó a ronronear despacio. Afuera, muy lejos, el arroyo seguía cantando su canción de siempre. Y antes de que esa luz llegara a la pared, los tres ya estaban dormidos.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "dormidos",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "Esa noche, después del baño y de la sopa, los tres se acostaron con las mejillas tibias de sol.\n\nEl cofre se quedó abierto en la mesita de noche, con la canica azul encima de todo.\n\n—Yo creía que el tesoro iban a ser monedas —dijo Bea, con la voz llena de sueño.\n\n—Esto es mejor —dijo Mateo—. Es el abuelo cuando era niño.\n\nNina se quedó pensando un rato. Y dijo la última verdad del día:\n\n—El tesoro fue el día entero. Y nosotros tres.\n\nPero eso ya no lo oyó nadie. Bea y Mateo estaban dormidos.",
+      "ambient": "fireplace",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

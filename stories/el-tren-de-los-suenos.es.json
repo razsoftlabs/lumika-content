@@ -2,75 +2,35 @@
   "id": "el-tren-de-los-suenos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 20,
   "title": "El tren de los sueños",
-  "summary": "Cada noche, un tren mágico recoge a los niños en pijama y los lleva despacio por paisajes de sueño.",
+  "summary": "Cada noche, cuando la casa se queda en silencio, un tren pasa a buscar a los niños en pijama y se los lleva a soñar.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Cuando la casa se queda en silencio, por la ventana asoma la luna. Desde muy lejos llega un silbato suave: chu-chuuu.\n\nEs el tren de los sueños, que viene despacio por un camino de nubes. Sus vagones son blandos como almohadas y sus luces titilan como luciérnagas. El tren se detiene junto a tu cama y abre su puerta.\n\nUn oso con gorra azul se asoma y dice, en voz baja: —¿Vienes a soñar conmigo? Todos los niños en pijama suben con cuidado, uno detrás de otro, y buscan su asiento tibio junto a la ventana.",
-      "cues": [
-        {
-          "anchor": "chu-chuuu",
-          "sfx": "train_soft",
-          "delayMs": 400
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Cuando la casa se queda en silencio y se apagan las luces, escucha bien.\n\nDesde muy lejos, por encima de los tejados, llega un silbido.\n\nEs el tren de los sueños.\n\nViene despacio, por unas vías de nubes, y se para justo delante de tu ventana. Tiene vagones de madera dorada, ventanitas con luz y una chimenea que echa humo con forma de estrellas.\n\nEn la puerta te espera el revisor. Es un señor viejo, de barba blanca y gorra azul, con un farol en la mano.\n\n—Buenas noches —te dice—. ¿Su billete, por favor?\n\n—No tengo billete.\n\n—Claro que sí —sonríe él—. El billete es un bostezo.\n\nY tú bostezas. Un bostezo enorme. El revisor lo pica con su maquinita, clic, y te deja subir.",
+      "ambient": "city_soft",
+      "music": "harp_dreams",
+      "cues": [{ "anchor": "silbido", "sfx": "train_soft" }]
     },
     {
       "id": "s2",
-      "text": "El tren arranca despacio, chaca-chaca, y entra en un bosque dormido. Los árboles altos mueven sus ramas como si dijeran adiós, y una canción muy suave sube desde las hojas. En una rama redonda abre sus ojos grandes un búho.\n\nUlula: uhu, uhu, cuidando el camino. Por la ventana pasan luciérnagas doradas que bailan en el aire. El oso reparte mantas tibias y una taza de leche caliente para cada niño.\n\nNadie habla fuerte aquí; en el bosque de los sueños solo se habla con la mirada y con una sonrisa pequeña.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "Dentro del tren todo es tibio y blandito. Los asientos son como almohadas, y en cada uno hay una manta doblada.\n\nHay más niños en pijama. Una niña con un conejo de peluche. Un niño con un pijama de dinosaurios. Un bebé que se durmió antes de arrancar.\n\nEl tren se pone en marcha. Traca-traca, traca-traca, muy despacio, sobre las vías de nubes.\n\nEl revisor pasa por el pasillo, asiento por asiento, y a cada niño le pregunta lo mismo:\n\n—¿A dónde quieres soñar esta noche?\n\n—A las islas que flotan —dice la niña del conejo.\n\n—A contar estrellas —dice el niño de los dinosaurios.\n\nY el revisor lo apunta todo en una libreta pequeñita.",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Poco a poco, el bosque se queda atrás y el tren cruza un puente larguísimo sobre el mar. Abajo se mecen las olas. Suenan shhh, shhh, como una nana de agua.\n\nDe repente, desde el fondo azul saluda una ballena.\n\nCanta una melodía honda y calmada que hace cosquillas en el corazón. La luna se refleja en el agua como un camino de plata. Los niños apoyan la cabeza en la ventana y sienten que sus ojos empiezan a pesar.\n\nEl tren avanza tan suave que parece flotar sobre el mar dormido.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "ballena",
-          "sfx": "whale_song"
-        }
-      ]
+      "text": "La primera parada son las islas que flotan.\n\nSon islas pequeñas, colgadas en el aire, con casitas de colores y árboles redondos. Una tiene un castillo del tamaño de una tetera.\n\nEn la estación suena una campanita.\n\nLa niña del conejo se baja, saluda desde el andén y se va saltando por un puente de nubes.\n\nDespués, el tren sube. Sube y sube, hasta donde las estrellas están tan cerca que se podrían tocar. El niño de los dinosaurios pega la nariz al vidrio.\n\n—Una, dos, tres, cuatro… —empieza a contar.\n\nCuando el revisor vuelve a pasar, ya está dormido, con la nariz en el vidrio y la boca abierta. Iba por la estrella doscientos.",
+      "ambient": null,
+      "cues": [{ "anchor": "campanita", "sfx": "bell_soft" }]
     },
     {
       "id": "s4",
-      "text": "Entonces el tren sube, sube, sube por un arcoíris de noche hasta llegar al cielo. Ahora viaja entre miles de estrellas.\n\nBrillan y titilan como migas de luz. Entre los vagones canta el viento.\n\nPasa fresco y suave, y despeina el pelo de los niños. Aquí arriba todo es tranquilo: no hay prisa, no hay ruido, solo el cielo grande y callado. El oso apaga una a una las luces del tren, para que la noche sea aún más dulce.\n\n—Ya casi llegamos al país de los sueños —dice, y su voz suena como un abrazo.",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        },
-        {
-          "anchor": "estrellas",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": null,
-      "music": "space_dream"
-    },
-    {
-      "id": "s5",
-      "text": "El tren de los sueños llega despacio a su última estación, entre nubes blandas y silencio. Uno a uno, los niños dan un bostezo grande y respiran.\n\nToman aire hondo, muy hondo. El oso los arropa con su manta favorita y les da un besito en la frente. —Buenas noches, pequeños viajeros —susurra.\n\nAfuera, la luna los cuida desde arriba. Y así, mecidos por el vaivén de los vagones, todos los niños se quedan dormidos.\n\nSonríen sin darse cuenta. Que tengas dulces sueños. El tren te esperará mañana, en el mismo lugar, cuando la noche vuelva a cantar.",
-      "cues": [
-        {
-          "anchor": "respiran",
-          "sfx": "breathe_in"
-        },
-        {
-          "anchor": "dormidos",
-          "sfx": "snore_soft"
-        }
-      ],
-      "ambient": null,
-      "music": "lullaby_piano"
+      "text": "Al final, el revisor se para delante de tu asiento.\n\n—¿Y tú? —te pregunta—. ¿A dónde quieres soñar?\n\nTú lo piensas. Las islas, las estrellas, el mar… Pero te pesan los ojos, y no te decides.\n\nY das otro bostezo.\n\nEl revisor sonríe por debajo de la barba.\n\n—Ya sé a dónde vas tú.\n\nEl tren baja despacito entre las nubes y se para justo delante de tu ventana. Ahí está tu cama, tibia, esperándote.\n\n—La mejor estación de todas —dice el revisor.\n\nTe arropa con la manta, baja la luz del farol, y tú respiras despacio. Una vez. Dos.\n\nY antes de que el tren arranque otra vez, ya estás soñando.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "respiras", "sfx": "breathe_in" }]
     }
   ]
 }

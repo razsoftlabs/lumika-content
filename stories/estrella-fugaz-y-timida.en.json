@@ -2,65 +2,45 @@
   "id": "estrella-fugaz-y-timida",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
+  "version": 20,
   "title": "Titila, the Shy Shooting Star",
-  "summary": "A shy little star doesn't dare to cross the sky, afraid she'll grant the wrong wish.",
+  "summary": "Titila is a shooting star so shy that she never dares to cross the sky. She's afraid of getting children's wishes wrong.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High up in the night lived a little star named Titila. Every night, trailing tails of light across the sky, went all the other stars.\n\nDown below, sleeping children made their wishes. And waving to every one of them, round and kind, was the Moon. But Titila stayed still in her corner, glowing very softly.\n\nShe loved to watch the sleeping world down below: the rooftops, the trees, and the rivers. She dreamed of crossing the sky one day... but just thinking about it made her light tremble a bit.\n\nShe still didn't dare.",
+      "text": "High up in the night lived a very small shooting star. Her name was Titila.\n\nEvery night, the other shooting stars flew across the sky from end to end, leaving golden tails behind them. And down below, in their beds, children watched them go by and made wishes.\n\nThey all went. All except Titila.\n\nTitila stayed hidden behind a big, fat, white cloud. From there she looked at the sleeping world: the rooftops, the rivers, the lit-up windows.\n\nAnd she shone very softly, twinkling, so that nobody would see her.",
       "ambient": null,
-      "cues": [
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
-        }
-      ]
+      "music": "space_dream",
+      "cues": [{ "anchor": "twinkling", "sfx": "twinkle" }]
     },
     {
       "id": "s2",
-      "text": "Why was Titila so afraid? She thought: 'What if a child makes a wish and I get it wrong? What if they ask for a hug and I give them a balloon?\n\n' Just imagining it, she hid behind a cloud. One night her face was stroked by a warm wind. 'It's alright, little one.\n\nNobody wishes for perfect wishes,' it whispered.\n\nBut shy Titila closed her eyes and kept trembling in silence. She would rather watch from far away, where no one could see her cross.",
-      "cues": [
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": null
+      "text": "Why didn't she cross?\n\nBecause she was scared.\n\n\"What if a child wishes for a hug and I bring them a balloon?\" she thought. \"What if they wish for a puppy and I bring them a duck? What if I get the wish wrong?\"\n\nJust thinking about it made her hide even further behind the cloud.\n\nUntil the cloud spoke.\n\n\"Excuse me,\" it said, in a soft, squashy voice. \"Could you move over a bit? You're tickling me.\"\n\nTitila went red. Well, more yellow.\n\n\"Sorry. I'm hiding.\"\n\n\"I know,\" said the cloud, with a fluffy giggle. \"You've been hiding behind me for three weeks. My name's Cotton.\"",
+      "ambient": null,
+      "cues": [{ "anchor": "giggle", "sfx": "giggle" }]
     },
     {
       "id": "s3",
-      "text": "That very night, her trembling was seen by the Moon. In her soft voice, she asked, 'Little Titila, why do you never cross the sky? ' From a branch, with big round eyes, listened an old owl.\n\nVery quietly, Titila confessed her secret: 'I'm afraid of giving a child the wrong wish. ' She smiled the slow, wide smile that only clear nights have. 'Oh, my little star,' she said.\n\n'Come closer. Let me tell you how wishes really work. ' And curious Titila floated just a little bit nearer.",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ],
-      "ambient": null
+      "text": "\"And what are you hiding from?\" asked Cotton.\n\nTitila told him about her fear. The hug and the balloon. The puppy and the duck.\n\nCotton thought about it, which for a cloud is like a slow stretch.\n\n\"Titila,\" he said. \"You don't grant wishes.\"\n\n\"I don't?\"\n\n\"No. You just go by, and shine. Each child brings their own wish, and keeps it in their heart. You're the light that helps them make it.\"\n\nTitila thought about it for a long time.\n\n\"So… I can't get it wrong?\"\n\n\"Nobody gets it wrong by shining,\" said Cotton. \"Look. I'll move over a little, and you just peek out. All right?\"",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "'Wishes don't live inside you,' said the Moon. 'They live in the one who dreams, deep down in the heart.\n\nYou only carry your light; the child brings the wish. You can never get it wrong, because you give away shine, not orders. ' Titila thought about it slowly.\n\nShe filled herself with air and breathed. It felt like filling up with courage. From her branch, someone hooted softly, as if to say, 'You can do it.\n\n' For the first time, the little star felt her fear was tiny, the size of a crumb. And quietly inside, a little spark of bravery began to grow.",
+      "text": "Cotton moved over a little.\n\nAnd Titila peeked out.\n\nDown below, at a window, there was a girl who couldn't get to sleep. She was sitting up in bed, hugging her knees, looking at the sky. As if she were waiting for something.\n\nTitila felt all her light tremble.\n\nShe took one very deep breath.\n\nAnd she crossed.\n\nFrom one end of the sky to the other, leaving a golden tail behind her, long and soft.\n\nDown below, the girl opened her eyes very wide. Then she closed them, put her hands together, and made a wish in a tiny voice.",
+      "ambient": null,
+      "music": "strings_hopeful",
       "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "ambient": null
+        { "anchor": "breath", "sfx": "breathe_in" },
+        { "anchor": "crossed", "sfx": "magic_shimmer" }
+      ]
     },
     {
       "id": "s5",
-      "text": "Then, at last, Titila dared. She spread her wings of light and, from one end of the sky to the other, she crossed.\n\nBehind her she left a soft golden tail. Down below, a half-asleep girl saw her through the window. She made a tiny wish and whispered.\n\nTitila never knew what it was... and she understood it didn't matter. The girl smiled and snuggled into her bed.\n\nA little wink came from the Moon. And Titila, peaceful now, drifted back to her corner to rest, glowing softly. Good night, little star.\n\nGood night. Time to sleep.",
-      "ambient": "meadow_night",
-      "cues": [
-        {
-          "anchor": "crossed",
-          "sfx": "whoosh"
-        }
-      ],
-      "music": "strings_hopeful"
+      "text": "Titila never found out what the wish was.\n\nBut she saw that the girl was smiling. That she snuggled down under her blanket. And that she fell asleep, peacefully, with the smile still on.\n\nAnd she understood that she didn't need to know.\n\nShe went slowly back to her corner of the sky, where Cotton was waiting.\n\n\"Well?\" asked the cloud.\n\n\"Again tomorrow,\" said Titila.\n\nAnd that night, for the first time, she shone without hiding.",
+      "ambient": null,
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

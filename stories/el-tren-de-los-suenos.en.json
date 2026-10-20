@@ -2,75 +2,35 @@
   "id": "el-tren-de-los-suenos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
-  "title": "The dream train",
-  "summary": "Every night, a magical little train picks up children in pajamas and carries them gently through dreamy landscapes.",
+  "version": 20,
+  "title": "The Dream Train",
+  "summary": "Every night, when the house goes quiet, a train comes to collect the children in their pyjamas and takes them off to dream.",
   "scenes": [
     {
       "id": "s1",
-      "text": "When the house grows quiet and the moon peeks through the window, far away you hear a soft whistle: choo-choo.\n\nIt is the dream train, coming slowly along a little path of clouds. Its cars are fluffy like pillows and its lights twinkle like fireflies. The train stops beside your bed and opens its tiny door.\n\nA bear in a blue cap leans out and says, very softly, \"Are you coming to dream with me?\" All the children in pajamas climb aboard carefully, one behind the other, and find a warm seat by the window.",
-      "cues": [
-        {
-          "anchor": "choo-choo",
-          "sfx": "train_soft",
-          "delayMs": 400
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "When the house goes quiet and the lights go out, listen carefully.\n\nFrom far, far away, over the rooftops, comes a soft whistle.\n\nIt's the dream train.\n\nIt comes slowly, along tracks made of clouds, and stops right outside your window. It has golden wooden carriages, little lit-up windows, and a chimney that puffs out smoke shaped like stars.\n\nAt the door, the conductor is waiting for you. He's an old man with a white beard and a blue cap, holding a lantern.\n\n\"Good evening,\" he says. \"Ticket, please?\"\n\n\"I haven't got a ticket.\"\n\n\"Of course you have,\" he smiles. \"The ticket is a yawn.\"\n\nAnd you yawn. An enormous yawn. The conductor punches it with his little machine, click, and lets you climb aboard.",
+      "ambient": "city_soft",
+      "music": "harp_dreams",
+      "cues": [{ "anchor": "whistle", "sfx": "train_soft" }]
     },
     {
       "id": "s2",
-      "text": "The train sets off slowly, clack-clack, and rolls into a sleeping forest.\n\nThe tall trees wave their branches as if saying goodbye, and a very soft song rises from the leaves. On a round branch, big round eyes open: it is the owl.\n\nWhoo, whoo, he hoots, watching over the way. Golden fireflies drift past the window, dancing in the air. The bear hands out warm blankets and a cup of warm milk for each child.\n\nNo one speaks loudly here; in the forest of dreams you only speak with your eyes and a tiny smile.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "Inside the train, everything is warm and soft. The seats are like pillows, and on each one there's a folded blanket.\n\nThere are other children in pyjamas. A girl with a toy rabbit. A boy in dinosaur pyjamas. A baby who fell asleep before the train even left.\n\nThe train sets off. Clickety-clack, clickety-clack, very slowly, along the cloud tracks.\n\nThe conductor walks down the aisle, seat by seat, and asks every child the same thing:\n\n\"Where would you like to dream tonight?\"\n\n\"To the floating islands,\" says the girl with the rabbit.\n\n\"To count the stars,\" says the boy in the dinosaur pyjamas.\n\nAnd the conductor writes it all down in a tiny notebook.",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Little by little, the forest falls behind, and the train crosses a very long bridge over the sea. Below the bridge rock the soft waves. Shhh, shhh, they sing, like a lullaby made of water.\n\nSuddenly, up from the deep blue rises a huge whale.\n\nShe sings a low, calm melody that tickles your heart. The moon shines on the water like a little silver path. The children rest their heads against the window and feel their eyes begin to grow heavy.\n\nThe train glides so gently it seems to float over the sleeping sea.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "whale",
-          "sfx": "whale_song"
-        }
-      ]
+      "text": "The first stop is the floating islands.\n\nThey're little islands hanging in the air, with colourful houses and round trees. One of them has a castle the size of a teapot.\n\nAt the station, a little bell rings.\n\nThe girl with the rabbit gets off, waves from the platform and skips away over a bridge of clouds.\n\nThen the train climbs. Up and up it goes, to where the stars are so close you could touch them. The boy in the dinosaur pyjamas presses his nose to the glass.\n\n\"One, two, three, four…\" he starts to count.\n\nWhen the conductor comes past again, he's fast asleep, with his nose on the glass and his mouth wide open. He had got as far as star number two hundred.",
+      "ambient": null,
+      "cues": [{ "anchor": "bell", "sfx": "bell_soft" }]
     },
     {
       "id": "s4",
-      "text": "Then the train climbs, climbs, climbs up a rainbow of night until it reaches the sky. Now it travels among a thousand stars.\n\nThey shine and twinkle like little crumbs of light. Between the cars sings the wind.\n\nCool and gentle, it ruffles the children's hair. Up here everything is calm: no hurry, no noise, only the big, quiet sky. The bear turns off the train's little lights one by one, so the night can be even sweeter.\n\n\"We're almost at the land of dreams,\" he says, and his voice sounds like a hug.",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": null,
-      "music": "space_dream"
-    },
-    {
-      "id": "s5",
-      "text": "The dream train arrives slowly at its last station, among fluffy clouds and silence. One by one, the children give a big yawn and breathe.\n\nIn and out, slow and deep. The bear tucks them in with their favorite blanket and gives them a little kiss on the forehead. \"Good night, little travelers,\" he whispers.\n\nOutside, the moon watches over them from above. And so, rocked by the gentle sway of the cars, all the children fall asleep.\n\nThey smile without knowing it. Sweet dreams to you. The train will wait for you tomorrow, in the same place, when the night sings again.",
-      "cues": [
-        {
-          "anchor": "breathe",
-          "sfx": "breathe_in"
-        },
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
-      "ambient": null,
-      "music": "lullaby_piano"
+      "text": "In the end, the conductor stops beside your seat.\n\n\"And you?\" he asks. \"Where would you like to dream?\"\n\nYou think about it. The islands, the stars, the sea… But your eyes are heavy, and you can't decide.\n\nAnd you yawn again.\n\nThe conductor smiles under his beard.\n\n\"I know where you're going.\"\n\nThe train slides gently down through the clouds and stops right outside your window. There's your bed, warm, waiting for you.\n\n\"The best station of all,\" says the conductor.\n\nHe tucks you in, turns down his lantern, and you breathe slowly. Once. Twice.\n\nAnd before the train has even set off again, you're already dreaming.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "breathe", "sfx": "breathe_in" }]
     }
   ]
 }

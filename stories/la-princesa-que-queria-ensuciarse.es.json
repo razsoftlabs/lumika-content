@@ -2,69 +2,45 @@
   "id": "la-princesa-que-queria-ensuciarse",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "Barro hasta las orejas",
-  "summary": "Una princesa cansada de estar siempre limpia y peinada descubre en el jardín una alegría que no cabe en ningún castillo.",
+  "summary": "La princesa Amapola está cansada de estar siempre limpia y peinada. Una tarde de lluvia, descubre en el jardín una alegría que no cabe en ningún castillo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un castillo de torres rosadas vivía la princesa Amapola. Todas las mañanas, tres damas la bañaban, la perfumaban y la peinaban con un cepillo de plata hasta dejarla brillante como un espejo. \"¡No te muevas, princesa!\n\n¡No te ensucies, princesa!\", le decían. Amapola tenía que sentarse muy derecha, con las manos quietas y el vestido sin una sola arruga.\n\nPero por dentro, guardada y con muchas ganas de salir a jugar, llevaba una risa. Miró por la ventana el jardín mojado y suspiró.\n\n\"¿Y si un día me ensucio... solo un poco?\", pensó, con un cosquilleo travieso en la barriga.",
-      "cues": [
-        {
-          "anchor": "suspiró",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "En un castillo de torres rosadas vivía la princesa Amapola.\n\nTodas las mañanas, tres damas la bañaban, la perfumaban y le cepillaban el pelo con un cepillo de plata, cien veces, hasta dejárselo brillante como un espejo.\n\n—¡No te muevas, princesa! —le decían—. ¡No te ensucies, princesa! ¡No corras, princesa!\n\nAmapola tenía que sentarse muy derecha, con las manos quietas y el vestido sin una sola arruga.\n\nPero por dentro, muy guardadas, tenía unas carcajadas enormes con ganas de salir a jugar.\n\nY cada tarde miraba por la ventana el bosque del castillo, con sus hojas rojas y amarillas y sus caminos de tierra.",
+      "ambient": "fireplace",
+      "music": "harp_canon",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Esa tarde el cielo se llenó de nubes y empezó a caer la lluvia, tin, tin, tin, sobre los cristales. Cuando el castillo entero se quedó en silencio, Amapola bajó de puntillas por la escalera. Con mucho cuidado, sin hacer ni un ruido, empujó la gran puerta.\n\nCriii, sonó al abrirse. Afuera, el aire olía a tierra mojada y a flores despiertas. La lluvia ya se iba y había dejado el jardín lleno de charcos.\n\nBrillaban como espejos entre el pasto. Amapola se quitó los zapatos, respiró el aire fresco y sonrió como nunca. Por fin estaba sola, libre, sin nadie que le dijera \"no\".",
+      "text": "Una tarde, el cielo se llenó de nubes, y empezó a llover.\n\nLlovió un buen rato. Y cuando por fin paró, el castillo entero se quedó en silencio: las damas dormían la siesta, y la reina leía en la biblioteca.\n\nAmapola bajó la escalera de puntillas. Despacito, muy despacito, empujó la puerta del jardín.\n\nAfuera olía a tierra mojada. Las hojas brillaban. Y el camino del bosque estaba lleno de charcos.\n\nAmapola se quitó los zapatos. Se quitó las medias. Y movió los dedos de los pies en el pasto frío.\n\nPor primera vez en su vida, no había nadie que le dijera que no.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
-        }
-      ]
+      "cues": [{ "anchor": "puerta", "sfx": "door_open" }]
     },
     {
       "id": "s3",
-      "text": "Amapola miró el jardín y eligió el más grande de todos: aquel charco.\n\nSin pensarlo dos veces, saltó con los dos pies juntos. ¡Plaf! El agua salpicó por todos lados y le mojó la cara, el vestido y hasta la nariz.\n\nLa princesa se rió tan fuerte que los pájaros salieron volando, asustados por semejante carcajada.\n\n¡Saltó otra vez, y otra, y otra! Chap, chap, chap, hacían sus pies descalzos en el barro. Se llenó de lodo las rodillas, se pintó bigotes de tierra y se rió hasta que le dolió la panza.\n\nNunca, nunca en su vida se había sentido tan feliz y tan despeinada.",
+      "text": "Amapola miró los charcos uno por uno, como quien elige un pastel.\n\nY eligió el más grande.\n\nTomó carrerilla, juntó los dos pies… y saltó. ¡Plaf!\n\nEl barro salió volando por todas partes. Le salpicó la cara, el vestido azul, la corona y hasta la punta de la nariz.\n\nAmapola se quedó un segundo quieta.\n\nY entonces le salió la risa. Le salió de golpe, toda la que llevaba años guardada, tan fuerte que los pájaros se fueron volando de los árboles.\n\nSaltó otra vez. Y otra. Y otra más. Se llenó de barro las rodillas, se pintó bigotes de tierra y se rió hasta que le dolió la barriga.",
       "ambient": "forest_birds",
+      "music": "marimba_playful",
       "cues": [
-        {
-          "anchor": "charco",
-          "sfx": "water_splash"
-        },
-        {
-          "anchor": "carcajada",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "marimba_playful"
-    },
-    {
-      "id": "s4",
-      "text": "De pronto, croac, del charco saltó algo verde y se sentó sobre su rodilla llena de barro: era una rana.\n\n\"¡Hola!\", le dijo Amapola entre risas. Del fondo del jardín llegó corriendo un perro.\n\n¡Guau, guau! También se puso a chapotear con ella. Los tres saltaban y salpicaban juntos bajo las últimas gotas.\n\nPero entonces se escuchó una voz: \"¡Amapola!\". Era la reina, su mamá, parada en la puerta con los ojos muy abiertos. La princesa se quedó quieta, toda embarrada, esperando un regaño.\n\nLa rana croó despacio.\n\nEl perro escondió la cola. Y hubo un silencio largo, largo...",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
-        }
+        { "anchor": "plaf", "sfx": "water_splash" },
+        { "anchor": "risa", "sfx": "giggle" }
       ]
     },
     {
+      "id": "s4",
+      "text": "—¡AMAPOLA!\n\nAmapola se dio la vuelta.\n\nEn la entrada del jardín estaba la reina, su mamá, con los ojos muy abiertos. Y detrás de ella, las tres damas, con las manos en la cabeza.\n\nAmapola se miró. Estaba cubierta de barro desde la corona hasta los pies. El vestido azul ya no era azul. Era marrón, con manchitas de azul.\n\nSe quedó quieta, esperando el regaño más grande de la historia de los regaños.\n\nHubo un silencio largo. Larguísimo.",
+      "ambient": "forest_birds",
+      "cues": []
+    },
+    {
       "id": "s5",
-      "text": "Entonces la reina hizo algo que nadie esperaba: se quitó los zapatos, se levantó el vestido dorado... y saltó al charco con las dos piernas. ¡Plaf!\n\n\"Yo también fui una niña que amaba el barro\", dijo riéndose. Mamá e hija chapotearon juntas hasta que salió la luna. Esa noche, ya bañada y tibia, Amapola se metió en la cama oliendo a jabón y a jardín.\n\nSu mamá le dio un beso, se acercó a su oído y le susurró: \"Puedes ser princesa y ensuciarte, mi amor. Lo más importante es que seas tú.\" Amapola sonrió, cerró los ojos y, soñando con mil charcos por saltar, se durmió.",
-      "cues": [
-        {
-          "anchor": "durmió",
-          "sfx": "snore_soft"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Entonces la reina hizo algo que nadie esperaba.\n\nSe quitó los zapatos. Se levantó el vestido dorado. Y saltó al charco con los dos pies juntos. ¡Chof!\n\nLas tres damas gritaron. Amapola abrió la boca.\n\n—Yo también era una niña a la que le encantaba el barro —dijo la reina, riéndose—. Hasta que me dijeron que las princesas no se ensucian.\n\nY saltaron juntas, mamá e hija, hasta que se hizo de noche.\n\nEsa noche, bañada y tibia, Amapola se metió en la cama oliendo a jabón y a jardín. Su mamá le dio un beso y le susurró al oído:\n\n—Puedes ser princesa y ensuciarte, mi amor. Lo importante es que seas tú.",
+      "ambient": "forest_birds",
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "chof", "sfx": "water_splash" }]
     }
   ]
 }

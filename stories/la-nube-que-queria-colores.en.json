@@ -2,59 +2,45 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "Cloud Wants Colours",
-  "summary": "Cloud is white and longs to be colorful. A mischievous rain shower shows her where rainbows come from.",
+  "summary": "Cloud is a white cloud, and she wants to be colourful like everything she sees down below. Until some rain teaches her where rainbows come from.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Up high, very high, lived a round white cloud named Cloud. She loved watching the gardens below, full of red, yellow, and purple flowers. \"How boring to be only white!\",\n\nshe sighed. \"I want colors too.\" Someone heard her and laughed with a cheeky little gust: the wind.",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": null
+      "text": "High up, very high up, lived a small round cloud called Cloud.\n\nFrom up there she could see everything. The red rooftops of the village. The yellow fields. The green trees, the purple flowers, the blue river.\n\nEverything had colour.\n\nEverything except her.\n\n\"How boring it is to be white!\" Cloud sighed. \"I want to be colourful too.\"\n\nAnd that very day, she decided to get some colours.",
+      "ambient": null,
+      "music": "playful_flute",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Cloud tried everything. She rubbed against the sun to turn golden, but the sun only tickled her until she let out a laugh.\n\nShe floated up to other clouds to ask for paint, but they were all white just like her. Each try left her messier and grayer.",
-      "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": null
+      "text": "First she tried the sunset.\n\nShe let the breeze carry her to where the sun was going down, and sat right on top of it. And it worked! She turned orange. Then pink. Then a beautiful gold.\n\nBut the sun went down. And Cloud was white again. Well, a little bit grey.\n\nThen she saw something on top of a hill. It was a girl called Rosa, painting with watercolours. She had a palette full of colours and a jar of water.\n\nCloud floated gently down until she was right beside her.\n\n\"Excuse me,\" she said. \"Could I borrow your paints?\"",
+      "ambient": null,
+      "cues": [{ "anchor": "breeze", "sfx": "wind_soft" }]
     },
     {
       "id": "s3",
-      "text": "From trying so hard, Cloud's eyes filled up with drops.\n\nAnd without meaning to... it started to rain! The rain fell over the garden with giggles.\n\nAnd just as the sun peeked out again, across the sky something drew itself, curved and enormous and magical.",
+      "text": "Rosa stared at her with her mouth open. Then she handed her the fattest brush she had.\n\nCloud painted her tummy pink. She painted her edges yellow. She gave herself an orange stripe and a green one. The brush tickled, and she couldn't stop the giggles.\n\n\"Look at me!\" she shouted. \"I'm colourful!\"\n\nBut clouds are made of water. And with all that paint, and all that wet brush, Cloud got heavier. And heavier.\n\nUntil she couldn't hold on any longer.\n\nAnd she began to rain.",
+      "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "drops",
-          "sfx": "water_splash",
-          "ambient": "rain"
-        },
-        {
-          "anchor": "magical",
-          "sfx": "magic_shimmer"
-        }
-      ],
-      "ambient": null
+        { "anchor": "giggles", "sfx": "giggle" },
+        { "anchor": "rain", "ambient": "rain" }
+      ]
     },
     {
       "id": "s4",
-      "text": "It was a rainbow! Red, orange, yellow, green, blue, and purple, all born from her own drops. Cloud understood that her colors were never outside: they had been inside her all along, waiting for the right moment to shine.\n\nAnd rocking happily in the sky, she fell asleep.",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "She rained on the hill, on Rosa and on her sketchbook.\n\nAnd with every drop, Cloud's colours washed away. The pink, the yellow, the orange, the green. Drop by drop, the water took them.\n\nCloud was white again. White and sad.\n\n\"They've gone,\" she cried. \"They've all gone.\"\n\nBut just then, behind Cloud, the sun came out. And its rays shone through the last few drops.\n\nAnd across the sky, from one side to the other, appeared a rainbow. Red, orange, yellow, green, blue and purple.\n\n\"Cloud!\" shouted Rosa. \"Look! You did that!\"",
+      "ambient": "rain",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "rainbow", "sfx": "magic_shimmer", "ambient": "meadow_day" }]
+    },
+    {
+      "id": "s5",
+      "text": "Cloud couldn't believe it.\n\nNobody had lent her those colours. They didn't come from the sunset, or from Rosa's paints.\n\nThey were hers. They had been there all along, hidden inside her drops, waiting for a ray of sunshine.\n\nSince that day, Cloud doesn't mind being white.\n\nBecause she knows that every time it rains while the sun is shining, she paints the whole sky.\n\nAnd in her sketchbook, Rosa keeps a drawing: a white cloud, smiling, with every colour in the sky spilling out of her tummy.",
       "ambient": "meadow_day",
-      "music": "harp_dreams"
+      "music": "gentle_piano",
+      "cues": []
     }
   ]
 }

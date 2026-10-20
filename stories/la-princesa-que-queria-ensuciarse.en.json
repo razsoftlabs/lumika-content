@@ -2,69 +2,45 @@
   "id": "la-princesa-que-queria-ensuciarse",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "Mud to the Ears",
-  "summary": "A princess tired of always being clean and combed discovers, out in the garden, a joy that no castle can hold.",
+  "summary": "Princess Amapola is tired of always being clean and tidy. One rainy afternoon, she discovers in the garden a joy too big for any castle.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a castle with pink towers lived Princess Amapola. Every morning, three ladies bathed her, perfumed her, and combed her with a silver brush until she shone like a mirror. \"Don't move, princess!\n\nDon't get dirty, princess!\" they told her. Amapola had to sit up very straight, with her hands still and her dress without a single wrinkle.\n\nBut inside, tucked away and longing to come out and play, she was keeping a giggle. She looked out the window at the wet garden and sighed.\n\n\"What if one day I got dirty... just a little?\" she thought, with a naughty tickle in her tummy.",
-      "cues": [
-        {
-          "anchor": "sighed",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "In a castle with pink towers lived Princess Amapola.\n\nEvery morning, three ladies bathed her, perfumed her and brushed her hair with a silver brush, a hundred times, until it shone like a mirror.\n\n\"Keep still, Princess!\" they would say. \"Don't get dirty, Princess! Don't run, Princess!\"\n\nAmapola had to sit up very straight, with her hands still and her dress without a single crease.\n\nBut inside, tucked away, she had an enormous giggle just longing to come out and play.\n\nAnd every afternoon she looked out of the window at the castle woods, with their red and yellow leaves and their dirt paths.",
+      "ambient": "fireplace",
+      "music": "harp_canon",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "That afternoon the sky filled with clouds and the rain began to fall, pit, pit, pit, on the windowpanes. When the whole castle grew quiet, Amapola tiptoed down the stairs. Very carefully, without making a single sound, she pushed open the big garden door.\n\nCreeeak, it went as it swung. Outside, the air smelled of wet earth and wide-awake flowers. The rain was already leaving, and it had left the garden full of puddles.\n\nThey shone like little mirrors in the grass. Amapola took off her shoes, breathed in the fresh air, and smiled like never before. At last she was alone, free, with no one to tell her \"no\".",
+      "text": "One afternoon, the sky filled with clouds, and it began to rain.\n\nIt rained for a good while. And when it finally stopped, the whole castle went quiet: the ladies were having their nap, and the queen was reading in the library.\n\nAmapola tiptoed down the stairs. Slowly, very slowly, she pushed open the garden door.\n\nOutside, it smelled of wet earth. The leaves were shining. And the path through the woods was full of puddles.\n\nAmapola took off her shoes. She took off her socks. And she wiggled her toes in the cold grass.\n\nFor the first time in her life, there was nobody to tell her no.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        }
-      ]
+      "cues": [{ "anchor": "door", "sfx": "door_open" }]
     },
     {
       "id": "s3",
-      "text": "Amapola looked around the garden and chose the biggest one of all: that puddle.\n\nWithout thinking twice, she jumped in with both feet together. Splash! The water flew everywhere and wet her face, her dress, and even her nose.\n\nThe princess laughed so loud that the little birds flew off, startled by that enormous giggle. She jumped again, and again, and again! Splish, splash, splish went her bare feet in the mud.\n\nShe got her knees covered in mud, painted herself a mustache of dirt, and laughed until her tummy hurt. Never, never in her life had she felt so happy and so messy-haired.",
+      "text": "Amapola looked at the puddles one by one, the way you choose a cake.\n\nAnd she picked the biggest.\n\nShe took a run-up, put her feet together… and jumped. Splat!\n\nMud flew everywhere. It splashed her face, her blue dress, her crown and even the tip of her nose.\n\nAmapola stood still for a second.\n\nAnd then out came the laughter. It came out all at once, everything she had kept tucked away for years, so loud that the birds flew out of the trees.\n\nShe jumped again. And again. And again. She covered her knees in mud, drew a mud moustache on herself and laughed until her tummy hurt.",
       "ambient": "forest_birds",
+      "music": "marimba_playful",
       "cues": [
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash"
-        }
-      ],
-      "music": "marimba_playful"
-    },
-    {
-      "id": "s4",
-      "text": "Suddenly, croak, something green hopped out of the puddle and sat on her muddy knee: it was a frog.\n\n\"Hello!\" said Amapola, laughing. From the end of the garden came running a dog.\n\nWoof, woof! It started splashing with her too. The three of them jumped and splashed together under the last few drops.\n\nBut then a voice called out: \"Amapola!\" It was the queen, her mother, standing at the door with her eyes wide open. The princess froze, all covered in mud, waiting to be scolded.\n\nThe frog croaked softly.\n\nThe dog hid its tail.\n\nAnd there was a long, long silence...",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        },
-        {
-          "anchor": "dog",
-          "sfx": "bark"
-        }
+        { "anchor": "splat", "sfx": "water_splash" },
+        { "anchor": "laughter", "sfx": "giggle" }
       ]
     },
     {
+      "id": "s4",
+      "text": "\"AMAPOLA!\"\n\nAmapola turned round.\n\nAt the edge of the garden stood the queen, her mum, with her eyes wide open. And behind her, the three ladies, with their hands on their heads.\n\nAmapola looked down at herself. She was covered in mud from her crown to her toes. Her blue dress wasn't blue any more. It was brown, with little spots of blue.\n\nShe stood very still, waiting for the biggest telling-off in the history of telling-offs.\n\nThere was a long silence. A very, very long one.",
+      "ambient": "forest_birds",
+      "cues": []
+    },
+    {
       "id": "s5",
-      "text": "Then the queen did something no one expected: she took off her shoes, lifted her golden dress... and jumped into the puddle with both legs. Splash!\n\n\"I was a little girl who loved mud too,\" she said, laughing. Mother and daughter splashed together until the moon came out. That night, all bathed and warm, Amapola climbed into bed smelling of soap and garden.\n\nHer mother gave her a kiss, leaned close to her ear and whispered: \"You can be a princess and still get dirty, my love. What matters most is that you are you.\" Amapola smiled, closed her eyes and, dreaming of a thousand puddles to jump in, fell asleep.",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Then the queen did something nobody expected.\n\nShe took off her shoes. She lifted up her golden dress. And she jumped into the puddle with both feet together. Splosh!\n\nThe three ladies screamed. Amapola's mouth fell open.\n\n\"I used to be a little girl who loved mud too,\" said the queen, chuckling. \"Until somebody told me that princesses don't get dirty.\"\n\nAnd they jumped together, mother and daughter, until night fell.\n\nThat night, bathed and warm, Amapola climbed into bed smelling of soap and of the garden. Her mum gave her a kiss and whispered in her ear:\n\n\"You can be a princess and get dirty, my love. What matters is that you're you.\"",
+      "ambient": "forest_birds",
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "splosh", "sfx": "water_splash" }]
     }
   ]
 }

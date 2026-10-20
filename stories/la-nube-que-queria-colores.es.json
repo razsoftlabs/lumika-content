@@ -2,59 +2,45 @@
   "id": "la-nube-que-queria-colores",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "Nube quiere colores",
-  "summary": "Nube es blanca y quiere ser de colores. Una lluvia traviesa le enseña de dónde salen los arcoíris.",
+  "summary": "Nube es una nube blanca, y quiere ser de colores como todo lo que ve allá abajo. Hasta que una lluvia le enseña de dónde salen los arcoíris.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Arriba, muy arriba, vivía una nube blanca y redonda que se llamaba Nube. Le encantaba mirar los jardines de abajo, llenos de flores rojas, amarillas y moradas. \"¡Qué aburrido ser solo blanca!\",\n\nsuspiraba. \"Yo también quiero tener colores.\" Alguien la escuchó y se rió con un soplido travieso: el viento.",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": null
+      "text": "Arriba, muy arriba, vivía una nube pequeña y redonda que se llamaba Nube.\n\nDesde allí lo veía todo. Los techos rojos del pueblo. Los campos amarillos. Los árboles verdes, las flores moradas, el río azul.\n\nTodo tenía color.\n\nTodo menos ella.\n\n—¡Qué aburrido es ser blanca! —suspiraba Nube—. Yo también quiero ser de colores.\n\nY ese mismo día, decidió conseguirlos.",
+      "ambient": null,
+      "music": "playful_flute",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Nube probó de todo. Se frotó contra el sol para ponerse dorada, pero el sol solo le hizo cosquillas hasta que se le escapó una risa.\n\nSe acercó a otras nubes para pedirles pintura, pero todas eran blancas como ella. Cada intento la dejaba más despeinada y más gris.",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": null
+      "text": "Primero lo intentó con el atardecer.\n\nSe dejó llevar por la brisa hasta donde se ponía el sol, y se sentó justo encima. ¡Y funcionó! Se puso naranja. Después, rosada. Después, de un dorado precioso.\n\nPero el sol se escondió. Y Nube se quedó otra vez blanca. Bueno, un poco gris.\n\nEntonces vio algo en lo alto de una colina. Era una niña llamada Rosa, pintando con acuarelas. Tenía una paleta llena de colores y un frasco de agua.\n\nNube bajó despacito, hasta quedar a su lado.\n\n—Perdona —le dijo—. ¿Me prestas tus pinturas?",
+      "ambient": null,
+      "cues": [{ "anchor": "brisa", "sfx": "wind_soft" }]
     },
     {
       "id": "s3",
-      "text": "De tanto esforzarse, a Nube se le llenaron los ojos de gotas.\n\nY sin querer... ¡empezó a llover! La lluvia cayó sobre el jardín entre risas.\n\nY justo cuando el sol asomó de nuevo, se dibujó en el cielo algo curvado, enorme y mágico.",
+      "text": "Rosa la miró con la boca abierta. Después le dio el pincel más gordo que tenía.\n\nNube se pintó la barriga de rosa. Se pintó los bordes de amarillo. Se hizo una raya naranja y otra verde. El pincel le hacía cosquillas, y se le escapaba la risa.\n\n—¡Mírame! —gritó—. ¡Soy de colores!\n\nPero las nubes están hechas de agua. Y con tanta pintura, y tanto pincel mojado, Nube se fue poniendo pesada. Cada vez más pesada.\n\nHasta que no pudo aguantar más.\n\nY empezó a llover.",
+      "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "gotas",
-          "sfx": "water_splash",
-          "ambient": "rain"
-        },
-        {
-          "anchor": "mágico",
-          "sfx": "magic_shimmer"
-        }
-      ],
-      "ambient": null
+        { "anchor": "risa", "sfx": "giggle" },
+        { "anchor": "llover", "ambient": "rain" }
+      ]
     },
     {
       "id": "s4",
-      "text": "¡Era un arcoíris! Rojo, naranja, amarillo, verde, azul y morado, todos salidos de sus propias gotas. Nube entendió que sus colores no estaban afuera: estaban dentro de ella, esperando el momento justo para brillar.\n\nY meciéndose feliz en el cielo, se quedó dormida.",
-      "cues": [
-        {
-          "anchor": "dormida",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "Llovió sobre la colina, sobre Rosa y sobre su cuaderno de dibujo.\n\nY con la lluvia, los colores de Nube se fueron cayendo. El rosa, el amarillo, el naranja, el verde. Gota a gota, se los llevó el agua.\n\nNube se quedó blanca otra vez. Blanca y triste.\n\n—Se me fueron —lloró—. Se me fueron todos.\n\nPero en ese momento, por detrás de Nube, salió el sol. Y sus rayos atravesaron las últimas gotas.\n\nY en el cielo, de punta a punta, apareció un arcoíris. Rojo, naranja, amarillo, verde, azul y morado.\n\n—¡Nube! —gritó Rosa—. ¡Mira! ¡Lo hiciste tú!",
+      "ambient": "rain",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "arcoíris", "sfx": "magic_shimmer", "ambient": "meadow_day" }]
+    },
+    {
+      "id": "s5",
+      "text": "Nube no lo podía creer.\n\nEsos colores no se los había prestado nadie. No eran del atardecer, ni de las pinturas de Rosa.\n\nEran suyos. Habían estado siempre ahí, escondidos dentro de sus gotas, esperando un rayo de sol.\n\nDesde ese día, a Nube ya no le importa ser blanca.\n\nPorque sabe que cada vez que llueve y sale el sol al mismo tiempo, ella pinta el cielo entero.\n\nY Rosa guarda en su cuaderno un dibujo: una nube blanca, sonriendo, con todos los colores del cielo saliéndole de la barriga.",
       "ambient": "meadow_day",
-      "music": "harp_dreams"
+      "music": "gentle_piano",
+      "cues": []
     }
   ]
 }

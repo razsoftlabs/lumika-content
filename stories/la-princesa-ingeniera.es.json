@@ -2,182 +2,91 @@
   "id": "la-princesa-ingeniera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 20,
   "title": "La princesa ingeniera",
-  "summary": "Cuando el río del reino se seca y nadie quiere escuchar a una princesa que construye máquinas, Mirena decide subir sola a la montaña con su cuaderno.",
+  "summary": "Cuando el río del reino se seca y nadie quiere escuchar a una princesa que construye máquinas, Mirena sube sola a la montaña con su cuaderno.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En la torre más alta del castillo de Vallehondo, escondida detrás de un tapiz de flores, había una puerta.\n\nCasi nadie en el reino sabía que existía. Detrás de esa puerta estaba el taller secreto de la princesa Mirena.\n\nAllí olía a madera recién cortada, a aceite tibio y al pan con miel que ella subía a escondidas en los bolsillos. De las paredes colgaban ruedas, cuerdas y poleas, y en la mesa había frascos con tornillos ordenados por tamaño, del más pequeño al más grande.\n\nCada noche, cuando el castillo se quedaba en silencio, Mirena subía los ochenta y dos escalones de piedra con su cuaderno bajo el brazo. Detrás de ella iba Tuerca, su gato. Se acomodaba encima de los planos, con la cola en alto, como si fuera el dueño del taller.\n\nUn búho la miraba desde la ventana. Mirena encendía la vela, respiraba hondo y empezaba a inventar.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "puerta",
-          "sfx": "door_open"
-        }
-      ]
+      "text": "En la torre más alta del castillo de Vallehondo, escondida detrás de un tapiz de flores, había una puerta pequeña.\n\nCasi nadie sabía que existía. Detrás estaba el taller secreto de la princesa Mirena.\n\nAllí olía a madera recién cortada y a aceite tibio. De las paredes colgaban ruedas, cuerdas y poleas. En la mesa había frascos con tornillos, ordenados del más pequeño al más grande.\n\nCada noche, cuando el castillo se quedaba en silencio, Mirena subía los ochenta y dos escalones de piedra con su cuaderno bajo el brazo. Detrás de ella subía Tuerca, su gato, que se acomodaba encima de los planos como si fuera el dueño del taller.\n\nMirena encendía la vela, respiraba hondo y empezaba a inventar.",
+      "ambient": "fireplace",
+      "music": "adventure_soft",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Los inventos de Mirena eran raros y alegres. Había un molino de viento del tamaño de un sombrero que abanicaba la sopa caliente. Había un reloj que en vez de campanas soltaba pájaros de madera.\n\nY en el jardín estaba su favorito: la Regadora Uno, una máquina de bambú y cuerda que llevaba el agua del pozo hasta las macetas sin desperdiciar ni una gota.\n\nMirena la había arreglado once veces. La doceava vez funcionó. Se sentó en el pasto a mirar cómo brillaban las hojas mojadas, mientras alrededor del romero daba vueltas una abeja.\n\n—¿Lo ves, Tuerca? —dijo—. Las cosas no salen a la primera.\n\nSalen a la doceava. El jardinero, don Emilio, se quitó el sombrero y sonrió. Él era el único grande que le pedía consejo.\n\n—Princesa —dijo—, usted tiene manos de constructora. Mirena guardó esa frase como se guarda un tesoro.",
+      "text": "Los inventos de Mirena eran raros y alegres.\n\nHabía un molinillo del tamaño de un sombrero que soplaba la sopa para enfriarla. Había un reloj que, en vez de dar las horas, soltaba pájaros de madera.\n\nY en el jardín estaba su favorito: la Regadora Uno, una máquina de bambú y cuerdas que llevaba el agua del pozo hasta las macetas, sin desperdiciar nada.\n\nMirena la arregló once veces. Y a la duodécima, por fin, el agua salió justo por donde tenía que salir. ¡Chof!\n\n—¿Ves, Tuerca? —dijo—. Las cosas no salen a la primera. Salen a la duodécima.\n\nDon Emilio, el jardinero, se quitó el sombrero y sonrió.\n\n—Princesa —dijo—, usted tiene manos de constructora.\n\nMirena guardó esa frase como quien guarda un tesoro.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "gota",
-          "sfx": "water_splash"
-        }
-      ]
+      "cues": [{ "anchor": "chof", "sfx": "water_splash" }]
     },
     {
       "id": "s3",
-      "text": "Una mañana, Mirena bajó al salón del trono con la Regadora Uno en brazos. El rey Aurelio, su papá, estaba firmando papeles. Los cortesanos hablaban de banquetes y de sombreros nuevos.\n\nMirena puso su máquina sobre la alfombra y explicó, con las orejas rojas, cómo el agua subía y bajaba sola. Hubo un silencio largo. Después el chambelán Ciro se inclinó y dijo algo que todos oyeron, aunque lo dijo con un susurro: —Muy bonito, princesa.\n\nIdeal para jugar. Alguien comentó que las princesas no debían llenarse las manos de aceite. El rey le dio un beso en la frente y volvió a sus papeles.\n\nPor el pasillo de mármol se fueron alejando, uno por uno, los pasos.\n\nMirena se quedó sola con su invento y con el eco. Recogió la Regadora despacio, no dijo nada y volvió a subir a la torre.",
-      "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps",
-          "delayMs": 300
-        }
-      ],
-      "ambient": null
+      "text": "Una mañana, Mirena bajó al salón del trono con la Regadora Uno en brazos.\n\nEl rey Aurelio, su papá, estaba firmando papeles. Los cortesanos hablaban de banquetes y de sombreros nuevos.\n\nMirena puso la máquina sobre la alfombra y explicó, con las orejas rojas, cómo el agua subía y bajaba sola.\n\nHubo un silencio largo. Después, el chambelán Ciro se inclinó y dijo:\n\n—Muy bonito, princesa. Ideal para jugar.\n\nAlguien comentó que las princesas no deberían llenarse las manos de aceite. El rey le dio un beso en la frente y volvió a sus papeles.\n\nUno por uno, se fueron por el pasillo de mármol, y se oyeron cada vez más lejos sus pisadas.\n\nY Mirena se quedó sola, con su invento y con el eco.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "pisadas", "sfx": "footsteps" }]
     },
     {
       "id": "s4",
-      "text": "Ese verano no llovió. Tampoco llovió el mes siguiente. El cielo se puso de un azul duro, sin una sola nube, y el sol calentaba las piedras del patio hasta que quemaban los pies descalzos.\n\nPor las ventanas del castillo entraba un aire seco que hacía sonar las cortinas como banderas cansadas. Todo el día soplaba el mismo viento.\n\nEn los caminos, los almendros habían soltado sus hojas. Crujían al pisarlas, marrones y quebradizas. Los pájaros dejaban de cantar al mediodía porque hacía demasiado calor.\n\nDesde su ventana, Mirena veía el valle cambiar de color: primero verde, después amarillo, después casi gris. La gente empezó a mirar el cielo muchas veces al día, con la mano de visera, esperando. —Va a llover mañana —decían en el mercado.\n\nY mañana llegaba, y no llovía. Mirena anotó en su cuaderno la fecha de cada día sin lluvia. La lista se hizo larguísima.",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Ese verano no llovió. Tampoco llovió el mes siguiente.\n\nEl cielo se puso de un azul duro, sin una sola nube. Los almendros soltaron sus hojas antes de tiempo. Los pájaros dejaban de cantar al mediodía, porque hacía demasiado calor.\n\nDesde su ventana, Mirena veía el valle cambiar de color: primero verde, después amarillo, después casi gris.\n\n—Mañana llueve —decían en el mercado.\n\nY mañana llegaba, y no llovía.\n\nUn domingo, Mirena bajó al río. El río Cantarín siempre había hecho ruido; por eso lo llamaban así. Pero ese día no se oía nada. Solo había piedras blancas, secas y calientes, y un fondo de barro partido en pedazos como galletas.\n\nMirena levantó la vista hacia la montaña Cabeza Blanca, allá arriba, donde nacía el río.\n\nY se guardó una piedra del río en el bolsillo.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s5",
-      "text": "Un domingo, Mirena bajó al río con su yegua Almendra. El río Cantarín siempre había hecho ruido: por eso lo llamaban así. Pero ese día no hacía ninguno.\n\nDonde antes había agua corriendo, ahora había piedras blancas, secas y calientes, y un fondo de barro partido en pedazos como galletas. En una curva, turbio y del tamaño de un plato, quedaba un último charco. En el borde, flaca y quieta, como preguntando qué había pasado, esperaba una rana.\n\nMirena se agachó y tocó el barro con dos dedos. Estaba tibio. Levantó la vista hacia la montaña Cabeza Blanca, allá arriba, donde nacía el río, y sintió algo en el pecho: no era miedo, era una pregunta.\n\nSi el agua ya no bajaba sola por su camino de siempre, tal vez alguien podía construirle un camino nuevo. Guardó una piedra del río en el bolsillo y volvió al castillo pensando.",
-      "cues": [
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
-        }
-      ],
-      "ambient": "stream_water"
+      "text": "Las semanas siguientes fueron flacas.\n\nSin agua, el trigo se quedó pequeño y los tomates no engordaron. Don Timoteo, el panadero, abría media hora al día y vendía panes chiquitos, uno por familia.\n\nMirena vio a Nico, un niño del pueblo, partir su pan en tres pedazos: uno para su hermana, uno para su abuela y uno para él.\n\nEsa noche, en la torre, no pudo dibujar. Se quedó mirando la piedra del río sobre la mesa, con Tuerca en las rodillas.\n\n—No es que falte agua —dijo de pronto—. Es que el agua está arriba, y nosotros estamos abajo.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s6",
-      "text": "Las semanas siguientes fueron flacas. Sin agua, el trigo se quedó pequeño y los tomates no engordaron. En el mercado se veía más mesa que fruta.\n\nDon Timoteo, el panadero, abría media hora al día y vendía panes pequeños, uno por familia. La tierra del camino estaba tan dura que cada paso sonaba con un crujido.\n\nA la sombra de la fuente vacía dormía un perro. Mirena vio a Nico, un niño del pueblo, partir su mendrugo en tres pedazos para compartirlo: uno para su hermana, uno para él y uno para el perro flaco. Esa noche, en la torre, no pudo dibujar.\n\nSe quedó con la vela encendida, mirando la piedra del río sobre la mesa. Tuerca se subió a su regazo. «No es que falte agua», pensó ella.\n\n«Es que el agua está arriba y nosotros estamos abajo.»",
-      "cues": [
-        {
-          "anchor": "crujido",
-          "sfx": "crunch"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "A la mañana siguiente, Mirena entró en el salón con un rollo de papel casi tan alto como ella. Lo desenrolló sobre la mesa larga y puso la piedra del río encima, para que no se cerrara.\n\n—Se llama acueducto —dijo, con voz clara—. Un canal de piedra y madera que baja desde el manantial de Cabeza Blanca hasta el valle. El agua no necesita que la empujen. Solo necesita una cuesta suave, y paciencia.\n\nHubo tres segundos de silencio.\n\nDespués, el chambelán Ciro se rió tan fuerte que se le movió el bigote.\n\n—Princesa, eso es un juguete gigante. Los canales los hacen los ingenieros, no las niñas.\n\n—Luego lo hablamos, hija —dijo el rey, incómodo.\n\nMirena enrolló su plano y salió. Cerró la puerta con cuidado. Y del otro lado apoyó la frente en la madera, y se quedó un rato quieta, aprendiendo a respirar.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "respirar", "sfx": "breathe_in" }]
     },
     {
       "id": "s7",
-      "text": "A la mañana siguiente, Mirena entró al salón con un rollo de papel casi tan alto como ella. Lo desenrolló sobre la mesa larga y puso la piedra del río encima para que no se cerrara. —Se llama acueducto —dijo con voz clara—.\n\nUn canal de piedra y madera que baja desde el manantial de Cabeza Blanca hasta el valle. El agua no necesita que la empujen: solo necesita una cuesta suave y paciencia. Hubo tres segundos de silencio.\n\nDespués el chambelán Ciro se rió tan fuerte que se le movió el bigote, y otros lo acompañaron. —Princesa, eso es un juguete gigante. —Los canales los hacen los ingenieros, no las niñas.\n\nEl rey, incómodo, dijo: —Hablamos luego, hija. Mirena enrolló su plano, salió y cerró con cuidado la puerta. Del otro lado apoyó la frente en la madera y, para que no se le cayera ninguna lágrima, se puso a respirar.",
-      "cues": [
-        {
-          "anchor": "respirar",
-          "sfx": "breathe_in",
-          "delayMs": 400
-        }
-      ],
-      "ambient": null
+      "text": "Esa misma tarde, Mirena dejó una nota sobre su almohada:\n\n«Voy a medir la montaña. Vuelvo pronto. Los quiero».\n\nEn la mochila metió su cuaderno, tres lápices, una cuerda con un nudo cada metro, pan, queso y una manta.\n\nY empezó a subir.\n\nEl camino iba entre encinas y romero. El aire de arriba era más fresco, y olía a hierba y a resina.\n\nA media tarde, Mirena miró hacia atrás. Su castillo se veía pequeñito, del tamaño de un juguete, con el valle amarillo alrededor.\n\nTuvo miedo un rato.\n\nDespués abrió el cuaderno, escribió «Día uno» y siguió subiendo. Porque las cosas grandes siempre empiezan con un día uno.",
+      "ambient": "forest_birds",
+      "cues": []
     },
     {
       "id": "s8",
-      "text": "Nadie la vio salir. Mirena dejó una nota sobre su almohada: «Voy a medir la montaña. Vuelvo pronto.\n\nLos quiero.» En las alforjas metió su cuaderno, tres lápices, una cuerda con un nudo cada metro, pan, queso y una manta. También metió en la alforja a Tuerca, su gato.\n\nAsomó la cabeza por la abertura como un capitán en su barco. Almendra caminaba tranquila y sobre el camino de tierra sonaban sus pasos: tac, tac, tac. Subieron entre encinas y romero.\n\nEl aire de arriba era más fresco y olía a hierba y a resina. A media tarde, Mirena miró hacia atrás y vio su castillo pequeño, del tamaño de un juguete, con el valle amarillo alrededor. Sintió miedo un rato.\n\nDespués sacó el cuaderno, escribió «Día uno» y siguió subiendo, porque las cosas grandes empiezan siempre con un día uno.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "gato",
-          "sfx": "cat_meow"
-        }
-      ]
+      "text": "El manantial estaba escondido entre dos rocas grises, más arriba de donde llegaban las cabras.\n\nMirena lo oyó antes de verlo: de una grieta en la piedra salía un hilo de agua. Era tan clara que se veían los granitos de arena bailando en el fondo. Y al caer, hacía burbujas.\n\nMirena metió las manos y se rió sola, de puro alivio.\n\n—Aquí estás —le dijo al agua—. No te habías ido. Solo te quedaste arriba.\n\nSe quedó cinco días en la montaña.\n\nDe día medía. El ancho del chorro, la altura de las rocas, la distancia hasta cada pino. Caminaba la ladera de arriba abajo, buscando la cuesta justa: si el canal bajaba mucho, el agua se saldría; si bajaba poco, se quedaría quieta.\n\nDe noche dormía en una cueva, con la manta, y sumaba y restaba junto a un fuego pequeño.\n\nEl quinto día lo dijo en voz alta:\n\n—Un dedo de bajada cada tres pasos. Ochocientos treinta pasos de canal. Se puede.",
+      "ambient": "stream_water",
+      "cues": [{ "anchor": "burbujas", "sfx": "bubbles" }]
     },
     {
       "id": "s9",
-      "text": "El manantial estaba escondido entre dos rocas grises, más arriba de donde llegaban las cabras. Mirena lo escuchó antes de verlo: de una grieta de la piedra salía un hilo de agua. Era tan claro que se veían los granos de arena bailando en el fondo, y estaba fresco.\n\nAl caer levantaba burbujas.\n\nEran diminutas, subían despacio y se rompían sin ruido. Mirena metió las manos y se rió sola de puro alivio. —Aquí estás —le dijo—.\n\nNo te habías ido. Solo te quedaste arriba. Sacó la cuerda de nudos y midió: el ancho del chorro, la altura de la roca, la distancia hasta el primer pino.\n\nAnotó cada número en el cuaderno con letra ordenada. Después dibujó la forma de la ladera, con sus curvas y sus lomas, igual que se dibuja la espalda de un gigante dormido. Tuerca cazaba mariposas.\n\nLa montaña la dejaba trabajar, en silencio.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles",
-          "delayMs": 400
-        }
-      ]
+      "text": "El sexto día, bajando por un atajo estrecho, la montaña se movió.\n\nPrimero fue un ruido pequeño, allá arriba, como cuando alguien camina sobre arroz. Después, sordo y profundo, se oyó un golpe.\n\nUnas piedras del tamaño de melones empezaron a rodar por la ladera. Mirena se apretó contra la pared de roca y cerró los ojos.\n\nPasó rápido. Cuando el polvo se asentó, Mirena estaba entera.\n\nPero el cuaderno se le había salido de la mochila. Y las hojas se iban volando, una por una, ladera abajo, blancas como palomas, hasta el fondo de un barranco donde no podía bajar nadie.\n\nCinco días de trabajo.\n\nMirena se sentó en una piedra. Y esa vez, sí, lloró.",
+      "ambient": "meadow_day",
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "golpe", "sfx": "thud" }]
     },
     {
       "id": "s10",
-      "text": "Se quedó cinco días. Dormía en una cueva poco profunda, con la manta y el calor de Tuerca en los pies. De día medía y caminaba la ladera de arriba abajo, buscando la cuesta correcta: si el canal bajaba demasiado, el agua correría y saltaría fuera; si bajaba muy poco, se quedaría quieta.\n\nUn dedo de bajada por cada tres pasos. Eso escribió, y lo comprobó veinte veces con una tabla, un poco de agua y mucha paciencia. De noche, junto a un fuego pequeño, sumaba y restaba a la luz de la luna.\n\nContaba cuántas piedras, cuántos troncos y cuántas manos harían falta. Encima de ella, esparcidas como migas de pan sobre un mantel oscuro, había miles de estrellas. —Ochocientos treinta pasos de canal —dijo en voz alta el quinto día, con la voz ronca de no hablar con nadie—.\n\nSe puede.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ]
+      "text": "Lloró un rato corto.\n\nDespués se secó la cara con la manga y buscó en la mochila. Le quedaba un lápiz. Y le quedaba el mapa viejo del reino, que por detrás estaba en blanco.\n\n—Los números no se cayeron —dijo bajito—. Están aquí adentro.\n\nSe puso el mapa en las rodillas y empezó otra vez, despacio. La roca del manantial. Los dos pinos. La loma. El codo del camino. Un dedo de bajada cada tres pasos.\n\nCada vez que se atascaba, cerraba los ojos y volvía a caminar la ladera con la memoria, como quien recuerda el camino a casa de la abuela.\n\nCuando salió el sol, el plano nuevo estaba terminado.\n\nUn poco torcido. Y del todo verdadero.",
+      "ambient": "meadow_night",
+      "cues": []
     },
     {
       "id": "s11",
-      "text": "Bajaba el sexto día por un atajo estrecho cuando la montaña se movió un poco. Primero fue un ruido pequeño allá arriba, como cuando alguien camina sobre arroz. Después, sordo y profundo, se oyó un golpe.\n\nUnas piedras del tamaño de melones empezaron a rodar por la ladera. Almendra reculó y tiró de las riendas justo a tiempo; Mirena se apretó contra la pared de roca, con Tuerca bien guardado en la alforja, y cerró los ojos. Pasó rápido.\n\nCuando el polvo se sentó, las tres estaban enteras y sanas, con el corazón latiendo fuerte. Pero el cuaderno había salido volando de la alforja abierta, y las hojas se fueron ladera abajo, lejísimo, hasta el fondo del barranco donde no podía bajar nadie, empujadas por el viento.\n\nMirena las vio irse una por una, blancas como palomas. Cinco días de trabajo. Se sentó en una piedra y sí, esa vez lloró.",
-      "cues": [
-        {
-          "anchor": "golpe",
-          "sfx": "thud"
-        }
-      ],
-      "ambient": "snow_wind",
-      "music": "gentle_piano"
+      "text": "Esa tarde, Mirena llegó a la plaza del pueblo, desenrolló su plano sobre un banco de piedra, y empezó a explicarlo en voz alta. A nadie en particular.\n\nSe paró a escuchar don Timoteo, el panadero. Después, la señora Rosa, la que hacía tejas. Después, Nico y su hermana.\n\nY fueron llegando más. El herrero. Las hermanas del molino. El pastor. La maestra. Veinte vecinos, cuarenta, casi todo el pueblo.\n\n—Explíquelo otra vez, princesa —pidió el herrero—. Pero más despacio.\n\nMirena lo explicó tres veces. Los niños midieron la plaza con la cuerda de nudos, y de paso midieron al pastor, entre risas.\n\n—Nosotros tenemos manos —dijo la señora Rosa—. Usted tiene el plano. Empezamos mañana.",
+      "ambient": "city_soft",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "risas", "sfx": "giggle" }]
     },
     {
       "id": "s12",
-      "text": "Lloró un rato corto. Después se secó la cara con la manga y buscó en la alforja: quedaba un lápiz y quedaba el revés del mapa viejo del reino, en blanco. —Los números no se cayeron.\n\nLos números están aquí dentro —dijo con un susurro.\n\nSe puso el mapa sobre las rodillas y empezó otra vez, despacio: la roca del manantial, los dos pinos, la loma, el codo del camino, un dedo de bajada por cada tres pasos, ochocientos treinta pasos de canal. Cada vez que se atascaba, cerraba los ojos y volvía a caminar la ladera con la memoria, como se recuerda el camino a la casa de la abuela.\n\nA su lado se sentó Tuerca, su gato. Miraba el lápiz sin moverse. Cuando salió el sol, el plano nuevo estaba terminado: un poco torcido y del todo verdadero.\n\nMirena lo enrolló y montó a Almendra.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ]
+      "text": "Trabajaron treinta y un días.\n\nLos canteros partían piedra. Los carpinteros armaban canaletas de madera. Los niños llevaban de un lado a otro mensajes y meriendas. Y Mirena subía y bajaba la ladera, comprobando la cuesta con un nivel que había hecho ella misma con un tubo.\n\n—Aquí, un dedo más abajo —decía—. Aquí, un dedo más arriba.\n\nEl día treinta y uno, todos subieron al manantial y quitaron la última piedra que tapaba la entrada del canal.\n\nEl agua dudó un segundo.\n\nDespués entró, brillante y decidida, y bajó por el canal, curva tras curva, haciendo un ruido que en el valle nadie oía desde hacía meses.\n\nLlegó a la plaza. Y saltó dentro de la fuente.\n\nLa gente gritó, se abrazó, se mojó la cara. Y el río Cantarín volvió a cantar.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "fuente", "ambient": "stream_water" }]
     },
     {
       "id": "s13",
-      "text": "En la plaza del pueblo, Mirena desenrolló su plano sobre el borde de la fuente vacía y empezó a explicarlo en voz alta, a nadie en particular. Se paró a escuchar don Timoteo, el panadero. Después la señora Rosa, que hacía tejas.\n\nDespués Nico y su hermana. Por las calles fueron llegando poco a poco más pasos: el herrero, las hermanas del molino, el pastor con sus perros, la maestra, dieciocho vecinos, cuarenta, casi todo el pueblo. —Explíquelo otra vez, princesa —pidió el herrero—, pero más despacio.\n\nMirena lo explicó tres veces. Alguien trajo agua de pozo para todos. Alguien más trajo una tabla y un carbón para dibujar.\n\nLos niños midieron la plaza con la cuerda de nudos, y midieron también al pastor y al perro, entre risas.\n\n—Nosotros tenemos manos —dijo la señora Rosa—. Usted tiene el plano. Empecemos mañana.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "risas",
-          "sfx": "giggle",
-          "delayMs": 300
-        }
-      ],
-      "music": "strings_hopeful"
-    },
-    {
-      "id": "s14",
-      "text": "Trabajaron treinta y un días. Los canteros partían piedra; los carpinteros armaban canaletas de madera; los niños llevaban de un lado a otro mensajes y agua.\n\nMirena subía y bajaba la ladera con su plano, comprobando la cuesta con un nivel que ella misma había hecho con un tubo. —Aquí un dedo más abajo —decía—. Aquí un dedo más arriba.\n\nCantaban para llevar el ritmo. Al atardecer del día treinta y uno, todos subieron al manantial y quitaron la última piedra que tapaba la entrada del canal. El agua dudó un segundo.\n\nDespués entró, brillante y decidida, y bajó por el canal haciendo un ruido que en el valle nadie había escuchado en meses. Llegó a la fuente de la plaza y saltó. La gente gritó, se abrazó, se mojó la cara.\n\nY al rato, en la orilla nueva, se puso a cantar una rana.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "agua",
-          "sfx": "water_splash"
-        }
-      ]
-    },
-    {
-      "id": "s15",
-      "text": "El rey Aurelio bajó al valle a ver el agua correr y se quedó mirándola mucho tiempo sin decir nada. Después se agachó, mojó la mano y se la puso en la frente. —Hija —dijo—, yo estaba firmando papeles mientras tú medías la montaña.\n\nPerdóname. El chambelán Ciro, muy colorado, preguntó si podía cargar el cuaderno de la princesa cuando ella lo necesitara. Mirena le dijo que sí, y también que la llamara ingeniera.\n\nEsa noche hubo pan otra vez, pan grande, del que cruje. Ya tarde, Mirena subió a su torre. No inventó nada.\n\nDejó el plano enrollado en su lugar, apagó la vela y se acostó con la ventana abierta, para escuchar el hilo de agua allá abajo. Sobre la manta entraba despacio la luna. Tuerca se acomodó en sus pies y soltó un ronquido.\n\nY la princesa ingeniera se durmió, por fin, tranquila.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "ronquido",
-          "sfx": "snore_soft",
-          "delayMs": 600
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "El rey Aurelio bajó al valle a ver el agua correr. Se quedó mirándola mucho rato, sin decir nada. Después se agachó, se mojó la mano y se la puso en la frente.\n\n—Hija —dijo—, yo estaba firmando papeles mientras tú medías la montaña. Perdóname.\n\nEl chambelán Ciro, muy colorado, preguntó si podía llevarle el cuaderno cuando ella lo necesitara.\n\nMirena le dijo que sí. Y también le dijo que, desde ahora, la llamara ingeniera.\n\nEsa noche hubo pan otra vez. Pan grande, del que cruje.\n\nYa tarde, Mirena subió a su torre. No inventó nada. Abrió la ventana para oír el agua, allá abajo, y se metió en la cama.\n\nTuerca se le acomodó en los pies y soltó un ronquido.\n\nY la princesa ingeniera se durmió, por fin, tranquila.",
+      "ambient": "fireplace",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "ronquido", "sfx": "snore_soft" }]
     }
   ]
 }

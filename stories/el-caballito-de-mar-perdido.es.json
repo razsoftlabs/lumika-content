@@ -2,66 +2,42 @@
   "id": "el-caballito-de-mar-perdido",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 20,
   "title": "El caballito de mar perdido",
-  "summary": "Cuando unas burbujas juguetonas lo alejan de casa, un caballito de mar descubre que el océano está lleno de amigos dispuestos a ayudar.",
+  "summary": "Marino es el nadador más lento del mar. Un día se suelta del arrecife para perseguir unas burbujas, y el agua lo lleva lejísimos de casa.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Marino era un caballito de mar pequeño y curioso. Vivía entre los corales de colores, meciéndose con las olas. Esa tarde, girando feliz, subiendo y bajando, se puso a perseguir unas burbujas.\n\nEllas lo llevaron más y más lejos, hasta un jardín de corales que nunca había visto. Cuando Marino miró alrededor, ya no reconocía nada. ¿Dónde estaba su casa?\n\nEl pequeño caballito sintió un cosquilleo en la panza, pero respiró hondo y decidió ser valiente.",
+      "text": "Marino era un caballito de mar pequeño y amarillo, con una crestita naranja en la cabeza.\n\nLos caballitos de mar son los nadadores más lentos de todo el océano. Por eso se pasan el día agarrados a los corales, con la cola enroscada, para que el agua no se los lleve.\n\n—Nunca te sueltes del arrecife —le decía su mamá.\n\nY Marino nunca se soltaba.\n\nHasta aquella tarde, cuando pasó flotando delante de él una fila de burbujas.\n\nEran redondas y brillantes, de todos los colores, como canicas de cristal.\n\nMarino estiró el hocico para tocar una. Y sin darse cuenta, se soltó.",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
-        }
-      ]
+      "music": "adventure_soft",
+      "cues": [{ "anchor": "burbujas", "sfx": "bubbles" }]
     },
     {
       "id": "s2",
-      "text": "De pronto, un pez naranja apareció entre las algas. —No llores, pequeño —dijo con voz dulce—. Yo te ayudaré a encontrar tu hogar.\n\nEl pez nadó a su lado y le preguntó cómo era su casa. Marino recordó: —Hay un coral rosado, y de noche brilla sobre él la luna.\n\nEl pez sonrió. —Conozco a alguien que la ve cada noche. Sígueme.\n\nJuntos nadaron entre plantas que se mecían, mientras un banco de peces plateados los saludaba con un guiño.",
+      "text": "Persiguió una burbuja. Y otra. Y otra más.\n\nCuando la última se reventó en su nariz, Marino miró alrededor.\n\nNo había corales. No había arrecife. Solo agua azul, por arriba, por abajo y por todos lados.\n\nIntentó volver nadando. Movió la aleta de la espalda lo más rápido que pudo… y casi no avanzó nada.\n\nDe pronto, el agua le dio un empujón.\n\nEra una corriente fuerte y fría, y lo arrastró todavía más lejos.\n\nMarino encontró un alga y se agarró a ella con la cola, muy fuerte. Y ahí se quedó, temblando, sin saber qué hacer.",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ]
+      "cues": [{ "anchor": "empujón", "sfx": "whoosh" }]
     },
     {
       "id": "s3",
-      "text": "Nadaron un largo rato hasta llegar a un mar más profundo y oscuro. Marino se acercó a su nuevo amigo, un poco asustado. Entonces, del fondo azul, apareció una enorme ballena.\n\nTenía los ojos amables y una voz suave y profunda. —¿Están perdidos, pequeños? —preguntó.\n\n—Buscamos el coral rosado —respondió Marino. Ella sonrió. —Súbanse en mi lomo.\n\nYo los llevaré más cerca. Marino y el pez se acomodaron, y la gigante avanzó despacio, meciéndolos como una cuna sobre el agua.",
+      "text": "Al rato, una sombra grande pasó por encima. Marino se encogió.\n\nPero no era un tiburón. Era una tortuga muy vieja, con el caparazón lleno de rayitas.\n\n—Pero mira nada más —dijo—. ¿Un caballito de mar tan lejos de los corales? Tú estás perdido.\n\n—Me solté —dijo Marino, con un hilo de voz—. Vivo en el arrecife de los corales rosados. Pero soy muy lento, y nunca voy a llegar.\n\nLa tortuga se rió despacito.\n\n—Yo también soy lenta. Me llamo Tula. Y los lentos tenemos un truco. ¿Quieres verlo?",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "ballena",
-          "sfx": "whale_song"
-        }
-      ],
-      "music": "strings_hopeful"
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Mientras la gigante nadaba, el cielo sobre el mar se pintó de naranja y luego de azul oscuro. Una a una, las estrellas comenzaron a asomarse, y el mar se llenó de luces. —¡Mira!\n\n—dijo Marino—. Desde mi casa se ve esa estrella. La gigante se detuvo junto a un arrecife conocido.\n\nA lo lejos, entre las sombras suaves, Marino distinguió un coral rosado que se mecía con la corriente. De alegría, le dio un salto el corazón.\n\n—¡Es aquí! ¡Ya casi llego a casa!",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        }
-      ]
+      "text": "Tula nadó hasta un sitio donde el agua se movía rápido, como un río dentro del mar.\n\n—Esta es tibia —dijo—, y va derechito hacia los corales rosados. Agárrate.\n\nMarino enroscó la cola en el borde del caparazón.\n\nY la corriente se los llevó.\n\n¡Qué rápido iban! Pasaron peces de rayas, un pulpo que les dijo adiós con los ocho brazos y un delfín que nadó con ellos un rato, dando saltos fuera del agua.\n\nMarino, el nadador más lento del océano, iba más rápido que nunca. Y por primera vez en toda la tarde, soltó una carcajada.",
+      "ambient": "underwater",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "carcajada", "sfx": "giggle" }]
     },
     {
       "id": "s5",
-      "text": "Marino abrazó fuerte a su amiga gigante y nadó hacia el coral rosado. Allí lo esperaba su familia, que lo recibió muy contenta de verlo. El pez naranja se quedó a cenar y se hizo su amigo para siempre.\n\nCansado y feliz, Marino se acurrucó entre los corales tibios y cerró los ojos. Afuera, el mar brillaba en calma bajo la luna. Una detrás de otra, cantaban despacio las olas.\n\n—Buenas noches —susurró. Y así, mecido por el mar, el pequeño caballito se quedó plácidamente dormido.",
+      "text": "Al atardecer, entre el azul, aparecieron unos corales rosados.\n\n—¡Es mi casa! —gritó Marino.\n\nSu mamá estaba a la entrada del arrecife, buscándolo por todas partes. Cuando lo vio, nadó hacia él tan rápido como puede nadar un caballito de mar, que es muy poquito. Pero a Marino le pareció rapidísimo.\n\nSe enroscaron las colas, que es como se abrazan los caballitos de mar.\n\nEl pez payaso de al lado salió de su anémona a saludar. Tula se despidió con una aleta y siguió su camino, despacio.\n\nEsa noche, Marino se agarró a su coral como siempre. Pero antes de dormirse, se quedó un rato mirando el agua pasar. Ahora sabía que el agua también es un camino.",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "dormido",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "music": "guitar_warm",
+      "cues": []
     }
   ]
 }

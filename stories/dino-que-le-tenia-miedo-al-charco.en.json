@@ -2,70 +2,47 @@
   "id": "dino-que-le-tenia-miedo-al-charco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 20,
   "title": "Such a Huge Puddle!",
-  "summary": "The biggest dinosaur in the whole valley is terrified of the tiniest thing you can imagine.",
+  "summary": "Rocco is the biggest dinosaur in the valley, and he's afraid of a tiny puddle. Because inside the puddle lives a monster.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Rocco was the biggest animal in the whole valley. When he walked, the ground rumbled boom, boom, boom under the feet of the dinosaur.\n\nIn the trees, everything shook: the branches and the leaves. Everyone thought Rocco wasn't scared of anything. But he kept a very tiny secret.\n\nNext to his nest there was a puddle. Not a river, not a lake: a teeny puddle, the size of a hat. And every time he saw it shine, his giant knees wobbled and he hid his big head behind his tail.\n\n\"What if it splashes me? What if it swallows me?\", he thought, trembling because of such a small puddle.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "dinosaur",
-          "sfx": "dino_step"
-        }
-      ]
+      "text": "Rocco was the biggest dinosaur in the valley.\n\nHe was so tall that the clouds tickled the top of his head. So heavy that in the village houses, the teacups rattled with every one of his steps.\n\nEveryone was sure that Rocco wasn't afraid of anything.\n\nBut Rocco had a secret.\n\nOn the path down to the river, between two stones, there was a puddle. A teeny-tiny puddle, the size of a hat.\n\nAnd Rocco was very, very afraid of that puddle.",
+      "ambient": "meadow_day",
+      "music": "playful_flute",
+      "cues": [{ "anchor": "steps", "sfx": "dino_step" }]
     },
     {
       "id": "s2",
-      "text": "To avoid getting close to the puddle, Rocco did very funny things. He took the longest way around the valley. He walked on tiptoe, slowly, glancing sideways.\n\nOne day, trying to dodge it, he made such a clumsy hop that he sat right on top of a bush. His crest was ruffled by a puff of wind. The birds watching him let out a giggle.\n\n\"Hee, hee, hee,\" they sang among the branches. Rocco turned red all the way to the tip of his tail. \"I'm not scared!\",\n\nhe said loudly. But the moment the puddle shone again, he ran off and hid behind a rock. An enormous dinosaur, hiding from something so small.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "giggle",
-          "sfx": "giggle"
-        }
-      ]
+      "text": "It all started one morning, after a night of rain.\n\nRocco was thirsty. He saw the puddle, bent his long, long neck down, and opened his mouth to drink.\n\nAnd then he saw it.\n\nInside the puddle there was a monster. A huge green monster with wide-open eyes, staring right at him.\n\nRocco screamed.\n\nThe monster screamed too, with a mouth just as big.\n\nThen Rocco ran, so fast that he didn't even look behind him.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "ran", "sfx": "run_fast" }]
     },
     {
       "id": "s3",
-      "text": "Out of the puddle popped, plip, a small green frog.\n\nShe sat on a floating leaf and looked at Rocco with kind eyes. \"Why are you scared of the water?\", she asked.\n\n\"It's only a puddle. I live here, and it's soft and cool.\" The frog splashed slowly, without any fear.\n\n\"Come on, just dip one toe,\" she said. Rocco gulped. He stretched out the biggest foot in the valley, slowly, slowly...\n\nand touched the water. Nothing bad happened. The water tickled him.\n\nThe frog smiled.\n\n\"See? The puddle doesn't bite,\" she said. And Rocco, for the very first time, did not run away.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        }
-      ]
+      "text": "From that day on, Rocco would do anything not to walk past the puddle.\n\nHe took a very long way round, behind the hill. He tiptoed past, peeking sideways. Once he jumped over it so clumsily that he landed bottom-first in a bramble bush, and spent the whole afternoon pulling thorns out of his tail.\n\n\"Rocco, why do you go such a long way round?\" the rabbits asked.\n\n\"I like walking,\" said Rocco, blushing to the tip of his tail.\n\nBut that wasn't true. It was because of the monster.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Then Rocco took a deep breath, counted to three and... he jumped into the puddle!\n\nSPLASH! The water flew up and fell like happy rain. From every side came bubbles: fat ones, small ones, round ones.\n\nRocco stayed still for a second... and then let out a huge belly laugh. \"Ha, ha, ha!\n\nNothing happens! It's soft!\" He splashed and splashed, sprinkling the frog, who laughed with him.\n\nThe puddle, which had seemed like a monster before, was now the best toy in the valley.\n\nThe biggest dinosaur wasn't scared of the smallest puddle anymore.\n\nHe had only needed a little bit of courage.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash"
-        },
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        }
-      ],
-      "music": "marimba_playful"
+      "text": "One day, a ladybird landed on Rocco's nose. Her name was Pepa, and she was very curious.\n\n\"What are you hiding from?\" she asked.\n\nRocco looked all around, and told her the secret very quietly.\n\n\"There's a monster living in the puddle.\"\n\nPepa flew to the puddle, peeked in and came back.\n\n\"I didn't see any monster. Only a ladybird.\"\n\n\"That's because it doesn't come out for you!\" said Rocco. \"It only comes out for me.\"\n\nPepa got such a fit of the giggles that she nearly fell off his nose.\n\n\"Let's go together,\" she said. \"I'll stay up here, and if the monster tries anything, I'll shout at it.\"",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "giggles", "sfx": "giggle" }]
     },
     {
       "id": "s5",
-      "text": "When night came, the valley turned quiet and blue. Rocco and the frog sat together beside the puddle. In the still water, round and white like a silver button, shone the moon.\n\nAll around, like crumbs of light, twinkled the stars. An owl sang softly from a tree. \"Good night, brave one,\" whispered the frog.\n\nRocco gave a big yawn, rested his head on his paws and smiled. His knees didn't wobble anymore. He closed his eyes slowly and fell asleep listening to the water sing.\n\nAnd he dreamed he was jumping in a thousand puddles, happy, with no fear, until morning.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "Rocco walked to the puddle with his knees knocking. He shut his eyes. He counted to three. And he peeked.\n\nThere was the monster. Huge, green, with wide-open eyes.\n\nAnd with a ladybird on its nose.\n\n\"It's caught another ladybird!\" Rocco whispered.\n\n\"Say hello,\" said Pepa.\n\nRocco raised a paw, very slowly. The monster raised a paw, very slowly.\n\nRocco stuck out his tongue. The monster stuck out its tongue.\n\nRocco wagged his tail, winked and pulled a very ugly face. The monster did exactly the same thing, at exactly the same time.\n\n\"Pepa…\" said Rocco, very slowly. \"Is that monster… me?\"",
+      "ambient": "meadow_day",
+      "cues": []
+    },
+    {
+      "id": "s6",
+      "text": "Rocco stayed there a long time, looking at himself. He had never seen all of himself before. He had lovely orange spots on his back. And an enormous smile.\n\nThen he took a step back, got a run-up, and jumped. Splash!\n\nWater flew everywhere. It soaked Pepa, it soaked the flowers, it soaked three rabbits who happened to be passing.\n\nRocco laughed so hard that the ground shook.\n\nEver since that day, whenever it rains, Rocco goes out looking for puddles. He peeks in, says hello, and jumps.\n\nAnd nobody in the whole valley knows that the biggest dinosaur was once afraid of his own face.",
+      "ambient": "meadow_day",
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "splash", "sfx": "water_splash" }]
     }
   ]
 }

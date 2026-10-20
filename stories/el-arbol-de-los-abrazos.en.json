@@ -2,66 +2,41 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 11,
+  "version": 20,
   "title": "The Hugging Tree",
-  "summary": "A very old, lonely tree in the park holds the tenderest secret in the world among its branches.",
+  "summary": "Alba is new in the neighbourhood and doesn't know anyone. In the most forgotten corner of the park, a very old tree has a branch that knows how to hug.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a quiet corner of the park lived a very old tree. Its branches were long and soft. Among them, when evening fell, sang the wind.\n\nAnd when it sang, so did the leaves. For many years, nobody sat under its shade. The tree watched the children play far away and sighed softly.\n\n'I wish someone wanted to stay with me,' it thought. It moved its branches gently, waiting for a friend. But night came and the tree stayed all alone, counting stars so it wouldn't feel so quiet.",
+      "text": "In the most forgotten corner of the park there was a very old tree.\n\nIt was so old that its trunk was wrinkled, like a grandpa's hands. Its branches were long and grey, and nearly all of them pointed at the sky.\n\nNearly all of them. But not one.\n\nOne branch grew low and curved, close to the ground, like an arm that's waiting.\n\nMany years ago, children used to sit beneath it. But one day they put swings and slides on the other side of the park, and the children went over there.\n\nThe tree watched them play from far away. And when the breeze blew, it sighed with all its leaves.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "guitar_clear",
+      "cues": [{ "anchor": "leaves", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s2",
-      "text": "One afternoon, a girl named Alba came closer, following the sound of the leaves. Tired from running, she leaned against the trunk. Then, very slowly, a branch came down and wrapped around her gently.\n\nIt was a hug! Alba laughed.\n\nSurprised and happy, she hugged the tree back. 'You give the most beautiful hugs in the world,' she said. The tree felt a warm tingle rise up its trunk.\n\nFor the first time in a long while, it didn't feel alone. Alba promised to come back the next day.",
+      "text": "One autumn afternoon, a new girl came to the park. Her name was Alba.\n\nHer family had just moved to the neighbourhood, and Alba didn't know anyone.\n\nShe stood watching the swings from far away. The children were playing, shouting, having fun. She didn't dare go closer.\n\nSo she went to the most forgotten corner of the park, sat down beneath the old tree and hugged her knees.\n\nThen, very slowly, the low branch moved.\n\nIt came down, it curved, and it wrapped itself around Alba's shoulders.\n\nIt was a hug.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "laughed",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "guitar_warm"
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "The next day, Alba came back with her friends from the neighborhood. 'Come meet the tree that hugs,' she told them. The children arrived running, and the leaves trembled with joy at their footsteps.\n\nOne by one, the tree hugged them with its long branches. They laughed, climbed, and played all afternoon under its cool shade. The branches rocked as if the tree wanted to play too: they were moved by the wind.\n\nWhen the sun hid away, everyone said goodbye with a huge hug. The tree had never been so happy.",
+      "text": "Alba sat very, very still. Then, very carefully, she hugged the trunk back.\n\nIt was rough and warm, like the back of a big dog.\n\n\"Hello,\" she whispered. \"I'm Alba. I'm new.\"\n\nThe tree couldn't talk. But it squeezed its branch a tiny bit, and Alba understood what it meant: I was lonely too.\n\nFrom that day on, Alba went to the tree every afternoon. She told it about school. She showed it her drawings. She read it stories out loud.\n\nAnd the tree listened, with all its branches still, so as not to miss a single word.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "From then on, the children cared for the tree like a great friend. When the sun grew hot, they brought it water. They carefully removed the dry twigs.\n\nThey hung a swing from a strong branch and placed a lantern for the nights. Among the leaves came to live an owl.\n\nIt greeted everyone with a soft hoot. The tree felt loved and cared for. Each drop of water was like a 'thank you' returned to it.\n\nIt no longer counted stars to feel less alone; now it counted all its friends.",
+      "text": "One afternoon, Alba heard crying over by the swings.\n\nIt was a little boy with a scraped knee. He had fallen off the slide, and the others carried on playing without noticing.\n\nAlba hesitated. Then she went over.\n\n\"Come on,\" she said. \"I want you to meet someone.\"\n\nShe led him by the hand to the forgotten corner. The boy sat down under the tree, still crying.\n\nAnd the low branch came down, and hugged him.\n\nThe boy stopped crying all at once. He looked at the branch. He looked at Alba. And he let out a great big laugh.\n\n\"The tree hugged me!\"\n\nHis name was Teo. He was Alba's first friend in the neighbourhood.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "laugh", "sfx": "giggle" }]
     },
     {
       "id": "s5",
-      "text": "That night, between the branches peeked the moon. It bathed the tree in silver light. The children were already sleeping in their beds, and the tree watched over them from afar, moving its branches like a lullaby.\n\n'Good night, little ones,' it whispered.\n\nIt knew that tomorrow they would come to hug it again. The wind blew slowly and the tree closed its wooden eyes, calm and happy. It would never be alone again.\n\nAnd under that silver light, the whole park rested in peace. You sleep too, for tomorrow there are hugs waiting.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "whispered",
-          "sfx": "whisper"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "Teo told his sister. His sister told her friends. And her friends told the whole park.\n\nNow, in the corner that used to be forgotten, there's always someone.\n\nThe boy who lost at marbles. The girl who misses her grandma. The one who had a bad day and doesn't want to talk about it.\n\nThey queue up without pushing, and the low branch hugs them one at a time.\n\nIn autumn, that branch is the first to turn orange. You can see it from far away, swaying in the wind.\n\nAnd Alba isn't the new girl any more. She's the one who knows the tree.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "wind", "sfx": "wind_soft" }]
     }
   ]
 }

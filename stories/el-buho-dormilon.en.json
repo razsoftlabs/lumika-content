@@ -2,68 +2,46 @@
   "id": "el-buho-dormilon",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "The Sleepy Little Owl",
-  "summary": "A little owl isn't sleepy at night, and his mama teaches him a very gentle secret for waiting until morning.",
+  "summary": "Uli is too little to go flying at night with the big owls, and he isn't one bit sleepy. His mum teaches him how to look at the night with his eyes closed.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High in an old tree lived a small owl named Uli. Every night, when the forest grew quiet, up into the sky climbed the moon. Then all the animals closed their eyes, but Uli opened his very wide.\n\n'I'm not sleepy! ' he said, flapping his wings. Through the leaves of the tree slipped a soft wind.\n\nIt tickled his feathers, and Uli wanted to play, he wanted to fly, he wanted to count every star in the sky. His mama watched him tenderly from the branch beside him and smiled slowly.",
+      "text": "In the hollow of an old tree lived a family of owls.\n\nOwls are night animals. When everyone else goes to sleep, they wake up, stretch their wings and fly out.\n\nThat night, Dad Owl and the big cousins stepped out onto the branch, ready to go.\n\nUli stepped out too.\n\n\"Not you, Uli,\" said Dad. \"Your wings are still fluff. When they've grown a bit more, you'll come with us.\"\n\nAnd off they flew, one after another, without making a sound.\n\nUli stayed on the branch with his eyes enormous, as round as two saucers.\n\n\"Well, I'm not one bit sleepy!\" he shouted into the dark.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "guitar_night",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "'Mama, why must I sleep now? ' asked Uli. 'The night is for flying.\n\n' Mama Owl wrapped him in her warm wings. 'Long ago, we owls flew at night,' she said. 'But you are special, my little one.\n\nYou can rest when the darkness comes, just like children do. ' Uli puffed out his chest. 'But I want to see everything!\n\n' Down below, near the river, sang a frog.\n\nA cricket answered back, and Uli wanted to go and greet them. Mama gave him a kiss between the eyes. 'The forest is sleeping too.\n\nListen how quiet everything is,' she whispered.",
+      "text": "Mum Owl stayed with him. She sat down beside him and covered him with a wing.\n\n\"I'm missing everything,\" Uli grumbled. \"You can't see anything from here. Just black.\"\n\n\"Would you like me to teach you a secret?\" said Mum. \"It's an old owl's secret.\"\n\n\"What is it?\"\n\n\"How to look at the night with your eyes closed.\"\n\nUli gave her a very serious look.\n\n\"Mum. You can't see anything with your eyes closed.\"\n\n\"Try it.\"",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "'I'll teach you a secret,' said Mama Owl. 'Close your eyes, stay still like the forest, and breathe.\n\n' Uli closed one eye, then the other. He took a deep breath once, and then once more. The branch rocked like a cradle.\n\n'Very good, my love,' said Mama. 'Now imagine your wings are two warm blankets. ' Uli tucked in his feathers.\n\nHe leaned against his mama's chest and listened very closely to her heart.\n\nThump, thump, thump. Outside, a small owl no longer wanted to fly. He only wanted to stay there, warm and calm, listening to the sleeping forest.",
+      "text": "Uli closed his eyes. First one. Then the other.\n\nAt first, nothing happened. All black.\n\n\"Now, don't look,\" whispered Mum. \"Listen.\"\n\nUli listened.\n\nAnd little by little, things began to come out of the dark. Close by, something was stirring the leaves. Further down, between the stones, water was running.\n\n\"I can see a river,\" said Uli, very softly. \"It's shining in the moonlight.\"\n\n\"You see?\" said Mum. \"You're already looking.\"",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "breathe",
-          "sfx": "breathe_in"
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "music": "lullaby_piano"
-    },
-    {
-      "id": "s4",
-      "text": "'But what if I miss something pretty? ' yawned Uli, his voice already soft. 'Don't worry,' said Mama.\n\n'While you sleep, the sky is watched over by the stars.\n\nAnd keeping watch all night is the moon. When you open your eyes, the sun will bring a brand-new day just for you. ' Uli imagined the morning: the drops of dew shining, the birds singing, the forest waking up bit by bit.\n\n'Do you promise? ' he asked quietly. 'I promise, my treasure.\n\nMorning always comes. ' Uli smiled with his eyes closed, while a silver light, quiet and kind, covered them both.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "stars",
-          "sfx": "twinkle"
-        }
+        { "anchor": "leaves", "sfx": "leaves_rustle" },
+        { "anchor": "river", "ambient": "stream_water" }
       ]
     },
     {
-      "id": "s5",
-      "text": "Little by little, Uli's breathing grew slow and calm. His feathers rose and fell, rose and fell. And then, very softly, they heard a snore.\n\nPfff... pfff... The little owl was finally asleep.\n\nMama Owl covered him with one wing and looked at the sky. Far away, behind the mountains, a warm light was beginning to peek out. Morning was on its way, just as she had promised.\n\n'Goodnight, my Uli. I'll wake you when the sun comes up,' she whispered. And in the old tree, the two of them slept happily until the new day.",
+      "id": "s4",
+      "text": "\"Listen further away,\" said Mum.\n\nUli listened further away. Past the water. Past the forest.\n\nAnd from very far away, above the lake, came a voice he knew very well.\n\nIt was a hoot.\n\n\"It's Dad!\" said Uli, without opening his eyes. \"He's flying over the lake. His wings are spread wide… and now he's going down… and now up again.\"\n\nUli could see it all. He could see it better than if he were there.\n\nAnd he opened his beak in an enormous yawn.",
       "ambient": "forest_night",
+      "cues": [{ "anchor": "hoot", "sfx": "owl_hoot" }]
+    },
+    {
+      "id": "s5",
+      "text": "\"Listen closer,\" said Mum.\n\nUli listened closer. So close, so close, that there was nothing left between the two of them.\n\nUnder Mum's wing, warm and slow, beat a heart.\n\nThump. Thump. Thump.\n\n\"Mum,\" murmured Uli. \"The night is very big.\"\n\n\"Very big,\" she said. \"And it will wait for you. When your wings have grown, you'll fly all of it.\"\n\nUli didn't answer. He was already asleep.\n\nAt dawn, when Dad came home, he found him curled up in a little ball of feathers, snoring.\n\n\"Well, look at that,\" Dad chuckled. \"The sleepiest owl in the whole forest.\"",
+      "ambient": "forest_night",
+      "music": "lullaby_piano",
       "cues": [
-        {
-          "anchor": "snore",
-          "sfx": "snore_soft"
-        }
+        { "anchor": "heart", "sfx": "heartbeat_calm" },
+        { "anchor": "snoring", "sfx": "snore_soft" }
       ]
     }
   ]

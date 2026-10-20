@@ -2,65 +2,47 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 9,
+  "version": 20,
   "title": "La astronauta en pijama",
-  "summary": "Cuando la casa se queda en silencio, la cama de Vera se convierte en un cohete rumbo a la luna.",
+  "summary": "La lamparita de Vera se rompió y su cuarto está muy oscuro. Esa noche, su cama se convierte en un cohete, y Vera vuela hasta la luna a buscar un poco de luz.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Vera se puso el pijama más suave y se metió en la cama. Afuera, redonda y blanca sobre los tejados, brillaba la luna.\n\nLas cortinas se movieron despacio, como si quisieran contarle un secreto. Por la ventana entreabierta se había colado una brisa. Vera cerró los ojos un momento y, cuando los abrió, su cama ya no era una cama.\n\nLas sábanas eran de plata, la almohada tenía botones que titilaban y en la punta se encendían dos luces. Su cama se había convertido en un cohete suave y tibio, listo para volar.",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Esa noche, la lamparita de Vera hizo ¡plic! y se apagó.\n\nEra una lamparita con forma de hongo, y llevaba encendida todas las noches desde que Vera era un bebé.\n\n—Mañana compramos otra —dijo papá, y le dio un beso en la frente—. Es solo una noche.\n\nPero una noche es muchísimo tiempo cuando el cuarto está oscuro.\n\nVera se tapó hasta la nariz y abrazó a Bruno, su oso de peluche. Las sombras del armario parecían más grandes que de día. La silla parecía un señor sentado.\n\nSolo por la ventana entraba un poco de luz. Era la luna, curvada como una sonrisa encima de los tejados.\n\n—Si yo tuviera un poquito de esa luz… —susurró Vera.\n\nEntonces la cama tembló.",
+      "ambient": "city_soft",
+      "music": "space_dream",
+      "cues": [{ "anchor": "tembló", "sfx": "magic_shimmer" }]
     },
     {
       "id": "s2",
-      "text": "—Cinco, cuatro, tres, dos, uno... —susurró Vera, y sin ningún ruido fuerte despegó el cohete.\n\nSubió por la ventana abierta, pasó junto a las cortinas y saludó a los tejados dormidos. Arriba, muy arriba, las nubes parecían almohadas y el cielo se llenó de estrellas. Todas le hacían guiños.\n\nVera reía en voz baja mientras su cama voladora giraba entre ellas. No tenía nada de miedo, porque su manta seguía tapándola y su oso viajaba a su lado, mirando por la ventana de la nave.",
-      "cues": [
-        {
-          "anchor": "cohete",
-          "sfx": "rocket"
-        }
-      ],
-      "ambient": null
+      "text": "Primero fue un temblorcito. Después, uno más grande.\n\nLas patas de la cama se doblaron hacia dentro. La cabecera se estiró hasta quedar en punta. A los lados le salieron dos aletas de colores, y por debajo, una luz calentita que empezó a zumbar.\n\nSu cama se había convertido en un cohete.\n\nVera se agarró fuerte a la manta. Bruno se agarró fuerte a Vera.\n\n—Cinco, cuatro, tres, dos, uno… —contó ella, casi sin voz.\n\nY la cama despegó.\n\nSalió por la ventana, pasó rozando los tejados y subió, subió, subió. Abajo, la ciudad se fue haciendo chiquita, con sus ventanas encendidas como migas de luz. Arriba, el cielo estaba lleno de estrellas.",
+      "ambient": null,
+      "cues": [{ "anchor": "despegó", "sfx": "rocket" }]
     },
     {
       "id": "s3",
-      "text": "El cohete bajó despacio y aterrizó sobre un suelo blando como la harina: había llegado a la luna. Vera sacó un pie, luego el otro, y sobre el polvo plateado dio sus primeros pasos.\n\nTodo estaba en silencio, un silencio bonito y redondo. Alrededor se abrían montañas suaves y valles llenos de luz. En cada rincón, pequeñas estrellas se habían quedado dormidas sobre el suelo, parpadeando muy despacio, como faroles cansados.\n\nVera las miró con ternura y pensó que serían perfectas para iluminar su cuarto.",
-      "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        }
-      ],
-      "ambient": null
+      "text": "La cama aterrizó despacito sobre un suelo blando y plateado, como de harina.\n\nVera sacó un pie. Luego el otro. Sus pantuflas dejaron dos huellas redondas en el polvo.\n\nEstaba en la luna.\n\n—Pero qué sorpresa —dijo una voz grande y tranquila—. Una niña en pijama. Hace mucho que no veía una.\n\nEra la luna la que hablaba. Tenía una sonrisa enorme y los ojos medio cerrados, como alguien que lleva toda la noche despierto.\n\n—Perdón por venir sin avisar —dijo Vera—. Es que mi lamparita se rompió, y mi cuarto está muy oscuro. ¿Me prestarías un poco de luz?\n\nLa luna se quedó pensando.\n\n—Luz no te puedo dar, porque la necesito para alumbrar los caminos. Pero conozco a alguien que a lo mejor quiere acompañarte.",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Con mucho cuidado, Vera abrió su frasco de vidrio y empezó a recoger, una por una, las estrellas. Cada vez que atrapaba una, la estrella soltaba una risa.\n\nEra como si la luz le hiciera cosquillas en las manos. Pronto el frasco se llenó de destellos dorados que bailaban dentro. Vera no las apretó ni corrió; las juntó despacio, con dedos amables, y les prometió cuidarlas.\n\nCuando el frasco estuvo lleno, lo tapó con suavidad para no despertarlas del todo. Después se subió de nuevo a su cama-cohete, abrazó a su oso y giró la nave hacia casa.",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": null
+      "text": "Detrás de una montañita de polvo, solita, había una estrella pequeña. Tan pequeña que cabía en la palma de una mano.\n\n—Se cayó del cielo hace unos días —dijo la luna—. Y es demasiado chiquita para volver a subir ella sola.\n\nVera la recogió con mucho cuidado. Estaba tibia, como una taza de chocolate.\n\n—¿Quieres venir a mi casa? —le preguntó—. Allí tendrás un sitio para ti.\n\nLa estrellita no sabía hablar. Pero de pronto brilló, más fuerte que antes. Eso era un sí.\n\nVera la guardó en el bolsillo del pijama, se despidió de la luna y volvió a casa en su cama-cohete, con Bruno asomado por la borda.",
+      "ambient": null,
+      "cues": [{ "anchor": "brilló", "sfx": "sparkle" }]
     },
     {
       "id": "s5",
-      "text": "La cama-cohete regresó flotando por la ventana y se posó otra vez en el cuarto de Vera, tibia y quieta. Ella dejó el frasco de estrellas junto a su almohada, y su luz suave llenó la habitación como una lámpara amable. Afuera, las buenas noches se las dio la luna.\n\nVera se acurrucó bajo la manta, cerró los ojos y respiró.\n\nMuy despacio, una vez, dos veces. El brillo dorado la abrazó por dentro. Y así, entre estrellas guardadas y sueños tranquilos, Vera se quedó profundamente dormida.",
-      "cues": [
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        }
-      ],
+      "text": "De vuelta en su cuarto, Vera buscó el frasco de vidrio donde guardaba los botones y los vació sobre la alfombra.\n\nMetió dentro a la estrellita y puso el frasco en la mesita de noche.\n\n¡Qué luz tan bonita! Dorada y suave, mejor que la de la lamparita. Las sombras del armario se encogieron. La silla volvió a ser una silla.\n\nVera se acurrucó, feliz.\n\nPero al rato notó algo. La estrellita brillaba menos. Y cada vez un poquito menos.\n\nNo miraba a Vera. No miraba el cuarto. Miraba por la ventana, hacia arriba, hacia el cielo donde estaban todas las demás.\n\nVera conocía esa cara. Era la cara que ponía ella el primer día de escuela, cuando mamá se iba.\n\n—Extrañas tu casa —le dijo bajito.",
       "ambient": "city_soft",
-      "music": "lullaby_piano"
+      "cues": []
+    },
+    {
+      "id": "s6",
+      "text": "Vera se levantó, abrió la ventana de par en par y destapó el frasco.\n\n—Ve —le dijo—. Vuelve con los tuyos.\n\nLa estrellita salió despacio. Le dio una vuelta alrededor de la cabeza, como un abrazo, y empezó a subir. Más arriba de los tejados. Más arriba de las nubes.\n\nHasta que encontró su sitio, justo enfrente de la ventana de Vera.\n\nY desde allí, le hizo un guiño.\n\nEl cuarto volvió a quedarse oscuro. Pero ahora era otro oscuro. Era un oscuro con alguien que la miraba desde afuera.\n\nVera abrazó a Bruno, dio un bostezo enorme y se quedó dormida.\n\nAl día siguiente, papá compró una lamparita nueva. Pero Vera casi nunca la enciende.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "guiño", "sfx": "twinkle" }]
     }
   ]
 }

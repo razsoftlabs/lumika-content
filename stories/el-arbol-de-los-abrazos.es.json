@@ -2,66 +2,41 @@
   "id": "el-arbol-de-los-abrazos",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 11,
+  "version": 20,
   "title": "El árbol de los abrazos",
-  "summary": "Un árbol viejo y solo del parque guarda entre sus ramas el secreto más tierno del mundo.",
+  "summary": "Alba es nueva en el barrio y no conoce a nadie. En la esquina más olvidada del parque, un árbol muy viejo tiene una rama que sabe abrazar.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En una esquina tranquila del parque vivía un árbol muy viejo. Sus ramas eran largas y suaves. Entre ellas, al caer la tarde, cantaba el viento.\n\nY entonces susurraban las hojas. Durante muchos años, nadie se sentó bajo su sombra. El árbol miraba a los niños jugar a lo lejos y suspiraba despacio.\n\n'Ojalá alguien quisiera quedarse conmigo', pensaba. Movía sus ramas con cariño, esperando a un amigo. Pero la noche llegaba y el árbol se quedaba solo, contando estrellas para no sentirse tan callado.",
+      "text": "En la esquina más olvidada del parque había un árbol muy viejo.\n\nEra tan viejo que su tronco tenía arrugas, como las manos de un abuelo. Sus ramas eran largas y grises, y casi todas apuntaban al cielo.\n\nCasi todas. Una no.\n\nUna rama crecía bajita y curvada, cerca del suelo, como un brazo que espera.\n\nHace muchos años, los niños se sentaban debajo. Pero un día pusieron columpios y toboganes al otro lado del parque, y los niños se fueron para allá.\n\nEl árbol los veía jugar desde lejos. Y cuando soplaba el aire, suspiraba con todas sus hojas.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "guitar_clear",
+      "cues": [{ "anchor": "hojas", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s2",
-      "text": "Una tarde, una niña llamada Alba se acercó siguiendo el sonido de las hojas. Cansada de correr, se apoyó en el tronco. Entonces, muy despacio, una rama bajó y la rodeó con suavidad.\n\n¡Era un abrazo! Alba se rió.\n\nSorprendida y feliz, abrazó al árbol de vuelta. 'Das los abrazos más bonitos del mundo', le dijo. El árbol sintió un cosquilleo cálido subir por su tronco.\n\nPor primera vez en mucho tiempo, no se sentía solo. Alba prometió volver al día siguiente.",
+      "text": "Una tarde de otoño llegó al parque una niña nueva. Se llamaba Alba.\n\nSu familia se acababa de mudar al barrio, y Alba no conocía a nadie.\n\nSe quedó mirando los columpios desde lejos. Los niños jugaban, gritaban, se divertían. Ella no se atrevía a acercarse.\n\nAsí que se fue a la esquina más olvidada del parque, se sentó debajo del árbol viejo y se abrazó las rodillas.\n\nEntonces, muy despacio, la rama bajita se movió.\n\nBajó, se curvó, y rodeó a Alba por los hombros.\n\nEra un abrazo.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "rió",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "guitar_warm"
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Al día siguiente, Alba volvió con sus amigos del barrio. 'Vengan a conocer al árbol que abraza', les dijo. Los niños llegaron corriendo, y las hojas temblaron de alegría con sus pasos.\n\nUno a uno, el árbol los abrazó con sus ramas largas. Se rieron, treparon y jugaron toda la tarde bajo su sombra fresca. Las ramas se mecieron como si el árbol también quisiera jugar: las movía el viento.\n\nCuando el sol se escondió, todos se despidieron con un abrazo enorme. El árbol nunca había estado tan feliz.",
+      "text": "Alba se quedó quietísima. Después, con mucho cuidado, abrazó el tronco de vuelta.\n\nEra áspero y tibio, como el lomo de un perro grande.\n\n—Hola —susurró—. Soy Alba. Soy nueva.\n\nEl árbol no sabía hablar. Pero apretó un poquito la rama, y Alba entendió lo que le decía: yo también estaba solo.\n\nDesde ese día, Alba fue al árbol todas las tardes. Le contaba cosas de la escuela. Le enseñaba sus dibujos. Le leía cuentos en voz alta.\n\nY el árbol escuchaba, con todas las ramas quietas, para no perderse ni una palabra.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Desde entonces, los niños cuidaron al árbol como a un gran amigo. Cuando el sol calentaba, le llevaban agua. Quitaban con cuidado las ramas secas.\n\nColgaron un columpio de una rama fuerte y pusieron un farol para las noches. Entre las hojas vino a vivir un búho.\n\nSaludaba a todos con un suave ulular. El árbol se sentía querido y cuidado. Cada gota de agua era como un 'gracias' que le devolvían.\n\nYa no contaba estrellas para no sentirse solo; ahora contaba a todos sus amigos.",
+      "text": "Una tarde, Alba oyó un llanto en los columpios.\n\nEra un niño pequeño, con la rodilla raspada. Se había caído del tobogán, y los demás seguían jugando sin darse cuenta.\n\nAlba dudó. Después, se acercó.\n\n—Ven —le dijo—. Te quiero presentar a alguien.\n\nLo llevó de la mano hasta la esquina olvidada. El niño se sentó debajo del árbol, todavía llorando.\n\nY la rama bajita bajó, y lo abrazó.\n\nEl niño dejó de llorar de golpe. Miró la rama. Miró a Alba. Y soltó una carcajada.\n\n—¡El árbol me abrazó!\n\nSe llamaba Teo. Fue el primer amigo de Alba en el barrio.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "carcajada", "sfx": "giggle" }]
     },
     {
       "id": "s5",
-      "text": "Esa noche, entre las ramas asomó la luna. Bañó al árbol con su luz plateada. Los niños ya dormían en sus camas, y el árbol los cuidaba desde lejos, moviendo sus ramas como una nana.\n\n'Buenas noches, pequeños', susurró.\n\nSabía que mañana volverían a abrazarlo. El viento sopló despacio y el árbol cerró sus ojos de madera, tranquilo y feliz. Ya nunca más estaría solo.\n\nY bajo la luz plateada, todo el parque descansó en paz. Duerme tú también, que mañana hay abrazos esperando.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "susurró",
-          "sfx": "whisper"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "Teo se lo contó a su hermana. Su hermana se lo contó a sus amigas. Y las amigas se lo contaron a todo el parque.\n\nAhora, en la esquina que antes estaba olvidada, siempre hay alguien.\n\nEl que perdió a las canicas. La que extraña a su abuela. El que tuvo un mal día y no quiere hablar de eso.\n\nHacen fila sin empujar, y la rama bajita los abraza de uno en uno.\n\nEn otoño, esa rama es la primera que se pone naranja. Se ve desde lejos, moviéndose con el viento.\n\nY Alba ya no es la niña nueva. Es la que conoce al árbol.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "viento", "sfx": "wind_soft" }]
     }
   ]
 }

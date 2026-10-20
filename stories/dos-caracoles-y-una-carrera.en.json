@@ -2,66 +2,49 @@
   "id": "dos-caracoles-y-una-carrera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "Two Snails and a Race",
-  "summary": "Two snail friends challenge each other to the slowest race in the garden and discover a prize far better than crossing the finish line.",
+  "summary": "Cala and Lito race to the rosebush. Halfway there they find a fallen nest, and they have to decide what matters more.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a warm garden lived two snails who were the best of friends: Cala and Lito. Every morning they greeted each other and shared drops of dew among the leaves.\n\nOne day, Lito stretched his horns and said, \"What if we race to the rosebush?\" Cala let out a soft laugh. \"That will be the slowest race in the whole world!\"\n\nThey both giggled so much that their shells wobbled. Side by side on a warm stone, they counted to three very slowly and, with no hurry at all, began to move.",
+      "text": "In a garden full of flowers lived two snails: Cala and Lito.\n\nCala's shell was every colour, like a sweet. Lito's was pink, and he always kept it very clean.\n\nLito loved winning. Winning at who woke up first. Winning at who ate the biggest leaf. Winning at everything.\n\n\"I challenge you to a race,\" he said to Cala one morning. \"To the rosebush.\"\n\nThe rosebush was on the other side of the garden. For a snail, that is very, very far.\n\n\"All right,\" said Cala. \"But no pushing.\"\n\nAn orange butterfly offered to be the judge. She perched on the starting line and shouted:\n\n\"Go!\"",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "The race began slowly, slowly, very slowly. Cala moved one step and looked at a flower. Lito moved another step and waved, very happily, at a bee.\n\n\"I'm winning!\" joked Lito, though he had barely moved at all. The leaves of the garden stirred with the wind.\n\nIt was a warm breeze that tickled their horns. Neither of them was in a hurry. The sun warmed their backs, and the garden smelled of damp earth.\n\nEvery inch felt like a tiny adventure, and they moved along leaving two shiny trails behind.",
+      "text": "The slowest race in the world had begun.\n\nLito stretched out his neck and pushed forward with all his might. Behind him he left a shiny thread, straight as a ruler.\n\nCala went more slowly. She stopped to smell a flower. She said hello to an ant. Her silver thread made curves, and curls, and squiggles.\n\n\"I'm winning!\" shouted Lito, without even turning his head.\n\nBy midday, Lito had reached the trunk of the big tree, halfway there.\n\nAnd there, in the middle of the path, was a nest.\n\nIt had fallen from the branches in the night wind. Inside, on a mattress of fluff, were four blue eggs.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "bee",
-          "sfx": "bee_buzz"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Halfway there they found a puddle. It was small and round like a mirror. At its edge, watching them with big eyes, sat a frog.\n\nShe greeted them with a friendly croak. \"Look, Cala,\" whispered Lito, \"the sky is reflected in the water.\" The two snails stayed still, watching the clouds float inside the puddle.\n\nThey forgot about the race for a little while. \"This is nicer than winning,\" said Cala. And Lito, very quietly, agreed.",
-      "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        }
-      ],
-      "ambient": "stream_water"
+      "text": "Lito looked at the nest. He looked at the rosebush, far away. And he kept going.\n\n\"It's none of my business,\" he muttered. \"I'm in a race.\"\n\nA good while later, Cala arrived, slowly, with her curly thread behind her.\n\nShe saw the nest and stopped dead.\n\n\"Poor little things,\" she said. \"If they stay here on the ground, they'll get cold. And their mother won't find them.\"\n\nCala settled down next to the eggs, to keep them company. And she stayed there, even though the race went on.",
+      "ambient": "forest_birds",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "They kept going, but now close together. When Cala grew tired, Lito waited without complaining. When a twig felt too steep for Lito, Cala nudged him along with love.\n\nThey shared secrets, and every few steps they stopped for a laugh.\n\n\"You know what?\" said Cala. \"I don't want to arrive first.\n\nI want to arrive with you.\" Lito smiled with his horns. There was no race anymore: just two friends strolling slowly, happy to be together under a sky turning orange.",
-      "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "Lito could see the rosebush very close now. A few more little steps and he would win.\n\nBut he glanced behind him.\n\nFar away, by the tree, a colourful shell wasn't moving. Cala had stayed there on her own, looking after the nest.\n\nLito thought about winning. He thought about the eggs. He thought about Cala.\n\nAnd he turned around.\n\nIt took him the whole afternoon to return. When he arrived he was worn out, and the sun was already going down.\n\n\"What about the race?\" Cala asked.\n\n\"Forget the race,\" said Lito. \"How do we find their mother?\"",
       "ambient": "forest_birds",
-      "music": "guitar_clear"
+      "cues": [{ "anchor": "around", "music": "strings_hopeful" }]
     },
     {
       "id": "s5",
-      "text": "When they reached the rosebush, it was already night. In the sky appeared, round and white, the moon.\n\nThen, lighting up slowly, came many stars. An owl sang softly from a tree. \"Who won?\"\n\nasked Lito, yawning. \"Both of us,\" said Cala. \"We won the journey together.\"\n\nThey snuggled under a warm leaf, very close, and closed their eyes. Outside, the garden slept in calm. And so, slowly like all beautiful things, the two snail friends fell fast asleep.\n\nGood night.",
-      "ambient": "forest_night",
+      "text": "The two snails looked up. High above, among the branches, a mother bird was flying to and fro, searching and searching for her nest.\n\nBut from so high up, the nest was just one more little speck on the ground.\n\n\"Here! Down here!\" they shouted with all their strength.\n\nBut a snail's voice is smaller than a whisper.\n\nThen Cala looked at her shiny thread. And she had an idea.\n\n\"She can't hear us,\" she said. \"But she can see us.\"\n\nThe two of them began to crawl beside the nest. Lito made the straight lines, the way he knew how. Cala made the curves. Over and over, until there on the ground was drawn an enormous silver arrow, pointing at the nest.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "whisper", "sfx": "whisper" }]
+    },
+    {
+      "id": "s6",
+      "text": "At that moment, the last ray of sun fell across the path.\n\nAnd the arrow began to glow.\n\nIt shone like a river of silver. From high above, the mother bird saw it. And she swooped down, beating her wings.\n\nThere was her nest, with all four eggs, whole and warm.\n\nThat night, she carried it back up to the safest branch in the tree.\n\nAnd the next morning, she came down to fetch two snails. She lifted them onto her back, very carefully, and flew them over the whole garden.\n\nAll the way to the rosebush.\n\nThey both arrived at exactly the same time. And the butterfly, who had seen everything, said it was the loveliest race she had ever judged.",
+      "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "lullaby_piano"
+        { "anchor": "glow", "sfx": "magic_shimmer" },
+        { "anchor": "wings", "sfx": "wing_flap" }
+      ]
     }
   ]
 }

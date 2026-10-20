@@ -2,66 +2,49 @@
   "id": "dos-caracoles-y-una-carrera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 20,
   "title": "Dos caracoles y una carrera",
-  "summary": "Dos caracoles amigos se retan a la carrera más lenta del jardín y descubren un premio mucho mejor que cruzar la meta.",
+  "summary": "Cala y Lito hacen una carrera hasta el rosal. A mitad de camino encuentran un nido caído, y tienen que decidir qué es más importante.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un jardín tibio vivían dos caracoles muy amigos: Cala y Lito. Cada mañana se saludaban y compartían gotas de rocío entre las hojas.\n\nUn día, Lito estiró sus cuernos y dijo: —¿Y si hacemos una carrera hasta el rosal? Cala soltó una risa. —¡Va a ser la carrera más lenta del mundo!\n\nLos dos rieron tanto que sus caparazones se mecieron. Se pusieron lado a lado sobre una piedra tibia, contaron hasta tres muy despacio y, sin ninguna prisa, empezaron a andar.",
+      "text": "En un jardín lleno de flores vivían dos caracoles: Cala y Lito.\n\nCala tenía la concha de colores, como un caramelo. Lito la tenía rosada, y la llevaba siempre muy limpia.\n\nA Lito le encantaba ganar. Ganar a ver quién se despertaba antes. Ganar a ver quién se comía la hoja más grande. Ganar a todo.\n\n—Te reto a una carrera —le dijo una mañana a Cala—. Hasta el rosal.\n\nEl rosal estaba al otro lado del jardín. Para un caracol, eso es lejísimos.\n\n—Bueno —dijo Cala—. Pero sin empujar.\n\nUna mariposa naranja se ofreció a ser la jueza. Se posó en la línea de salida y gritó:\n\n—¡Ya!",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "La carrera empezó despacio, despacio, muy despacio. Cala avanzaba un paso y miraba una flor. Lito avanzaba otro paso y saludaba, muy contento, a una abeja.\n\n—¡Voy ganando! —bromeó Lito, aunque casi no se había movido. Las hojas del jardín se movieron con el viento.\n\nEra una brisa tibia que les hacía cosquillas en los cuernos. Ninguno tenía prisa. El sol les calentaba la espalda y el jardín olía a tierra mojada.\n\nCada centímetro les parecía una pequeña aventura, y avanzaban dejando dos hilos brillantes detrás.",
+      "text": "Había empezado la carrera más lenta del mundo.\n\nLito estiraba el cuello y avanzaba con todas sus fuerzas. Detrás de él quedaba un hilo brillante, recto como una regla.\n\nCala iba más despacio. Se paraba a oler una flor. Saludaba a una hormiga. Su hilo plateado hacía curvas, y rizos, y garabatos.\n\n—¡Voy ganando! —gritaba Lito, sin girar la cabeza.\n\nAl mediodía, Lito llegó al tronco del árbol grande, a mitad de camino.\n\nY ahí, en medio del sendero, había un nido.\n\nSe había caído de las ramas con el viento de la noche. Dentro, sobre un colchón de pelusa, había cuatro huevos azules.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "abeja",
-          "sfx": "bee_buzz"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "A mitad de camino encontraron un charco. Era pequeño y redondo como un espejo. En el borde los miró con ojos grandes una rana.\n\nLos saludó con un croac amable. —Mira, Cala —susurró Lito—, el cielo se refleja en el agua. Los dos caracoles se quedaron quietos, mirando las nubes flotar dentro del charco.\n\nSe olvidaron de la carrera un rato. —Esto es más bonito que ganar —dijo Cala. Y Lito, en voz muy baja, estuvo de acuerdo.",
-      "cues": [
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
-        }
-      ],
-      "ambient": "stream_water"
+      "text": "Lito miró el nido. Miró el rosal, allá a lo lejos. Y siguió adelante.\n\n—No es asunto mío —murmuró—. Yo estoy en una carrera.\n\nUn buen rato después llegó Cala, despacito, con su hilo de curvas detrás.\n\nVio el nido y se paró en seco.\n\n—Pobrecitos —dijo—. Si se quedan aquí en el suelo, se van a enfriar. Y su mamá no los va a encontrar.\n\nCala se acomodó junto a los huevos, para hacerles compañía. Y se quedó ahí, aunque la carrera siguiera.",
+      "ambient": "forest_birds",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Siguieron andando, pero ahora bien juntos. Cuando Cala se cansó, Lito la esperó sin quejarse. Cuando a Lito se le hizo cuesta arriba una rama, Cala lo empujó con cariño.\n\nSe contaron secretos y todo el camino los acompañó una risa.\n\n—¿Sabes qué? —dijo Cala—. No quiero llegar primero.\n\nQuiero llegar contigo. Lito sonrió con sus cuernos. Ya no había carrera: solo dos amigos paseando despacio, felices de estar juntos bajo el cielo que se pintaba de naranja.",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "Lito ya veía el rosal muy cerca. Unos pasitos más, y ganaría.\n\nPero miró hacia atrás.\n\nAllá lejos, junto al árbol, una concha de colores no se movía. Cala se había quedado sola, cuidando el nido.\n\nLito pensó en ganar. Pensó en los huevos. Pensó en Cala.\n\nY dio media vuelta.\n\nTardó toda la tarde en regresar. Cuando llegó estaba cansadísimo, y el sol ya se estaba poniendo.\n\n—¿Y la carrera? —le preguntó Cala.\n\n—Olvídate de la carrera —dijo Lito—. ¿Cómo encontramos a su mamá?",
       "ambient": "forest_birds",
-      "music": "guitar_clear"
+      "cues": [{ "anchor": "vuelta", "music": "strings_hopeful" }]
     },
     {
       "id": "s5",
-      "text": "Cuando llegaron al rosal, ya era de noche. En el cielo apareció, redonda y blanca, la luna.\n\nDespués se encendieron despacio muchas estrellas. Un búho cantó suave desde un árbol. —¿Quién ganó?\n\n—preguntó Lito, bostezando. —Los dos —dijo Cala—. Ganamos el camino juntos.\n\nSe acurrucaron bajo una hoja tibia, muy cerca, y cerraron los ojos. Afuera, el jardín dormía en calma. Y así, despacio como todo lo bonito, los dos caracoles amigos se quedaron dormidos.\n\nBuenas noches.",
-      "ambient": "forest_night",
+      "text": "Los dos caracoles miraron hacia arriba. Allá en lo alto, entre las ramas, una mamá pájaro volaba de un lado a otro, buscando y buscando su nido.\n\nPero desde tan arriba, el nido era solo una manchita más en el suelo.\n\n—¡Aquí! ¡Aquí abajo! —gritaron con todas sus fuerzas.\n\nPero la voz de un caracol es más pequeña que un susurro.\n\nEntonces Cala miró su hilo brillante. Y se le ocurrió una idea.\n\n—No nos oye —dijo—. Pero nos puede ver.\n\nLos dos se pusieron a caminar junto al nido. Lito hacía las líneas rectas, como sabía hacer. Cala hacía las curvas. Una vez, y otra, y otra, hasta que en el suelo quedó dibujada una flecha enorme y plateada, que apuntaba al nido.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "susurro", "sfx": "whisper" }]
+    },
+    {
+      "id": "s6",
+      "text": "En ese momento, el último rayo de sol cayó sobre el sendero.\n\nY la flecha se encendió.\n\nBrillaba como un río de plata. Desde lo alto, la mamá pájaro la vio. Y bajó en picada, batiendo las alas.\n\nAhí estaba su nido, con los cuatro huevos enteros y tibios.\n\nEsa noche, lo subió otra vez a la rama más segura del árbol.\n\nY a la mañana siguiente, bajó a buscar a dos caracoles. Los subió a su espalda, con mucho cuidado, y los llevó volando por encima del jardín.\n\nHasta el rosal.\n\nLlegaron los dos exactamente al mismo tiempo. Y la mariposa, que lo había visto todo, dijo que era la carrera más bonita que había juzgado nunca.",
+      "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "lullaby_piano"
+        { "anchor": "encendió", "sfx": "magic_shimmer" },
+        { "anchor": "alas", "sfx": "wing_flap" }
+      ]
     }
   ]
 }

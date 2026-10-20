@@ -2,65 +2,47 @@
   "id": "astronauta-en-pijama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 20,
   "title": "The Astronaut in Pajamas",
-  "summary": "When the house goes quiet, Vera's bed turns into a rocket bound for the moon.",
+  "summary": "Vera's night light has broken and her room is very dark. That night, her bed turns into a rocket, and Vera flies all the way to the moon to look for a little light.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Vera put on her softest pajamas and climbed into bed. Outside, round and white above the rooftops, glowed the moon.\n\nThe curtains stirred slowly, as if they wanted to tell her a secret. Through the half-open window had slipped a warm breeze. Vera closed her eyes for a moment, and when she opened them, her bed was no longer a bed.\n\nThe sheets were made of silver, the pillow had buttons that twinkled, and two lights glowed at its tip. Her bed had turned into a soft, cozy rocket, ready to fly.",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "That night, Vera's little lamp went plink! and went out.\n\nIt was a little lamp shaped like a mushroom, and it had been on every night since Vera was a baby.\n\n\"We'll buy a new one tomorrow,\" said Dad, and he kissed her forehead. \"It's only one night.\"\n\nBut one night is a very long time when your room is dark.\n\nVera pulled the covers up to her nose and hugged Bruno, her teddy bear. The shadows of the wardrobe looked bigger than in the daytime. The chair looked like a man sitting down.\n\nOnly a little light came in through the window. It was the moon, curved like a smile above the rooftops.\n\n\"If only I had a tiny bit of that light…\" Vera whispered.\n\nThen the bed shook.",
+      "ambient": "city_soft",
+      "music": "space_dream",
+      "cues": [{ "anchor": "shook", "sfx": "magic_shimmer" }]
     },
     {
       "id": "s2",
-      "text": "—Five, four, three, two, one... —whispered Vera, and without a single loud noise, up went the rocket.\n\nIt rose through the open window, slipped past the curtains, and waved to the sleeping rooftops. Up, high up, the clouds looked like pillows, and the sky filled with stars. Every one of them winked at her.\n\nVera laughed softly while her flying bed spun among them. She was not afraid at all, because her blanket still covered her, and her teddy bear traveled by her side, peeking out the window of the ship.",
-      "cues": [
-        {
-          "anchor": "rocket",
-          "sfx": "rocket"
-        }
-      ],
-      "ambient": null
+      "text": "First it was a tiny tremble. Then a bigger one.\n\nThe legs of the bed folded inwards. The headboard stretched until it came to a point. Two colourful fins grew out of the sides, and underneath, a warm light began to hum.\n\nHer bed had turned into a rocket.\n\nVera held on tight to the blanket. Bruno held on tight to Vera.\n\n\"Five, four, three, two, one…\" she counted, barely making a sound.\n\nAnd then… blastoff!\n\nThe bed flew out of the window, skimmed the rooftops and went up, up, up. Down below, the city grew tiny, its lit windows like crumbs of light. Up above, the sky was full of stars.",
+      "ambient": null,
+      "cues": [{ "anchor": "blastoff", "sfx": "rocket" }]
     },
     {
       "id": "s3",
-      "text": "The rocket came down slowly and landed on ground as soft as flour: it had reached the moon. Vera slid out one foot, then the other, and on the silver dust she took her first steps.\n\nEverything was quiet, a lovely, round kind of quiet. All around rose gentle mountains and valleys full of light. In every corner, small stars had fallen asleep on the ground, blinking very slowly, like tired lanterns.\n\nVera looked at them tenderly and thought they would be perfect for lighting up her room.",
-      "cues": [
-        {
-          "anchor": "steps",
-          "sfx": "footsteps"
-        }
-      ],
-      "ambient": null
+      "text": "The bed landed gently on soft, silvery ground, like flour.\n\nVera put out one foot. Then the other. Her slippers left two round prints in the dust.\n\nShe was on the moon.\n\n\"Well, what a surprise,\" said a big, calm voice. \"A little girl in pajamas. I haven't seen one of those in a long time.\"\n\nIt was the moon who was speaking. She had an enormous smile and half-closed eyes, like someone who has been awake all night.\n\n\"Sorry for coming without asking,\" said Vera. \"It's just that my little lamp broke, and my room is very dark. Could you lend me a little light?\"\n\nThe moon thought about it.\n\n\"I can't give you light, because I need it to light up the roads. But I know someone who might like to keep you company.\"",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Very carefully, Vera opened her glass jar and began to gather, one by one, the stars. Each time she caught one, the star let out a small laugh.\n\nIt was as if the light were tickling her hands. Soon the jar filled with golden sparkles dancing inside. Vera did not squeeze them or rush; she gathered them slowly, with gentle fingers, and promised to take care of them.\n\nWhen the jar was full, she closed it softly, so she would not wake them completely. Then she climbed back onto her rocket-bed, hugged her teddy, and turned the ship toward home.",
-      "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": null
+      "text": "Behind a little hill of dust, all alone, there was a tiny star. So small it fit in the palm of a hand.\n\n\"She fell out of the sky a few days ago,\" said the moon. \"And she's too little to climb back up on her own.\"\n\nVera picked her up very carefully. She was warm, like a mug of hot chocolate.\n\n\"Would you like to come to my house?\" she asked. \"You'll have a place of your own there.\"\n\nThe little star couldn't talk. But all of a sudden she sparkled, brighter than before. That meant yes.\n\nVera tucked her into her pajama pocket, said goodbye to the moon, and flew home in her rocket-bed, with Bruno peeking over the side.",
+      "ambient": null,
+      "cues": [{ "anchor": "sparkled", "sfx": "sparkle" }]
     },
     {
       "id": "s5",
-      "text": "The rocket-bed floated back through the window and settled again in Vera's room, warm and still. She set the jar of stars beside her pillow, and its soft light filled the room like a kind lamp. From outside the window came a quiet good night from the moon.\n\nVera snuggled under her blanket, closed her eyes, and breathed.\n\nVery slowly, once, twice. The golden glow hugged her from the inside. And so, among saved-up stars and peaceful dreams, Vera fell fast asleep.",
-      "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        }
-      ],
+      "text": "Back in her room, Vera found the glass jar where she kept her buttons and tipped them out onto the rug.\n\nShe put the little star inside and set the jar on her bedside table.\n\nWhat a beautiful light! Golden and soft, better than the little lamp's. The shadows of the wardrobe shrank. The chair went back to being a chair.\n\nVera snuggled down, happy.\n\nBut after a while she noticed something. The little star was shining less. And then a little less.\n\nShe wasn't looking at Vera. She wasn't looking at the room. She was looking out of the window, upwards, at the sky where all the others were.\n\nVera knew that face. It was the face she made on her first day of school, when Mum left.\n\n\"You miss your home,\" she said softly.",
       "ambient": "city_soft",
-      "music": "lullaby_piano"
+      "cues": []
+    },
+    {
+      "id": "s6",
+      "text": "Vera got up, opened the window wide and took the lid off the jar.\n\n\"Go on,\" she said. \"Go back to your family.\"\n\nThe little star floated out slowly. She circled once round Vera's head, like a hug, and began to rise. Higher than the rooftops. Higher than the clouds.\n\nUntil she found her place, right in front of Vera's window.\n\nAnd from up there, she gave her a wink.\n\nThe room was dark again. But it was a different kind of dark now. It was a dark with someone looking in from outside.\n\nVera hugged Bruno, gave an enormous yawn and fell asleep.\n\nThe next day, Dad bought a new little lamp. But Vera hardly ever turns it on.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "wink", "sfx": "twinkle" }]
     }
   ]
 }

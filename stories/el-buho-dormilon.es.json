@@ -2,68 +2,46 @@
   "id": "el-buho-dormilon",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "El búho dormilón",
-  "summary": "Un búho pequeño no tiene sueño de noche, y su mamá le enseña un secreto muy suave para esperar la mañana.",
+  "summary": "Uli es demasiado pequeño para salir a volar de noche con los búhos grandes, y no tiene nada de sueño. Su mamá le enseña a mirar la noche con los ojos cerrados.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto de un árbol viejo vivía un búho pequeño llamado Uli. Cada noche, cuando el bosque se quedaba en silencio, subía al cielo la luna. Entonces todos los animales cerraban los ojos, pero Uli abría los suyos muy grandes.\n\n—¡No tengo sueño! —decía, moviendo las alas. Entre las hojas del árbol se colaba el viento.\n\nLe hacía cosquillas en las plumas, y Uli quería jugar, quería volar, quería contar cada estrella del cielo. Su mamá lo miraba con cariño desde la rama de al lado y sonreía despacio.",
+      "text": "En el hueco de un árbol viejo vivía una familia de búhos.\n\nLos búhos son animales de noche. Cuando todos se van a dormir, ellos se despiertan, estiran las alas y salen a volar.\n\nEsa noche, papá búho y los primos grandes se asomaron a la rama, listos para salir.\n\nUli también se asomó.\n\n—Tú no, Uli —dijo papá—. Tus alas todavía son de pelusa. Cuando te crezcan un poco más, vendrás con nosotros.\n\nY se fueron volando, uno detrás de otro, sin hacer ni un ruido.\n\nUli se quedó en la rama con los ojos enormes, abiertos como dos platos.\n\n—¡Pues yo no tengo nada de sueño! —gritó hacia la oscuridad.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "guitar_night",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "—Mamá, ¿por qué debo dormir ahora? —preguntó Uli—. La noche es para volar.\n\nMamá Búho lo abrazó con sus alas tibias. —Antes, los búhos volábamos de noche —le dijo—. Pero tú eres especial, mi pequeño.\n\nTú puedes descansar cuando llega la oscuridad, igual que los niños. Uli infló el pecho. —¡Pero yo quiero ver todo!\n\nAbajo, cerca del río, cantó una rana.\n\nUn grillo le respondió, y Uli quiso ir a saludarlos. Mamá le dio un beso entre los ojos. —El bosque también duerme, escucha qué tranquilo está todo —susurró.",
+      "text": "Mamá búho se quedó con él. Se sentó a su lado y lo tapó con un ala.\n\n—Me estoy perdiendo todo —se quejó Uli—. Desde aquí no se ve nada. Solo negro.\n\n—¿Quieres que te enseñe un secreto? —le dijo mamá—. Es un secreto de búho viejo.\n\n—¿Cuál?\n\n—Cómo mirar la noche con los ojos cerrados.\n\nUli la miró muy serio.\n\n—Mamá. Con los ojos cerrados no se ve nada.\n\n—Haz la prueba.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "rana",
-          "sfx": "frog_croak"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "—Te enseñaré un secreto —dijo Mamá Búho—. Cierra los ojos, quédate quieto como el bosque y respira.\n\nUli cerró un ojo, luego el otro. Tomó aire hondo una vez, y otra vez más. La rama se mecía como una cuna.\n\n—Muy bien, mi amor —dijo Mamá—. Ahora imagina que tus alas son dos mantas tibias. Uli acomodó las plumas.\n\nSe apoyó en el pecho de su mamá y escuchó muy cerca su corazón.\n\nTuc, tuc, tuc. Afuera, un búho pequeño ya no quería volar. Solo quería quedarse ahí, tibio y tranquilo, escuchando el bosque dormido.",
+      "text": "Uli cerró los ojos. Primero uno. Después el otro.\n\nAl principio no pasó nada. Todo negro.\n\n—Ahora no mires —susurró mamá—. Escucha.\n\nUli escuchó.\n\nY poco a poco, de la oscuridad empezaron a salir cosas. Cerca, algo movía las hojas. Más abajo, entre las piedras, corría el agua.\n\n—Veo un río —dijo Uli, despacito—. Brilla con la luna.\n\n—¿Ves? —dijo mamá—. Ya estás mirando.",
       "ambient": "forest_night",
       "cues": [
-        {
-          "anchor": "respira",
-          "sfx": "breathe_in"
-        },
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "music": "lullaby_piano"
-    },
-    {
-      "id": "s4",
-      "text": "—¿Y si me pierdo algo bonito? —bostezó Uli, con la voz ya suave. —No te preocupes —dijo Mamá—.\n\nMientras duermes, el cielo lo cuidan las estrellas.\n\nY de guardia se queda la luna. Cuando abras los ojos, el sol traerá un día nuevo para ti. Uli imaginó la mañana: las gotas de rocío brillando, los pájaros cantando, el bosque despertando poco a poco.\n\n—¿Me lo prometes? —preguntó en voz baja. —Te lo prometo, mi tesoro.\n\nLa mañana siempre llega. Uli sonrió con los ojos cerrados, mientras una luz plateada, callada y buena, los cubría a los dos.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "twinkle"
-        }
+        { "anchor": "hojas", "sfx": "leaves_rustle" },
+        { "anchor": "río", "ambient": "stream_water" }
       ]
     },
     {
-      "id": "s5",
-      "text": "Poco a poco, la respiración de Uli se hizo lenta y calmada. Sus plumas subían y bajaban, subían y bajaban. Y entonces, muy suave, se escuchó un ronquido.\n\nPfff... pfff... El búho por fin dormía.\n\nMamá Búho lo cubrió con un ala y miró el cielo. Muy lejos, detrás de las montañas, empezaba a asomarse una luz tibia. La mañana venía en camino, tal como lo había prometido.\n\n—Buenas noches, mi Uli. Yo te despierto cuando salga el sol —susurró. Y en el árbol viejo, los dos durmieron felices hasta el nuevo día.",
+      "id": "s4",
+      "text": "—Escucha más lejos —dijo mamá.\n\nUli escuchó más lejos. Más allá del agua. Más allá del bosque.\n\nY desde muy lejos, por encima del lago, le llegó una voz que conocía muy bien.\n\nEra un ulular.\n\n—¡Es papá! —dijo Uli, sin abrir los ojos—. Está volando sobre el lago. Va con las alas muy abiertas… y ahora baja… y ahora sube otra vez.\n\nUli lo veía todo. Lo veía mejor que si estuviera allí.\n\nY abrió el pico en un bostezo enorme.",
       "ambient": "forest_night",
+      "cues": [{ "anchor": "ulular", "sfx": "owl_hoot" }]
+    },
+    {
+      "id": "s5",
+      "text": "—Escucha más cerca —dijo mamá.\n\nUli escuchó más cerca. Tan cerca, tan cerca, que ya no quedaba nada entre los dos.\n\nDebajo del ala de mamá, tibio y despacito, latía un corazón.\n\nTuc. Tuc. Tuc.\n\n—Mamá —murmuró Uli—. La noche es muy grande.\n\n—Muy grande —dijo ella—. Y te va a esperar. Cuando te crezcan las alas, la vas a volar entera.\n\nUli no contestó. Ya estaba dormido.\n\nAl amanecer, cuando papá volvió, se lo encontró hecho una bolita de plumas, roncando.\n\n—Mira nada más —se rió papá—. El búho más dormilón de todo el bosque.",
+      "ambient": "forest_night",
+      "music": "lullaby_piano",
       "cues": [
-        {
-          "anchor": "ronquido",
-          "sfx": "snore_soft"
-        }
+        { "anchor": "corazón", "sfx": "heartbeat_calm" },
+        { "anchor": "roncando", "sfx": "snore_soft" }
       ]
     }
   ]

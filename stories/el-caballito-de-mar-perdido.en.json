@@ -2,66 +2,42 @@
   "id": "el-caballito-de-mar-perdido",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 20,
   "title": "The Lost Little Seahorse",
-  "summary": "When some playful bubbles carry him far from home, a little seahorse discovers that the ocean is full of friends ready to help.",
+  "summary": "Marino is the slowest swimmer in the sea. One day he lets go of the reef to chase some bubbles, and the water carries him far, far from home.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Marino was a small and curious seahorse. He lived among the colorful corals, swaying with the gentle waves. That afternoon, spinning with joy, floating up and down, he went chasing after some shiny bubbles.\n\nThey carried him farther and farther, all the way to a garden of corals he had never seen before. When Marino looked around, he no longer recognized anything. Where was his home?\n\nThe little seahorse felt a nervous tickle in his tummy, but he took a deep breath and decided to be brave.",
+      "text": "Marino was a little yellow seahorse with a small orange crest on his head.\n\nSeahorses are the slowest swimmers in the whole ocean. That's why they spend the day holding on to the corals, with their tails curled tight, so the water won't carry them away.\n\n\"Never let go of the reef,\" his mum always told him.\n\nAnd Marino never did.\n\nUntil that afternoon, when right in front of him floated a line of bubbles.\n\nThey were round and shiny, every colour there is, like glass marbles.\n\nMarino stretched out his snout to touch one. And without even noticing, he let go.",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        }
-      ]
+      "music": "adventure_soft",
+      "cues": [{ "anchor": "bubbles", "sfx": "bubbles" }]
     },
     {
       "id": "s2",
-      "text": "Suddenly, an orange fish appeared among the seaweed. \"Don't cry, little one,\" he said in a sweet voice. \"I will help you find your home.\"\n\nThe fish swam beside him and asked what his house was like. Marino remembered: \"There is a pink coral, and at night it shines under the moon.\"\n\nThe fish smiled. \"I know someone who watches it every night. Follow me.\"\n\nTogether they swam through swaying plants, while a school of silvery fish waved hello with a wink.",
+      "text": "He chased one bubble. And another. And another.\n\nWhen the last one popped on his nose, Marino looked around.\n\nThere were no corals. There was no reef. Only blue water, above, below and on every side.\n\nHe tried to swim back. He fluttered the fin on his back as fast as he could… and hardly moved at all.\n\nThen, all of a sudden, the water gave him a shove.\n\nIt was a current, strong and cold, and it dragged him even further away.\n\nMarino found a strand of seaweed and wrapped his tail around it, very tight. And there he stayed, trembling, not knowing what to do.",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ]
+      "cues": [{ "anchor": "shove", "sfx": "whoosh" }]
     },
     {
       "id": "s3",
-      "text": "They swam for a long while until they reached a deeper, darker sea. Marino moved close to his new friend, feeling a little scared. Then, from the blue depths, there appeared an enormous whale.\n\nShe had kind eyes and a soft, deep voice. \"Are you lost, little ones?\" she asked.\n\n\"We are looking for the pink coral,\" answered Marino. She smiled. \"Climb onto my back.\n\nI will carry you closer.\" Marino and the fish settled in, and the giant glided slowly, rocking them like a cradle over the calm water.",
+      "text": "After a while, a big shadow passed overhead. Marino shrank back.\n\nBut it wasn't a shark. It was a very old turtle, with lots of little lines on her shell.\n\n\"Well, look at that,\" she said. \"A seahorse, so far from the corals? You must be lost.\"\n\n\"I let go,\" said Marino, in a tiny voice. \"I live on the reef with the pink corals. But I'm very slow, and I'll never get there.\"\n\nThe turtle gave a slow little chuckle.\n\n\"I'm slow too. My name's Tula. And slow creatures have a trick. Do you want to see it?\"",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "whale",
-          "sfx": "whale_song"
-        }
-      ],
-      "music": "strings_hopeful"
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "As the giant swam, the sky above the sea turned orange and then deep blue. One by one, the stars began to peek out, and the sea filled with light. \"Look!\"\n\nsaid Marino. \"From my home I can see that star.\" The giant stopped beside a familiar reef.\n\nIn the distance, among the soft shadows, Marino spotted a pink coral swaying with the current. Marino felt a happy little leap inside his heart.\n\n\"It's here! I'm almost home!\"",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ]
+      "text": "Tula swam to a place where the water was moving fast, like a river inside the sea.\n\n\"This one is warm,\" she said, \"and it goes straight to the pink corals. Hold on.\"\n\nMarino curled his tail around the edge of her shell.\n\nAnd the current swept them away.\n\nHow fast they went! They passed stripy fish, an octopus who waved goodbye with all eight arms, and a dolphin who swam alongside them for a while, leaping out of the water.\n\nMarino, the slowest swimmer in the ocean, was going faster than ever. And for the first time all afternoon, he burst out laughing.",
+      "ambient": "underwater",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "laughing", "sfx": "giggle" }]
     },
     {
       "id": "s5",
-      "text": "Marino hugged his giant friend goodbye and swam toward the pink coral. There his family was waiting, and they hugged him tight, so happy to see him. The orange fish stayed for dinner and became his friend forever.\n\nTired and happy, Marino curled up among the warm corals and closed his eyes. Outside, the sea shone calm beneath the moon. One after another, softly sang the waves.\n\n\"Good night,\" Marino whispered. And rocked by the sea, the little seahorse fell fast asleep.",
+      "text": "At sunset, out of the blue, some pink corals appeared.\n\n\"It's my home!\" shouted Marino.\n\nHis mum was at the edge of the reef, searching everywhere. When she saw him, she swam towards him as fast as a seahorse can swim, which isn't very fast at all. But to Marino it seemed like lightning.\n\nThey curled their tails together, which is how seahorses hug.\n\nThe clownfish next door popped out of his anemone to say hello. Tula waved a flipper goodbye and went on her way, slowly.\n\nThat night, Marino held on to his coral as always. But before he fell asleep, he spent a while watching the water flow by. Now he knew that water can be a road, too.",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "music": "guitar_warm",
+      "cues": []
     }
   ]
 }

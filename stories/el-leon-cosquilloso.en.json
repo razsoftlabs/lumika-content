@@ -2,69 +2,42 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "The Ticklish Lion",
-  "summary": "The king of the savanna is hiding a very funny secret that shows up right when he tries to roar.",
+  "summary": "Leo has just become king of the savannah, and every morning he has to roar from the big rock. The trouble is, the wind tickles his mane.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Every morning, when the sun peeked over the savanna, all the animals waited for the great roar of Leo, the lion. His roar woke up the whole world: strong, brave, like a friendly thunder. Leo took a deep breath, puffed out his chest and opened his mouth wide.\n\nBut instead of a roar, out came a giggle.\n\n'Hee, hee, hee! '. The animals stared, confused.\n\nLeo covered his snout with both paws, red with embarrassment, and ran off to hide behind a big rock. What was happening to the king of the savanna?",
+      "text": "On the savannah, every morning, the king wakes all the animals with a roar.\n\nFor many years, the king had been Grandpa Lion. But Grandpa was old now and wanted to sleep in. So that day, for the very first time, it was Leo's turn.\n\nLeo climbed up onto the big rock. Down below, the giraffes, the elephants and the zebras waited in silence.\n\nLeo took a deep breath. He puffed out his chest. He opened his enormous mouth…\n\nAnd at that very moment, along came the wind.\n\nIt slipped into his mane, it tickled his ears, and…\n\n\"Hee, hee, hee!\" Out it came. \"Ha, ha, ha!\"\n\nThe animals looked at one another. Leo covered his muzzle with both paws, red as a tomato, and ran off to hide.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "giggle",
-          "sfx": "giggle"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "wind", "sfx": "wind_soft" }]
     },
     {
       "id": "s2",
-      "text": "Behind the rock, Leo tried again, all by himself. He closed his eyes, squeezed his paws and took a big breath to let out the mightiest roar in history. But right then, his belly was tickled by a soft breeze.\n\nOh! It tickled Leo so much that, instead of roaring, he let out another huge laugh.\n\n'Ha, ha, ha! '. He rolled around in the grass, unable to stop.\n\n'What kind of king am I? ', he sighed, covering his face. 'A king should roar, not laugh'.\n\nPoor Leo, he did not know his secret would soon make everyone happy.",
-      "cues": [
-        {
-          "anchor": "breeze",
-          "sfx": "wind_soft"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Behind a bush, Suri the meerkat found him. She was his best friend.\n\n\"What happened up there?\"\n\n\"It's the tickles,\" whispered Leo. \"When the air ruffles my mane, it tickles. It always has. But I've never told anyone.\"\n\nSuri scratched her head.\n\n\"Then we'll have to fix it before tomorrow.\"\n\nFirst, she tied his mane up with a vine, nice and tight, so the air couldn't move it.\n\nLeo looked at himself in a puddle. He looked like a broom.\n\nAnd that made him laugh so hard that the vine came undone.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Three friends had seen Leo run away: Mona the monkey, Pío the bird, and one very curious bee. 'Why is the king hiding? ', they wondered.\n\nWithout a sound, they crept on tiptoe up to the rock. Nobody could hear their footsteps.\n\nAround them, going buzz, buzz, flew the bee. They peeked slowly around the side of the rock, holding their breath. And then, the three of them saw something they never imagined.\n\nLeo, the biggest lion in the savanna, was lying on the ground, weak with laughter.",
-      "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "\"Second idea,\" said Suri. \"You'll roar inside a cave, where the air can't get in.\"\n\nLeo went into the cave and roared. And out came a magnificent roar, enormous, a real king's roar.\n\nBut from inside the cave, nobody heard it. Only a bat hanging from the ceiling, who woke up in a very bad mood.\n\n\"Third idea,\" said Suri. \"Mud.\"\n\nShe grabbed a handful of mud and threw it at his mane. Splat!\n\nHis mane went stiff as a stone. The air couldn't move it any more. But when the mud started to dry, it itched. It itched terribly.\n\nAnd Leo scratched, and scratched, and rolled about on the ground, laughing his head off.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "splat", "sfx": "water_splash" }]
     },
     {
       "id": "s4",
-      "text": "The bee landed ever so gently on the tip of his nose. And Leo burst into a giggle! 'HA, HA, HA!\n\n'. Kicking with joy, he rolled happily among the dry leaves.\n\nThen the friends understood the king's secret: Leo was the most ticklish lion in the world! He could not roar because everything, the wind, the grass, a feather, tickled him too much. And seeing him so happy, the three friends could not hold back any longer.\n\nMona laughed, Pío laughed, the bee laughed, and the whole savanna filled up with laughter.",
-      "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "The next morning, Leo climbed onto the big rock again, with his mane freshly washed and his heart very small.\n\nDown below, the whole savannah was waiting.\n\nLeo took a deep breath. He puffed out his chest. He opened his mouth…\n\nAnd along came a gust.\n\nLeo clenched his teeth. He held on. He held on. He held on…\n\nAnd he let out the biggest burst of laughter ever heard on the savannah.\n\nThere was a silence.\n\nThen a giraffe gave a little giggle. Then an elephant. Then the zebras, the monkeys, the wildebeest and even the hippos, with their mouths open like drawers.\n\nThe whole savannah woke up laughing.",
+      "ambient": "meadow_day",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "laughter", "sfx": "giggle" }]
     },
     {
       "id": "s5",
-      "text": "Leo opened his eyes and saw his friends laughing with him, not at him. 'Your laugh is lovelier than any roar', said Mona. 'You wake the savanna with joy'.\n\nLeo smiled, and for the first time he felt no shame. Little by little the sun went down and out came the stars. They shone like tiny silver sparks.\n\nThe four friends snuggled up together on the warm grass, yawning slowly. And one by one, under the sky and with a smile on their faces, they fell asleep.\n\nThat night, the savanna slept happily, rocked by the soft echo of the day's laughter.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "Grandpa Lion peeked out from his shady spot, his mane all messy and his face still sleepy.\n\n\"What's all this racket?\" he asked.\n\n\"I'm sorry, Grandpa,\" said Leo. \"I tried to roar. But my mane gets tickly.\"\n\nGrandpa was quiet for a moment. Then he came closer and whispered in his ear:\n\n\"Mine too. That's why I always roared so fast.\"\n\nAnd the two of them laughed together, the old king and the new one.\n\nEver since that day, nobody on the savannah wakes up to a roar. They wake up to a laugh. And the animals say the day starts much, much better that way.",
+      "ambient": "meadow_day",
+      "music": "marimba_playful",
+      "cues": []
     }
   ]
 }

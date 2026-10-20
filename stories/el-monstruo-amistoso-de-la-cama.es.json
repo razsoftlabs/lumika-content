@@ -2,66 +2,41 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 20,
   "title": "El monstruo amistoso de la cama",
-  "summary": "Cuando Iván oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo.",
+  "summary": "Una noche, Iván oye un ruido debajo de la cama. Ahí vive un monstruo, y resulta que le tiene miedo a la oscuridad. Y a los niños.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Iván se acurrucó bajo las mantas. Por la ventana entraba una luz redonda y plateada: la luna. Afuera, los árboles se mecían despacio con el viento.\n\nTodo estaba en calma... hasta que, desde debajo de la cama, llegó un ruido pequeño. Un tiritón.\n\nUn suspiro. Iván se quedó muy quieto, escuchando su propio corazón. ¿Qué podía ser ese sonido tan tímido en la oscuridad?",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Iván ya tenía puesto el pijama, ya se había lavado los dientes y ya había pedido el último vaso de agua.\n\nPapá apagó la luz.\n\n—Deja la puerta abierta —pidió Iván—. Un poquito.\n\nPapá la dejó abierta un poquito, y un hilo de luz del pasillo entró en el cuarto.\n\nIván se tapó hasta las orejas. No le gustaba nada la oscuridad.\n\nTodo estaba en silencio. Y entonces, desde debajo de la cama, llegó un ruido.\n\n—¡Achís!",
+      "ambient": "city_soft",
+      "music": "music_box",
+      "cues": [{ "anchor": "achís", "sfx": "sneeze_cute" }]
     },
     {
       "id": "s2",
-      "text": "Con mucho cuidado, Iván asomó la cabeza por el borde de la cama. Y allí, entre una pelota vieja y una pantufla, había dos ojos grandes y brillantes. Era un monstruo.\n\nPero no rugía ni daba miedo: estaba encogido, abrazándose las rodillas, temblando. Cuando vio a Iván, el monstruo habló en un susurro.\n\n—Por favor, no me hagas nada. Iván parpadeó, sorprendido. El monstruo parecía mucho más asustado que él.",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Iván se quedó tieso como una tabla.\n\nDespacito, muy despacito, sacó la linterna de debajo de la almohada. Se asomó por el borde de la cama. Y alumbró.\n\nEntre una pelota vieja y una pantufla, había dos ojos enormes.\n\nEran los ojos de un monstruo. Un monstruo azul, peludo, con dos orejitas redondas. Estaba hecho una bola, abrazándose las rodillas, y temblaba como un flan.\n\n—Por favor —susurró el monstruo—. No me hagas nada.\n\nIván parpadeó. El monstruo tenía mucho más miedo que él.",
+      "ambient": "city_soft",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "—No voy a hacerte nada —dijo Iván en voz baja—. ¿Por qué tiemblas? El monstruo bajó la mirada.\n\n—Es que... me da mucho miedo la oscuridad —confesó—. Aquí abajo todo está negro, y cuando apagan la luz me siento muy solo.\n\nIván abrió mucho los ojos: él sentía exactamente lo mismo. Por eso, cada noche, dejaba abierta la puerta. Sorprendidos de parecerse tanto, los dos se rieron.\n\nFue una risa suave, de esas que se comparten en secreto.",
-      "cues": [
-        {
-          "anchor": "rieron",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "—No te voy a hacer nada —dijo Iván—. ¿Cómo te llamas?\n\n—Grumo.\n\n—¿Y por qué tiemblas, Grumo?\n\nEl monstruo miró a los lados, como si le diera vergüenza.\n\n—Es que aquí abajo está muy oscuro —dijo—. Y la casa hace ruidos raros por la noche. Y además… —bajó la voz—, mi mamá dice que debajo de las camas a veces aparecen niños.\n\nIván se tapó la boca. Pero no pudo aguantarse, y se le escapó una risa.\n\nGrumo lo miró ofendido. Después se rió él también.\n\n—¿Tú también le tienes miedo a la oscuridad? —preguntó Grumo.\n\n—Un poquito —dijo Iván—. Por eso dejo la puerta abierta.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "risa", "sfx": "giggle" }]
     },
     {
       "id": "s4",
-      "text": "Iván tuvo una idea. Sacó de debajo de la almohada su linterna mágica y la encendió. ¡Plin!\n\nEn el techo aparecieron, suaves y doradas, un montón de estrellas.\n\n—Mira —dijo—, así la oscuridad ya no da tanto miedo. El monstruo miró hacia arriba, maravillado, y su temblor se fue apagando poco a poco. —Nunca había visto algo tan bonito —murmuró.\n\nY entonces Iván le prestó su osito de peluche más suave para que no estuviera solo.",
-      "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "twinkle"
-        }
-      ],
+      "text": "—¿Qué ruidos raros? —preguntó Iván.\n\nSe quedaron los dos muy callados, escuchando.\n\nAlgo zumbaba en la cocina, bajito, sin parar.\n\n—Esa es la nevera —dijo Iván—. Ronronea toda la noche, como un gato grande.\n\nAlgo hizo glu, glu, glu dentro de la pared.\n\n—Esa es el agua, que pasa por los tubos. Va a la bañera de los vecinos.\n\nY algo golpeó suavecito la ventana.\n\n—Y ese es el viento —dijo Iván—, que viene a ver si ya estamos dormidos.\n\nGrumo abrió mucho los ojos. Cada ruido, cuando tenía nombre, daba menos miedo.\n\n—Oye —dijo—. Tú sabes mucho de la noche.",
       "ambient": "city_soft",
-      "music": "music_box"
+      "cues": [{ "anchor": "viento", "sfx": "wind_soft" }]
     },
     {
       "id": "s5",
-      "text": "Esa noche, el monstruo no se quedó debajo de la cama. Se acurrucó al lado de Iván, con el osito entre los dos. Las estrellas seguían brillando en el techo y, desde la ventana, los cuidaba la luna.\n\n—Buenas noches, amigo —bostezó Iván. —Buenas noches —respondió el monstruo, ya casi dormido. Muy juntos y en silencio, los dos respiraron.\n\nPoco a poco cerraron los ojos. Ya nadie tenía miedo: solo quedaba la noche tranquila, tibia y suave, cuidándolos hasta la mañana.",
-      "cues": [
-        {
-          "anchor": "respiraron",
-          "sfx": "breathe_in"
-        }
-      ],
+      "text": "Esa noche, Grumo no se quedó debajo de la cama.\n\nSe subió despacito y se acurrucó a los pies de Iván, encima de la manta. Iván le prestó su osito, el más suave, para que tuviera algo que abrazar.\n\n—Buenas noches, Grumo.\n\n—Buenas noches, Iván.\n\nAl rato, desde los pies de la cama, empezó a salir un ronquido azul y peludo.\n\nIván sonrió en la oscuridad. Ya no le daba miedo. Ahora sabía quién estaba ahí.\n\nY desde esa noche, ya no hace falta dejar la puerta abierta.",
       "ambient": "city_soft",
-      "music": "lullaby_piano"
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "ronquido", "sfx": "snore_soft" }]
     }
   ]
 }

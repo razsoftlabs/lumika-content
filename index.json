@@ -1331,7 +1331,7 @@
     },
     {
       "id": "el-leon-cosquilloso",
-      "version": 6,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1343,7 +1343,7 @@
       "cover": "covers/el-leon-cosquilloso.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 4,
       "categories": [
         "animales",
         "risas"
@@ -1359,22 +1359,27 @@
       ],
       "premium": true,
       "preload": [
-        "music/marimba_playful"
+        "ambient/meadow_day",
+        "music/marimba_playful",
+        "music/strings_hopeful",
+        "sfx/giggle",
+        "sfx/water_splash",
+        "sfx/wind_soft"
       ],
       "preview": {
         "es": {
           "title": "El león cosquilloso",
-          "summary": "El rey de la sabana guarda un secreto muy divertido que aparece justo cuando intenta rugir."
+          "summary": "Leo acaba de convertirse en el rey de la sabana, y cada mañana tiene que rugir desde la roca grande. El problema es que el viento le hace cosquillas en la melena."
         },
         "en": {
           "title": "The Ticklish Lion",
-          "summary": "The king of the savanna is hiding a very funny secret that shows up right when he tries to roar."
+          "summary": "Leo has just become king of the savannah, and every morning he has to roar from the big rock. The trouble is, the wind tickles his mane."
         }
       }
     },
     {
       "id": "el-monstruo-amistoso-de-la-cama",
-      "version": 9,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1386,13 +1391,13 @@
       "cover": "covers/el-monstruo-amistoso-de-la-cama.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "valores",
         "dormir"
       ],
       "mood": "calmado",
-      "music": "lullaby_piano",
+      "music": "music_box",
       "tags": [
         "amistad",
         "miedo a la oscuridad",
@@ -1402,22 +1407,28 @@
       ],
       "premium": true,
       "preload": [
-        "music/lullaby_piano"
+        "ambient/city_soft",
+        "music/lullaby_piano",
+        "music/music_box",
+        "sfx/giggle",
+        "sfx/sneeze_cute",
+        "sfx/snore_soft",
+        "sfx/wind_soft"
       ],
       "preview": {
         "es": {
           "title": "El monstruo amistoso de la cama",
-          "summary": "Cuando Iván oye un ruido debajo de su cama, descubre que el monstruo que vive allí esconde un secreto muy parecido al suyo."
+          "summary": "Una noche, Iván oye un ruido debajo de la cama. Ahí vive un monstruo, y resulta que le tiene miedo a la oscuridad. Y a los niños."
         },
         "en": {
           "title": "The Friendly Monster Under the Bed",
-          "summary": "When Iván hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own."
+          "summary": "One night, Iván hears a noise under his bed. A monster lives there, and it turns out the monster is scared of the dark. And of children."
         }
       }
     },
     {
       "id": "el-osito-y-la-tormenta",
-      "version": 9,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1429,7 +1440,7 @@
       "cover": "covers/el-osito-y-la-tormenta.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "animales",
         "valores"
@@ -1445,16 +1456,20 @@
       ],
       "premium": true,
       "preload": [
-        "music/strings_hopeful"
+        "ambient/rain",
+        "music/guitar_night",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/thunder"
       ],
       "preview": {
         "es": {
           "title": "El osito y la tormenta",
-          "summary": "Una noche de truenos asusta al osito Nilo, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón."
+          "summary": "Una noche de tormenta, los truenos asustan al osito Nilo. Mamá Osa le enseña un truco para saber cuándo la tormenta se está yendo."
         },
         "en": {
           "title": "The Little Bear and the Storm",
-          "summary": "A night full of thunder frightens little Nilo the bear, until Mama Bear teaches him a secret trick to calm his heart."
+          "summary": "One stormy night, the thunder frightens little Nilo. Mama Bear teaches him a trick for knowing when the storm is going away."
         }
       }
     },

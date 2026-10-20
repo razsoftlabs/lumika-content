@@ -2,67 +2,42 @@
   "id": "el-osito-y-la-tormenta",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 20,
   "title": "El osito y la tormenta",
-  "summary": "Una noche de truenos asusta al osito Nilo, hasta que Mamá Osa le enseña un truco secreto para calmar el corazón.",
+  "summary": "Una noche de tormenta, los truenos asustan al osito Nilo. Mamá Osa le enseña un truco para saber cuándo la tormenta se está yendo.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Caía la noche sobre el bosque y el osito Nilo se acurrucaba en su cueva tibia, junto a Mamá Osa. Afuera, entre los árboles, empezó a soplar el viento. Muchas gotas de lluvia comenzaron a caer sobre las hojas.\n\nNilo bostezó y cerró los ojos, listo para dormir. Pero, de repente, se oyó a lo lejos un trueno.\n\nSonaba suave todavía, como un tambor dormido. Nilo abrió los ojos grandes, grandes. Se le hizo un nudo en la barriga.\n\n—Mamá —susurró—, ¿qué fue ese ruido? Mamá Osa lo abrazó despacio y le dijo: —Es solo la tormenta, mi amor. No te va a pasar nada.",
+      "text": "En una casita del bosque vivían Nilo y Mamá Osa.\n\nEsa noche llovía. Las gotas golpeaban el techo, tic, tic, tic, y resbalaban por los vidrios como si jugaran carreras.\n\nNilo ya estaba en la cama, con los ojos casi cerrados.\n\nY de pronto…\n\n¡PUM!\n\nNilo dio un brinco. Se le pusieron las orejas de punta. Saltó de la cama y corrió a esconderse en el regazo de mamá.\n\n—¿Qué fue eso?\n\n—Un trueno —dijo Mamá Osa, abrazándolo fuerte—. Hay tormenta.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "trueno",
-          "sfx": "thunder",
-          "delayMs": 600
-        }
-      ]
+      "music": "guitar_night",
+      "cues": [{ "anchor": "pum", "sfx": "thunder" }]
     },
     {
       "id": "s2",
-      "text": "La tormenta se hizo más fuerte. Sobre la cueva silbaba el viento.\n\nY de pronto, ¡PUM!, retumbó un trueno. Nilo se escondió debajo de la manta y empezó a temblar.\n\n—Tengo miedo, mamá —dijo con la voz temblorosa—. Los truenos son muy ruidosos. Mamá Osa lo buscó entre las mantas y lo acercó a su pecho tibio.\n\nSintió el corazón de Nilo latir muy rápido, tum-tum, tum-tum. —Ya lo sé, mi cielo —le dijo con dulzura—. A veces los ruidos grandes asustan.\n\nPero yo estoy aquí contigo, y juntos vamos a esperar a que pase.",
+      "text": "Nilo temblaba. Su corazón hacía tum-tum, tum-tum, muy rápido.\n\n—No me gustan los truenos —dijo—. Son muy grandes. Y nunca sé cuándo van a sonar.\n\nMamá Osa se sentó con él junto a la ventana y lo envolvió en la manta.\n\n—¿Quieres que te enseñe un truco? Es un truco para medir la tormenta.\n\n—¿Se puede medir?\n\n—Mira. Primero se ve una luz en el cielo. Y después suena el trueno. Si cuentas despacio lo que tarda, sabrás si la tormenta está cerca o lejos.\n\nJusto entonces, la ventana entera se iluminó con un relámpago.\n\n—Uno… —contó Mamá Osa—. Dos…\n\nY a lo lejos, retumbó el trueno.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_high"
-        }
-      ]
+      "cues": [{ "anchor": "relámpago", "sfx": "thunder", "delayMs": 2000 }]
     },
     {
       "id": "s3",
-      "text": "—¿Quieres que te enseñe un truco secreto? —le preguntó Mamá Osa. Nilo asomó la nariz y dijo que sí.\n\n—Es muy fácil: cuando llegue el ruido, en vez de temblar, vamos a respirar.\n\nJusto entonces, sobre el bosque, rodó otro trueno. Mamá Osa tomó aire por la nariz, llenando la panza como un globo: uuuno, dos, tres. Después soltó el aire despacio por la boca: fuuu.\n\n—Ahora tú —dijo. Nilo tomó aire hondo, llenó la barriga y luego lo dejó salir suave. Otra vez.\n\nY otra. Poco a poco, el nudo de su barriga se fue soltando, como un lazo que se desata solo.",
+      "text": "—Dos —dijo Mamá Osa—. Está cerca, pero no encima. Y ahora viene la segunda parte del truco: mientras cuentas, respiras. Tomas aire en un número. Lo sueltas en el siguiente.\n\nNilo tomó aire. Lo soltó. Tomó aire. Lo soltó.\n\nSu corazón se fue calmando. Tum… tum… tum.\n\nY otra vez, allá afuera, brilló un destello.\n\n—Uno —contó Nilo, esta vez él solito—. Dos. Tres. Cuatro…\n\nEl trueno sonó más bajito.\n\n—¡Cuatro! —dijo Nilo—. ¡Conté hasta cuatro!\n\n—¿Y eso qué quiere decir?\n\n—¡Que está más lejos!",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "respirar",
-          "sfx": "breathe_in"
-        }
-      ],
-      "music": "gentle_piano"
+      "cues": [{ "anchor": "destello", "sfx": "thunder", "delayMs": 3500 }]
     },
     {
       "id": "s4",
-      "text": "Afuera, la tormenta seguía, pero Nilo y Mamá Osa respiraban juntos, tranquilos. Al rato, sobre la cueva, volvió a sonar un trueno. Esta vez Nilo tomó aire despacio en lugar de esconderse.\n\n—¡Lo hice, mamá! —susurró, un poco orgulloso. Mamá Osa sonrió y le dio un beso en la frente.\n\nAfuera, la lluvia empezó a caer más despacio, en gotas pequeñas que resbalaban por las hojas: plic, plic, plic.\n\nEl viento ya no silbaba tan fuerte. Los truenos se fueron alejando, cada vez más lejos, como si la tormenta también tuviera sueño y se fuera caminando a su casa.",
+      "text": "La lluvia siguió cayendo, pero ahora Nilo miraba la ventana sin esconderse. Estaba esperando la próxima luz.\n\nAhí estaba. Muy lejos, detrás de los árboles, una lucecita.\n\n—Uno. Dos. Tres. Cuatro. Cinco. Seis…\n\nEsta vez el trueno fue apenas un gruñido, como el de un gato debajo del sofá.\n\n—¡Seis! —gritó Nilo, dando saltitos en el regazo de mamá—. ¡Se está yendo! ¡La tormenta se está yendo!\n\n—Se está yendo —dijo Mamá Osa, y le dio un beso entre las orejas—. Y tú la acompañaste hasta la puerta.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "lucecita", "sfx": "thunder", "delayMs": 5000 }]
     },
     {
       "id": "s5",
-      "text": "Y entonces, sin darse cuenta, la tormenta pasó. Mamá Osa asomó la cabeza fuera de la cueva. —Mira, Nilo —le dijo en voz baja.\n\nEl cielo estaba limpio y, una a una, se encendieron las estrellas. Parecían luces amigas. Una luna redonda alumbraba el bosque mojado y todo estaba en calma.\n\nNilo tomó aire hondo una última vez y sonrió. Ya no tenía miedo. Acurrucado en los brazos tibios de mamá, con los ojos pesados, dejó que el sueño lo abrazara.\n\n—Buenas noches, mi valiente —susurró Mamá Osa. Y así, tranquilo, hasta la mañana siguiente, el osito Nilo se quedó dormido.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "dormido",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "Poco a poco, la lluvia se hizo más fina. Ya no golpeaba el techo: lo acariciaba.\n\nNilo seguía mirando la ventana, con los ojos cada vez más pesados.\n\n—Voy a contar la próxima —dijo, bostezando—. Uno… dos…\n\nPero no llegó al tres.\n\nSe quedó dormido en el regazo de mamá, envuelto en la manta, con la nariz tibia y el corazón tranquilo.\n\nMamá Osa lo llevó a la cama sin despertarlo.\n\n—Buenas noches, mi valiente —le susurró.\n\nY afuera, muy lejos, la tormenta siguió su camino, sin hacer ruido.",
+      "ambient": "rain",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

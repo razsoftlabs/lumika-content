@@ -2,67 +2,42 @@
   "id": "el-osito-y-la-tormenta",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
+  "version": 20,
   "title": "The Little Bear and the Storm",
-  "summary": "A night full of thunder frightens little Nilo the bear, until Mama Bear teaches him a secret trick to calm his heart.",
+  "summary": "One stormy night, the thunder frightens little Nilo. Mama Bear teaches him a trick for knowing when the storm is going away.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Night was falling over the forest, and little Nilo the bear was snuggled up in his cozy cave, next to Mama Bear. Outside, the trees began to bend under a rising wind. Many drops of rain started to fall on the leaves.\n\nNilo yawned and closed his eyes, ready to sleep. But suddenly, far away, there rolled a rumble of thunder.\n\nIt was still very soft, like a sleeping drum. Nilo opened his eyes wide, wide. He felt a little knot in his tummy.\n\n'Mama,' he whispered, 'what was that noise? ' Mama Bear hugged him gently and said, 'It's just the storm, my love. Nothing is going to happen to you.\n\n'",
+      "text": "In a little house in the forest lived Nilo and Mama Bear.\n\nThat night it was raining. The drops tapped on the roof, tick, tick, tick, and slid down the windowpanes as if they were having a race.\n\nNilo was already in bed, his eyes nearly closed.\n\nAnd suddenly…\n\nBOOM!\n\nNilo jumped. His ears shot up. He leapt out of bed and ran to hide in Mama's lap.\n\n\"What was that?\"\n\n\"Thunder,\" said Mama Bear, hugging him tight. \"There's a storm.\"",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "thunder",
-          "sfx": "thunder",
-          "delayMs": 600
-        }
-      ]
+      "music": "guitar_night",
+      "cues": [{ "anchor": "boom", "sfx": "thunder" }]
     },
     {
       "id": "s2",
-      "text": "The storm grew stronger. Over the cave whistled the wind.\n\nAnd all of a sudden, BOOM!, over the roof rolled a huge clap of thunder. Nilo hid under the blanket and began to tremble.\n\n'I'm scared, mama,' he said in a shaky little voice. 'The thunder is so loud. ' Mama Bear searched for him among the blankets and pulled him close to her warm chest.\n\nShe felt Nilo's heart beating very fast, thump-thump, thump-thump. 'I know, sweetheart,' she said tenderly. 'Sometimes big noises are scary.\n\nBut I am here with you, and together we will wait for it to pass. '",
+      "text": "Nilo was trembling. His heart was going thump-thump, thump-thump, very fast.\n\n\"I don't like thunder,\" he said. \"It's so big. And I never know when it's going to come.\"\n\nMama Bear sat down with him by the window and wrapped him in the blanket.\n\n\"Shall I teach you a trick? It's a trick for measuring the storm.\"\n\n\"You can measure it?\"\n\n\"Look. First you see a light in the sky. Then comes the thunder. If you count slowly how long it takes, you'll know if the storm is near or far.\"\n\nJust then, the whole window lit up with a flash of lightning.\n\n\"One…\" counted Mama Bear. \"Two…\"\n\nAnd far away, the thunder rumbled.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_high"
-        }
-      ]
+      "cues": [{ "anchor": "lightning", "sfx": "thunder", "delayMs": 2000 }]
     },
     {
       "id": "s3",
-      "text": "'Do you want me to teach you a secret trick? ' asked Mama Bear. Nilo peeked out his nose and said yes.\n\n'It is easy: when the noise comes, instead of trembling, we are going to breathe.\n\n' Just then, over the forest, rolled another rumble of thunder. Mama Bear took air in through her nose, filling her belly like a balloon: oooone, two, three. Then she let the air out slowly through her mouth: whooo.\n\n'Now you,' she said. Nilo took air in deep, filled his tummy, and then let it out softly. Again.\n\nAnd again. Little by little, the knot in his belly came undone, like a bow that unties itself.",
+      "text": "\"Two,\" said Mama Bear. \"It's close, but not right on top of us. And now comes the second part of the trick: while you count, you breathe. Breathe in on one number. Breathe out on the next.\"\n\nNilo breathed in. He breathed out. He breathed in. He breathed out.\n\nHis heart began to calm down. Thump… thump… thump.\n\nAnd once again, out there, came a flicker.\n\n\"One,\" counted Nilo, all by himself this time. \"Two. Three. Four…\"\n\nThe thunder was quieter.\n\n\"Four!\" said Nilo. \"I counted to four!\"\n\n\"And what does that mean?\"\n\n\"That it's further away!\"",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "breathe",
-          "sfx": "breathe_in"
-        }
-      ],
-      "music": "gentle_piano"
+      "cues": [{ "anchor": "flicker", "sfx": "thunder", "delayMs": 3500 }]
     },
     {
       "id": "s4",
-      "text": "Outside, the storm went on, but Nilo and Mama Bear breathed together, calm. After a while, over the cave, there rolled another rumble of thunder. This time Nilo took his air in slowly instead of hiding.\n\n'I did it, mama! ' he whispered, a little bit proud. Mama Bear smiled and gave him a kiss on the forehead.\n\nOutside, the rain began to fall more softly, in tiny drops that slid down the leaves: drip, drip, drip.\n\nThe wind was not whistling so hard anymore. The rumbles drifted farther and farther away, as if the storm were sleepy too, and were walking home to its house.",
+      "text": "The rain kept falling, but now Nilo watched the window without hiding. He was waiting for the next light.\n\nThere it was. Far away behind the trees, a tiny glimmer.\n\n\"One. Two. Three. Four. Five. Six…\"\n\nThis time the thunder was just a grumble, like a cat under the sofa.\n\n\"Six!\" shouted Nilo, bouncing in Mama's lap. \"It's going away! The storm is going away!\"\n\n\"It's going away,\" said Mama Bear, and she kissed him between the ears. \"And you walked it all the way to the door.\"",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "glimmer", "sfx": "thunder", "delayMs": 5000 }]
     },
     {
       "id": "s5",
-      "text": "And then, without noticing, the storm passed. Mama Bear poked her head out of the cave. 'Look, Nilo,' she said softly.\n\nThe sky was clear and, one by one, out came the stars. They looked like friendly little lights. A round moon lit up the wet forest, and everything was calm.\n\nNilo took a deep breath one last time and smiled. He was not scared anymore. Curled up in his mama's warm arms, with heavy eyes, he let sleep wrap around him.\n\n'Good night, my brave one,' whispered Mama Bear. And so, peaceful, until the next morning, little Nilo fell asleep.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "Little by little, the rain grew lighter. It wasn't drumming on the roof any more: it was stroking it.\n\nNilo kept watching the window, his eyes getting heavier and heavier.\n\n\"I'm going to count the next one,\" he said, yawning. \"One… two…\"\n\nBut he never got to three.\n\nHe fell asleep in Mama's lap, wrapped in the blanket, with a warm nose and a calm heart.\n\nMama Bear carried him to bed without waking him.\n\n\"Goodnight, my brave one,\" she whispered.\n\nAnd outside, far away, the storm went on its way, without a sound.",
+      "ambient": "rain",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

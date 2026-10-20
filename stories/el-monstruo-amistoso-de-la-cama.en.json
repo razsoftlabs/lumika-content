@@ -2,66 +2,41 @@
   "id": "el-monstruo-amistoso-de-la-cama",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
+  "version": 20,
   "title": "The Friendly Monster Under the Bed",
-  "summary": "When Iván hears a tiny noise under his bed, he discovers that the monster living there is hiding a secret a lot like his own.",
+  "summary": "One night, Iván hears a noise under his bed. A monster lives there, and it turns out the monster is scared of the dark. And of children.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Iván snuggled down under the blankets. Through the open curtains came a round, silver light: the moon. Outside, the trees rocked gently in the wind.\n\nEverything was calm... until, from under the bed, came a tiny noise. A shiver.\n\nA sigh. Iván lay very still, listening to his own heartbeat. What could that shy little sound be, there in the dark?",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Iván already had his pyjamas on, he had already brushed his teeth, and he had already asked for one last glass of water.\n\nDad switched off the light.\n\n\"Leave the door open,\" Iván asked. \"Just a little bit.\"\n\nDad left it open just a little bit, and a thread of light from the hallway came into the room.\n\nIván pulled the covers up to his ears. He didn't like the dark one bit.\n\nEverything was quiet. And then, from under the bed, came a noise.\n\n\"Atchoo!\"",
+      "ambient": "city_soft",
+      "music": "music_box",
+      "cues": [{ "anchor": "atchoo", "sfx": "sneeze_cute" }]
     },
     {
       "id": "s2",
-      "text": "Very carefully, Iván peeked over the edge of the bed. And there, between an old ball and a slipper, were two big, shiny eyes. It was a monster.\n\nBut it did not roar or look scary: it was curled up, hugging its knees, trembling. When it saw Iván, it spoke in a frightened whisper.\n\n'Please, don't hurt me. ' Iván blinked, surprised. The monster seemed even more scared than he was.",
-      "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Iván went stiff as a board.\n\nSlowly, very slowly, he took the torch out from under his pillow. He leaned over the edge of the bed. And he shone it.\n\nBetween an old ball and a slipper, there were two enormous eyes.\n\nThey were the eyes of a monster. A blue, furry monster with two little round ears. He was curled up in a ball, hugging his knees, and wobbling like a jelly.\n\n\"Please,\" whispered the monster. \"Don't hurt me.\"\n\nIván blinked. The monster was much more scared than he was.",
+      "ambient": "city_soft",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "'I won't hurt you,' said Iván softly. 'Why are you shivering? ' The monster looked down.\n\n'It's just... I'm very afraid of the dark,' it confessed. 'Down here everything is black, and when the light goes out, I feel so alone.\n\n' Iván's eyes went wide: he felt exactly the same way. That was why, every night, he left a little gap in his door. Surprised to be so alike, the two of them laughed.\n\nIt was a soft laugh, the kind you share in secret.",
-      "cues": [
-        {
-          "anchor": "laughed",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "\"I won't hurt you,\" said Iván. \"What's your name?\"\n\n\"Grumo.\"\n\n\"And why are you shaking, Grumo?\"\n\nThe monster looked around, as if he were embarrassed.\n\n\"It's very dark down here,\" he said. \"And the house makes funny noises at night. And besides…\" He lowered his voice. \"My mum says that sometimes children turn up under beds.\"\n\nIván covered his mouth. But he couldn't hold it in, and out came a giggle.\n\nGrumo looked offended. Then he started laughing too.\n\n\"Are you scared of the dark as well?\" asked Grumo.\n\n\"A little bit,\" said Iván. \"That's why I leave the door open.\"",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "giggle", "sfx": "giggle" }]
     },
     {
       "id": "s4",
-      "text": "Iván had an idea. From under his pillow he pulled out his magic flashlight and switched it on. Plink!\n\nOn the ceiling appeared a whole scatter of soft, golden stars.\n\n'Look,' he said, 'now the dark isn't so scary. ' The monster gazed up, amazed, and its trembling slowly faded away. 'I've never seen anything so beautiful,' it murmured.\n\nAnd then Iván lent it his softest teddy bear, so it wouldn't feel alone.",
-      "cues": [
-        {
-          "anchor": "stars",
-          "sfx": "twinkle"
-        }
-      ],
+      "text": "\"What funny noises?\" asked Iván.\n\nThe two of them went very quiet, listening.\n\nSomething was humming in the kitchen, softly, without stopping.\n\n\"That's the fridge,\" said Iván. \"It purrs all night, like a big cat.\"\n\nSomething went glug, glug, glug inside the wall.\n\n\"That's the water going through the pipes. It's going to the neighbours' bath.\"\n\nAnd something tapped gently on the window.\n\n\"And that's the wind,\" said Iván, \"coming to see if we're asleep yet.\"\n\nGrumo opened his eyes very wide. Every noise, once it had a name, was less scary.\n\n\"Hey,\" he said. \"You know a lot about the night.\"",
       "ambient": "city_soft",
-      "music": "music_box"
+      "cues": [{ "anchor": "wind", "sfx": "wind_soft" }]
     },
     {
       "id": "s5",
-      "text": "That night, the monster did not stay under the bed. It curled up beside Iván, with the teddy bear between them. The little lights still glowed on the ceiling and, from the window, over them both watched the moon.\n\n'Goodnight, friend,' yawned Iván. 'Goodnight,' answered the monster, almost asleep already. Very close together and quiet, the two of them breathed.\n\nLittle by little they closed their eyes. No one was afraid anymore: there was only the quiet night, warm and soft, watching over them until morning.",
-      "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        }
-      ],
+      "text": "That night, Grumo didn't stay under the bed.\n\nHe climbed up very quietly and curled up at Iván's feet, on top of the blanket. Iván lent him his teddy, the softest one, so he'd have something to hug.\n\n\"Goodnight, Grumo.\"\n\n\"Goodnight, Iván.\"\n\nAfter a while, from the foot of the bed, there came a blue, furry snore.\n\nIván smiled in the dark. He wasn't scared any more. Now he knew who was there.\n\nAnd since that night, there's no need to leave the door open.",
       "ambient": "city_soft",
-      "music": "lullaby_piano"
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "snore", "sfx": "snore_soft" }]
     }
   ]
 }

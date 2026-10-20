@@ -2,65 +2,42 @@
   "id": "el-leon-cosquilloso",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 20,
   "title": "El león cosquilloso",
-  "summary": "El rey de la sabana guarda un secreto muy divertido que aparece justo cuando intenta rugir.",
+  "summary": "Leo acaba de convertirse en el rey de la sabana, y cada mañana tiene que rugir desde la roca grande. El problema es que el viento le hace cosquillas en la melena.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Cada mañana, cuando el sol asomaba sobre la sabana, todos los animales esperaban el gran rugido de Leo, el león. Su rugido despertaba al mundo entero: fuerte, valiente, como un trueno amistoso. Leo respiró hondo, infló el pecho y abrió la boca bien grande.\n\nPero en lugar de un rugido le salió una risa.\n\n'¡Ji, ji, ji! '. Los animales se quedaron confundidos.\n\nLeo se tapó el hocico con las dos patas, colorado de vergüenza, y salió corriendo a esconderse detrás de una roca grande. ¿Qué le pasaba al rey de la sabana?",
+      "text": "En la sabana, cada mañana, el rey despierta a todos los animales con un rugido.\n\nDesde hacía muchos años, el rey era el abuelo León. Pero el abuelo ya estaba viejo y quería dormir hasta tarde. Así que ese día, por primera vez, le tocaba a Leo.\n\nLeo subió a la roca grande. Abajo, las jirafas, los elefantes y las cebras esperaban en silencio.\n\nLeo tomó aire. Infló el pecho. Abrió la boca enorme…\n\nY justo en ese momento, llegó el viento.\n\nLe entró por la melena, le hizo cosquillas en las orejas, y…\n\n—¡Ji, ji, ji! —se le escapó—. ¡Ja, ja, ja!\n\nLos animales se miraron. Leo se tapó el hocico con las dos patas, colorado como un tomate, y salió corriendo a esconderse.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "viento", "sfx": "wind_soft" }]
     },
     {
       "id": "s2",
-      "text": "Detrás de la roca, Leo lo intentó otra vez, él solo. Cerró los ojos, apretó las patas y tomó aire para soltar el rugido más grande de la historia. Pero justo entonces le acarició la panza una brisa.\n\n¡Ay! A Leo le dio muchísima cosquilla, y en vez de rugir soltó otra risa. '¡Ja, ja, ja!\n\n'. Rodó por el pasto sin poder parar. '¿Qué clase de rey soy?\n\n', suspiró, tapándose la cara. 'Un rey debe rugir, no reírse'. Pobre Leo, no sabía que su secreto pronto haría feliz a todos.",
-      "cues": [
-        {
-          "anchor": "brisa",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Detrás de un arbusto lo encontró Suri, la suricata, que era su mejor amiga.\n\n—¿Qué te pasó allá arriba?\n\n—Son las cosquillas —dijo Leo, muy bajito—. Cuando el aire me mueve la melena, me hace cosquillas. Siempre me ha pasado. Pero nunca se lo había contado a nadie.\n\nSuri se rascó la cabeza.\n\n—Pues hay que arreglarlo antes de mañana.\n\nPrimero le ató la melena con una liana, bien apretada, para que el aire no se la moviera.\n\nLeo se miró en un charco. Parecía una escoba.\n\nY le dio tanta risa que se le soltó la liana.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Tres amigos habían visto a Leo escaparse: la mona Mona, el pájaro Pío y una abeja. '¿Por qué el rey se esconde? ', se preguntaron.\n\nSin hacer ruido, se acercaron de puntillas hasta la roca. Nadie alcanzó a oír sus pasos.\n\nAlrededor de ellos, haciendo bzzz, bzzz, volaba la abeja. Se asomaron despacio por un lado de la roca, conteniendo la respiración. Y entonces, los tres vieron algo que jamás imaginaron.\n\nLeo, el león más grande de la sabana, estaba tumbado en el suelo, muerto de risa.",
-      "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "—Segunda idea —dijo Suri—. Rugirás dentro de una cueva, donde no entra el aire.\n\nLeo se metió en la cueva y rugió. Y le salió un rugido magnífico, enorme, de verdadero rey.\n\nPero desde adentro de la cueva no lo oyó nadie. Solo un murciélago que dormía colgado del techo, y que se despertó de muy mal humor.\n\n—Tercera idea —dijo Suri—. Barro.\n\nAgarró un puñado de barro y se lo tiró a la melena. ¡Chof!\n\nLa melena quedó tiesa como una piedra. El aire ya no la movía. Pero cuando el barro empezó a secarse, le picaba. Le picaba muchísimo.\n\nY Leo se rascó, y se rascó, y se revolcó por el suelo, muerto de risa.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "chof", "sfx": "water_splash" }]
     },
     {
       "id": "s4",
-      "text": "La abeja se posó con mucha suavidad en la punta de su nariz. ¡Y Leo estalló en una carcajada!\n\n'¡JA, JA, JA! '. Pataleando de alegría, se revolcó feliz entre las hojas.\n\nEntonces los amigos comprendieron el secreto del rey: ¡Leo era el león más cosquilloso del mundo! No podía rugir porque todo, el viento, el pasto, una pluma, le hacía demasiada cosquilla. Y al verlo tan contento, los tres amigos ya no aguantaron más.\n\nMona se rió, Pío se rió, la abeja se rió, y la sabana entera se llenó de risas.",
-      "cues": [
-        {
-          "anchor": "carcajada",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "A la mañana siguiente, Leo subió otra vez a la roca grande, con la melena recién lavada y el corazón muy chiquito.\n\nAbajo, toda la sabana esperaba.\n\nLeo tomó aire. Infló el pecho. Abrió la boca…\n\nY llegó una ráfaga.\n\nLeo apretó los dientes. Aguantó. Aguantó. Aguantó…\n\nY soltó la carcajada más grande que se había oído nunca en la sabana.\n\nHubo un silencio.\n\nEntonces una jirafa soltó una risita. Después, un elefante. Después las cebras, los monos, los ñus y hasta los hipopótamos, con la boca abierta como cajones.\n\nToda la sabana se despertó riendo.",
+      "ambient": "meadow_day",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "carcajada", "sfx": "giggle" }]
     },
     {
       "id": "s5",
-      "text": "Leo abrió los ojos y vio a sus amigos riendo con él, no de él. 'Tu risa es más linda que cualquier rugido', dijo Mona. 'Despiertas la sabana con alegría'.\n\nLeo sonrió, y por primera vez no sintió vergüenza. Poco a poco el sol se escondió y salieron las estrellas. Brillaban como chispas de plata.\n\nLos cuatro amigos se acurrucaron juntos sobre la hierba tibia, bostezando despacio. Y uno tras otro, bajo el cielo y con una sonrisa en la cara, se quedaron dormidos.\n\nEsa noche, la sabana durmió feliz, mecida por el eco suave de las risas del día.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "dormidos",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "El abuelo León se asomó desde su sombra, despeinado y con cara de sueño.\n\n—¿Qué es todo este alboroto? —preguntó.\n\n—Lo siento, abuelo —dijo Leo—. Quise rugir. Pero tengo cosquillas en la melena.\n\nEl abuelo se quedó callado un momento. Después se acercó y le dijo al oído:\n\n—Yo también. Por eso siempre rugía tan rápido.\n\nY los dos se rieron juntos, el rey viejo y el rey nuevo.\n\nDesde ese día, en la sabana nadie se despierta con un rugido. Se despiertan con una risa. Y dicen los animales que así el día empieza muchísimo mejor.",
+      "ambient": "meadow_day",
+      "music": "marimba_playful",
+      "cues": []
     }
   ]
 }

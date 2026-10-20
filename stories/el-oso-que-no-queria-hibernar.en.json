@@ -2,123 +2,71 @@
   "id": "el-oso-que-no-queria-hibernar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
+  "version": 20,
   "title": "Not Sleeping This Winter",
-  "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes.",
+  "summary": "Bruno decides that this year he won't hibernate, because he wants to see the snow with his own eyes.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Autumn came to the Tall Pines Forest smelling of wet earth and sweet apples. Down through the air, one after another, came the leaves.\n\nThey made a soft sound when somebody stepped on them, and they covered the path in yellow and red. Over everything else passed the wind. It moved the branches and pushed fat clouds across the sky, as if it were sweeping summer away to store it in a drawer.\n\nIn every cave and burrow there was a rush. The marmots carried seeds. The dormice fluffed up beds of moss.\n\nThe turtles looked for the softest mud in the stream.\n\n\"To sleep, to sleep!\" they all sang. \"Winter is on its way!\"\n\nAnd in the middle of all that yawning stood Bruno, a brown bear with big paws, round ears, and a belly that sounded like a drum when he scratched it. Bruno had a dry leaf stuck on his nose and a brand-new idea spinning around in his head.\n\nAn idea he did not yet dare to say out loud.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "text": "Autumn came to the forest smelling of damp earth and apples.\n\nThe trees turned yellow and red, and the path filled up with dry leaves.\n\nIn every cave and burrow, everyone was in a hurry. The marmots carried seeds. The dormice made beds of moss. The tortoises looked for the softest mud by the stream.\n\n\"Off to bed, off to bed, winter's coming!\" they told each other, yawning.\n\nAnd in the middle of all that yawning was Bruno, a brown bear with round ears and a big tummy.\n\nBruno wasn't yawning. Bruno was stepping on leaves, one by one, just to hear them rustle.\n\nAnd there was an idea going round and round in his head.",
+      "ambient": "forest_birds",
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "rustle", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s2",
-      "text": "\"I'm not going to hibernate this year,\" announced Bruno.\n\nHis grandmother, Rosalinda the bear, stopped arranging dry leaves and looked at him with very wide eyes.\n\n\"You're not going to sleep? But sweetheart, we bears sleep all winter long. It's what we do.\"\n\n\"I want to see winter,\" said Bruno. \"Everybody tells me about it and nobody looks at it. They say the sky turns white and the water turns hard.\n\nI want to see it with my own eyes!\"\n\nRosalinda looked at him fondly and out slipped a laugh.\n\nIt was a warm, round sound, like river water in summer.\n\n\"All right,\" she said. \"But eat a lot, a lot, a lot. And in case you change your mind, don't fully close the door.\"\n\nBruno ate blueberries until his tongue was painted blue. Then he sat down at the mouth of the cave, crossed his paws, and waited for winter the way you wait for a friend who is coming from far away.",
-      "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "fireplace"
+      "text": "\"I'm not going to hibernate this year,\" Bruno announced that night.\n\nHis grandma, Rosalinda the bear, stopped knitting and looked at him over her glasses.\n\n\"What do you mean, you're not? Bears sleep all winter. It's what we do.\"\n\n\"That's just it,\" said Bruno. \"Everyone tells me what winter's like, and no bear has ever seen it. They say the sky turns white. That water goes hard. I want to see it!\"\n\nGrandma thought for a long time. Then she carried on knitting.\n\nShe knitted all night. And the next morning, she hung a scarf around Bruno's neck, with stripes of every colour.\n\n\"For the cold,\" she said. \"Eat lots. And if you get sleepy, come home.\"",
+      "ambient": "fireplace",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "The first days of winter were a party. The forest went so quiet that Bruno could hear his own footsteps: crish, crish, crish over the frost. Every puddle along the path had turned hard as a plate, and when Bruno stepped on it carefully there was a crunch.\n\nCrick! That little noise made him laugh and laugh.\n\n\"I'm awake and the puddle is asleep!\" he giggled to himself.\n\nHe discovered things no sleepy bear had ever seen: the white steam that came out of his mouth like smoke from a kettle, the spiderwebs turned into crystal necklaces, the pale, lazy sun peeking late between the pines. He ate the last frozen blackberries, which tasted like forest ice cream.\n\nAt night he wrapped himself in his moss blanket at the mouth of the cave and told his grandmother about his day, and she answered with one very long snore from deep inside.",
+      "text": "The first days of winter were a party.\n\nThe forest went so quiet that Bruno could hear his own footsteps on the frost.\n\nThe puddles on the path had gone as hard as plates. Bruno stepped on one very carefully, and it went: crick!\n\nIt made him laugh so much that he stepped on all of them.\n\nHe discovered things no bear had ever seen. The steam that came out of his mouth, like smoke from a kettle. Spider webs turned into crystal necklaces. The last blackberries, frozen, tasting like forest sorbet.\n\nAt night he went back to the cave and told Grandma all about it. She was asleep, curled up in a ball at the very back.\n\nGrandma answered him by snoring.",
       "ambient": "snow_wind",
       "cues": [
-        {
-          "anchor": "crunch",
-          "sfx": "crunch"
-        }
+        { "anchor": "crick", "sfx": "crunch" },
+        { "anchor": "snoring", "sfx": "snore_soft" }
       ]
     },
     {
       "id": "s4",
-      "text": "One night Bruno woke up because the silence had changed its sound. He came out of the cave and stood completely still, with his mouth open.\n\nThousands of white dots were coming down from the sky, spinning slowly, in no hurry at all. They landed on his nose, on his ears, on his shoulders, and they made no noise: only a cold, soft tickle, as if the air were full of feathers.\n\n\"And what is this?\" he whispered.\n\n\"Snow,\" answered a small voice from a branch.\n\nBruno didn't look to see who it was. He couldn't stop looking up. Behind the clouds, round and yellow, shone the moon.\n\nAnd between the flakes slipped two or three stars. They all seemed to wink at him.\n\nHe sat down on the ground. The snow covered his paws, his belly, the tip of his tail. Bruno laughed so hard that the snow shook off him, and he thought that staying awake had been worth it.",
+      "text": "One morning, Bruno woke up because the silence sounded different.\n\nHe went out of the cave and stood there with his mouth open.\n\nThousands of little white dots were falling from the sky, twirling slowly, in no hurry at all. They landed on his nose, on his ears, on his scarf. They didn't make any noise. Just a cold little tickle, as if the air were full of feathers.\n\nIt was snow.\n\nBruno stuck out his tongue and caught a flake. It tasted of nothing, and of cold, and of something new.\n\nHe flopped onto his back and waved his arms and legs. When he got up, there was a picture in the snow: a bear with wings.\n\n\"It was worth it,\" Bruno said, very quietly. \"It was worth staying awake.\"",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ]
+      "music": "celesta_snow",
+      "cues": []
     },
     {
       "id": "s5",
-      "text": "In the morning, the forest lake was not water anymore: it was a mirror. Bruno put one paw on it very, very carefully. Then the other one.\n\nThen all four.\n\nAnd then, whoops! He slipped and landed on his belly with a thud.\n\nIt sounded like a drum full of snow.\n\n\"Again!\" he shouted, delighted.\n\nBruno learned to skate in the funniest way possible: by falling over. He slid backwards, sideways, spinning like a leaf on the water, with all four paws up in the air. From the forest came laughter: a hare, two squirrels, and a whole crowd of birds had come to watch the show of the skating bear.\n\n\"Bears don't skate!\" said the hare.\n\n\"This one does,\" answered Bruno, and he fell over again, and everyone laughed again, and the ice made a funny noise, tuck, tuck, tuck, as if it were laughing underneath too.",
+      "text": "The next day, the forest lake wasn't water any more. It was a mirror.\n\nBruno put one paw on it, very, very carefully. Then another. Then all four.\n\nAnd then he slipped, and landed on his tummy. Thump!\n\n\"Ha!\" laughed somebody from the bank. \"Bears can't skate!\"\n\nIt was a hare with white fur, so white you could hardly see her against the snow. Her name was Frida.\n\n\"Then teach me,\" said Bruno, still lying on the ice.\n\nAnd Frida did. Bruno learned to skate in the best way there is: by falling over. Sideways, backwards, spinning like a top with all four paws in the air.\n\nThat afternoon Tomás came along too, the fox with the enormous tail, to see what all the fuss was about. And that was how Bruno made his winter friends: the ones who don't go to sleep.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "thud",
-          "sfx": "thud"
-        }
-      ]
+      "cues": [{ "anchor": "thump", "sfx": "thud" }]
     },
     {
       "id": "s6",
-      "text": "And that is how Bruno made winter friends: the ones who don't hibernate.\n\nHe met Frida, the hare with the white fur, who taught him to walk on top of the snow without sinking. He met the three sparrows on the crooked branch, who slept all squished together like a single pom-pom. He met Tomas, the fox with the enormous tail, who showed him where the stream was still singing under the ice.\n\nAnd right at the top, in the old oak, lived Ulises. He was big, he was serious, and he had eyes as round as two coins: an owl.\n\nHe said important things in a whisper:\n\n\"Hoooo... Bruno... winter is beautiful, and it is also hard.\n\nWhen the forest warns you, listen to it.\"\n\n\"And how does it warn me?\" asked Bruno.\n\n\"It goes quiet,\" said Ulises. \"Quieter than now.\"\n\nBruno didn't understand, but he nodded his head, because it was night and because he was very happy. They all ate pine nuts and told stories until the snow turned blue.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "One afternoon, Bruno wandered further than ever, following some bird tracks.\n\nAnd then up got the wind.\n\nIt wasn't the gentle air of the other days. This came hard, pushing the snow sideways, wiping out the paths, whistling through the pines.\n\nBruno walked and walked. But everything looked the same: white, white, white.\n\nHis paws were cold. His nose was frozen. And above all, he was enormously sleepy, so sleepy that his eyelids felt as heavy as two stones.\n\n\"I'll just close my eyes for a little while,\" he said.\n\nAnd he sat down next to a fallen log, in the middle of the snow.",
+      "ambient": "snow_wind",
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "wind", "sfx": "wind_high" }]
     },
     {
       "id": "s7",
-      "text": "One afternoon the forest went quiet. So quiet that Bruno could hear his own heart.\n\nHe remembered Ulises and felt a strange tickle in his belly.\n\nThen came the wind. Not the gentle, warm one from before: this one came strong, pushing the snow sideways, erasing the paths, whistling through the pines like an enormous flute. Far away, behind the mountains, a long thunder rolled, as if the sky were stretching.\n\nBruno walked and walked, but everything looked the same: white, white, white. His paws were stiff with cold. His nose was freezing.\n\nAnd most of all, he had an enormous sleepiness, a sleepiness that weighed on his eyelids like two warm stones.\n\n\"I'll just close my eyes for a moment,\" he said, and he sat down beside a fallen trunk.\n\nAnd from somewhere in the snow, very close by, somebody called him by his name.",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "music": "gentle_piano"
+      "text": "\"Bruno! BRUNO!\"\n\nIt was Frida and Tomás, up to their ears in snow. They had followed his stripy scarf, the only thing you could see in all that white.\n\n\"Up you get, bear!\" said Frida. \"You can't sleep here.\"\n\nThey pushed him and pulled him and took him between them to Tomás's den, under the roots of an oak tree.\n\nIt was small and dark, and as warm as a cup of milk.\n\nFrida covered him with dry leaves. Tomás laid his enormous tail over Bruno's cold paws. Outside, the storm was still blowing. But inside, all you could hear was three friends breathing together.\n\n\"Thank you,\" said Bruno, his voice full of sleep.\n\n\"That's what winter friends are for,\" said Tomás. \"To lend you their tail.\"",
+      "ambient": "fireplace",
+      "cues": []
     },
     {
       "id": "s8",
-      "text": "It was Frida and Tomas, with snow up to their ears.\n\n\"Up you get, bear!\" said the hare. \"You can't sleep here.\"\n\nThey pushed him and pulled him and carried him between the two of them all the way to the old oak. Tomas pushed aside some roots and a little moss, and behind them appeared a door.\n\nThe three of them squeezed into the burrow, which was small, dark, and as warm as a cup of milk.\n\nInside there were piles of dry grass, stored seeds, and three sparrows asleep in a corner. Ulises was waiting for them with shining eyes.\n\nLila covered Bruno with her own body and with a big pile of leaves. Tomas laid his enormous tail over Bruno's cold paws. Outside, the wind kept whistling, but inside you could hear something else: the breathing of friends, all close together, all in the same rhythm.\n\n\"Thank you,\" said Bruno, his voice thick with sleep.\n\n\"That's what winter friends are for,\" said Tomas. \"For lending you a tail.\"",
+      "text": "When the storm had passed, the forest was covered in sugar.\n\nBruno came out of the den and stretched. And he noticed something strange: everything felt heavy. His paws, his head, even his ears.\n\nHe sat down in the snow and thought for a while.\n\n\"I think my body is telling me something,\" he said slowly.\n\n\"What's it telling you?\" asked Frida.\n\n\"That I've seen winter now. I've seen the snow, I've skated, I've made friends. And now it's time to sleep.\"\n\nFrida gave him a hare hug, which is a very quick sort of hug. Tomás gave him a pine cone for the journey.\n\n\"Will you come back in spring?\" he asked.\n\n\"I promise,\" said Bruno.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        }
-      ],
-      "music": "marimba_playful"
+      "music": "guitar_warm",
+      "cues": []
     },
     {
       "id": "s9",
-      "text": "When the storm calmed down, the sun peeked out again and the forest was covered in sugar. Bruno came out of the burrow, stretched, and discovered something curious: everything felt heavy. His paws, his head, even his whiskers.\n\n\"I think my body is telling me something,\" he said slowly.\n\nHe sat down in the snow and breathed.\n\nHe did it deeply, once, twice, three times, the way you do before something important. And then he understood: his body was not stubborn or boring. His body was wise.\n\nIt was asking him to rest because it loved him, just as Frida asked him to eat and Ulises asked him to listen.\n\n\"I've seen winter. I saw the snow, I skated, I made friends. Now it's my turn to sleep,\" he said in a whisper.\n\nUlises ruffled his feathers, pleased.\n\n\"Hoooo... that, Bruno, is called growing up.\"\n\nLila gave him a hare hug, which are quick hugs. Tomas gave him a pine nut for the road. Bruno promised to come back in spring.",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        }
-      ]
-    },
-    {
-      "id": "s10",
-      "text": "The walk home was slow and lovely. Bruno left great big round footprints, and inside each one a blue shadow gathered.\n\nGrandmother Rosalinda didn't even move when he came in. Bruno arranged the dry leaves, turned around three times on his bed of moss, the way bears do, and lay down with his belly facing up.\n\nFrom the mouth of the cave he could see a piece of sky. There it was, white and calm, the moon. The snow was shining as if somebody had saved the whole day on the ground so that it would not be lost.\n\nBruno closed his eyes. He thought about the ice, about the laughing, about the tail of Tomas. He thought that winter was even more beautiful than everyone had told him.\n\nAnd then, very slowly and very warmly, out slipped his first snore.\n\nOutside it kept snowing. Inside, a happy bear slept until spring.",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "snore",
-          "sfx": "snore_soft",
-          "delayMs": 600
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "The way home was slow and lovely. Bruno left big round footprints in the snow.\n\nGrandma didn't stir when he came into the cave.\n\nBruno took off his scarf and folded it carefully. He turned round three times on his bed of moss, the way bears do, and lay down snuggled up against Grandma.\n\nHe thought about the ice. About the bear with wings. About Tomás's tail.\n\nHe thought that winter was even lovelier than everyone had said.\n\nAnd then, very slowly and very warmly, out came his first snore.\n\nOutside, it was still snowing. Inside, a happy bear slept until spring.",
+      "ambient": "fireplace",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "snore", "sfx": "snore_soft" }]
     }
   ]
 }

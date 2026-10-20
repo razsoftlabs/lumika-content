@@ -1475,7 +1475,7 @@
     },
     {
       "id": "el-oso-que-no-queria-hibernar",
-      "version": 9,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1487,7 +1487,7 @@
       "cover": "covers/el-oso-que-no-queria-hibernar.webp",
       "ageMin": 3,
       "ageMax": 8,
-      "durationMin": 10,
+      "durationMin": 8,
       "categories": [
         "animales",
         "risas"
@@ -1503,22 +1503,34 @@
       ],
       "premium": true,
       "preload": [
-        "music/celesta_snow"
+        "ambient/fireplace",
+        "ambient/forest_birds",
+        "ambient/snow_wind",
+        "music/celesta_snow",
+        "music/gentle_piano",
+        "music/guitar_warm",
+        "music/lullaby_piano",
+        "music/marimba_playful",
+        "sfx/crunch",
+        "sfx/leaves_rustle",
+        "sfx/snore_soft",
+        "sfx/thud",
+        "sfx/wind_high"
       ],
       "preview": {
         "es": {
           "title": "Este invierno no duermo",
-          "summary": "Bruno decide que este ano no dormira el invierno, porque quiere ver la nieve con sus propios ojos."
+          "summary": "Bruno decide que este año no va a hibernar, porque quiere ver la nieve con sus propios ojos."
         },
         "en": {
           "title": "Not Sleeping This Winter",
-          "summary": "Bruno decides he will not sleep through winter this year, because he wants to see the snow with his own eyes."
+          "summary": "Bruno decides that this year he won't hibernate, because he wants to see the snow with his own eyes."
         }
       }
     },
     {
       "id": "el-pez-arcoiris-pequeno",
-      "version": 9,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1530,7 +1542,7 @@
       "cover": "covers/el-pez-arcoiris-pequeno.webp",
       "ageMin": 3,
       "ageMax": 6,
-      "durationMin": 6,
+      "durationMin": 4,
       "categories": [
         "animales",
         "amistad",
@@ -1546,25 +1558,29 @@
       ],
       "premium": true,
       "preload": [
+        "ambient/underwater",
         "music/gentle_piano",
+        "music/guitar_clear",
+        "music/marimba_playful",
         "sfx/bubbles",
         "sfx/giggle",
-        "sfx/twinkle"
+        "sfx/sparkle",
+        "sfx/whisper"
       ],
       "preview": {
         "es": {
           "title": "Arcoíris busca amigos",
-          "summary": "Un pez tímido encuentra amigos en el fondo del mar."
+          "summary": "Arcoíris es un pez de todos los colores, y tan tímido que se pasa el día escondido en su coral. Hasta que llega un pulpo que sabe esperar."
         },
         "en": {
           "title": "Rainbow Looks for Friends",
-          "summary": "A shy little fish finds friends at the bottom of the sea."
+          "summary": "Rainbow is a fish of every colour, and so shy that he spends all day hiding in his coral. Until along comes an octopus who knows how to wait."
         }
       }
     },
     {
       "id": "el-pinguino-que-no-tenia-frio",
-      "version": 6,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1576,7 +1592,7 @@
       "cover": "covers/el-pinguino-que-no-tenia-frio.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "animales",
         "risas"
@@ -1592,16 +1608,24 @@
       ],
       "premium": true,
       "preload": [
-        "music/playful_flute"
+        "ambient/ocean_waves",
+        "ambient/snow_wind",
+        "music/lullaby_piano",
+        "music/marimba_playful",
+        "music/strings_hopeful",
+        "sfx/giggle",
+        "sfx/water_splash",
+        "sfx/whoosh",
+        "sfx/wind_high"
       ],
       "preview": {
         "es": {
           "title": "A Pip nunca le da frío",
-          "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?"
+          "summary": "Pip es el único pingüino al que nunca le da frío. Lo intenta todo para enfriarse, hasta que llega la noche más helada del invierno."
         },
         "en": {
           "title": "Pip Is Never Cold",
-          "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?"
+          "summary": "Pip is the only penguin who never feels cold. He tries everything to cool down, until the iciest night of the winter arrives."
         }
       }
     },

@@ -2,59 +2,46 @@
   "id": "el-pez-arcoiris-pequeno",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
+  "version": 20,
   "title": "Rainbow Looks for Friends",
-  "summary": "A shy little fish finds friends at the bottom of the sea.",
+  "summary": "Rainbow is a fish of every colour, and so shy that he spends all day hiding in his coral. Until along comes an octopus who knows how to wait.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In the deepest part of the sea, much further down than the boats reach, where the water is blue, blue, and cool, swam a very special fish. He was tiny, the size of an apple, with a fan-shaped tail. But the most magical thing about him were his scales: they shone with all the colors of the rainbow at the same time.\n\nRed on his tail, orange on his belly, yellow on his back, green on his fins, blue on his neck, and violet on his head. When a sun ray came down to the bottom of the sea and hit a scale, the water all around filled up with sparkles.\n\nBut — and this is the \"but\" of our story — the little fish was very, very shy. When other fish swam by, laughing or playing, he hid behind the corals and stayed very, very still, almost without breathing. He was afraid of speaking, afraid of playing, afraid they'd laugh at him.\n\nHe spent his days alone, watching the slow rise of the bubbles.\n\nHe counted them one by one: one, two, three, four, five. The ocean was his home, but also his hiding place.",
+      "text": "Deep, deep down in the sea, where the water is blue and cool, lived a little fish called Rainbow.\n\nHe was named after his scales. His tail was red, his tummy orange, his back yellow, his fins green and his head blue and violet.\n\nWhen a ray of sunlight reached all the way down and touched his scales, the water filled with sparkles.\n\nBut Rainbow was very, very shy.\n\nWhen other fish swam past, playing and laughing, he hid in his coral and kept very still, hardly breathing. He was scared to talk. He was scared to play. He was scared they would make fun of him.\n\nSo he spent his days alone, counting bubbles.",
       "ambient": "underwater",
+      "music": "guitar_clear",
       "cues": [
-        {
-          "anchor": "sparkles",
-          "sfx": "sparkle"
-        },
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        }
+        { "anchor": "sparkles", "sfx": "sparkle" },
+        { "anchor": "bubbles", "sfx": "bubbles" }
       ]
     },
     {
       "id": "s2",
-      "text": "One calm morning, the little fish was in his coral counting bubbles. Then a purple octopus with eight long arms arrived and stopped right in front of him. He was a friendly octopus, with two googly eyes and a crooked smile.\n\n\"Hi, hi, hi!\" he said waving all his tentacles at the same time. The little fish, scared, slipped further into the coral, almost trembling.\n\n\"I want to play,\" he wanted to say. But the word got stuck. The octopus, without moving from where he was, waited very patiently.\n\n\"I saw your colors from far away. They're so beautiful. They're like a rainbow in the water, did you know?\"\n\nThe little fish peeked out one eye from between the corals. The octopus wasn't coming any closer, wasn't insisting, just smiling at him. \"Want to play with me?\n\nI know a really fun game,\" he offered, tilting his head. The little fish poked his whole head out, hesitated for a second, looked all around, and finally answered in a whisper: \"Okay...\n\nbut just a little bit.\"",
-      "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": "underwater"
+      "text": "One morning, a lilac octopus stopped right in front of his coral.\n\nHe had two goggly eyes and a lopsided smile.\n\n\"Hello, hello, hello!\" he said, waving all eight arms at once.\n\nRainbow squeezed further into the coral.\n\nThe octopus didn't come any closer. He didn't push. He just floated there calmly, waiting.\n\n\"My name's Lolo,\" he said after a while. \"I saw your colours from far away. You look like a rainbow under the water.\"\n\nRainbow peeped out with one eye.\n\n\"Do you want to play hide-and-seek?\" asked Lolo. \"I'm brilliant at hiding.\"\n\nRainbow poked his whole head out. He looked one way. He looked the other. And he answered, in a whisper:\n\n\"All right. But just a little bit.\"",
+      "ambient": "underwater",
+      "cues": [{ "anchor": "whisper", "sfx": "whisper" }]
     },
     {
       "id": "s3",
-      "text": "The octopus taught him a hide-and-seek game among the green seaweed that swayed like dancers. \"I count to ten and you hide,\" he explained. At first, the little fish played close to the coral, without going far, looking back every two seconds in case something scared him.\n\nBut the octopus was such a terrible hider, so funny, that the little fish couldn't hold it anymore: the octopus would tuck himself behind a stone, but his eight arms would stick out from every side, like a flower with tentacles. And then, for the first time in his life, out of the little fish slipped a laugh.\n\nFirst it was a short sound, hee hee. Then a bigger one, ha ha ha. And finally an enormous burst of laughter that rose all the way to the surface, hahahaha!,\n\nloaded with colored bubbles. The little fish's scales shone so much that he looked like an underwater firework. For the first time in his life, he felt a soft warmth in his heart.\n\nThe octopus laughed with him, contagious, and the two of them ended up rolling on the sandy floor of the sea.",
-      "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "\"I'll hide, you count to ten,\" said Lolo.\n\nRainbow counted. One, two, three… nine, ten.\n\nAnd he turned round to look.\n\nIt wasn't hard at all to find him. Lolo had hidden behind a stone, very serious, very still. But the stone was small, and the octopus was big, and his eight arms were sticking out all over the place, as if the stone had hair.\n\nRainbow stared.\n\nFirst out came a hee, hee. Then a ha, ha. And in the end, a laugh so big that it came out fizzing.\n\nHis scales lit up all at once, like fireworks under the water.\n\nIt was the first time in his life he had laughed with someone.",
       "ambient": "underwater",
-      "music": "marimba_playful"
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "laugh", "sfx": "giggle" }]
     },
     {
       "id": "s4",
-      "text": "The loud giggling and the bright colors attracted other neighbors from the bottom of the sea, curious. First a pink starfish appeared, with five points that moved like small fingers. \"What's going on here that's so fun?\"\n\nshe asked. Then came a green seahorse, all elegant with his coiled tail. Then a yellow crab walking sideways, click, click, click.\n\nThen a silvery sardine and a small octopus who was the big octopus's son. Soon a group of friends had formed at the very bottom of the sea, all playing together among the corals. They played hide and seek, chase, who could make the most bubbles.\n\nThe whole ocean filled up with laughter.\n\nThe little rainbow fish wasn't alone anymore. His colors lit up the whole group, like a happy lantern. He learned three important things that morning: that his colors weren't for hiding, they were a gift to make others happy.\n\nThat shyness goes away little by little, by playing. And that having a patient friend is the most beautiful thing in the world. From that day on, every time a new fish felt lonely or scared at the bottom of the sea, the little rainbow fish was the first to come over and say, with a smile: \"Want to play with me?\"",
-      "cues": [
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "The laughing and the lights could be seen from far away.\n\nFirst a pink starfish came over to see what was going on. Then a very elegant seahorse. Then a crab, walking sideways, and a line of silver sardines.\n\n\"Can we play?\" they asked.\n\nRainbow felt the old fear, and he wanted to hide.\n\nBut he looked at Lolo. And Lolo winked at him.\n\n\"Of course,\" said Rainbow, his voice a little wobbly. \"But the octopus counts first. He's terrible at hiding.\"\n\nThey played all morning: hide-and-seek, chase, and who could swim fastest through the seaweed.",
       "ambient": "underwater",
-      "music": "guitar_clear"
+      "music": "guitar_clear",
+      "cues": []
+    },
+    {
+      "id": "s5",
+      "text": "Ever since that day, Rainbow doesn't spend his days counting alone.\n\nHe's still a little bit shy. Sometimes he still wants to hide in his coral.\n\nBut now he knows something: his colours aren't for hiding. They're for lighting up everyone else.\n\nAnd when a new fish comes to the reef, one who stays very still behind a rock and doesn't dare to play, Rainbow knows exactly what to do.\n\nHe stops in front of them, without getting too close.\n\nAnd he waits. The way Lolo waited.",
+      "ambient": "underwater",
+      "music": "gentle_piano",
+      "cues": []
     }
   ]
 }

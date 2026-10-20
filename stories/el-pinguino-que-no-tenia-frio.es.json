@@ -2,65 +2,42 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 20,
   "title": "A Pip nunca le da frío",
-  "summary": "Pip es el único pingüino al que nunca le da frío… ¿lograrán refrescarlo sus ideas más graciosas?",
+  "summary": "Pip es el único pingüino al que nunca le da frío. Lo intenta todo para enfriarse, hasta que llega la noche más helada del invierno.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un lugar de hielo y nieve blanca vivía un pingüino llamado Pip. Todos sus amigos jugaban felices en el frío. Se acurrucaban, temblaban un poco y se reían.\n\nPero Pip era distinto: Pip nunca, nunca tenía frío. Mientras los demás buscaban calor, él se abanicaba con un ala. '¡Uf, qué calor!\n\n', decía, soplando el flequillo de plumas. Alrededor silbaba y silbaba un viento. A Pip le encantaba.\n\nSus amigos no entendían nada, y cada vez que Pip resoplaba, todos soltaban una risa.\n\nPip también reía, aunque por dentro deseaba, solo un poco, poder enfriarse como los demás.",
+      "text": "En una isla de hielo y nieve vivía una colonia de pingüinos.\n\nTodos tenían frío. Siempre. Temblaban, se frotaban las aletas, se ponían bufandas y se apretaban unos contra otros.\n\nTodos menos Pip.\n\nPip nunca tenía frío. Mientras los demás tiritaban, él se abanicaba con una aleta.\n\n—¡Uf, qué calor! —decía, resoplando.\n\nSus amigos se morían de risa.\n\n—¿Calor? ¿Aquí? ¡Pip, vivimos en el Polo Sur!\n\nPip se reía con ellos. Pero por dentro, muy bajito, pensaba: ojalá yo también tuviera frío, como todos.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "risa", "sfx": "giggle" }]
     },
     {
       "id": "s2",
-      "text": "Un día, Pip tuvo una idea. Corrió hasta el borde de la nieve, donde el agua fría brillaba como un espejo. Era un charco.\n\n'¡Aquí me voy a enfriar! ', gritó, y saltó con las dos patas. ¡Splash!\n\nEl agua saltó por todas partes y mojó a tres pingüinos que pasaban. Pip se quedó sentado ahí adentro, muy orgulloso. Por un rato se sintió fresco y suspiró contento.\n\nPero el sol asomó entre las nubes, y en un momento Pip volvía a tener calor. '¿Otra vez? ', dijo, chorreando agua.\n\nSus amigos se rieron tanto que se cayeron de cola sobre la nieve.",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "charco",
-          "sfx": "water_splash"
-        }
-      ]
+      "text": "Una mañana, Pip tuvo una idea.\n\n—¡El mar! —dijo—. ¡El mar está helado!\n\nCorrió hasta el borde del hielo, tomó impulso y se tiró de cabeza. ¡Plum!\n\nEl agua estaba fría, fría, fría. Pip nadó, dio vueltas, hizo burbujas. Por fin se sentía fresquito.\n\nPero cuando salió y se sacudió las plumas, pasó algo muy raro.\n\nLe salía vapor. Como a una olla de sopa.\n\n—¿Otra vez calor? —suspiró Pip, echando humo por todas partes.",
+      "ambient": "ocean_waves",
+      "cues": [{ "anchor": "plum", "sfx": "water_splash" }]
     },
     {
       "id": "s3",
-      "text": "Pip no se rindió. Se acercó al mar azul y se lanzó de cabeza. ¡Plum!\n\nBajo el agua todo era silencio y fresco. Pip soplaba y soplaba, y del pico le salían burbujas. Subían redondas, haciendo cosquillas.\n\nDe pronto, del fondo azul apareció una ballena.\n\nEra enorme y amable, y le cantó una canción profunda y suave. Pip se sintió pequeño y feliz. Nadó y nadó, dando vueltas entre la espuma.\n\nPero los pingüinos no pueden quedarse abajo para siempre, así que Pip subió a respirar. Al salir al aire, sacudió las plumas… y otra vez tenía calor.\n\nSe rió de sí mismo y se despidió de ella con un ala.",
-      "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "ballena",
-          "sfx": "whale_song"
-        }
-      ]
+      "text": "Pip no se rindió.\n\nEncontró un bloque de hielo enorme y se sentó encima. Se quedó ahí toda la mañana, muy quieto, esperando enfriarse.\n\nPero el hielo, debajo de él, empezó a derretirse. Y a mediodía, Pip estaba sentado en un charco.\n\nEntonces subió a la colina más alta, se tiró de barriga y bajó deslizándose, con el aire helado en la cara: ¡zuuum!\n\n—¡Esto sí funciona! —gritó.\n\nSubió y bajó, subió y bajó, diez veces seguidas.\n\nPero de tanto subir, cuando llegó abajo estaba más caliente que nunca. Rojo como un tomate y sin aire.\n\nSe sentó en la nieve, muy cansado y muy pensativo.",
+      "ambient": "snow_wind",
+      "cues": [{ "anchor": "zuuum", "sfx": "whoosh" }]
     },
     {
       "id": "s4",
-      "text": "'¡Ya sé! ¡Me haré mi propio viento! ', pensó Pip.\n\nSubió a la colina más alta, se echó sobre la barriga y se deslizó.\n\n¡Zuuum! Voló por la nieve más rápido que nunca. Sus plumas se agitaban, sus mejillas hacían cosquillas y el aire fresco lo abrazaba entero.\n\n'¡Esto sí funciona! ', gritaba feliz. Bajó la colina una y otra vez, riendo a carcajadas.\n\nPero al llegar abajo, caliente como una tostada, Pip se detuvo a pensar. Enfriarse era divertido… pero cansaba muchísimo.\n\nSe sentó en la nieve, un poco cansado y muy pensativo.",
+      "text": "Esa noche llegó la más fría de todo el invierno. Sobre el hielo, sin parar, soplaba el viento.\n\nLos pingüinos temblaban tanto que les castañeteaban los picos. Los pequeños lloraban. Nadie podía dormir.\n\nY entonces Pip lo entendió.\n\nSe puso en medio de todos, abrió las aletas y dijo:\n\n—¡Vengan aquí! ¡Pónganse a mi lado!\n\nUno a uno, los pingüinos se fueron acercando. Se apretaron contra su barriga tibia, contra sus aletas, contra su espalda.\n\n—¡Pip! —dijo uno, sorprendido—. ¡Estás calentito como una estufa!",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "deslizó",
-          "sfx": "whoosh"
-        }
-      ]
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "viento", "sfx": "wind_high" }]
     },
     {
       "id": "s5",
-      "text": "Esa noche, el frío se puso más fuerte que nunca. Los amigos de Pip temblaban y no podían dormir. Entonces Pip entendió algo bonito.\n\nAbrió sus alas tibias y dijo: '¡Vengan aquí conmigo! '. Uno a uno, todos los pingüinos se acurrucaron contra su barriga caliente.\n\n'¡Qué calor tan rico! ', suspiraron.\n\nArriba, en el cielo oscuro, brillaban las estrellas. Pip ya no quería enfriarse: su calor era el mejor regalo del mundo. Cerró los ojos, escuchó la respiración suave de sus amigos y sonrió.\n\nBajo ese cielo, todos durmieron juntos, tibios y felices. Buenas noches, Pip.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "suspiraron",
-          "sfx": "breathe_in"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "Esa noche, ningún pingüino tuvo frío.\n\nSe quedaron todos apretados alrededor de Pip, en una gran bola de plumas, y poco a poco dejaron de temblar. Los pequeños dejaron de llorar. Y uno por uno, se fueron quedando dormidos.\n\nPip los miró, tan tranquilos, tan calentitos.\n\nY sonrió.\n\nYa no quería tener frío. Ahora sabía para qué servía su calor.\n\nDesde entonces, en las noches más heladas, todos los pingüinos de la isla buscan lo mismo: un sitio cerca de Pip.",
+      "ambient": "snow_wind",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

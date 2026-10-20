@@ -2,59 +2,46 @@
   "id": "el-pez-arcoiris-pequeno",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 20,
   "title": "Arcoíris busca amigos",
-  "summary": "Un pez tímido encuentra amigos en el fondo del mar.",
+  "summary": "Arcoíris es un pez de todos los colores, y tan tímido que se pasa el día escondido en su coral. Hasta que llega un pulpo que sabe esperar.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más hondo del mar, mucho más abajo de donde llegan los barcos, donde el agua es azul, azul, y fresca, nadaba un pez muy especial. Era pequeño, del tamaño de una manzana, con la cola en forma de abanico. Pero lo más mágico de él eran sus escamas: brillaban con todos los colores del arcoíris al mismo tiempo.\n\nRojo en la cola, naranja en la panza, amarillo en el lomo, verde en las aletas, azul en el cuello y violeta en la cabeza. Cuando un rayo de sol bajaba hasta el fondo del mar y le pegaba en una escama, el agua entera se llenaba de chispas.\n\nPero —y este es el \"pero\" de nuestra historia— el pez era muy, muy tímido. Cuando otros peces pasaban cerca, riéndose o jugando, él se escondía atrás de los corales y se quedaba quieto, muy quieto, casi sin respirar. Tenía miedo de hablar, miedo de jugar, miedo de que se rieran de él.\n\nPasaba sus días solo, mirando cómo subían hasta la superficie las burbujas.\n\nLas contaba una por una: una, dos, tres, cuatro, cinco. El océano era su casa, pero también su escondite.",
+      "text": "En lo más hondo del mar, donde el agua es azul y fresca, vivía un pez pequeño llamado Arcoíris.\n\nSe llamaba así por sus escamas. Tenía la cola roja, la panza naranja, el lomo amarillo, las aletas verdes y la cabeza azul y violeta.\n\nCuando un rayo de sol bajaba hasta el fondo y le daba en las escamas, el agua se llenaba de chispas.\n\nPero Arcoíris era muy, muy tímido.\n\nCuando pasaban otros peces, jugando y riéndose, él se escondía en su coral y se quedaba quieto, casi sin respirar. Le daba miedo hablar. Le daba miedo jugar. Le daba miedo que se burlaran de él.\n\nAsí que se pasaba los días solo, contando burbujas.",
       "ambient": "underwater",
+      "music": "guitar_clear",
       "cues": [
-        {
-          "anchor": "chispas",
-          "sfx": "sparkle"
-        },
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
-        }
+        { "anchor": "chispas", "sfx": "sparkle" },
+        { "anchor": "burbujas", "sfx": "bubbles" }
       ]
     },
     {
       "id": "s2",
-      "text": "Una mañana de aguas calmadas, el pez estaba en su coral contando burbujas. Entonces llegó un pulpo lila de ocho brazos largos y se detuvo justo enfrente. Era un pulpo amistoso, con dos ojos saltones y una sonrisa chueca.\n\n\"¡Hola, hola, hola!\", le dijo agitando todos sus tentáculos al mismo tiempo. El pez, asustado, se metió más adentro del coral, casi temblando.\n\n\"Quiero jugar\", quería decir. Pero la palabra se le quedó atrapada. El pulpo, sin moverse de donde estaba, esperó con mucha paciencia.\n\n\"Vi tus colores desde lejos. Son hermosísimos. Son como un arcoíris en el agua, ¿sabías?\".\n\nEl pez asomó un ojo por entre el coral. El pulpo no se acercaba más, no insistía, solo le sonreía. \"¿Quieres jugar conmigo?\n\nConozco un juego muy divertido\", le ofreció, ladeando la cabeza. El pez asomó la cabeza entera, dudó un segundo, miró para todos lados, y por fin contestó en un susurro: \"Bueno...\n\npero un poco nada más\".",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": "underwater"
+      "text": "Una mañana, se paró justo delante de su coral un pulpo lila.\n\nTenía dos ojos saltones y una sonrisa torcida.\n\n—¡Hola, hola, hola! —dijo, saludando con los ocho brazos a la vez.\n\nArcoíris se metió más adentro del coral.\n\nEl pulpo no se acercó más. No insistió. Se quedó ahí, flotando tranquilo, esperando.\n\n—Me llamo Lolo —dijo al rato—. Vi tus colores desde lejos. Pareces un arcoíris debajo del agua.\n\nArcoíris asomó un ojo.\n\n—¿Quieres jugar a las escondidas? —preguntó Lolo—. Soy buenísimo escondiéndome.\n\nArcoíris asomó la cabeza entera. Miró a un lado. Miró al otro. Y contestó, en un susurro:\n\n—Bueno. Pero un poquito nada más.",
+      "ambient": "underwater",
+      "cues": [{ "anchor": "susurro", "sfx": "whisper" }]
     },
     {
       "id": "s3",
-      "text": "El pulpo le enseñó un juego de las escondidas entre las algas verdes que se mecían como bailarinas. \"Yo cuento hasta diez y tú te escondes\", le explicó. Al principio, el pez jugaba pegado al coral, sin alejarse mucho, mirando hacia atrás cada dos segundos por si algo lo asustaba.\n\nPero el pulpo era un escondedor pésimo, tan cómico que el pez no pudo aguantar más: el pulpo se metía detrás de una piedra, pero le sobresalían los ocho brazos por todos lados, como si fuera una flor con tentáculos. Y entonces, por primera vez en su vida, al pez se le escapó una risa.\n\nPrimero fue un sonido corto, ji ji. Después uno más grande, ja ja ja. Y al final una carcajada enorme que subió hasta la superficie, ¡jajajaja!,\n\ncargada de burbujas. Las escamas del pez brillaron tanto que parecía un fuego artificial bajo el agua. Por primera vez en su vida, sintió un calor suave en el corazón.\n\nEl pulpo se rió con él, contagiado, y los dos terminaron rodando por el suelo arenoso del mar.",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "—Yo me escondo, tú cuentas hasta diez —dijo Lolo.\n\nArcoíris contó. Uno, dos, tres… nueve, diez.\n\nY se dio la vuelta para buscar.\n\nNo le costó nada encontrarlo. Lolo se había escondido detrás de una piedra, muy serio, muy quieto. Pero la piedra era pequeña, y el pulpo era grande, y por todos lados le asomaban los ocho brazos, como si la piedra tuviera pelos.\n\nArcoíris se quedó mirando.\n\nPrimero se le escapó un ji, ji. Después un ja, ja. Y al final, una carcajada tan grande que le salió en burbujitas.\n\nSus escamas se encendieron todas a la vez, como fuegos artificiales debajo del agua.\n\nEra la primera vez en su vida que se reía con alguien.",
       "ambient": "underwater",
-      "music": "marimba_playful"
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "carcajada", "sfx": "giggle" }]
     },
     {
       "id": "s4",
-      "text": "Las carcajadas y las luces de colores atrajeron a otros vecinos del fondo del mar, curiosos. Primero apareció una estrella de mar rosada, con cinco puntas que se movían como dedos pequeños. \"¿Qué pasa por acá tan divertido?\",\n\npreguntó. Después llegó un caballito de mar verde, todo elegante con su cola enroscada. Después un cangrejo amarillo caminando de lado, plic, plic, plic.\n\nDespués una sardina plateada y un pulpo pequeño que era hijo del pulpo grande. Pronto se armó un grupo de amigos en pleno fondo del mar, todos jugando juntos entre los corales. Jugaron a las escondidas, a perseguirse, a quién hace más burbujas.\n\nEl agua entera se llenó de risas.\n\nEl pez arcoíris ya no estaba solo. Sus colores iluminaban el grupo entero, como si fuera una linterna alegre. Aprendió tres cosas importantes esa mañana: que sus colores no eran para esconder, eran un regalo para alegrar a los demás.\n\nQue la timidez se va poco a poco, jugando. Y que tener un amigo paciente es la cosa más linda del mundo. Desde ese día, siempre que algún pez nuevo se sentía solo o asustado en el fondo del mar, el pez arcoíris era el primero en acercarse y decirle, con una sonrisa: \"¿Quieres jugar conmigo?\".",
-      "cues": [
-        {
-          "anchor": "risas",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "Las risas y las luces se veían desde muy lejos.\n\nPrimero se acercó una estrella de mar rosada, a ver qué pasaba. Después, un caballito de mar muy elegante. Después un cangrejo, caminando de lado, y una fila de sardinas plateadas.\n\n—¿Podemos jugar? —preguntaron.\n\nArcoíris sintió el miedo de siempre, y le dieron ganas de esconderse.\n\nPero miró a Lolo. Y Lolo le guiñó un ojo.\n\n—Claro —dijo Arcoíris, con la voz un poquito temblorosa—. Pero el pulpo cuenta primero. Se esconde muy mal.\n\nJugaron toda la mañana: a las escondidas, a perseguirse, a ver quién nadaba más rápido entre las algas.",
       "ambient": "underwater",
-      "music": "guitar_clear"
+      "music": "guitar_clear",
+      "cues": []
+    },
+    {
+      "id": "s5",
+      "text": "Desde ese día, Arcoíris ya no se pasa los días contando solo.\n\nSigue siendo un poco tímido. A veces todavía le dan ganas de esconderse en su coral.\n\nPero ahora sabe una cosa: sus colores no son para esconderlos. Son para iluminar a los demás.\n\nY cuando llega al arrecife un pez nuevo, uno que se queda quieto detrás de una roca y no se atreve a jugar, Arcoíris sabe exactamente qué hacer.\n\nSe para delante, sin acercarse demasiado.\n\nY espera. Como esperó Lolo.",
+      "ambient": "underwater",
+      "music": "gentle_piano",
+      "cues": []
     }
   ]
 }

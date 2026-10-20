@@ -2,65 +2,42 @@
   "id": "el-pinguino-que-no-tenia-frio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "Pip Is Never Cold",
-  "summary": "Pip is the only penguin who is never cold… will his silliest ideas finally cool him off?",
+  "summary": "Pip is the only penguin who never feels cold. He tries everything to cool down, until the iciest night of the winter arrives.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a land of ice and white snow lived a penguin named Pip. All his friends played happily in the cold. They huddled together, shivered a little, and laughed.\n\nBut Pip was different: Pip was never, ever cold. While the others looked for warmth, he fanned himself with a wing. 'Phew, so hot!\n\n' he said, blowing the feathers off his forehead. All around, whistling and whistling, blew an icy wind. Pip loved it.\n\nHis friends did not understand at all, and every time Pip puffed and huffed, they let out a giggle.\n\nPip laughed too, though deep inside he wished, just a little, that he could cool off like everyone else.",
+      "text": "On an island of ice and snow lived a colony of penguins.\n\nThey were all cold. Always. They shivered, they rubbed their flippers, they wore scarves and squashed up close to each other.\n\nAll except Pip.\n\nPip was never cold. While the others shivered, he fanned himself with a flipper.\n\n\"Phew, it's so hot!\" he'd say, puffing.\n\nHis friends would fall about laughing.\n\n\"Hot? Here? Pip, we live at the South Pole!\"\n\nPip laughed along with them. But inside, very quietly, he thought: I wish I felt cold too, like everyone else.",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "giggle",
-          "sfx": "giggle"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "laughing", "sfx": "giggle" }]
     },
     {
       "id": "s2",
-      "text": "One day, Pip had an idea. He ran to the edge of the snow, where the cold water shone like a mirror. It was a puddle.\n\n'I'll cool down right here! ' he shouted, and jumped in with both feet. Splash!\n\nThe water flew everywhere and soaked three penguins walking by. Pip sat down in it, very proud of himself. For a while he felt nice and cool, and he sighed happily.\n\nBut the sun peeked out from the clouds, and in no time at all Pip was hot again. 'Again? ' he said, dripping wet.\n\nHis friends laughed so hard they toppled over onto the snow.",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash"
-        }
-      ]
+      "text": "One morning, Pip had an idea.\n\n\"The sea!\" he said. \"The sea is freezing!\"\n\nHe ran to the edge of the ice, took a run-up and dived in head first. Splash!\n\nThe water was cold, cold, cold. Pip swam, twirled, blew bubbles. At last he felt nice and cool.\n\nBut when he climbed out and shook his feathers, something very strange happened.\n\nSteam came off him. Like a pot of soup.\n\n\"Hot again?\" sighed Pip, steaming all over.",
+      "ambient": "ocean_waves",
+      "cues": [{ "anchor": "splash", "sfx": "water_splash" }]
     },
     {
       "id": "s3",
-      "text": "Pip did not give up. He waddled to the blue sea and dove in headfirst. Ploomp!\n\nUnder the water everything was quiet and cool. Pip blew and blew, and out of his beak came bubbles. They floated up round and tickly.\n\nSuddenly, out of the blue depths came a whale.\n\nShe was huge and kind, and she sang him a deep, gentle song. Pip felt tiny and happy. He swam and swam, spinning through the foam.\n\nBut penguins can't stay down forever, so Pip came up to breathe. As he reached the air, he shook his feathers… and there it was again, warm and toasty.\n\nHe laughed at himself and waved goodbye to her with a wing.",
-      "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "whale",
-          "sfx": "whale_song"
-        }
-      ]
+      "text": "Pip didn't give up.\n\nHe found an enormous block of ice and sat on top of it. He stayed there all morning, very still, waiting to cool down.\n\nBut the ice underneath him began to melt. And by midday, Pip was sitting in a puddle.\n\nThen he climbed the highest hill, threw himself down on his tummy and slid all the way to the bottom, with the icy air in his face: whoosh!\n\n\"This really works!\" he shouted.\n\nUp and down he went, up and down, ten times in a row.\n\nBut with all that climbing, when he got to the bottom he was hotter than ever. Red as a tomato and out of breath.\n\nHe sat down in the snow, very tired and very thoughtful.",
+      "ambient": "snow_wind",
+      "cues": [{ "anchor": "whoosh", "sfx": "whoosh" }]
     },
     {
       "id": "s4",
-      "text": "'I've got it! I'll make my own wind! ' thought Pip.\n\nHe climbed the tallest hill, flopped onto his belly, and slid.\n\nWhoosh! He flew down the snow faster than ever before. His feathers fluttered, his cheeks tickled, and the cool air hugged him all over.\n\n'Now this really works! ' he cheered. He zoomed down the hill again and again, laughing out loud.\n\nBut at the bottom, warm as toast, Pip stopped to think. Cooling off was fun… but oh, it was tiring.\n\nHe sat down in the snow, a little sleepy and very thoughtful.",
+      "text": "That night came the coldest night of the whole winter. Across the ice, without stopping, blew the wind.\n\nThe penguins were shivering so hard that their beaks chattered. The little ones were crying. Nobody could sleep.\n\nAnd then Pip understood.\n\nHe stood in the middle of them all, spread his flippers and said:\n\n\"Come here! Come and stand next to me!\"\n\nOne by one, the penguins came closer. They pressed up against his warm tummy, against his flippers, against his back.\n\n\"Pip!\" said one of them, surprised. \"You're as toasty as a stove!\"",
       "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "slid",
-          "sfx": "whoosh"
-        }
-      ]
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "wind", "sfx": "wind_high" }]
     },
     {
       "id": "s5",
-      "text": "That night, the cold grew stronger than ever. Pip's friends shivered and could not sleep. Then Pip understood something beautiful.\n\nHe opened his warm wings and said, 'Come here with me! ' One by one, all the penguins snuggled against his cozy belly. 'What lovely warmth!\n\n' they sighed.\n\nUp above, in the dark sky, shone the stars. Pip no longer wanted to cool off: his warmth was the best gift in the whole world. He closed his eyes, listened to the soft breathing of his friends, and smiled.\n\nUnder that sky, they all slept together, warm and happy. Good night, Pip.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "sighed",
-          "sfx": "breathe_in"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "That night, no penguin felt cold.\n\nThey all stayed squashed together around Pip, in a big ball of feathers, and little by little they stopped shivering. The little ones stopped crying. And one by one, they fell asleep.\n\nPip looked at them, so calm, so cosy.\n\nAnd he smiled.\n\nHe didn't want to feel cold any more. Now he knew what his warmth was for.\n\nEver since then, on the iciest nights, all the penguins on the island look for the same thing: a spot next to Pip.",
+      "ambient": "snow_wind",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

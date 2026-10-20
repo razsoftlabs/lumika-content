@@ -2,67 +2,45 @@
   "id": "la-gotita-que-queria-ser-mar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "Gota busca el mar",
-  "summary": "Una gota de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo.",
+  "summary": "Una gota de lluvia sueña con ser tan grande como el mar, y se lanza desde su nube a un viaje para llegar hasta él.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto del cielo, dentro de una nube blanda como el algodón, vivía una gota muy pequeña. Todas las noches miraba hacia abajo y suspiraba: quería ser grande, grandísima, quería ser el mar. Una mañana, la nube se puso gris y cosquilleó, y ella sintió que resbalaba.\n\n“¡Allá voy!”, gritó. Mientras caía, girando y girando como en un baile, la mecía el viento.\n\nAbajo, los árboles la esperaban con los brazos abiertos, y cuando pasó rozando sus ramas temblaron todas las hojas. La gota nunca había volado y, por un momento, se le olvidó que tenía miedo.",
-      "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ]
+      "text": "En lo alto del cielo, dentro de una nube blanda como el algodón, vivía una gota muy pequeña. Se llamaba Gota.\n\nDesde allí arriba, todos los días, miraba el mar.\n\nEra enorme. Azul. Brillante. Llegaba hasta donde se acababan los ojos.\n\n—Yo quiero ser así —suspiraba Gota—. Grande, grandísima. Como el mar.\n\nUna mañana, la nube se puso gris y gordita. Gota sintió un cosquilleo, como cuando uno está a punto de resbalar.\n\nY entonces la nube empezó a llover.",
+      "ambient": null,
+      "music": "harp_dreams",
+      "cues": [{ "anchor": "llover", "ambient": "rain" }]
     },
     {
       "id": "s2",
-      "text": "La gota cayó en un arroyo de montaña y salpicó.\n\n¡Plic!, sonó el agua, fresca y clara, cantando entre las piedras. “¿Dónde estoy?”,\n\npreguntó, un poco mareada. Desde una hoja verde la saludó una rana. “Estás en el arroyo, gotita.\n\n¿A dónde vas?”. “Voy a ser el mar”, respondió ella con orgullo. La rana sonrió y le dijo: “Entonces déjate llevar, que el agua siempre sabe el camino”.\n\nY así, la gota se unió a las otras gotas, y todas juntas empezaron a correr, ligeras, montaña abajo.",
-      "ambient": "stream_water",
+      "text": "—¡Allá voooy! —gritó Gota.\n\nCayó dando vueltas, como en un tobogán sin tobogán, junto a miles y miles de gotas. El aire le hacía cosquillas. Por un momento, se le olvidó tener miedo.\n\nAbajo, una montaña verde la esperaba con los brazos abiertos.\n\nGota aterrizó sobre una hoja. ¡Plic!\n\nSe deslizó por la hoja hasta la punta, se quedó colgando un segundo… y cayó al agua de un arroyo.",
+      "ambient": "rain",
       "cues": [
-        {
-          "anchor": "salpicó",
-          "sfx": "water_splash",
-          "ambient": "stream_water"
-        }
+        { "anchor": "plic", "sfx": "water_splash" },
+        { "anchor": "arroyo", "ambient": "stream_water" }
       ]
     },
     {
       "id": "s3",
-      "text": "El arroyo se hizo río, ancho y tranquilo. Cada vez había más gotas: venían de la lluvia, de la nieve, de otros ríos lejanos. La gota ya no estaba sola.\n\nSobre el agua, buscando flores, pasó zumbando una abeja. Las saludó con las alas y siguió su camino. Las gotas se contaban chistes y llenaban el río de risa.\n\n“Somos muchas”, pensó la gota, “pero seguimos siendo una sola cosa”. Y esa idea, tan sencilla y tan grande, la llenó de calor mientras el río la llevaba con cariño hacia adelante.",
+      "text": "El agua bajaba la montaña a toda velocidad, saltando entre las piedras.\n\nGota iba de un lado a otro, mareada y feliz. Pasó por debajo de un puente de troncos. Bajó por una cascada pequeñita, ¡fiuuu!, y cayó en una poza llena de espuma.\n\nPoco a poco, el agua se fue haciendo río. Ancho, lento, tranquilo.\n\nY cada vez había más gotas. Venían de la lluvia, de la nieve de las montañas, de otros ríos lejanos.\n\nGota empezó a preocuparse.\n\n—Somos tantas —pensó—. Si me junto con todas, ¿no me voy a perder? ¿No voy a dejar de ser yo?\n\nA su lado flotaba una gota muy vieja, que venía de un glaciar.\n\n—Nunca dejas de ser tú —le dijo—. Solo dejas de estar sola.",
       "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ]
+      "cues": [{ "anchor": "fiuuu", "sfx": "whoosh" }]
     },
     {
       "id": "s4",
-      "text": "Y entonces, al doblar una curva, el río se abrió... y allí estaba. El mar.\n\nEnorme, azul, brillante hasta donde alcanzaban los ojos. El mar la recibió con una ola. La levantó en el aire y la dejó caer entre espuma y burbujas.\n\n“¡Llegué!”, gritó, “¡soy el mar!”. Desde muy hondo llegó la canción larga y suave de una ballena.\n\nLa gota miró a su alrededor: millones de gotas como ella se mecían juntas, formando algo tan grande que no cabía en una sola mirada. No era el mar ella sola. Era el mar con todas las demás.",
+      "text": "Y entonces, al dar una curva, el río se abrió.\n\nY ahí estaba.\n\nEl mar.\n\nEnorme, azul, brillante, tan grande que no cabía en una sola mirada. Una ola levantó a Gota por el aire y la dejó caer entre espuma y burbujas.\n\n—¡Llegué! —gritó—. ¡Soy el mar!\n\nGota miró alrededor. Millones de gotas como ella se mecían juntas, subiendo y bajando, todas al mismo tiempo.\n\nY lo entendió.\n\nNo era el mar ella sola. Era el mar con todas las demás. Y eso era mucho más bonito.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "ballena",
-          "sfx": "whale_song"
-        }
-      ],
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "burbujas", "sfx": "bubbles" }]
     },
     {
       "id": "s5",
-      "text": "Cuando el sol salió, tibio y dorado, la gota sintió que se volvía ligera, tan ligera como un suspiro. Sin dejar de ser ella, subió flotando por el aire, de vuelta hacia una nube nueva. “Nunca me pierdo”, entendió sonriendo, “siempre vuelvo al cielo”.\n\nAbajo, el mar la despidió con un destello. Arriba, encendió su lámpara redonda la luna. Y una a una se asomaron las estrellas.\n\nLa gota se acurrucó en su nube, tibia y tranquila, lista para volver a llover mañana. Cerró los ojos. Y soñó que era pequeña y enorme al mismo tiempo, como todas las cosas que se quieren.",
+      "text": "Esa tarde, el sol calentó el agua despacito, tibio y dorado.\n\nGota se sintió ligera. Tan ligera como un suspiro.\n\nY sin dejar de ser ella, empezó a subir. Subió flotando por el aire, de vuelta al cielo, hasta una nube nueva, blanda como el algodón.\n\nDesde allí arriba miró el mar, que brillaba con el atardecer.\n\n—Fui el mar —dijo bajito, y sonrió.\n\nSe acurrucó en su nube, tibia y tranquila.\n\nMañana volverá a caer. A lo mejor sobre un jardín. A lo mejor sobre un río. A lo mejor sobre tu ventana.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "estrellas",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "harp_dreams"
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

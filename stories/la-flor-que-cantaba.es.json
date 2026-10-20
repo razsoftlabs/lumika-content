@@ -2,70 +2,44 @@
   "id": "la-flor-que-cantaba",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "Una voz en el jardín",
-  "summary": "Una flor demasiado tímida para cantar esconde una voz que quizás el jardín entero necesita escuchar.",
+  "summary": "Lila es una flor tan tímida que solo canta cuando nadie la oye. Pero una noche, el jardín entero necesita su voz.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un jardín dormido vivía una flor muy tímida. Se llamaba Lila y tenía los pétalos del color del atardecer. Cada noche, sobre el jardín, encendía su luz plateada la luna.\n\nCon un susurro suave se mecían las hojas. Lila quería cantar, pero le daba mucha vergüenza. '¿Y si mi voz suena rara?\n\n', pensaba, escondiendo la cara entre los pétalos. Así que guardaba su canción muy adentro, en silencio, y miraba el cielo sin hacer ruido. Y la luz de la noche la saludaba con un guiño, como diciéndole que no tuviera miedo.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ]
+      "text": "En lo alto de una colina había un jardín, y en el jardín vivían muchísimas flores.\n\nCada noche, cuando salían las estrellas, doña Amapola cantaba la canción de dormir. Era la flor más vieja del jardín, roja y elegante, y tenía una voz suave como una manta.\n\nAl oírla, las flores iban cerrando sus pétalos, una por una, y se quedaban dormidas.\n\nEn una esquina del jardín, casi escondida entre la hierba, vivía Lila. Era una flor pequeña y amarilla.\n\nLila se sabía la canción de memoria. Pero la cantaba tan bajito, tan bajito, que solo la oía ella.\n\nLe daba muchísima vergüenza cantar en voz alta.",
+      "ambient": "meadow_night",
+      "music": "music_box",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Desde la rama de un árbol la miraba, viejo y amable, un búho.\n\n'¿Por qué no cantas, pequeña? ', preguntó con voz tranquila. Lila se puso colorada.\n\n'Tengo miedo de que nadie quiera escucharme', respondió en voz baja. Él sonrió y señaló el cielo, donde brillaba con ternura una estrella. 'Todas fueron tímidas alguna vez', dijo, 'hasta que se atrevieron a brillar.\n\n' Lila la miró un largo rato y sintió un cosquilleo cálido en el pecho. Tal vez, solo tal vez, su voz también tenía algo bonito para dar al mundo dormido.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "Una noche, doña Amapola abrió la boca para cantar, y en lugar de la canción le salió otra cosa.\n\n—¡Achís!\n\nDoña Amapola estaba resfriada.\n\n—Mañana canto —dijo, con la voz ronca—. Hoy no puedo.\n\nPero al día siguiente tampoco pudo. Ni al otro.\n\nY sin la canción, nadie en el jardín se podía dormir. Las rosas bostezaban con los pétalos abiertos. Las margaritas se peleaban por cualquier cosa. Los tulipanes estaban de un humor terrible.\n\nLila las miraba desde su esquina. Y tarareaba la canción, bajito, para ella sola.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "achís", "sfx": "sneeze_cute" }]
     },
     {
       "id": "s3",
-      "text": "Poco a poco, la noche empezó a hacerse gris y suave. Un viento tibio recorrió el jardín, despeinando los pétalos con cariño. El búho le hizo un guiño.\n\n'Es casi el amanecer', susurró. 'Este es tu momento. ' Lila cerró los ojos.\n\nSintió el aire en la cara y, muy despacio, respiró.\n\nHondo, hondo, llenándose de valor. Como un tambor le latía el corazón.\n\nEntonces, tan suave como el aleteo de una mariposa, dejó salir la primera nota de su canción. Fue apenas un hilo de voz, tembloroso y dulce, pero era suyo.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        },
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        }
-      ]
+      "text": "La tercera noche, el jardín estaba agotado.\n\nDoña Amapola miró a todas las flores, con los ojos tristes.\n\n—¿Nadie más se sabe la canción? —preguntó, con un hilo de voz.\n\nHubo un silencio largo.\n\nA Lila le temblaron todos los pétalos. Ella se la sabía. Se la sabía enterita, de principio a fin.\n\n—Yo… —dijo—. Yo me la sé.\n\nPero lo dijo tan bajito que nadie la oyó.",
+      "ambient": "meadow_night",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Y entonces ocurrió la magia.\n\nCon cada nota, un pétalo se despertaba. La flor de al lado abrió sus hojas y soltó un suspiro de colores. Más allá, una margarita estiró sus brazos amarillos hacia el primer destello del sol.\n\n¡El canto de Lila hacía florecer el jardín! Entre las flores recién despiertas zumbaron felices las abejas. Lila cantaba y cantaba, ya sin miedo, y su voz llenaba el aire de dulzura.\n\nTodo el jardín parecía despertar de puntillas, escuchando a la flor que antes no se atrevía a cantar.",
-      "ambient": "forest_birds",
+      "text": "Lila cerró los ojos. Sintió el aire fresco de la noche en la cara.\n\nY respiró hondo, hondo, hasta llenarse de valor.\n\nEntonces cantó.\n\nAl principio fue apenas un hilito de voz, temblorosa y finita. Pero no se detuvo. Y poco a poco, la voz se fue haciendo más grande, más segura, más bonita.\n\nLas notas subieron por el aire, brillando como luciérnagas, y se fueron posando sobre el jardín.\n\nLas rosas cerraron sus pétalos. Las margaritas dejaron de pelear. Los tulipanes, por fin, se quedaron tranquilos.\n\nY doña Amapola, antes de dormirse, miró hacia la esquina del jardín y sonrió.",
+      "ambient": "meadow_night",
+      "music": "lullaby_piano",
       "cues": [
-        {
-          "anchor": "magia",
-          "sfx": "magic_shimmer"
-        }
-      ],
-      "music": "harp_dreams"
+        { "anchor": "respiró", "sfx": "breathe_in" },
+        { "anchor": "notas", "sfx": "twinkle" }
+      ]
     },
     {
       "id": "s5",
-      "text": "Cuando el sol terminó de asomarse, el jardín entero estaba despierto y radiante. Agradecidas, todas las flores reían. Le hacían una reverencia a Lila, que ya no era tímida: había descubierto que su canto era un regalo.\n\nEl búho, contento, cerró los ojos para dormir. Al pasar, el viento le dejó un susurro: 'Lo hiciste precioso.\n\n' Y así, cada amanecer, Lila cantaba para despertar a sus amigas con ternura. Ahora cierra los ojos, pequeño. Quizás, si escuchas con el corazón, oirás una florecita cantando muy suave, ayudando al mundo entero a florecer mientras sueñas.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ],
-      "music": "guitar_clear"
+      "text": "Cuando terminó la canción, todo el jardín dormía.\n\nTodo menos Lila, que se quedó un rato mirando las estrellas. Le latía muy contento el corazón.\n\nHabía cantado. En voz alta. Delante de todos.\n\nY no había pasado nada malo. Había pasado algo bonito.\n\nDesde esa noche, cuando doña Amapola está cansada, es Lila quien canta la canción de dormir.\n\nY dicen que si una noche te asomas a un jardín, en silencio, a lo mejor la oyes. Una voz pequeña y amarilla, cantando para que todo el mundo pueda dormir.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "corazón", "sfx": "heartbeat_calm" }]
     }
   ]
 }

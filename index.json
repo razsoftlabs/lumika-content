@@ -1951,7 +1951,7 @@
     },
     {
       "id": "la-flor-que-cantaba",
-      "version": 7,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1963,7 +1963,7 @@
       "cover": "covers/la-flor-que-cantaba.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "naturaleza"
       ],
@@ -1978,22 +1978,28 @@
       ],
       "premium": true,
       "preload": [
-        "music/space_dream"
+        "ambient/meadow_night",
+        "music/lullaby_piano",
+        "music/music_box",
+        "sfx/breathe_in",
+        "sfx/heartbeat_calm",
+        "sfx/sneeze_cute",
+        "sfx/twinkle"
       ],
       "preview": {
         "es": {
           "title": "Una voz en el jardín",
-          "summary": "Una flor demasiado tímida para cantar esconde una voz que quizás el jardín entero necesita escuchar."
+          "summary": "Lila es una flor tan tímida que solo canta cuando nadie la oye. Pero una noche, el jardín entero necesita su voz."
         },
         "en": {
           "title": "A Voice in the Garden",
-          "summary": "A little flower far too shy to sing hides a voice the whole garden just might need to hear."
+          "summary": "Lila is a flower so shy that she only sings when nobody can hear. But one night, the whole garden needs her voice."
         }
       }
     },
     {
       "id": "la-gotita-que-queria-ser-mar",
-      "version": 7,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -2005,13 +2011,13 @@
       "cover": "covers/la-gotita-que-queria-ser-mar.webp",
       "ageMin": 3,
       "ageMax": 8,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "naturaleza",
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "guitar_windswept",
+      "music": "harp_dreams",
       "tags": [
         "gotita",
         "lluvia",
@@ -2021,22 +2027,30 @@
       ],
       "premium": true,
       "preload": [
-        "music/adventure_soft"
+        "ambient/ocean_waves",
+        "ambient/rain",
+        "ambient/stream_water",
+        "music/harp_dreams",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/bubbles",
+        "sfx/water_splash",
+        "sfx/whoosh"
       ],
       "preview": {
         "es": {
           "title": "Gota busca el mar",
-          "summary": "Una gota de lluvia sueña con ser tan grande como el mar y se lanza a un viaje para descubrirlo."
+          "summary": "Una gota de lluvia sueña con ser tan grande como el mar, y se lanza desde su nube a un viaje para llegar hasta él."
         },
         "en": {
           "title": "Drop Goes Looking for the Sea",
-          "summary": "A little raindrop dreams of being as big as the sea and sets off on a journey to find out."
+          "summary": "A little raindrop dreams of being as big as the sea, and jumps out of her cloud on a journey to reach it."
         }
       }
     },
     {
       "id": "la-hormiga-y-la-miga-gigante",
-      "version": 5,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -2048,7 +2062,7 @@
       "cover": "covers/la-hormiga-y-la-miga-gigante.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "animales",
         "valores"
@@ -2063,16 +2077,24 @@
       ],
       "premium": true,
       "preload": [
-        "music/marimba_playful"
+        "ambient/forest_birds",
+        "ambient/forest_night",
+        "music/lullaby_piano",
+        "music/marimba_playful",
+        "music/playful_flute",
+        "sfx/crunch",
+        "sfx/footsteps",
+        "sfx/thud",
+        "sfx/water_splash"
       ],
       "preview": {
         "es": {
           "title": "La hormiga y la miga gigante",
-          "summary": "Lupe la hormiguita encuentra una miga tan grande como su casa y está segura de que puede llevarla ella sola."
+          "summary": "Lupe la hormiguita encuentra una miga tan grande como su casa, y está segura de que puede llevarla ella sola."
         },
         "en": {
-          "title": "The ant and the giant crumb",
-          "summary": "Lupe the little ant finds a crumb as big as her house and is sure she can carry it all by herself."
+          "title": "The Ant and the Giant Crumb",
+          "summary": "Lupe the little ant finds a crumb as big as her house, and she's sure she can carry it all by herself."
         }
       }
     },

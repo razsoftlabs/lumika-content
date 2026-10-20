@@ -2,75 +2,42 @@
   "id": "la-brujita-buena",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
+  "version": 20,
   "title": "The Good Little Witch",
-  "summary": "Every one of Aura's spells comes out backwards, and her cat Bigotes never knows who they'll end up helping.",
+  "summary": "Every one of Aura's spells comes out back to front, and her cat Bigotes never knows who they're going to end up helping.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Deep in the forest, in a crooked house with a roof made of straw, lived a good witch named Aura. She had a hat that was a bit too big, a wand that was a bit too bent, and one faithful friend: Bigotes, her cat.\n\nAura wanted to make beautiful magic, but her spells always came out a little clumsy. Instead of flowers, butterflies appeared. Instead of rain, petals fell.\n\nBigotes watched her and swished his tail, patient. 'Never mind, Bigotes,' said Aura, laughing. 'We'll get it right someday.\n\n' And up on the roof, as if to say yes, rustled the leaves.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "cat",
-          "sfx": "cat_meow"
-        }
-      ]
+      "text": "In a crooked house at the edge of the woods lived a little witch called Aura.\n\nShe had a hat that was far too big, a stripy scarf and a black cat called Bigotes.\n\nAura wanted very, very much to do magic. The trouble was that all her spells came out back to front.\n\nIf she wanted to make Bigotes fly, the stool flew instead. If she wanted a nice hot chocolate, she got a chocolate ice cream. If she wanted to tidy her room, her socks went and hid under the bed.\n\nBigotes was used to it. Every time Aura raised her wand, he jumped off the stool, just in case.\n\n\"Miaow,\" he would say. Which in cat language means: here we go again.",
+      "ambient": "fireplace",
+      "music": "music_box",
+      "cues": [{ "anchor": "miaow", "sfx": "cat_meow" }]
     },
     {
       "id": "s2",
-      "text": "That afternoon, out in the meadow, Aura came across some bees. They were terribly sad: the wind had blown away all the petals, and there were no flowers left to visit. 'Don't cry, I'll help you,' said Aura.\n\nShe raised her wand to make a jar of honey... but something odd happened to the spell.\n\nInstead of honey, a warm, gentle wind blew out of her hat and scattered the seeds Aura kept in her pocket. Wherever a seed landed, pop!, a flower sprang up.\n\nVery soon the whole meadow filled with colors, and they buzzed with joy, flying from flower to flower.",
-      "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "spell",
-          "sfx": "magic_shimmer"
-        }
-      ]
+      "text": "One morning, Aura went down to the village with Bigotes.\n\nIt was raining, and in the square stood Doña Remedios, looking sadly at her washing on the line. It had been hanging there for three days, and it never got dry.\n\n\"I'll help,\" said Aura, and she raised her wand. \"Let the rain stop!\"\n\nBut the spell came out back to front. The rain didn't stop falling…\n\nIt started going up.\n\nAll the drops turned round and flew back up to the clouds, as if someone were calling them from the sky. Zing!\n\nThe village children ran out into the street to watch. The drops floated slowly upwards, shining, and slipped in under their umbrellas.\n\nAnd Doña Remedios's washing was dry in no time at all.",
+      "ambient": "rain",
+      "cues": [{ "anchor": "zing", "sfx": "magic_shimmer", "ambient": "meadow_day" }]
     },
     {
       "id": "s3",
-      "text": "As evening fell, beside a puddle that had almost dried up, Aura heard the crying of a frog.\n\n'My puddle dried out and now I can't swim,' she said in a sad voice. 'Wait, I'll fix it,' smiled Aura, and she waved her wand over her cauldron. She wanted a thin trickle, just a few drops...\n\nbut out of the cauldron came a whole river of water.\n\nSplash! The puddle filled to the brim and soaked everyone. Bigotes got drenched and hissed.\n\nBut she gave a happy hop and croaked: 'Now it's the loveliest puddle in the forest! ' Aura laughed and hugged Bigotes to say sorry.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        },
-        {
-          "anchor": "water",
-          "sfx": "water_splash",
-          "ambient": "stream_water"
-        }
-      ]
+      "text": "In the afternoon, in the meadow, they found Nico crying under a very tall tree.\n\nHis red kite was tangled in the very highest branch.\n\n\"Don't worry,\" said Aura. \"Kite, come down!\"\n\nAnd of course, the spell came out back to front.\n\nThe kite didn't come down. Nico went up.\n\nSlowly, floating like a soap bubble, Nico rose through the air to the highest branch. He grabbed his kite. And he floated down again, very gently, until he landed on the grass.\n\nHe stood there for a second with his mouth open. And then he burst into laughter.\n\n\"Again! Again!\"",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "laughter", "sfx": "giggle" }]
     },
     {
       "id": "s4",
-      "text": "Night came very dark, without a single light. Among the branches, lost and frightened, sat a little owl.\n\n'I can't find my tree,' he hooted softly. 'I'll light your way,' said Aura. She wanted to light one lantern, just one...\n\nbut her wand let out a sneeze of magic. Instead of the lantern, out of her hat flew a hundred tiny stars.\n\nThey rose up into the branches and stayed there glowing, golden and still. The whole forest filled with a warm light. He flapped his wings, happy, and flew straight to his tree.\n\n'Thank you, little witch,' he said from his nest. And there they remained, watching over the forest.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        },
-        {
-          "anchor": "stars",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "harp_dreams"
+      "text": "That night, Aura sat by her cauldron, with her hat drooping over her nose.\n\n\"Bigotes,\" she sighed, \"nothing ever goes right for me. I'm the worst witch in the world.\"\n\nBigotes climbed into her lap and gave her hand a gentle head-bump.\n\nJust then, there was a knock at the door.\n\nAura opened it. And there stood Doña Remedios with a basket of bread, and Nico with his kite. And behind them, the village children, every one of them holding something: a flower, a drawing, a biscuit.\n\n\"We've come to say thank you,\" said Doña Remedios. \"My washing has never been so dry. And the children haven't stopped talking about the rain that went up.\"\n\n\"And I flew!\" said Nico. \"I flew!\"",
+      "ambient": "fireplace",
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "door", "sfx": "door_open" }]
     },
     {
       "id": "s5",
-      "text": "That night, all the forest friends came to see Aura. The bees, the frog, and the owl thanked her, and the air filled up with their laughter.\n\n'Your spells are not clumsy,' said the frog. 'They are magical, because your heart is good. ' Aura smiled and hugged Bigotes.\n\nBetween the trees, round and silver, rose the moon. Everything grew calm. The owl closed his eyes in his nest.\n\nThe frog curled up in his puddle. And Aura and Bigotes fell asleep together under a warm blanket, dreaming of the beautiful magic of the next day.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "Aura didn't know what to say. So she did the only thing she knew how to do.\n\nShe went out into the garden, raised her wand and said:\n\n\"Let everything be calm and quiet!\"\n\nAnd of course, the spell came out back to front.\n\nOut of the tip of her wand burst sparks. Pink, blue, yellow and green, swirling up and painting the sky with whirls and stars and moons of every colour.\n\nThe whole village clapped.\n\nAura laughed so much that her hat fell off. And Bigotes, from his stool, gave her the look of a cat who had known all along.\n\nHer magic wasn't wrong. It was just hers.",
+      "ambient": "meadow_night",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "sparks", "sfx": "sparkle" }]
     }
   ]
 }

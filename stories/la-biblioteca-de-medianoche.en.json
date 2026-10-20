@@ -2,177 +2,85 @@
   "id": "la-biblioteca-de-medianoche",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 20,
   "title": "The Midnight Library",
-  "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still.",
+  "summary": "Tomás spends pyjama night at the village library, and discovers that when the clock strikes twelve, the books do not stay still.",
   "scenes": [
     {
       "id": "s1",
-      "text": "That afternoon it rained and rained over the town, and Tomás ran all the way to the library on the square with his hood pulled up. When he got there, he shook the water out of his hair and pushed the heavy wooden door.\n\nInside, the same old creak greeted him, that ancient greeting he already knew by heart. Everything was warm, and it smelled of paper, of wood, and a little bit of chocolate, because Mr. Ambrose, the librarian, always kept a cup beside his desk.\n\n'Good afternoon, Tomás,' said Mr. Ambrose without looking up. 'The adventure books are right where they always are.\n\n' Tomás smiled and walked slowly between the tall shelves, which looked to him like buildings in a city made of paper. On the red carpet you could barely hear his footsteps. Outside, the rain tapped at the windows like tiny fingers.\n\nInside, the wall clock counted the seconds very patiently. Tomás thought the library was the best place in the world for a rainy day.",
+      "text": "Once a year, the village library had a pyjama night.\n\nDon Ambrosio, the librarian, let the children bring their sleeping bags and stay until morning, among the shelves, reading by torchlight.\n\nThat year, Tomás arrived first. He had his stripy pyjamas, his torch and a bag of biscuits.\n\nOutside it was pouring with rain. But inside, everything was warm and smelled of paper, of wood and a little bit of chocolate, because Don Ambrosio always had a mug on his desk.\n\nThey read stories until very late. Then Don Ambrosio switched off the big lights.\n\n\"Off to sleep, explorers,\" he said. \"Books need to rest too.\"",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        }
-      ]
+      "music": "guitar_tales",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "At the very back, behind the tallest shelf, there was a corner with two worn-out cushions. That was Tomás's favorite hiding place. He flopped down there with a fat book of old maps, one that weighed about as much as a sleeping cat.\n\nHe looked at islands with strange names, mountains drawn by hand and sea monsters with whiskers, and every so often he slowly turned the page.\n\nHe read one, and another, and one more. The rain kept singing outside, calm and steady. Tomás's eyes grew heavy, so heavy, and the book settled on his chest like a blanket.\n\nWhen he opened his eyes again, everything was different. No light came through the windows anymore. He heard distant steps, the click of the switches and, at the very end, a key turning in the big door.\n\n'Wait! ' said Tomás, but his voice came out very small. 'Mr.\n\nAmbrose, I'm still in here! '",
+      "text": "But Tomás wasn't the least bit sleepy.\n\nWhen everyone was asleep, he picked up his torch and tiptoed to the very back of the library. There, behind the tallest shelf, was a corner with an old rug and a little lamp. It was his favourite hiding place.\n\nHe sat down with a fat book of old maps. It had islands with strange names, hand-drawn mountains and monsters of the deep with whiskers.\n\nHe read slowly, turning over a page.\n\nAnd another. And another.\n\nUntil his eyes grew heavy, and the book stayed open on his knees.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "page",
-          "sfx": "page_turn"
-        }
-      ]
+      "cues": [{ "anchor": "page", "sfx": "page_turn" }]
     },
     {
       "id": "s3",
-      "text": "Tomás stayed very still. The library in the dark was a different library. The shelves looked taller, and the shadows of the plants stretched across the floor like thin hands.\n\nHe walked to the entrance and pushed with both hands, and then with his shoulder. It did not move even a little. He felt a strange tickle in his tummy and tears climbed all the way up to his eyes.\n\nOutside, the wind whistled between the roof tiles. 'It's all right,' he told himself, though his voice shook a bit. 'They open early tomorrow.\n\n' Then he remembered what his grandma taught him whenever he was scared. He put a hand on his belly, closed his eyes and breathed. Air in, air out, very slowly.\n\nOnce, twice, three times. Little by little the gallop went out of his heart.\n\nAnd in that quiet darkness, the wall clock began to sound louder: tick, tock, tick, tock.",
+      "text": "He was woken by the clock on the wall.\n\nIt gave a chime. Then another, and another. Tomás counted them under his breath: nine, ten, eleven… twelve.\n\nAnd on the very last one, something wonderful happened.\n\nA book with blue covers, on the shelf opposite, began to glow. Out from between its pages came a cloud of tiny golden sparks, swirling up into the air like a whirl of fireflies.\n\nThe book opened all by itself.\n\nAnd out came first a hat. Then a boot. Then a tangled beard with two knots in it.\n\n\"Land!\" shouted a gravelly voice. \"Dry land at last!\"\n\nAnd a whole pirate sat down on the rug to dust off his sleeves.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ]
+      "cues": [{ "anchor": "chime", "sfx": "bell_soft" }]
     },
     {
       "id": "s4",
-      "text": "The wall clock let out a first slow chime.\n\nThen another, and another. Tomás counted them in a quiet voice: eight, nine, ten, eleven... twelve.\n\nAnd when the last one faded, something marvelous happened. From the shelves, as if the books were waking from a very long nap, rose a shower of golden sparks. The letters peeled off the paper and flew through the air like gentle fireflies.\n\nTomás opened his mouth, but not a single word came out. A thick book with a blue cover opened all by itself on the table in the middle. Out of it came first a hat, then a boot, then a tangled beard with two knots in it.\n\n'Land! ' shouted a rough voice. 'Solid land at last!\n\n' And then, right in front of Tomás's eyes, a whole pirate sat down on the table to brush the dust off his sleeves.",
+      "text": "The pirate was short, with a red nose and a parrot embroidered on his shirt.\n\n\"And who might you be, sailor?\" he asked, looking at Tomás with one eye half closed.\n\n\"Tomás. And who are you?\"\n\n\"Captain Quietbeard, from the blue book, chapter three!\" He gave a bow. \"At midnight, we characters come out to stretch our legs. Until the sun comes up. It's the oldest rule in any library.\"\n\nJust then, an enormous atlas burst open, and out stepped a woman in tall boots with a leather backpack.\n\n\"Nadia, explorer of eleven deserts,\" she said. \"And this is Fósforo.\"\n\nBehind her flew a dragon the size of a cat, made entirely of paper. He sniffed Tomás, wrinkled his nose…\n\n\"Atchoo!\"\n\nAnd filled his hair with glitter.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "chime",
-          "sfx": "bell_soft"
-        }
-      ]
+      "cues": [{ "anchor": "atchoo", "sfx": "sneeze_cute" }]
     },
     {
       "id": "s5",
-      "text": "The pirate was short, with a red nose and a parrot embroidered on his shirt. He looked Tomás up and down, squinting one eye. 'And who might you be, sailor?\n\nA brand-new character? ' 'My name is Tomás,' he answered. 'And I think I'm locked in.\n\n' 'Locked in! ' repeated the pirate. The whole ceiling filled up with his laugh.\n\n'Nobody gets locked in a library, my boy! In here you get locked into a thousand places at once. I am Captain Quietbeard, from the blue book, page forty-two.\n\n' He held out a hand with thick fingers and Tomás shook it. It was warm and a little sandy, as if it truly came from a beach. 'At midnight we're allowed out,' the captain explained, lowering his voice.\n\n'Until the sun peeks up. It's the oldest rule of all. ' And on the red carpet, little prints of sand were left behind by his footsteps.",
-      "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "rain"
+      "text": "\"Come on,\" said Nadia. \"We want to show you something.\"\n\nThey walked to the poetry shelf, the dustiest of them all. Nadia pushed three books at once, and the whole shelf swung slowly round, like a secret door, with a creak.\n\nBehind it was a long, narrow passage, with little lamps hanging from the ceiling.\n\n\"Was this always here?\" whispered Tomás.\n\n\"Always,\" said the captain. \"Libraries are bigger on the inside than on the outside. All of them.\"\n\nThe walls of the passage were made of books. And from some of them came little sounds: a faraway trumpet, someone practising the piano with one finger, the hum of a busy market.\n\nFósforo flew ahead, lighting the way with the glitter that escaped when he breathed.",
+      "ambient": null,
+      "cues": [{ "anchor": "creak", "sfx": "door_open" }]
     },
     {
       "id": "s6",
-      "text": "Near the window, a huge atlas flew open and out stepped a woman with tall boots, a leather backpack and a flashlight in her hand. 'Nadia, explorer of eleven deserts,' she said, and winked at him. 'Delighted, Tomás.\n\n' Behind her, from the shelf of myths, came a soft flutter.\n\nTomás looked up and saw a dragon about the size of a small dog, made entirely of paper pages. Every time he moved his wings it sounded like someone opening a brand-new notebook. 'His name is Sparkler,' said Nadia.\n\n'He doesn't breathe fire, he breathes glitter. He's allergic to candles. ' The dragon glided down and sniffed Tomás's hair.\n\nThen he curled up on his shoulder like a folded-up cat. Tomás wasn't scared anymore. He had that warm feeling of arriving at a party where everybody had been waiting just for him.",
-      "cues": [
-        {
-          "anchor": "flutter",
-          "sfx": "wing_flap"
-        }
-      ],
-      "ambient": "rain"
+      "text": "At the end of the passage was a round room, so tall you couldn't see the ceiling.\n\n\"This is where the books that hardly anyone borrows live,\" said Nadia, lowering her voice. \"They're the most grateful of all.\"\n\nThere were storybooks with faded covers, recipe books full of stains and a whole encyclopaedia all about clouds.\n\nSuddenly, Fósforo pricked up his paper ears and flew to a low shelf. He stopped in front of a small green book with soft corners.\n\nAnd then they all heard it.\n\nA very soft sound was coming from the green book. Someone was crying, very quietly, inside those pages.",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s7",
-      "text": "'Come, we have something to show you,' said Nadia. 'Nobody who learns the secret leaves without seeing it. ' They walked to the poetry shelf, the dustiest one of all.\n\nNadia pushed three books at the same time and the whole shelf turned slowly, like a hidden door. Behind it there was a long, narrow hallway with lamps hanging from the ceiling. 'Was this always here?\n\n' asked Tomás in a whisper.\n\n'Always,' said Quietbeard. 'A library is bigger on the inside than on the outside. They all are.\n\n' The hallway smelled of ink and cinnamon. The walls were made of stacked books, and out of some of them came tiny sounds: a faraway trumpet, somebody practicing piano with one finger, waves, bells. Sparkler flew ahead, lighting the way with his glitter.\n\nTomás walked very carefully, touching the spines with his fingertips, and each book gave back a little tickle.",
-      "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": "rain"
+      "text": "Tomás crouched down and opened the green book very carefully.\n\nOn the paper appeared a girl with short hair and a yellow coat. She was holding an unlit lantern.\n\n\"Hello,\" said Tomás. \"Why are you crying?\"\n\n\"My name's Lira,\" she said, wiping her face on her sleeve. \"And I can't finish my story.\"\n\nNadia turned the pages to the end. After chapter ten there was nothing: just a torn edge.\n\n\"Someone tore out the last pages, a very long time ago,\" said Lira. \"I crossed the snow. I went through the forest. I learned to row. And I've been stuck here, one step from the end.\"\n\n\"And how did it end?\" asked the captain.\n\n\"I don't know. I only know that across the water there's an island with a lighthouse. And my brother is waiting for me there. He lights the lamp every night, so I'll know which way to go.\"",
+      "ambient": null,
+      "music": "gentle_piano",
+      "cues": []
     },
     {
       "id": "s8",
-      "text": "They went down some wooden stairs, and on every single step there was a creak.\n\nBelow, a round room opened up, so tall that Tomás could not see the top of it. 'This is where the books almost nobody asks for live,' Nadia explained, swinging her flashlight. 'They are the most grateful ones of all.\n\n' There were storybooks with faded covers, recipe books full of stains and a whole encyclopedia devoted to clouds. A warm wind rose from somewhere hidden and lifted the loose scraps of paper like butterflies. Suddenly, Sparkler pricked up his paper ears and flew toward a low shelf.\n\nHe stopped in front of a small green book with soft corners and touched it with his snout. 'What is it, dragon? ' asked the captain.\n\nThen they all heard it. From the green book came a very soft sound, like a hiccup. Somebody was crying very quietly, inside those pages.",
-      "cues": [
-        {
-          "anchor": "creak",
-          "sfx": "crunch"
-        }
-      ],
-      "ambient": null
+      "text": "\"Then we'll find those pages,\" said Nadia, tightening her backpack. \"Right now.\"\n\nThey searched the whole library. Under the rug. In the box of returned books. On the trolley of books that had got wet.\n\nNadia climbed the ladder on wheels to look at the highest shelves. The captain opened every drawer in Don Ambrosio's desk, asking permission out loud, just in case. Fósforo crawled behind the radiator and came out wearing a cobweb for a hat.\n\nNothing. Not a single one.\n\nLira sat down on the edge of her own story and hung her head.\n\n\"It's all right,\" she said quietly. \"I'm used to waiting.\"",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s9",
-      "text": "Tomás crouched down and opened the green book very carefully. Above the paper appeared a girl with short hair and a yellow coat, so thin that the light showed right through her. She carried an unlit lantern in her hand.\n\n'Hello,' said Tomás. 'I'm Tomás. Why are you crying?\n\n' 'My name is Lira,' she answered, drying her face with her sleeve. 'And I can't finish my story. ' Nadia turned the book to the very end and went still.\n\nAfter chapter ten there was nothing: only a torn edge and the smell of old paper. 'The last sheets are missing,' she said slowly. Lira lowered her head and answered in a whisper.\n\n'Somebody tore them out ages ago. I walked through the snow, I crossed the forest, I learned to row in the cold water.\n\nAnd here I stayed, one step from the ending. Every night I reach the edge and there is no road left. '",
-      "ambient": "snow_wind",
-      "cues": [
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
-        }
-      ],
-      "music": "gentle_piano"
+      "text": "Nobody said anything for a long while. All you could hear was the rain outside, gentler now.\n\nTomás looked at Lira, at her yellow coat, at her unlit lantern. And he felt something tight in his chest.\n\nThen an idea lit up inside him, just like a match.\n\n\"What if we write it ourselves?\" he said.\n\nEveryone turned round.\n\n\"The ending. If it won't turn up, we'll make it up. I've got a pencil in my pyjama pocket.\"\n\nThe captain jumped up so fast that his hat fell off.\n\n\"Can you do that?\" asked Lira, her eyes very wide.\n\n\"I don't know,\" said Tomás. \"But you didn't know how to row either, and you learned.\"\n\nAnd then, for the first time in a hundred years, Lira let out a little laugh.",
+      "ambient": null,
+      "cues": [{ "anchor": "laugh", "sfx": "giggle" }]
     },
     {
       "id": "s10",
-      "text": "'And how was it supposed to end? ' asked Quietbeard, sitting down on the floor with a groan. 'I don't know,' said Lira.\n\n'I never read it. I only know that on the other side of the sea there is an island with a lighthouse, and in that lighthouse my brother is waiting for me. He lights the lamp every night so I know which way to go.\n\n' Tomás closed his eyes and could almost hear it: the salty air, the slow movement of the waves. And far away, underneath everything, the song of a whale.\n\n'Then we have to reach that lighthouse,' he said. 'It can't be done,' murmured Lira. 'Without pages there is no road.\n\nA character cannot walk where nothing is written. ' Sparkler curled around her feet, as if to warm them. Nadia jumped up, tightened her backpack and said in her captain voice: 'Then we look for those pages.\n\nRight now, until they turn up. '",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "whale",
-          "sfx": "whale_song"
-        }
-      ]
+      "text": "They sat in a circle around the green book.\n\nFirst, Nadia drew the map: a little boat, a gentle current and an island shaped like a hat.\n\nThe captain dictated the words for the journey, because he knew everything about seas.\n\n\"Write this: and the water carried her along, unhurried, like a cradle.\"\n\nLira told Tomás what her brother's voice was like, and how he laughed, and what tune he whistled when he lit the lighthouse.\n\nAnd Tomás wrote slowly, with his tongue sticking out, trying not to go over the lines.\n\nWhen he had finished, Fósforo came up to the paper and blew on it, very gently, to sweep away the pencil crumbs.",
+      "ambient": null,
+      "cues": [{ "anchor": "blew", "sfx": "wind_soft" }]
     },
     {
       "id": "s11",
-      "text": "They searched the whole library, corner by corner. They looked under the red carpet and found only an old coin and three bottle caps. They emptied the returns box and shook it upside down.\n\nThey checked the cart of rained-on books. Nadia hung from the rolling ladder to reach the shelves up high, and all around the room you could hear her quick footsteps.\n\nQuietbeard opened every drawer in Mr. Ambrose's desk, asking permission out loud just in case. Sparkler squeezed behind the radiator and came out wearing a cobweb for a hat.\n\nTomás checked the next shelf book by book, hunting for those pages. Nothing. Not one.\n\nWhen the clock chimed again, Lira sat down on the edge of her own story and lowered her head. 'It's all right,' she said quietly. 'I'm used to waiting by now.\n\n'",
-      "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        }
-      ],
-      "ambient": "rain"
+      "text": "When Tomás put the final full stop, the green book grew warm, like freshly baked bread.\n\nThe new words shone for a moment and then settled themselves on the paper.\n\nAnd Lira looked ahead. This time, there was a way.\n\nShe climbed into a paper boat, waved with both hands and began to drift slowly away across the sea.\n\nFar off, on an island shaped like a hat, the light of a lighthouse came on.\n\n\"Thank you!\" they heard, from almost another world.\n\nAnd just then, through the highest window, came the first ray of dawn.",
+      "ambient": null,
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "sea", "ambient": "ocean_waves" }]
     },
     {
       "id": "s12",
-      "text": "Nobody said anything for a long while. All they could hear was the rain, gentler now, and Sparkler's paper rustling each time he breathed. Tomás looked at Lira, at her yellow coat, at her unlit lantern, and felt something tight in his chest.\n\nAnd suddenly an idea lit up inside him, just like a real match. 'What if we write it ourselves? ' he said.\n\nEveryone turned their heads. 'The ending. If it doesn't turn up, we invent it.\n\nI have a pencil in my pocket. ' Quietbeard stood up so fast that his hat fell off. 'Now that is the work of the brave!\n\n' 'Are we allowed to do that? ' asked Lira, her eyes very wide. 'I don't know,' Tomás admitted.\n\n'But you didn't know how to row either, and you learned. ' And then, for the first time in a hundred years, Lira let out a laugh. It sounded like a just-opened bottle full of bubbles.",
-      "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        }
-      ]
-    },
-    {
-      "id": "s13",
-      "text": "They sat in a circle around the green book, under the biggest lamp, which hummed like a bumblebee. Tomás took out his chewed pencil and sharpened the tip with his fingernail. Nadia drew the map first: a small boat, a kind current and an island shaped like a hat.\n\nQuietbeard dictated the words of the voyage, because about seas he knew everything. 'Write this down: and the water carried her along in no hurry, like a cradle,' he said, and secretly wiped one eye. Tomás wrote slowly, with his tongue poking out, being careful not to slide off the line.\n\nWhenever he ran out of ideas, Lira told him what her brother's voice sounded like. At the end, so that nobody would ever feel alone at night, they added a whale. To dry the ink, Sparkler blew.\n\nHis breath smelled of glitter and clean paper.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "blew",
-          "sfx": "wind_soft"
-        }
-      ]
-    },
-    {
-      "id": "s14",
-      "text": "When Tomás wrote the final period, the green book turned warm like fresh-baked bread. The new letters glowed for a moment and settled themselves onto the paper. Lira looked ahead and this time there really was a road.\n\nShe climbed into the paper boat, waved with both hands, and the water carried her gently toward the island. From far away they saw the lighthouse lamp switch on, small and yellow like a star.\n\n'Thank you! ' they heard, already almost from another world. And then, through the highest window, came the first ray of dawn.\n\nNadia waved goodbye and went back into her atlas. Quietbeard took off his hat, made an enormous bow and folded himself back inside his blue book. Sparkler gave Tomás a gentle nudge with his forehead and off he went flying.",
-      "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "star",
-          "sfx": "sparkle"
-        }
-      ],
-      "music": "strings_hopeful"
-    },
-    {
-      "id": "s15",
-      "text": "Tomás was left alone in the corner of the cushions, hugging the green book against his chest. The shelves turned back into ordinary shelves and everything went quiet. Outside, the birds began to sing and the light climbed slowly across the red carpet, warm as a blanket.\n\nHe yawned a giant yawn, curled onto his side and, with a smile on his face, slept.\n\nA while later he was woken by the sound of the door. It was Mr. Ambrose: 'Tomás!\n\nOh, my boy, your mother and I looked for you all night long. ' The librarian picked up the green book and paused for a second, looking at the last pages written in pencil. He said nothing.\n\nTomás said nothing either. But he did catch Mr. Ambrose smiling just a little, like someone who has known that secret for a very long time.\n\nThat night, in his own bed, Tomás dreamed of the lighthouse and of a paper boat.",
+      "text": "The captain took off his hat, gave an enormous bow and climbed back into his blue book. Nadia waved goodbye and went back to her atlas. Fósforo gave Tomás a little nudge with his forehead, and flew away.\n\nThe shelves were shelves again, still and tidy.\n\nA little while later, Tomás heard footsteps. It was Don Ambrosio, waking the children.\n\n\"Tomás! So this is where you got to.\"\n\nThe librarian picked the green book up off the rug. And he stood for a moment looking at the last pages, written in pencil.\n\nHe didn't say anything. Neither did Tomás.\n\nBut Don Ambrosio smiled, just a little, like someone who has known that secret for a very long time.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "slept",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "music": "guitar_warm",
+      "cues": []
     }
   ]
 }

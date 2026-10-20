@@ -2,123 +2,73 @@
   "id": "la-carrera-de-los-farolillos",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "The Lantern Race",
-  "summary": "In a mountain village, two rival friends climb the path with their paper lanterns, not knowing that tonight the race is going to change its rules.",
+  "summary": "In a mountain village, Mila and Teo, friends and rivals, carry their paper lanterns up the path. Tonight, the race is going to change its rules.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High on the mountain, where the clouds sit down to rest on the rooftops, there was a tiny village called Alto Sereno. Once a year, when the air smelled of warm bread and the birds went home early to their nests, the children made paper lanterns and carried them up the stone path to the Lookout Rock.\n\nIt was not a race about running fast: it was a race about taking care. The lantern had to reach the top still glowing. Mila and Teo were neighbors, lifelong friends and lifelong rivals.\n\nShe had won last year. He had won the year before. Every time they crossed the square they smiled at each other with their teeth clenched.\n\n\"This year I win,\" said Mila, her bangs pushed around by the wind.\n\n\"We'll see about that,\" Teo answered. And they both laughed without meaning to, because behind the bell tower there had already risen a big round moon.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ]
+      "text": "High up on the mountain, where the clouds sit down to rest on the rooftops, there was a little village called Alto Sereno.\n\nOnce a year, the village children made paper lanterns and carried them up the stony path to Lookout Rock.\n\nIt wasn't a race for running. It was a race for taking care. The winner was the lantern that reached the top still alight.\n\nMila and Teo were neighbours. Friends all their lives, and rivals all their lives.\n\nLast year, she had won. The year before, he had.\n\n\"This year I'm going to win,\" said Mila, her fringe all messy.\n\n\"We'll see about that,\" said Teo.\n\nAnd they both laughed without meaning to.",
+      "ambient": "meadow_day",
+      "music": "guitar_windswept",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "That afternoon, each of them went out to hunt for treasures. Mila walked to the woods, stepping on dry leaves.\n\nThey crackled like cookies under her boots. She gathered thin willow twigs, the bendiest ones, the ones that fold without breaking. Teo went down to the stream to cut reeds and found, along the way, three flat stones for his collection.\n\nThey met again on the path, each one hugging a bundle of sticks against his chest. \"Are you making it square again?\" asked Mila.\n\n\"I'm making it better than yours,\" said Teo. And Mila could not hold back a laugh. It sounded like water hopping over stones.\n\nThen they walked along together for a good while without talking, shoulder to shoulder, because that is how friends who are also rivals walk: fighting on the outside and keeping each other company on the inside. At the houses, each one went in through his own gate, and instead of good night they said: \"Tomorrow.\"\n\n\"Tomorrow.\"",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "text": "That afternoon, each of them went off to find their materials.\n\nMila went into the woods for willow twigs, the thinnest ones, the ones that bend without breaking. She stepped on the leaves on purpose, to hear them crunch.\n\nTeo went down to the river to cut canes, and on the way he found three flat stones for his collection.\n\nThey met again on the path, each of them hugging a bundle of sticks.\n\n\"Are you making a square one again?\" asked Mila.\n\n\"I'm making a better one than yours,\" said Teo.\n\nThey walked back to the village side by side, without saying anything. That's how friends who are also rivals walk.\n\n\"Tomorrow,\" she said at her door.\n\n\"Tomorrow,\" he said.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "leaves", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s3",
-      "text": "Mila's kitchen smelled of cinnamon. Her grandmother went over to the cupboard of tissue paper and opened the door.\n\nInside there were sheets so thin they were almost air, blue like the night sky, rustling like little wings. Mila tied the willow twigs one by one until she had a round basket, so light that it almost floated in her hands. Then she glued the paper on slowly, with her tongue between her teeth, and painted a small star on every side.\n\n\"It is going to fly beautifully,\" said her grandmother, looking at her over her glasses. \"It is going to fly first,\" said Mila. When she finished, from the other side of the wall, in the house beside hers, came footsteps.\n\nTeo was working too. Mila leaned her ear against it, held her breath and smiled without meaning to. Then she left her blue lantern in the window, climbed under the blankets and dreamed of a light climbing the mountain.",
-      "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        }
-      ],
-      "ambient": "fireplace"
+      "text": "Mila's kitchen smelled of cinnamon.\n\nGrandma took some very thin tissue paper out of the cupboard, as blue as the night sky. Mila tied the willow twigs together, one by one, until they made a round basket, so light it almost floated. Then she glued on the paper carefully, with her tongue between her teeth, and painted a little star on each side.\n\n\"It's going to fly beautifully,\" said Grandma.\n\n\"It's going to get there first,\" said Mila.\n\nJust then, from the other side of the wall, in the house next door, came a little tapping.\n\nIt was Teo, working.\n\nMila pressed her ear to the wall, held her breath and smiled without meaning to.",
+      "ambient": "fireplace",
+      "cues": [{ "anchor": "tapping", "sfx": "hammer_tap" }]
     },
     {
       "id": "s4",
-      "text": "On the other side of that same wall, Teo was working in the barn with a flashlight hanging from a nail. His lantern was not going to be round: it was going to be a six-pointed star, with the reeds crossed like the spokes of a wheel.\n\nIt took him three tries. On the second one, a reed snapped with a dry crunch. Teo had to start all over again, blowing hard through his nose so he would not get angry.\n\nHis dad passed him the glue and said quietly, \"Slow and steady gets there sooner.\" Teo covered the star with orange paper, the color of tangerines, and painted an eye on every point so the lantern could see the road. Outside, on the branch of the walnut tree, somebody asked a question twice: it was an owl.\n\nNobody answered. Teo looked at his star hanging from the ceiling and thought, without saying it out loud, that Mila's eyes would go very wide when she saw it.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "On the other side of that same wall, Teo was working in the barn, with a torch hanging from a nail.\n\nHis lantern wasn't going to be round. It was going to be a six-pointed star, with the canes crossed like the spokes of a wheel.\n\nIt took him three tries. On the second one, a cane snapped: crack!\n\nTeo had to start again, huffing through his nose so as not to get cross.\n\n\"Slowly gets you there sooner,\" said his dad, passing him the glue.\n\nTeo covered the star with orange paper, the colour of tangerines, and painted an eye on every point, so the lantern could see the way.\n\nAnd he thought, without saying it out loud, that Mila's eyes were going to go very wide when she saw it.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "crack", "sfx": "crunch" }]
     },
     {
       "id": "s5",
-      "text": "The next night, the square looked like a chest full of fireflies. There were red lanterns, green ones, golden ones and striped ones; the air smelled of thick chocolate and toasted corn. Above the rooftops, so still that they seemed painted on, shone the stars.\n\nDon Nicolás, the baker, climbed onto the edge of the fountain and explained the rules in his party voice: \"You walk up the path to the Lookout Rock. The lantern that arrives still glowing wins. And nobody blows out the neighbor's!\"\n\nEveryone laughed. Mila and Teo stood side by side, as always, not looking at each other and looking at each other. \"Nice star,\" said Mila in a whisper.\n\n\"Nice basket,\" answered Teo. And neither of them said anything else, because in their chests beat that tickle of the things you wait for a whole year. Don Nicolás raised his white handkerchief.\n\nThe whole square went quiet. The handkerchief fell.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "stars",
-          "sfx": "sparkle"
-        }
-      ]
+      "text": "The next evening, the square looked like a treasure chest full of lights. There were red lanterns, green ones, golden ones and stripy ones. It smelled of thick hot chocolate and toasted corn.\n\nDon Nicolás, the baker, climbed onto the edge of the fountain.\n\n\"You go up the path to Lookout Rock,\" he said. \"The winner is the lantern that arrives still lit. And nobody blows out their neighbour's!\"\n\nEveryone laughed.\n\nMila and Teo stood side by side, as always. Not looking at each other, and looking at each other.\n\n\"Nice star,\" said Mila, very quietly.\n\n\"Nice basket,\" said Teo.\n\nAnd at that moment, from the church tower, rang the bell.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "bell", "sfx": "bell_soft" }]
     },
     {
       "id": "s6",
-      "text": "The children left the village like a river of lights. At first they all wanted to run, but they learned the lesson right away: if you run, the flame goes out. So the river turned slow, careful, beautiful.\n\nMila walked with her blue basket held right at the height of her heart.\n\nTeo carried his orange star on a stick, up high, like a flag. The path climbed between dark pines, and on the ground you could hear their steady footsteps. Crack, crack, crack.\n\n\"Are you scared?\" asked Teo. \"Of you?\n\nNot one bit,\" said Mila, and they both sped up a little. Halfway up the mountain they could see the village down below, tiny, with its yellow windows. The air was colder, and they could already smell the wet stone of the Lookout Rock.\n\nMila imagined her name on the bakery sign. Teo imagined his. And they were both so busy imagining that they did not feel the mountain starting to breathe in deeply.",
+      "text": "The children left the village like a river of lights.\n\nAt first everyone wanted to run. But they soon learned the lesson: if you run, the flame goes out. And the river of lights became slow, careful, beautiful.\n\nMila carried her blue basket at chest height, with both hands. Teo carried his orange star high on a stick, like a flag.\n\nThe path climbed between dark pine trees. Down below, the village grew smaller and smaller, with its yellow windows.\n\nMila was already imagining her name on the sign in the bakery. Teo was imagining his.\n\nAnd they were both so busy imagining that they didn't notice the mountain beginning to take a deep breath.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s7",
-      "text": "And then it came. Down from the summit, whistling through the branches, dropped a gust.\n\nIt grabbed Teo's orange star by one point. The paper puffed up, stretched, and tore with a sad sound, like an envelope being opened. The candle went out in one breath.\n\nThe stick slipped out of his hands and fell onto the cold earth of the path with a soft thud. Teo stood still, with empty hands and his mouth open. The other children kept walking past him, glowing, hurrying, and nobody stopped.\n\nTeo's face went hot. He thought about the three tries, about the eyes painted one by one, about his dad saying slow and steady gets there sooner. All of that, right there, broken on the ground.\n\nHe clenched his teeth so the crying would not come out. Ahead of him, Mila's blue light was almost touching the Lookout Rock.",
+      "text": "And then it came.\n\nFrom the summit, whistling through the branches, down swept a gust.\n\nIt caught Teo's star by one point. The paper puffed up, stretched… and tore. The candle went out in one breath.\n\nThe stick slipped out of his hands and fell onto the path.\n\nTeo stood still, with empty hands.\n\nThe other children went past him, with their lights, without stopping. Teo thought about the three tries. About the eyes he had painted, one by one. About his dad saying: slowly gets you there sooner.\n\nAll of that, lying there, broken on the ground.\n\nHe clenched his teeth so the tears wouldn't come. Further up, Mila's blue light had almost reached Lookout Rock.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "gust",
-          "sfx": "wind_high"
-        }
-      ],
-      "music": "gentle_piano"
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "gust", "sfx": "wind_high" }]
     },
     {
       "id": "s8",
-      "text": "Mila noticed it before she saw it: she stopped hearing Teo's voice behind her. She turned around. Down there, at the bend of the path, a boy was standing still beside a broken star.\n\nMila looked at the Lookout Rock, so close that she could already make out the faces of the people waiting. She looked at her blue lantern, glowing, perfect. She stood still and breathed.\n\nDeep, once, and then again. And she walked back down. \"It broke,\" said Teo without lifting his head.\n\n\"I saw,\" said Mila. And then she did something strange: she set the blue basket right between the two of them and held it with only one hand. \"Grab the other side.\"\n\n\"What about your race?\" \"It's our race.\" From the stream came one round note, as if it agreed: it was a frog.\n\nTeo lifted his hand slowly, still not believing it, and took the rim of the basket. The light, which until that moment belonged to one person, began to light up two faces.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        }
-      ]
+      "text": "Mila noticed before she saw: she couldn't hear Teo behind her any more.\n\nShe turned round. Down below, at the bend in the path, there was a boy standing still beside a broken star.\n\nMila looked at Lookout Rock, so close that she could already see people's faces. She looked at her blue lantern, alight and perfect.\n\nShe stood still. She breathed in deeply.\n\nAnd she went back down.\n\n\"It broke,\" said Teo, without looking up.\n\n\"I saw,\" said Mila. And she held her blue basket right between the two of them. \"Take the other side.\"\n\n\"What about your race?\"\n\n\"It's our race.\"\n\nTeo slowly lifted his hand, still not quite believing it, and took hold of the edge of the basket. And the light, which until then had shone on one face, began to shine on two.",
+      "ambient": "forest_night",
+      "cues": [{ "anchor": "breathed", "sfx": "breathe_in" }]
     },
     {
       "id": "s9",
-      "text": "They climbed the last stretch together, shoulder to shoulder, with four hands around a single light. They had to move at the very same pace, and that made them stumble, and laugh, and finally walk like one person with two heads. And then again came the wind.\n\nThis time it was slow and curious, and they covered the flame with their bodies until it went away. When they reached the Lookout Rock, everyone was looking at them. There was a short silence and then some laughter.\n\nThen came applause that echoed all over the mountain. Don Nicolás scratched his head under his cap. \"Well,\" he said.\n\n\"One lantern wins here, and this lantern has two owners.\" He hung the same ribbon around both their necks, one piece each, cut from the very same bow. Below, the village was shining.\n\nAbove, the stars were shining. And in the middle, a blue basket of tissue paper, still glowing.",
+      "text": "They climbed the last stretch together, with four hands around a single light.\n\nThey had to walk in step, which made them stumble, and laugh, and in the end walk like one person with two heads.\n\nWhen they reached Lookout Rock, the whole village was watching them.\n\nThere was a short silence. And then, a round of applause that echoed across the whole mountain.\n\nDon Nicolás scratched his head under his cap.\n\n\"Well,\" he said. \"One lantern wins here. And this lantern has two owners.\"\n\nHe cut his champion's ribbon in two, and hung a piece round each of their necks.\n\nDown below, the village shone. Up above, the stars shone. And in between, a blue tissue-paper basket, still alight.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "laughter",
-          "sfx": "giggle",
-          "delayMs": 200
-        }
-      ],
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": []
     },
     {
       "id": "s10",
-      "text": "They walked back to the village slowly, because nobody was in a hurry anymore. In the grandmother's kitchen they drank chocolate from cups with painted flowers and ate the bread left over from the festival. Teo put his broken star on the table, its points all bent.\n\n\"We'll fix it tomorrow,\" said Mila, her eyes already heavy. \"And next year we'll make a huge one, the two of us together.\" \"One that doesn't break,\" yawned Teo.\n\nUnder the table, the old dog of the house let out a snore.\n\nA very long one, and they both laughed that floppy laugh that comes when sleep is arriving. Then each of them crossed the yard to bed, on either side of the very same wall. The blue basket stayed hanging in the window, dark and calm.\n\nOutside, above the wet rooftops, shone the moon. And Mila and Teo fell asleep at the same time, thinking the same thing: winning alone is nice, but winning together lasts much longer.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "snore",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "They walked back to the village slowly, because nobody was in a hurry any more.\n\nIn Grandma's kitchen they drank hot chocolate from cups with flowers painted on them. Teo left his broken star on the table, with its points all bent.\n\n\"We'll fix it tomorrow,\" said Mila, her eyes heavy. \"And next year we'll make an enormous one, together.\"\n\n\"One that doesn't break,\" yawned Teo.\n\nThen each of them went to bed, on either side of the same wall.\n\nMila snuggled under her blankets. And before she fell asleep, she knocked softly on the wall with her knuckles.\n\nOn the other side, after a moment, someone answered the same way.\n\nGoodnight, they meant. And also: we won.",
+      "ambient": "fireplace",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "knuckles", "sfx": "hammer_tap" }]
     }
   ]
 }

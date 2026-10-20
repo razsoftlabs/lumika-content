@@ -1785,7 +1785,7 @@
     },
     {
       "id": "la-biblioteca-de-medianoche",
-      "version": 8,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1797,7 +1797,7 @@
       "cover": "covers/la-biblioteca-de-medianoche.webp",
       "ageMin": 5,
       "ageMax": 8,
-      "durationMin": 15,
+      "durationMin": 10,
       "categories": [
         "mitos",
         "aventuras"
@@ -1813,22 +1813,34 @@
       ],
       "premium": true,
       "preload": [
-        "music/music_box"
+        "ambient/forest_birds",
+        "ambient/ocean_waves",
+        "ambient/rain",
+        "music/gentle_piano",
+        "music/guitar_tales",
+        "music/guitar_warm",
+        "music/strings_hopeful",
+        "sfx/bell_soft",
+        "sfx/door_open",
+        "sfx/giggle",
+        "sfx/page_turn",
+        "sfx/sneeze_cute",
+        "sfx/wind_soft"
       ],
       "preview": {
         "es": {
           "title": "La biblioteca de medianoche",
-          "summary": "Tomás se queda encerrado sin querer en la biblioteca del pueblo y descubre que, cuando el reloj da las doce, los libros no se quedan quietos."
+          "summary": "Tomás pasa la noche de pijamas en la biblioteca del pueblo, y descubre que cuando el reloj da las doce, los libros no se quedan quietos."
         },
         "en": {
           "title": "The Midnight Library",
-          "summary": "Tomás gets locked inside the village library by accident and discovers that, when the clock strikes twelve, the books do not stay still."
+          "summary": "Tomás spends pyjama night at the village library, and discovers that when the clock strikes twelve, the books do not stay still."
         }
       }
     },
     {
       "id": "la-brujita-buena",
-      "version": 9,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1840,7 +1852,7 @@
       "cover": "covers/la-brujita-buena.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 4,
       "categories": [
         "mitos",
         "amistad"
@@ -1856,22 +1868,33 @@
       ],
       "premium": true,
       "preload": [
-        "music/harp_dreams"
+        "ambient/fireplace",
+        "ambient/meadow_day",
+        "ambient/meadow_night",
+        "ambient/rain",
+        "music/gentle_piano",
+        "music/music_box",
+        "music/strings_hopeful",
+        "sfx/cat_meow",
+        "sfx/door_open",
+        "sfx/giggle",
+        "sfx/magic_shimmer",
+        "sfx/sparkle"
       ],
       "preview": {
         "es": {
           "title": "La brujita buena",
-          "summary": "Cada hechizo de Aura sale al revés, y su gato Bigotes nunca sabe a quién van a terminar ayudando."
+          "summary": "A Aura, la brujita, todos los hechizos le salen al revés. Y su gato Bigotes nunca sabe a quién van a terminar ayudando."
         },
         "en": {
           "title": "The Good Little Witch",
-          "summary": "Every one of Aura's spells comes out backwards, and her cat Bigotes never knows who they'll end up helping."
+          "summary": "Every one of Aura's spells comes out back to front, and her cat Bigotes never knows who they're going to end up helping."
         }
       }
     },
     {
       "id": "la-carrera-de-los-farolillos",
-      "version": 6,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1883,7 +1906,7 @@
       "cover": "covers/la-carrera-de-los-farolillos.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 10,
+      "durationMin": 9,
       "categories": [
         "aventuras",
         "amistad"
@@ -1899,16 +1922,30 @@
       ],
       "premium": true,
       "preload": [
-        "music/guitar_warm"
+        "ambient/city_soft",
+        "ambient/fireplace",
+        "ambient/forest_birds",
+        "ambient/forest_night",
+        "ambient/meadow_day",
+        "music/gentle_piano",
+        "music/guitar_windswept",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/bell_soft",
+        "sfx/breathe_in",
+        "sfx/crunch",
+        "sfx/hammer_tap",
+        "sfx/leaves_rustle",
+        "sfx/wind_high"
       ],
       "preview": {
         "es": {
           "title": "La carrera de los farolillos",
-          "summary": "En un pueblo de montaña, dos amigos rivales suben el sendero con sus farolillos de papel, sin saber que esta noche la carrera va a cambiar de reglas."
+          "summary": "En un pueblo de montaña, Mila y Teo, amigos y rivales, suben el sendero con sus farolillos de papel. Esta noche, la carrera va a cambiar de reglas."
         },
         "en": {
           "title": "The Lantern Race",
-          "summary": "In a mountain village, two rival friends climb the path with their paper lanterns, not knowing that tonight the race is going to change its rules."
+          "summary": "In a mountain village, Mila and Teo, friends and rivals, carry their paper lanterns up the path. Tonight, the race is going to change its rules."
         }
       }
     },

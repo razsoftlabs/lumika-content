@@ -2,121 +2,72 @@
   "id": "el-gato-que-cruzo-la-ciudad",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 12,
+  "version": 20,
   "title": "Michi and the Blue Truck",
-  "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting.",
+  "summary": "Out of curiosity, Michi climbs into a blue truck and ends up on the other side of the city, far away from the home where someone is always waiting for him.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Michi was a gray cat with four white paws, as if he had walked through flour. He lived with Elena in a small house on Almond Tree Street, next door to a bakery that smelled of warm bread all morning long. Every afternoon Elena came home from school and lifted him into her arms.\n\n\"Did you wait for me all day?\" she would ask, and the whole house filled up with her laugh.\n\nMichi purred and closed his eyes. That was his favorite place in the world. That Thursday, though, a blue truck stopped in front of the bakery.\n\nIt carried boxes stacked up to the roof and smelled of new things, of faraway places. Along the sidewalk, the wind stirred the dry leaves. Michi felt a tickle at the tip of his tail: the tickle of curiosity.\n\nHe looked at the truck's open door and at the biggest box. And without thinking too much, he jumped inside.",
-      "cues": [
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Michi was a tabby cat, with stripes the colour of milky coffee.\n\nHe lived with Elena in a little house on Almond Tree Street, next to a bakery that smelled of warm bread all morning.\n\nEvery afternoon, Elena came home from school, picked him up and asked:\n\n\"Did you wait for me all day?\"\n\nAnd Michi purred with his eyes shut. That was his favourite place in the world.\n\nBut that Thursday, a blue truck stopped outside the bakery.\n\nIt had boxes in the back, and it smelled of new things, of faraway places. Michi felt a tickle at the tip of his tail: the tickle of curiosity.\n\nHe looked at the truck. He looked at the boxes. And without thinking too hard about it, he jumped.",
+      "ambient": "city_soft",
+      "music": "guitar_tales",
+      "cues": [{ "anchor": "jumped", "sfx": "jump_hop" }]
     },
     {
       "id": "s2",
-      "text": "Inside the truck everything was shadowy and smelled of cardboard. Michi found a soft corner between two boxes, turned around three times and settled in like a little bread roll. Outside, hands were pushing the boxes.\n\nMichi heard a door slam and a few footsteps.\n\nThe engine coughed, shivered, and the floor began to move. At first it was fun: the truck rocked like a cradle and through a crack came a thread of wind. It tickled his whiskers.\n\nMichi yawned. He closed one eye. He closed the other.\n\nAnd he fell asleep, dreaming of warm milk. When he woke up, the truck was still and the door was open. Michi poked out his nose, jumped down and looked around.\n\nThere was no bakery. There were no almond trees. His house was not there.\n\nThere were tall buildings, blinking traffic lights and people walking fast without looking down. Michi sat, his tail pressed tight against his body, and understood that he was far away. Very, very far.",
-      "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        }
-      ],
-      "ambient": null
+      "text": "Between the boxes it smelled of cardboard and wood. Michi found a soft little corner, turned round three times and curled up like a bread roll.\n\nThen the engine coughed, and the truck set off.\n\nAt first it was fun. The truck rocked like a cradle, and the air tickled his whiskers.\n\nMichi yawned. He closed one eye. He closed the other.\n\nAnd he fell asleep.\n\nWhen he woke up, the truck had stopped. Michi poked his nose out and hopped down to the ground.\n\nThere was no bakery. There were no almond trees. His house wasn't there.\n\nThere were enormous buildings, blinking traffic lights and people hurrying along without looking down.\n\nMichi sat with his tail pressed tight against his body. He was far away. Very, very far away.",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "The city made an enormous noise. Horns, brakes, a siren far away. Michi walked close to the walls, trying to make himself small, until a garbage can tipped over nearby with a dry thud.\n\nMichi jumped so high he almost touched a sign. That was when he heard them. Behind a fence, staring at him and barking with all their might, were two big dogs.\n\nWoof, woof! Michi squeezed under a car and stayed there, trembling, his heart going thump-thump-thump inside his ears. \"I want to go home,\" he said quietly.\n\n\"I want my blanket and my Elena.\" He waited a long while. The two of them got tired of barking.\n\nThe street grew calmer. Michi poked out one whisker first, then half a nose, then a paw. The air smelled of smoke and old rain, but it did not smell of danger anymore.\n\nHe came out slowly and decided he would not stay crying under a car.",
+      "text": "The city made an enormous noise. Horns, brakes, a siren in the distance.\n\nMichi walked close to the walls, trying to make himself small.\n\nSuddenly, behind a fence, a huge dog appeared, and barked.\n\nMichi sprang so high that he nearly touched a sign. And he dashed under a car, with his heart going thump-thump-thump in his ears.\n\n\"I want to go home,\" he said quietly. \"I want my blanket. I want Elena.\"\n\nHe waited for a long time. The dog got bored, and the street grew calmer.\n\nMichi poked out one whisker. Then half his nose. Then a paw.\n\nAnd he decided he wasn't going to stay crying under a car.",
       "ambient": "city_soft",
-      "cues": [
-        {
-          "anchor": "dogs",
-          "sfx": "bark"
-        }
-      ]
+      "cues": [{ "anchor": "barked", "sfx": "bark" }]
     },
     {
       "id": "s4",
-      "text": "High on a lamppost sat a plump gray pigeon with eyes as bright as two seeds. She had watched him for a while. \"You're lost, aren't you?\"\n\nsaid the pigeon, fluttering down. \"I can tell by your ears.\" \"I live next to a bakery,\" answered Michi.\n\n\"It smells of warm bread. There are almond trees on the sidewalk.\" \"Ah, I know that neighborhood.\n\nI fly all over the city,\" she said, and brought her beak closer as if telling him a secret. Her voice turned into a whisper.\n\n\"Always walk toward the place where the sun is going down. Cross the big park. Then the market.\n\nAt the end you will see a bridge over the river: cross it without fear and you will be close. And when you don't know what to do, close your eyes and smell.\" Past the flowers of a balcony buzzed a bee.\n\nMichi looked at the orange sun and said, \"Thank you, pigeon. I will make it.\"",
+      "text": "On top of a lamp post sat a plump grey pigeon. She had been watching him for a while.\n\n\"You're lost, aren't you?\" she said, coming down to the pavement in a flutter. \"I can tell from your ears.\"\n\n\"I live next to a bakery,\" said Michi. \"It smells of warm bread. There are almond trees in the street.\"\n\n\"I know that neighbourhood. I fly all over the city.\"\n\nThe pigeon leaned her beak close, as if she were telling him a secret.\n\n\"Always walk towards where the sun goes down. Cross the big park. Then the market. At the end you'll see a bridge over the river: cross it without being scared, and you'll be nearly there.\"\n\n\"And what if I get lost again?\"\n\n\"Close your eyes,\" said the pigeon, \"and sniff.\"\n\nMichi looked at the sun, which was already starting to sink.\n\n\"Thank you, pigeon. I'm going to get there.\"",
       "ambient": "city_soft",
-      "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        }
-      ]
+      "cues": [{ "anchor": "flutter", "sfx": "wing_flap" }]
     },
     {
       "id": "s5",
-      "text": "The big park appeared around a corner, green and enormous, as if somebody had tucked a piece of the countryside inside the city. Michi slipped in under a bench and felt the cool grass on his belly. Out there the noise of the cars stayed outside.\n\nHe could hear birds, a ball, the squeak of a swing. He walked beside a pond where the last of the sunlight lit up the water. On a stone sat a frog.\n\nIt went croak, croak, as if saying hello. Michi answered with a short meow and went on. Two children wanted to pet him and he let them for a moment, because their hands felt like Elena's hands.\n\nBut when the smaller one tried to hug him, Michi slipped away gently. He could not stay: he had a home waiting for him. On the other side of the park, between the trees, the sun was already hiding.\n\nMichi walked faster.",
+      "text": "The big park appeared round a corner, green and enormous, as if someone had tucked a piece of countryside inside the city.\n\nMichi went in under a bench. The grass was cool, and the noise of the cars stayed outside.\n\nHe could hear birds, a ball, a swing.\n\nTwo children wanted to stroke him, and Michi let them for a moment, because their hands were like Elena's. But when the smaller one tried to hug him, Michi slipped gently away.\n\nHe couldn't stay. Someone was waiting for him.\n\nOn the far side of the park, the sun was already hiding among the trees. Michi walked faster.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s6",
-      "text": "The market was a tunnel of smells. Oranges, cilantro, fish, fresh bread, wet flowers. Michi walked between baskets and table legs, dodging hurried shoes.\n\nSomeone was sweeping. Someone was closing a metal shutter. A cart rolled by and sprinkled his tail as it splashed through a puddle.\n\nAn orange cat, very skinny, spotted him from the top of some boxes and meowed.\n\nHe wanted to know who this stranger was. \"I'm on my way back home,\" Michi explained. \"Good luck, then,\" said the other cat, and moved aside.\n\nJust then Michi smelled something wonderful: fish. A lady in a blue apron, the one at the very last stall, crouched down and left him a piece on a scrap of paper. \"Eat, little one,\" she said.\n\n\"You're a long way from home, aren't you?\" Michi ate it all and licked his whiskers. For the first time all day his tummy was happy.\n\nAnd night was beginning to fall over the city.",
+      "text": "The market was a tunnel of smells. Oranges, coriander, fish, wet flowers.\n\nMichi wove between baskets and table legs, dodging hurrying shoes. Somebody was sweeping. Somebody was pulling down a metal shutter.\n\nFrom on top of some boxes, a very thin orange cat looked at him and miaowed.\n\n\"And who are you?\"\n\n\"I'm on my way home,\" said Michi.\n\n\"Good luck, then,\" said the other cat, and moved aside.\n\nAt that moment, Michi smelled something wonderful: fish. The lady at the last stall, the one in the blue apron, bent down and left him a little piece on some paper.\n\n\"Eat up, little one,\" she said. \"You're a long way from home, aren't you?\"\n\nMichi ate every bit and licked his whiskers. For the first time all day, his tummy was happy. And night was beginning to fall.",
       "ambient": "city_soft",
-      "cues": [
-        {
-          "anchor": "meowed",
-          "sfx": "cat_meow"
-        }
-      ]
+      "cues": [{ "anchor": "miaowed", "sfx": "cat_meow" }]
     },
     {
       "id": "s7",
-      "text": "The bridge appeared at the end of a long street, with two rows of lamps lit like candles. Down below, the river murmured patiently, talking to itself. Michi stopped at the entrance.\n\nThe bridge was very long and he was very small. High above everything, white and round as if freshly washed, shone the moon.\n\nFrom a tree on the bank hooted an owl. Hoo, hoooo. Michi swallowed hard.\n\n\"No fear,\" he told himself, just as the pigeon had said. \"One step, and another step.\" And he began to cross.\n\nHis white paws crossed the planks step by step: tap, tap, tap. The river wind combed his fur backward and carried the smell of deep water. Halfway across he stopped to look at the city lights reflected below, trembling like golden fish.\n\nIt was beautiful. Michi took a deep breath, wiggled his ears and kept going to the other side.",
-      "ambient": "city_soft",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ]
+      "text": "The bridge appeared at the end of a long street, with two rows of lamps lit up.\n\nBelow, the river flowed slowly, talking to itself.\n\nMichi stopped at the start. The bridge was very long, and he was very small.\n\n\"No being scared,\" he told himself, just as the pigeon had said. \"One paw, then another paw.\"\n\nAnd he began to cross.\n\nThe breeze from the river combed his fur the wrong way. Halfway across he stopped to look at the city lights reflected in the water, trembling like golden fish.\n\nIt was beautiful. Michi twitched his ears and carried on to the other side.",
+      "ambient": "stream_water",
+      "cues": []
     },
     {
       "id": "s8",
-      "text": "On the other side of the river the streets were narrower and quieter. Michi walked beneath the cables, and between them peeked a few stars. Suddenly he stopped with one paw in the air.\n\nHe closed his eyes, the way the pigeon had taught him. And he smelled. Bread.\n\nWarm bread. That bread. It was a thin, thin thread of smell coming from the corner.\n\nMichi followed it with his nose in the air and, three blocks later, he saw something he knew: a crooked tree, a green fence, a small puddle where he always stopped to drink. The almond trees! His street!\n\nThen he ran.\n\nNever in his life had he run like that, ears back, jumping the edge of the sidewalk, dodging a bicycle, his tail up like a flag. He passed the closed bakery, passed the same old lamppost and braked in front of a door painted yellow.\n\nHe scratched the wood and meowed loudly, very loudly.",
-      "cues": [
-        {
-          "anchor": "ran",
-          "sfx": "run_fast"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "On the other side of the river, the streets were narrower and quieter.\n\nSuddenly, Michi stopped with one paw in the air.\n\nHe closed his eyes, the way the pigeon had taught him. And he sniffed.\n\nBread.\n\nWarm bread. That bread.\n\nIt was a very thin thread of smell coming from the corner. Michi followed it with his nose in the air, and three streets later he saw something he knew: a crooked tree, a green gate, a puddle where he always drank.\n\nThe almond trees! His street!\n\nThen he ran.\n\nHe had never run like that, with his ears flat back and his tail up like a flag. He passed the closed bakery, he passed the usual lamp post, and he skidded to a stop in front of his house.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "ran", "sfx": "run_fast" }]
     },
     {
       "id": "s9",
-      "text": "Inside, feet came running, a chair moved, and there was Elena's voice saying, \"Mom, it's him, it's him!\" Then somebody threw open the door.\n\nAnd there she stood, in her pajamas, with messy hair and enormous eyes. \"Michi!\" she shouted.\n\n\"You came back!\" A sob got mixed up with her laugh. She lifted him into her arms and squeezed him so tightly that Michi had to wriggle.\n\nShe kissed his head and told him everything at once: that she had put up posters on the lampposts, that she had left a plate on the windowsill every single night, that she had not wanted dessert even once. Michi purred so hard that his whole body hummed.\n\nElena's mom brought warm milk and checked his paws. \"He's all in one piece,\" she said. \"Skinny and very dirty, but all in one piece.\"\n\nOutside, the huge city kept making noise. Inside, everything was back in its place.",
+      "text": "Michi scratched at the wood and called out with all his might.\n\nInside came the sound of running feet, a chair scraping, and Elena's voice:\n\n\"Mum! It's him! It's him!\"\n\nAnd all at once, open flew the door.\n\nThere was Elena, in her pyjamas, her hair a mess, her eyes enormous. She picked him up and squeezed him so tight that Michi had to wriggle to get comfortable.\n\nShe told him everything at once: that she had put up posters on the lamp posts, that she had left a bowl in the window every night, that she hadn't wanted pudding even once.\n\nMichi purred so loudly that his whole body shook.\n\n\"He's thin and very dirty,\" said Elena's mum, checking his paws. \"But he's all in one piece.\"",
       "ambient": "city_soft",
-      "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        }
-      ],
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "door", "sfx": "door_open" }]
     },
     {
       "id": "s10",
-      "text": "Then came the shortest bath in history, a towel that smelled of clean, and a soft brushing. Elena carried him to her room and put him in the usual spot: at the foot of the bed, on the checkered blanket. She turned off the big light and left the corner lamp on.\n\n\"Tomorrow I'll tell you everything that happened at school,\" she said quietly. \"But now we sleep.\" Michi kneaded the blanket with his white paws, curled into a round ball and breathed.\n\nThree deep breaths, as if he were keeping the whole city in his chest and then letting it go. Cool air came in through the window, along with the calm song of the crickets. There were no more trucks, no fences, no bridges.\n\nOnly Elena's hand on his back, going up and down, slowly. And then, from deep inside the chest of a happy cat, came a small snore.\n\nMichi fell fast asleep.",
+      "text": "Then came the shortest bath in history, a towel that smelled clean and a gentle brush.\n\nElena carried him to her room and put him in his usual spot: at the foot of the bed, on the checked blanket.\n\n\"Tomorrow you can tell me what you did,\" she whispered. \"Now it's time for sleep.\"\n\nMichi kneaded the blanket with his paws, turned round three times and curled up into a ball.\n\nThere were no more trucks, or dogs, or bridges. Just Elena's hand on his back, going slowly up and down.\n\nAnd from deep in the chest of a happy cat, there came a little snore.",
       "ambient": "city_soft",
-      "cues": [
-        {
-          "anchor": "snore",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "snore", "sfx": "snore_soft" }]
     }
   ]
 }

@@ -2,124 +2,73 @@
   "id": "el-faro-que-guiaba-ballenas",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "Aitana and the Foggy Night",
-  "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light.",
+  "summary": "Aitana thinks her grandpa's lighthouse is the most boring place in the world. Until, one foggy night, the light breaks down and she discovers who is waiting for it out at sea.",
   "scenes": [
     {
       "id": "s1",
-      "text": "The truck stopped at the end of the stony road, and Aitana climbed out with her small suitcase. In front of her, high on the cliff, stood her grandfather's lighthouse: white, enormous, with a red stripe on top like a woolen hat. It smelled of salt, of toasted bread and of wet wood.\n\nFar below, against the rocks, broke the waves. They opened and came together again, over and over, never getting tired.\n\n“Welcome to my house,” said Grandpa Nicolás, and with both hands he pushed open the door.\n\nIt was blue, old, and it groaned like a long yawn.\n\nAitana looked inside. One table, two chairs, a kettle and a staircase that climbed and climbed. No television, no neighbors, no playground.\n\n“What do you even do here?” she asked, dragging her feet.\n\n“You take care of the light,” her grandfather answered. “It is the quietest job in the world.”\n\nAitana sighed. To her, quiet mostly sounded boring.",
+      "text": "The van stopped at the end of the stony track, and Aitana climbed out with her little suitcase.\n\nIn front of her, high on the cliff, stood her grandpa's lighthouse. It was white and very tall, with a red stripe at the top, like a woolly hat.\n\nDown below, far below, the waves were breaking against the rocks.\n\n\"Welcome to my home,\" said Grandpa Nicolás, and he pushed open the door with both hands.\n\nInside there was a table, two chairs, a teapot and a staircase that went up and up. No television, no neighbours, no park.\n\n\"So what do you do here?\" asked Aitana, dragging her feet.\n\n\"You look after the light,\" said Grandpa. \"It's the quietest job in the world.\"\n\nAitana sighed. To her, quiet mostly seemed boring.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        }
-      ]
+      "music": "harp_canon",
+      "cues": [{ "anchor": "door", "sfx": "door_open" }]
     },
     {
       "id": "s2",
-      "text": "After the hot soup, Grandpa hung his cap on a nail and said:\n\n“Come, let me introduce you to the lady of the lighthouse.”\n\nThey climbed together. The staircase was a spiral of cold iron, and like a slow drum sounded their footsteps.\n\nTap, tap, tap. Aitana counted twenty, forty, sixty steps. On the walls there were seashells stuck up with tape, old drawings of boats and a long list of names she did not know.\n\nEverything smelled of oil, of metal and of sleeping sea.\n\n“How many steps are there?” she asked, a little out of breath.\n\n“One hundred and twenty,” said her grandfather. “I climb them twice every night, in rain or in calm. That is why I have these old crab legs.”\n\nAitana let out a laugh. It bounced up the hollow tower and came back from above, smaller.\n\n“Did you hear that?” said Grandpa, winking. “That was the lighthouse chuckling.\n\nYou only have to tickle it at the right moment.”",
+      "text": "After a nice hot soup, Grandpa hung his cap on a nail.\n\n\"Come on,\" he said. \"I'll introduce you to the lady of the lighthouse.\"\n\nThey climbed the spiral staircase together. It was made of iron, and every step rang under their feet like a drum: dong, dong, dong.\n\nAitana counted twenty steps. Forty. Sixty.\n\n\"How many are there?\" she panted.\n\n\"A hundred and twenty,\" said Grandpa. \"I climb them twice every night, rain or calm. That's why I've got these old crab legs.\"\n\nAitana let out a laugh. It bounced around the tower and came back down from the top, smaller.\n\n\"Did you hear that?\" said Grandpa, with a wink. \"The lighthouse laughs too.\"",
       "ambient": "fireplace",
-      "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        }
-      ]
+      "cues": [{ "anchor": "laugh", "sfx": "giggle" }]
     },
     {
       "id": "s3",
-      "text": "Upstairs, the lamp room was made all of glass. Aitana stood completely still. All around her, hundreds of crystals cut like diamonds wrapped a lamp the size of a ball.\n\nOutside, the glass panes trembled a little, as if they were cold, and around the tower whistled the wind.\n\nIt smelled of lemon and clean oil.\n\nHer grandfather pulled a soft cloth out of his pocket.\n\n“First you clean the glass. No rushing. One dirty finger and the light turns shy.”\n\nThen he moved a bronze crank, counting under his breath, and the heart of the lighthouse began to turn. The light went out into the air, very long, and swept the night: one side, the other, one side, the other.\n\n“It will not stay still,” Aitana whispered. “It is like a star.”\n\n“That is exactly what it is,” said her grandfather. “And it even has working hours.”\n\nAitana rested her forehead on the warm glass and, without noticing, stopped thinking about television.",
+      "text": "At the top, the lamp room was made entirely of glass.\n\nIn the middle was a lamp the size of a football, surrounded by hundreds of glass pieces cut like diamonds. Outside, all around the tower, whistled the wind.\n\n\"First you clean the glass,\" said Grandpa, taking a cloth out of his pocket. \"No rush. One dirty finger and the light goes shy.\"\n\nThen he turned a bronze handle, and the heart of the lighthouse began to spin.\n\nThe light shot out into the air, very long, and swept across the night. One way, then the other. One way, then the other.\n\n\"It doesn't stay still,\" whispered Aitana. \"It's like a star that walks.\"\n\nShe rested her forehead on the warm glass. And without noticing, she forgot all about the television.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ]
+      "cues": [{ "anchor": "wind", "sfx": "wind_high" }]
     },
     {
       "id": "s4",
-      "text": "“And who is the light for?” Aitana asked that night, tucked up to her nose.\n\nHer grandfather sat on the edge of the bed with his notebook of worn-out covers.\n\n“For the fishing boats that come home late. For old Elías's boat, because his eyes are not good anymore. And for three winters now, for someone else.”\n\nHe opened the notebook and showed her a crooked drawing: two big backs and one small one. They were whales.\n\n“A mother, a father and a calf,” said her grandfather. “They pass by here when the water turns cold, and this channel is full of hidden rocks. When the light spins, they see it from below, like a soft glow on the ceiling of the sea, and they follow the right path.”\n\nOutside, between the clouds, out came the moon. The whole room turned silver.\n\n“And what if one day the light is not there?” asked Aitana.\n\nHer grandfather closed the notebook slowly.\n\n“That is why I always am.”",
+      "text": "That night, tucked in up to her nose, Aitana asked:\n\n\"Grandpa, who is the light for?\"\n\nGrandpa sat on the edge of the bed with a notebook with worn covers.\n\n\"For the fishing boats that come home late. For Don Elías's little boat, because his eyes aren't good any more. And for three winters now, for someone else too.\"\n\nHe opened the notebook. There was a wobbly drawing: two big backs and one small one.\n\nThey were whales.\n\n\"A mother, a father and a baby,\" said Grandpa. \"They come past here when the water turns cold, and this channel is full of hidden rocks. When the light turns, they see it from below, like a glow on the ceiling of the sea, and they follow the right way.\"\n\n\"And what if one day the light isn't there?\"\n\nGrandpa closed the notebook slowly.\n\n\"That's why I'm always here.\"",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "whales",
-          "sfx": "whale_song"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s5",
-      "text": "Three nights later the fog arrived. Not just any fog: a thick, white, silent one that swallowed the rocks, the road and even the top of the lighthouse. Aitana could not see her own outstretched hand.\n\nWarm and slow, like a wet blanket, came the wind. Far away, a boat engine coughed in the darkness.\n\n“Double work tonight,” said her grandfather, and they climbed the one hundred and twenty steps.\n\nThe light was spinning, brave, opening tunnels in the vapor. Aitana was beginning to understand the rhythm: one side, the other, one side, the other. Then, like when you bite a cookie that is far too hard, the lighthouse made a strange creak.\n\nThe light stopped. It stayed pointing at nothing, as still as a sleeping eye.\n\n“Grandpa...” said Aitana, and her voice came out tiny.\n\nHer grandfather did not shout and did not run. He took off his cap, crouched down beside the mechanism and said, very calmly:\n\n“Granddaughter, I need your hands.”",
+      "text": "Three nights later, the fog came.\n\nIt wasn't just any fog. It was thick, white and silent, and it swallowed the rocks, the track and even the top of the lighthouse. Aitana held out her hand and couldn't see her fingers.\n\nFar away, in the dark, a boat's engine was coughing.\n\n\"A double-work night,\" said Grandpa. And they climbed the hundred and twenty steps.\n\nThe light turned bravely, opening tunnels in the fog. One way, then the other. One way, then the other.\n\nAnd suddenly, the lighthouse gave a crunch.\n\nThe light stopped. It stayed pointing at nothing, still as a sleeping eye.\n\n\"Grandpa…\" said Aitana, in a very small voice.\n\nGrandpa didn't shout. He didn't run. He crouched down beside the machine and said, very calmly:\n\n\"Granddaughter, I need your hands.\"",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "creak",
-          "sfx": "crunch"
-        }
-      ],
-      "music": "gentle_piano"
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "crunch", "sfx": "crunch" }]
     },
     {
       "id": "s6",
-      "text": "The two of them knelt on the wooden floor. Her grandfather lifted a round lid and the heart of the lighthouse appeared: toothed wheels, a coiled spring and a chain with a weight at the end, like the one in a giant clock.\n\n“Look: this wheel has a broken tooth,” he explained, and put the flashlight in her hand. “The motor cannot move it. But we can.\n\nWith patience.”\n\nOutside, in the pines behind the house, something asked a question that nobody answered. It was the owl.\n\nWhile her grandfather went back and forth looking for his toolbox, Aitana listened to his footsteps. She felt that the whole lighthouse was waiting.\n\n“Can we do it without the machine?” she asked.\n\n“We can do it with our hands. Like in my great-grandfather's days,” he said, and smiled. “You are going to count, I am going to push.\n\nThe light has to make one full turn every ten seconds. No more, no less.”",
+      "text": "The two of them knelt down on the wooden floor.\n\nGrandpa lifted a round lid, and there was the heart of the lighthouse: wheels with teeth, a coiled spring and a chain with a weight on the end, like a giant clock.\n\n\"Look,\" he said, and he put the torch in her hand. \"This wheel has a broken tooth, and the motor can't turn it any more. But we can.\"\n\n\"Without the machine?\"\n\n\"With our hands. Like in my great-grandfather's day,\" he said, and he smiled. \"I push. You count. The light has to go round once every ten seconds. No more, no less.\"",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s7",
-      "text": "And so began the longest and most beautiful night of Aitana's life.\n\nHer grandfather set both hands on the big wheel and pushed. The wheel gave way a little and complained with a creak. Aitana counted out loud, slowly, marking the rhythm with her palm on her knee: one, two, three, four...\n\n“Now,” she would say, and her grandfather pushed again.\n\nThe light began to turn once more. Not by itself: turning because the two of them were turning it.\n\nAfter a while, her grandfather's arms were shaking. Then he taught Aitana the secret for not getting tired: they had to breathe.\n\n“In when we rest, out when we push,” he said. “That way the strength does not run out.”\n\nAitana stood up on a wooden crate, put her small hands next to the big ones and pushed too. It smelled of bronze, of fog and of clean sweat. Outside, the sea kept moving, and the light kept going out into the world every ten seconds, exact, like a promise.",
+      "text": "And so began the longest and loveliest night of Aitana's life.\n\nGrandpa put both hands on the big wheel and pushed. Aitana counted out loud, keeping time with her hand on her knee:\n\n\"One. Two. Three… Nine. Ten. Now!\"\n\nAnd Grandpa pushed again.\n\nThe light began to turn once more. Not by itself: turning because the two of them were turning it.\n\nAfter a while, Grandpa's arms were shaking. So he taught Aitana the secret for not getting tired:\n\n\"You breathe in while you rest. You breathe out while you push.\"\n\nAitana climbed onto a wooden crate and put her little hands next to his big ones. She closed her eyes, took a breath, and pushed too.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "breathe",
-          "sfx": "breathe_in",
-          "delayMs": 200
-        }
-      ]
+      "cues": [{ "anchor": "breath", "sfx": "breathe_in" }]
     },
     {
       "id": "s8",
-      "text": "Near midnight, the fog began to come apart in shreds, like cotton pulling open. The lighthouse beam crossed the air and reached very far, very clean, and down below old Elías's boat sounded its horn twice: hoo-hooo. Aitana understood that it was a thank you.\n\n“Look at the water,” said her grandfather, without stopping his pushing.\n\nAitana pressed her face to the glass. Beside the rocks, three dark shapes were moving in a line among the waves.\n\nTwo big ones and a small one in the middle. Each time the light passed over them, their wet backs shone for an instant, bright as a fallen star.\n\n“They are there,” Aitana whispered, and felt a tickle all through her tummy. “They were waiting for us.”\n\n“They were waiting for you too,” said her grandfather. “Now you take care of the light as well.”\n\nAnd they kept pushing, the two of them, smiling in the dark.",
+      "text": "Close to midnight, the fog began to come apart in wisps, like cotton wool pulled open.\n\nThe light reached far, far out, clean and clear. And down below, Don Elías's boat sounded its horn twice. Aitana understood that it meant thank you.\n\n\"Look at the water,\" said Grandpa, still pushing.\n\nAitana pressed her face to the glass.\n\nNext to the rocks, three dark shapes were moving along in a line. Two big ones, and a little one in the middle. Every time the light passed over them, their wet backs shone for a moment.\n\n\"They're there,\" whispered Aitana. \"They were waiting for us.\"\n\n\"They were waiting for you too,\" said Grandpa. \"Now you look after the light as well.\"",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "waves",
-          "sfx": "water_splash"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s9",
-      "text": "Then the sound arrived.\n\nFirst it was like a long sigh inside the cliff. Then it climbed up through the stones, up the iron of the staircase, up through Aitana's feet, all the way to her chest: a deep, round song, full of curves, that went on and on without ever breaking.\n\n“What is that?” she asked, with enormous eyes.\n\nHer grandfather's voice went soft when he answered. They were whales.\n\n“They sing when the way is clear,” he said. “It is their way of saying they arrived safely.”\n\nThe calf answered its mother with a higher note, and the three of them sang together, one on top of the other, like bells underneath the water. As it passed close to the rocks, the little one blew out a line of silver bubbles.\n\nThey rose to the surface and popped with a tiny crackle.\n\nAitana did not move. It seemed to her that the lighthouse, the sea and she were one single thing breathing very slowly.",
+      "text": "Then came the singing.\n\nAt first it was like a long sigh inside the cliff. Then it rose up through the stones, through the iron of the staircase, through Aitana's feet, all the way to her chest.\n\nIt was a deep, round sound that went on and on without breaking.\n\n\"What's that?\" asked Aitana, her eyes enormous.\n\n\"It's them,\" said Grandpa, and his voice went soft. \"Whales sing when the way is clear. It's how they say they've arrived safely.\"\n\nThe baby answered with a higher note. And the three of them sang together, one voice on top of another, like bells under the water.\n\nAitana didn't move. It felt as if the lighthouse, the sea and she were all one thing, breathing very slowly.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        }
-      ],
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "singing", "sfx": "whale_song" }]
     },
     {
       "id": "s10",
-      "text": "By the time the motor was working again, it was almost dawn somewhere inside the fog. Her grandfather carried Aitana down in his arms, step by step, and tucked her in beside the small window, with two blankets and a seashell in her hand.\n\n“Now I know why you do this,” she said, her voice slow and drowsy. “It is not a boring job. It is a job that takes care of things.”\n\nHer grandfather kissed her forehead.\n\n“Tomorrow I will teach you how to clean the glass.”\n\nAbove the water, for a moment, out came the moon. The lighthouse light slid slowly across the wall — one side, the other, one side, the other — and outside the sea went on breathing, calm, like someone who is also going to sleep.\n\nFar away, the whales sang one last quiet note.\n\nAitana heard it, smiled with her eyes closed and drifted off, rocked by the sound of the sea.",
+      "text": "By the time the machine was working again, dawn was breaking behind the fog.\n\nGrandpa carried Aitana down in his arms, step by step, and tucked her in by the window, with two blankets and a seashell in her hand.\n\n\"I know why you do this now,\" she said, her voice all sleepy. \"It's not a boring job. It's a job that looks after.\"\n\nGrandpa kissed her forehead.\n\n\"Tomorrow I'll teach you how to clean the glass.\"\n\nThe light of the lighthouse passed slowly across the wall. One way, then the other. One way, then the other.\n\nAnd Aitana fell asleep, counting to ten.",
       "ambient": "fireplace",
-      "cues": [
-        {
-          "anchor": "sleep",
-          "sfx": "snore_soft",
-          "delayMs": 400
-        }
-      ],
-      "music": "guitar_warm"
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

@@ -1167,7 +1167,7 @@
     },
     {
       "id": "el-faro-que-guiaba-ballenas",
-      "version": 7,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1179,7 +1179,7 @@
       "cover": "covers/el-faro-que-guiaba-ballenas.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 10,
+      "durationMin": 9,
       "categories": [
         "animales",
         "naturaleza"
@@ -1195,22 +1195,33 @@
       ],
       "premium": true,
       "preload": [
-        "music/harp_dreams"
+        "ambient/fireplace",
+        "ambient/ocean_waves",
+        "music/gentle_piano",
+        "music/harp_canon",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/breathe_in",
+        "sfx/crunch",
+        "sfx/door_open",
+        "sfx/giggle",
+        "sfx/whale_song",
+        "sfx/wind_high"
       ],
       "preview": {
         "es": {
           "title": "Aitana y la noche de niebla",
-          "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo, hasta que una noche de niebla descubre quién espera su luz."
+          "summary": "Aitana cree que el faro de su abuelo es el lugar más aburrido del mundo. Hasta que, una noche de niebla, la luz se rompe y descubre quién la está esperando en el mar."
         },
         "en": {
           "title": "Aitana and the Foggy Night",
-          "summary": "Aitana thinks her grandfather's lighthouse is the most boring place in the world, until one foggy night she discovers who is waiting for its light."
+          "summary": "Aitana thinks her grandpa's lighthouse is the most boring place in the world. Until, one foggy night, the light breaks down and she discovers who is waiting for it out at sea."
         }
       }
     },
     {
       "id": "el-gato-que-cruzo-la-ciudad",
-      "version": 11,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1222,13 +1233,13 @@
       "cover": "covers/el-gato-que-cruzo-la-ciudad.webp",
       "ageMin": 3,
       "ageMax": 8,
-      "durationMin": 10,
+      "durationMin": 9,
       "categories": [
         "animales",
         "aventuras"
       ],
       "mood": "aventura",
-      "music": "guitar_windswept",
+      "music": "guitar_tales",
       "tags": [
         "gatos",
         "ciudad",
@@ -1238,22 +1249,34 @@
       ],
       "premium": true,
       "preload": [
-        "music/adventure_soft"
+        "ambient/city_soft",
+        "ambient/meadow_day",
+        "ambient/stream_water",
+        "music/guitar_tales",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/bark",
+        "sfx/cat_meow",
+        "sfx/door_open",
+        "sfx/jump_hop",
+        "sfx/run_fast",
+        "sfx/snore_soft",
+        "sfx/wing_flap"
       ],
       "preview": {
         "es": {
           "title": "Michi y el camión azul",
-          "summary": "Michi se sube por curiosidad a un camión azul y despierta al otro lado de la ciudad, muy lejos de la ventana donde siempre lo esperan."
+          "summary": "Michi se sube por curiosidad a un camión azul y aparece al otro lado de la ciudad, muy lejos de la casa donde siempre lo esperan."
         },
         "en": {
           "title": "Michi and the Blue Truck",
-          "summary": "Curiosity sends Michi into a big blue truck, and he wakes up on the far side of the city, a long way from the window where someone is always waiting."
+          "summary": "Out of curiosity, Michi climbs into a blue truck and ends up on the other side of the city, far away from the home where someone is always waiting for him."
         }
       }
     },
     {
       "id": "el-jardin-secreto-de-la-abuela",
-      "version": 9,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1265,7 +1288,7 @@
       "cover": "covers/el-jardin-secreto-de-la-abuela.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 10,
+      "durationMin": 8,
       "categories": [
         "familia",
         "naturaleza"
@@ -1281,16 +1304,28 @@
       ],
       "premium": true,
       "preload": [
-        "music/guitar_warm"
+        "ambient/forest_birds",
+        "ambient/meadow_day",
+        "ambient/meadow_night",
+        "ambient/rain",
+        "music/guitar_clear",
+        "music/harp_canon",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/bee_buzz",
+        "sfx/door_open",
+        "sfx/footsteps",
+        "sfx/thunder",
+        "sfx/wind_soft"
       ],
       "preview": {
         "es": {
           "title": "El jardín secreto de la abuela",
-          "summary": "Dos hermanos llegan aburridos a pasar el verano en el campo, hasta que el viento mueve la hiedra y aparece una puerta azul que llevaba años esperándolos."
+          "summary": "Hugo y Lucía llegan aburridos a pasar el verano en el campo. Hasta que, detrás de la hiedra de un muro, encuentran una puerta azul que llevaba años cerrada."
         },
         "en": {
           "title": "Grandma's Secret Garden",
-          "summary": "Two bored siblings arrive to spend the summer in the countryside, until the wind moves the ivy and a little blue door appears that has been waiting for them for years."
+          "summary": "Hugo and Lucía arrive bored to spend the summer in the countryside. Until, behind the ivy on a wall, they find a blue door that has been shut for years."
         }
       }
     },

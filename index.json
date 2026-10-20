@@ -857,7 +857,7 @@
     },
     {
       "id": "el-cangrejo-que-caminaba-derecho",
-      "version": 6,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -869,7 +869,7 @@
       "cover": "covers/el-cangrejo-que-caminaba-derecho.webp",
       "ageMin": 3,
       "ageMax": 8,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "animales",
         "risas"
@@ -885,22 +885,28 @@
       ],
       "premium": true,
       "preload": [
-        "music/marimba_playful"
+        "ambient/ocean_waves",
+        "music/marimba_playful",
+        "music/strings_hopeful",
+        "sfx/magic_shimmer",
+        "sfx/seagulls",
+        "sfx/thud",
+        "sfx/water_splash"
       ],
       "preview": {
         "es": {
           "title": "Kiko camina a su manera",
-          "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa."
+          "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos en la playa. Hasta que una gaviota le enseña, desde el cielo, lo que dejan sus pasos."
         },
         "en": {
           "title": "Kiko Walks His Own Way",
-          "summary": "Kiko the little crab wants to walk straight like everyone else, until he discovers that his own way of moving hides a surprise."
+          "summary": "Kiko, a little crab, wants to walk straight like everyone else on the beach. Until a seagull shows him, from up in the sky, what his footsteps leave behind."
         }
       }
     },
     {
       "id": "el-conejo-que-perdio-su-brinco",
-      "version": 10,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -912,7 +918,7 @@
       "cover": "covers/el-conejo-que-perdio-su-brinco.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 4,
       "categories": [
         "animales",
         "valores"
@@ -928,22 +934,30 @@
       ],
       "premium": true,
       "preload": [
-        "music/harp_dreams"
+        "ambient/meadow_day",
+        "music/gentle_piano",
+        "music/guitar_warm",
+        "music/marimba_playful",
+        "sfx/giggle",
+        "sfx/jump_hop",
+        "sfx/leaves_rustle",
+        "sfx/snore_soft",
+        "sfx/thud"
       ],
       "preview": {
         "es": {
           "title": "¿Dónde está el brinco de Pipo?",
-          "summary": "Una mañana, Pipo el conejo despierta y su brinco se ha ido; ¿podrán sus amigos del prado ayudarlo a encontrarlo otra vez?"
+          "summary": "Una mañana, Pipo el conejo se despierta y su brinco ya no está. Sus amigos lo buscan por todas partes, pero quien sabe qué hacer es la abuela."
         },
         "en": {
           "title": "Where Did Pipo's Hop Go?",
-          "summary": "One morning, Pipo the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?"
+          "summary": "One morning, Pipo the rabbit wakes up and his hop is gone. His friends search everywhere for it, but the one who knows what to do is Grandma."
         }
       }
     },
     {
       "id": "el-dinosaurio-que-guardaba-un-huevo",
-      "version": 7,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -955,7 +969,7 @@
       "cover": "covers/el-dinosaurio-que-guardaba-un-huevo.webp",
       "ageMin": 4,
       "ageMax": 8,
-      "durationMin": 15,
+      "durationMin": 11,
       "categories": [
         "dinosaurios",
         "valores"
@@ -971,16 +985,31 @@
       ],
       "premium": true,
       "preload": [
-        "music/guitar_warm"
+        "ambient/forest_birds",
+        "ambient/forest_night",
+        "ambient/meadow_day",
+        "ambient/meadow_night",
+        "ambient/rain",
+        "ambient/stream_water",
+        "music/adventure_soft",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/breathe_in",
+        "sfx/crunch",
+        "sfx/dino_step",
+        "sfx/hammer_tap",
+        "sfx/thunder",
+        "sfx/water_splash",
+        "sfx/wind_high"
       ],
       "preview": {
         "es": {
           "title": "Un huevo para Tobi",
-          "summary": "Tobi encuentra un huevo abandonado junto al río y decide cuidarlo, aunque nadie en el valle cree que él pueda."
+          "summary": "Tobi encuentra un huevo solito junto al río y decide cuidarlo, aunque en el valle nadie cree que él pueda."
         },
         "en": {
           "title": "An Egg for Tobi",
-          "summary": "Tobi finds a lonely egg beside the river and decides to look after it, even though nobody in the valley believes he can."
+          "summary": "Tobi finds an egg all alone by the river and decides to look after it, even though nobody in the valley thinks he can."
         }
       }
     },

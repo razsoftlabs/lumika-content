@@ -2,70 +2,48 @@
   "id": "el-conejo-que-perdio-su-brinco",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 11,
+  "version": 20,
   "title": "Where Did Pipo's Hop Go?",
-  "summary": "One morning, Pipo the little rabbit wakes to find his hop has gone; can his meadow friends help him find it again?",
+  "summary": "One morning, Pipo the rabbit wakes up and his hop is gone. His friends search everywhere for it, but the one who knows what to do is Grandma.",
   "scenes": [
     {
       "id": "s1",
-      "text": "That morning, Pipo the little rabbit woke up in his burrow, sighed, and opened the door.\n\nHe almost always came out hopping, but today his legs felt heavy, heavy. He didn't feel like jumping. Outside, the meadow waited for him, golden with sun, and the breeze moved the leaves.\n\nPipo only took one small step and sat down. “Where did my hop go?” he wondered, looking at his feet.\n\nIn his chest there was a gray cloud, and he didn't know how to push it aside.",
+      "text": "One morning, Pipo the rabbit came out of his burrow as usual.\n\nAnd as usual, he went to do a hop.\n\nBut the hop didn't come.\n\nPipo tried again. He bent his back legs, got ready to spring… and nothing. All that came out was a short little step, like a sleepy snail's.\n\nNothing hurt. He wasn't ill. His legs just felt heavy, and there was something grey inside him, like a cloud that wouldn't go away.\n\nPipo sat down in the middle of the meadow, with his ears drooping.\n\n\"I've lost my hop,\" he said quietly.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "door",
-          "sfx": "door_open"
-        }
-      ]
+      "music": "gentle_piano",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Very soon, yellow and round as a drop of sun, a bee arrived with her buzz.\n\n“Good morning, Pipo,” she said, spinning circles in the air. “Come see the new flowers, they all opened last night.” Pipo didn't feel much like it, but she was so cheerful that he followed her with a few slow steps.\n\nThe grass tickled his paws. Among the flowers there were beads of dew that shone like tiny diamonds. “You don't have to jump yet,” the bee told him sweetly.\n\n“Just walk with me.” And Pipo, without noticing, smiled for the first time all day.",
-      "cues": [
-        {
-          "anchor": "buzz",
-          "sfx": "bee_buzz"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "After a while his friends arrived: Rita the squirrel and Benito the mole.\n\n\"What's the matter, Pipo? Your ears are all droopy.\"\n\n\"I've lost my hop.\"\n\nRita and Benito looked at each other very seriously.\n\n\"Then we'll have to find it,\" said Rita.\n\nRita climbed the tallest tree and searched among the branches, in the nests, under every single one of the leaves.\n\nBenito dug a very long tunnel and searched under the ground.\n\n\"Down here there are roots, a stone and a very sleepy worm,\" he shouted from the hole. \"But no hop.\"",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "leaves", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s3",
-      "text": "On a mossy stone, beside the clear water, there waited a green frog. “Hi, Pipo,” she greeted him with a croak.\n\n“Watch what I can do.” She took a huge jump and splash!, she landed right in the middle of the puddle.\n\nThe drops leaped everywhere and Pipo smiled without meaning to. “You try,” said the frog. The little rabbit came closer slowly and dipped in one paw.\n\nThe water was cool and it tickled him. He dipped in the other, and then both. He paddled carefully, very slowly, and felt something warm begin to wake up inside his chest.",
+      "text": "\"Maybe you've forgotten how to do it,\" said Rita. \"Look, it's easy. Like this: boing!\"\n\nAnd she did a perfect jump.\n\nBenito wanted to show him too. But moles can't jump. Benito got ready, lifted his little paws and fell nose-first into the grass. Bump!\n\nPipo tried again, watching Rita. He bent his legs. He got ready.\n\nShort little step.\n\n\"What if it never comes back?\" he asked, in a tiny voice.\n\nNobody knew what to say.",
+      "ambient": "meadow_day",
       "cues": [
-        {
-          "anchor": "croak",
-          "sfx": "frog_croak"
-        },
-        {
-          "anchor": "puddle",
-          "sfx": "water_splash"
-        }
-      ],
-      "ambient": "stream_water"
+        { "anchor": "boing", "sfx": "jump_hop" },
+        { "anchor": "bump", "sfx": "thud" }
+      ]
     },
     {
       "id": "s4",
-      "text": "The sun was high now and a warm breeze stroked his ears. The bee, the frog, and Pipo played among the flowers all morning. And then, without thinking, a hop popped right out of Pipo.\n\nA tiny one! Then a bigger one, and another, and another. His legs didn't feel heavy anymore: they were flying.\n\nThe little rabbit opened his mouth wide and out came his big, round, long-lost laugh. “My hop came back!” he cried happily.\n\nHis friends hopped with him, and the whole meadow seemed to join in, swaying with the wind.",
+      "text": "Then Grandma Rabbit arrived, slowly, with her walking stick made from a twig.\n\nShe didn't ask anything. She didn't search for anything. She didn't teach him anything.\n\nShe sat down next to Pipo, and stayed there.\n\nA long while passed. A cloud passed, shaped like an ear.\n\n\"Mine gets lost sometimes too,\" Grandma said at last.\n\n\"Your hop? What do you do?\"\n\n\"Nothing. I sit down and wait for it. You don't look for a hop, Pipo. It comes back by itself, when it's ready.\"\n\nRita climbed down from the tree. Benito came out of his tunnel. And they sat down too, all four in a row, watching the clouds go by.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ],
-      "music": "marimba_playful"
+      "music": "guitar_warm",
+      "cues": []
     },
     {
       "id": "s5",
-      "text": "When the sky turned peach-colored, out of the tallest tree peeked an owl.\n\n“It's time to rest, little ones,” he said in a soft voice. Pipo said goodbye to the bee and the frog with a hug. He went back to his burrow in tired, happy hops.\n\nHe curled up, closed his eyes, and breathed in deep, very deep. Up above, one by one, out came the stars. They were like warm lights wishing him good night.\n\nPipo no longer carried the gray cloud in his chest. He knew that sometimes joy hides for a while, but always, always comes back. And he fell asleep dreaming of tomorrow's hop.",
-      "ambient": "forest_night",
+      "text": "They stayed like that all afternoon.\n\nBenito got so relaxed that he fell asleep on the grass. And after a little while he started making a very strange noise, like a teeny-tiny kettle: he was snoring.\n\nRita covered her mouth. Grandma smiled. And Pipo let out a laugh so big that it shook his whole body.\n\nAnd as he laughed, without even noticing, he did a little jump.\n\nSmall. But real.\n\n\"It's back!\" shouted Rita.\n\nPipo looked at his legs. They weren't heavy any more. The grey thing inside had gone very small.\n\nEver since that day, when a friend in the meadow loses their hop, Pipo knows what to do. He doesn't search for anything. He sits down beside them, and waits with them.",
+      "ambient": "meadow_day",
+      "music": "marimba_playful",
       "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot"
-        }
-      ],
-      "music": "lullaby_piano"
+        { "anchor": "snoring", "sfx": "snore_soft" },
+        { "anchor": "laugh", "sfx": "giggle" }
+      ]
     }
   ]
 }

@@ -2,74 +2,42 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "Kiko Walks His Own Way",
-  "summary": "Kiko the little crab wants to walk straight like everyone else, until he discovers that his own way of moving hides a surprise.",
+  "summary": "Kiko, a little crab, wants to walk straight like everyone else on the beach. Until a seagull shows him, from up in the sky, what his footsteps leave behind.",
   "scenes": [
     {
       "id": "s1",
-      "text": "On a golden beach lived a small crab named Kiko. He had a shell the color of an orange and two claws that he wiggled all the time. In front of his house, singing without stopping, came and went the waves.\n\nThat afternoon, playing between his antennas, was a soft warm wind.\n\nKiko looked at his neighbors. The turtle walked forward, slowly. The shore birds trotted forward, very straight.\n\nBut Kiko, every time he took a step, went off to the side. Always sideways! 'How strange I am,' he thought, looking at his legs.\n\n'I want to walk straight too, like everyone else. '",
+      "text": "On a golden beach lived a small red crab called Kiko.\n\nKiko had two claws that he waved all the time, as if he were saying hello, and eight legs that always went the same way.\n\nSideways.\n\nBecause that's how crabs walk. But Kiko didn't know that, because there was no other crab on that beach but him.\n\nThe snail went straight ahead. The fish swam straight ahead. Estela the starfish moved so little that she didn't count, but if she had moved, she would surely have gone straight.\n\n\"I'm the only one who walks crooked,\" sighed Kiko.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "The next morning, Kiko decided to practice. 'Today I will walk straight,' he told himself, very seriously. He pointed his claws forward, pushed with all his legs and...\n\nthud!\n\nHe fell flat on his belly in the sand. He tried again, squeezing his eyes shut. One step, another step, and down he went again: thud!\n\nHe rolled across the sand like a ball. Kiko huffed with pure frustration and let out a bunch of bubbles.\n\nPop, pop, pop. As much as he wanted to, his body only knew how to go sideways. He sat down, tired and sad, and watched them float up to the sky.",
+      "text": "The next day, Kiko decided to learn to walk straight.\n\nHe pointed his claws forward. He stared at the rock in front of him. He pushed with all his legs and…\n\nOff he went, sideways.\n\nHe tried again, harder. His legs got all tangled up, and Kiko landed on his tummy in the sand. Flump!\n\nHe tried all morning. Towards the rock, towards the water, towards the dune. And always, always, he ended up going sideways, or on his tummy, or spinning round like a top.\n\nIn the end he sat down, covered in sand right up to his eyes.\n\n\"I'm no good at walking,\" he said.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "thud",
-          "sfx": "thud"
-        },
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        }
-      ]
+      "cues": [{ "anchor": "flump", "sfx": "thud" }]
     },
     {
       "id": "s3",
-      "text": "'Why such a sad face? ' said a sweet voice. It was Stella, a pink starfish resting on a rock covered in foam.\n\n'I don't know how to walk straight,' sighed Kiko. 'Everyone goes forward, except me. ' Stella smiled at him with her five points.\n\n'Oh, Kiko. I watch you walk every day. You dart off to one side, quick as can be, as if you were dancing.\n\nI love the way you walk. ' Kiko didn't quite believe her. He lowered his antennas and kept looking at the sand.\n\nBut deep down, something small tickled his heart.",
+      "text": "Just then, down onto the rock to rest came a seagull.\n\n\"Hey, crab,\" she said. \"Do you know who made that drawing?\"\n\n\"What drawing?\"\n\n\"That one, in the sand. From up there you can see the whole thing. It's the prettiest thing I've ever seen on this beach.\"\n\nKiko looked around. From down here, all he could see were little heaps of sand and squiggles.\n\n\"Climb on,\" she said.\n\nKiko held on to her feathers with his claws, without squeezing, and up she flew.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ]
+      "cues": [{ "anchor": "seagull", "sfx": "seagulls" }]
     },
     {
       "id": "s4",
-      "text": "Suddenly, the sea made a big noise and in front of the shore rose a wave.\n\nIt was huge, and it came rushing toward them! Stella was on her rock and couldn't move fast. 'Help!\n\n' she cried. Kiko didn't think twice. He moved his legs sideways, pitter-patter, and across the sand flew his steps.\n\nNo one on the beach had ever seen a crab run so fast! He reached Stella, grabbed her with his claws, and pulled her far away just in time. The water rolled past below, splashing, and the two of them were safe.\n\nKiko was panting, happy and proud. Walking sideways had made him the fastest one on the whole beach.",
+      "text": "Up and up they went, until the beach was tiny.\n\nAnd then Kiko saw it.\n\nOn the golden sand there was an enormous drawing. There were zigzag paths, and curves, and curls, and little flowers where he had landed on his tummy. It ran from the water to the dune, like a colourful ribbon.\n\nThey were his tracks.\n\nAll the crooked steps of the whole morning.\n\n\"Did I… did I make that?\" asked Kiko.\n\n\"Who else?\" said the white bird. \"Nobody else on this beach walks like that.\"",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "wave",
-          "sfx": "water_splash"
-        },
-        {
-          "anchor": "steps",
-          "sfx": "footsteps"
-        }
-      ],
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "tracks", "sfx": "magic_shimmer" }]
     },
     {
       "id": "s5",
-      "text": "That night, the whole beach wanted to celebrate. The turtle, the birds, and Stella gathered around Kiko. 'Teach us your magic move!\n\n' they asked. Kiko felt so happy and showed them his sideways dance: a step here, a step there. Soon everyone was dancing sideways, bumping and rolling, and the beach filled with laughter.\n\nWhen the moon came out, Kiko snuggled into the warm sand. From the sky above winked the stars. 'Walking sideways is my superpower,' he whispered, with a smile.\n\nAnd as the sea rocked him, Kiko closed his eyes and fell asleep, happy to be just the way he was.",
+      "text": "From that day on, Kiko draws.\n\nEvery morning he goes down to the shore, looks at the smooth sand and thinks about what he's going to make. A fish. A snail. A sun with a smiley face. A star for Estela, who doesn't move but sees everything.\n\nHe walks sideways, this way and that, and the sand fills up with drawings.\n\nThe snail comes to look. The fish peek out of the water. And his feathered friend flies over to see them from above, which is the best way.\n\nIn the afternoon, the sea creeps up and rubs them out with a wave.\n\nBut Kiko doesn't mind. Tomorrow the beach will be blank again, waiting for his footsteps.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "marimba_playful"
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "wave", "sfx": "water_splash" }]
     }
   ]
 }

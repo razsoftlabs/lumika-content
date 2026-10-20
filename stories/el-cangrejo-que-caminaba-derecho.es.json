@@ -2,74 +2,42 @@
   "id": "el-cangrejo-que-caminaba-derecho",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 20,
   "title": "Kiko camina a su manera",
-  "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos, hasta que descubre que su manera de andar esconde una sorpresa.",
+  "summary": "Kiko, un cangrejo pequeño, quiere caminar derecho como todos en la playa. Hasta que una gaviota le enseña, desde el cielo, lo que dejan sus pasos.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En una playa dorada vivía un cangrejo pequeño llamado Kiko. Tenía el caparazón del color de una naranja y dos pinzas que movía todo el tiempo. Delante de su casa iban y venían, cantando sin parar, las olas.\n\nEsa tarde, entre sus antenas, jugaba un viento.\n\nKiko miró a sus vecinos. La tortuga caminaba hacia adelante, despacio. Los pájaros de la orilla trotaban hacia adelante, muy derechos.\n\nPero Kiko, cada vez que daba un paso, se iba para el lado. ¡Siempre de lado! 'Qué raro soy', pensó, mirándose las patas.\n\n'Yo también quiero caminar derecho, como todos los demás. '",
+      "text": "En una playa dorada vivía un cangrejo pequeño y rojo llamado Kiko.\n\nKiko tenía dos pinzas que movía todo el tiempo, como si saludara, y ocho patas que se iban siempre para el mismo lado.\n\nPara el lado.\n\nPorque así caminan los cangrejos. Pero Kiko no lo sabía, porque en esa playa no había otro cangrejo más que él.\n\nEl caracol iba derecho hacia adelante. Los peces nadaban derecho hacia adelante. Estela, la estrella de mar, se movía tan poquito que no contaba, pero si se hubiera movido, seguro que habría ido derecho.\n\n—Soy el único que camina torcido —suspiró Kiko.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "marimba_playful",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "A la mañana siguiente, Kiko decidió practicar. 'Hoy voy a caminar derecho', se dijo, muy serio. Apuntó las pinzas hacia adelante, empujó con todas sus patas y...\n\n¡plaf!\n\nSe cayó de panza en la arena. Lo intentó otra vez, apretando los ojos. Un paso, otro paso, y de nuevo al suelo: ¡plaf!\n\nRodó por la arena como una pelota. Kiko resopló de puro enojo y soltó un montón de burbujas.\n\nPlop, plop, plop. Por más que quería, su cuerpo solo sabía ir de lado. Se sentó, cansado y triste, y las miró subir hasta el cielo.",
+      "text": "Al día siguiente, Kiko decidió aprender a caminar derecho.\n\nApuntó las pinzas hacia adelante. Miró fijo la roca de enfrente. Empujó con todas sus patas y…\n\nSe fue de lado.\n\nLo intentó otra vez, más fuerte. Las patas se le enredaron unas con otras, y Kiko cayó de panza en la arena. ¡Plaf!\n\nLo intentó toda la mañana. Hacia la roca, hacia el agua, hacia la duna. Y siempre, siempre, terminaba de lado, o de panza, o dando vueltas como un trompo.\n\nAl final se sentó, lleno de arena hasta los ojitos.\n\n—No sirvo para caminar —dijo.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "plaf",
-          "sfx": "thud"
-        },
-        {
-          "anchor": "burbujas",
-          "sfx": "bubbles"
-        }
-      ]
+      "cues": [{ "anchor": "plaf", "sfx": "thud" }]
     },
     {
       "id": "s3",
-      "text": "'¿Por qué esa cara tan triste? ', dijo una voz dulce. Era Estela, una estrella de mar rosada que descansaba sobre una roca cubierta de espuma.\n\n'Es que no sé caminar derecho', suspiró Kiko. 'Todos van hacia adelante, menos yo. ' Estela le sonrió con sus cinco puntas.\n\n'Ay, Kiko. Yo te miro caminar todos los días. Te vas para un lado, rápido, como si bailaras.\n\nA mí me encanta cómo caminas. ' Kiko no le creyó mucho. Bajó las antenas y siguió mirando la arena.\n\nPero muy adentro, algo pequeño le hizo cosquillas en el corazón.",
+      "text": "En ese momento, bajó a descansar en la roca una gaviota.\n\n—Oye, cangrejo —dijo—. ¿Tú sabes quién hizo ese dibujo?\n\n—¿Qué dibujo?\n\n—Ese, el de la arena. Desde arriba se ve enterito. Es lo más bonito que he visto en toda la playa.\n\nKiko miró alrededor. Desde abajo solo se veían montoncitos de arena y rayitas.\n\n—Súbete —dijo ella.\n\nKiko se agarró a sus plumas con las pinzas, sin apretar, y ella levantó el vuelo.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        }
-      ]
+      "cues": [{ "anchor": "gaviota", "sfx": "seagulls" }]
     },
     {
       "id": "s4",
-      "text": "De pronto, el mar hizo un ruido grande y frente a la orilla se levantó una ola.\n\n¡Era enorme y venía corriendo hacia ellos! Estela estaba sobre su roca y no podía moverse rápido. '¡Ayuda!\n\n', gritó. Kiko no lo pensó dos veces. Movió las patas de lado, tacatá, tacatá, y por la arena volaron sus pasos.\n\n¡Nadie en la playa había visto correr tan rápido a un cangrejo! Llegó junto a Estela, la sujetó con sus pinzas y la arrastró lejos justo a tiempo. El agua pasó por debajo, salpicando, y los dos quedaron a salvo.\n\nKiko jadeaba, feliz y orgulloso. Caminar de lado lo había hecho el más rápido de toda la playa.",
+      "text": "Subieron y subieron, hasta que la playa se quedó chiquita.\n\nY entonces Kiko lo vio.\n\nSobre la arena dorada había un dibujo enorme. Había caminitos en zigzag, y curvas, y rizos, y unas florecitas donde se había caído de panza. Bajaba desde el agua hasta la duna, como una cinta de colores.\n\nEran sus huellas.\n\nTodos los pasos torcidos de la mañana.\n\n—¿Eso… lo hice yo? —preguntó Kiko.\n\n—¿Quién más? —dijo el pájaro blanco—. Nadie más en esta playa camina así.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "ola",
-          "sfx": "water_splash"
-        },
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        }
-      ],
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "huellas", "sfx": "magic_shimmer" }]
     },
     {
       "id": "s5",
-      "text": "Esa noche, toda la playa quiso celebrar. La tortuga, los pájaros y Estela rodearon a Kiko. 'Enséñanos tu paso mágico', le pidieron.\n\nKiko se puso muy contento y les mostró su baile de lado: un paso aquí, un paso allá. Pronto todos bailaban de lado, chocándose y rodando, y la playa se llenó de risa.\n\nCuando salió la luna, Kiko se acurrucó en la arena tibia. Desde el cielo le guiñaban las estrellas. 'Caminar de lado es mi superpoder', susurró, con una sonrisa.\n\nY mientras el mar lo arrullaba, Kiko cerró los ojos y se durmió, feliz de ser justo como era.",
+      "text": "Desde ese día, Kiko dibuja.\n\nCada mañana baja a la orilla, mira la arena lisa y piensa qué va a hacer. Un pez. Un caracol. Un sol con cara sonriente. Una estrella para Estela, que no se mueve pero lo mira todo.\n\nCamina de lado, para acá y para allá, y la arena se va llenando de dibujos.\n\nEl caracol viene a verlos. Los peces se asoman desde el agua. Y su amiga de plumas pasa volando para verlos desde arriba, que es como se ven mejor.\n\nPor la tarde, el mar sube despacito y se los borra con una ola.\n\nPero a Kiko no le importa. Mañana la playa estará en blanco otra vez, esperando sus pasos.",
       "ambient": "ocean_waves",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "marimba_playful"
+      "music": "marimba_playful",
+      "cues": [{ "anchor": "ola", "sfx": "water_splash" }]
     }
   ]
 }

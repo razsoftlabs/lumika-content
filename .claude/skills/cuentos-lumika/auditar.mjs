@@ -149,6 +149,33 @@ function auditar(ruta) {
     }
   });
 
+  // La palabra mágica escrita en OTRA escena también suena.
+  //
+  // El lector arma un único mapa de anclas para todo el cuento y resalta la
+  // primera aparición de cada una en cada página. Así que si "trueno" es mágica
+  // en la escena 2 y la escena 1 dice "el primer trueno", en la página 1 también
+  // se puede tocar y también truena. Se tokeniza igual que renderSceneText:
+  // palabra exacta, sin puntuación, en minúsculas — "truenos" no cuenta.
+  const tokens = (t) =>
+    t
+      .split(/(\s+|[.,;:!?¡¿—–"'“”()])/)
+      .map((x) => x.replace(/[.,;:!?¡¿—–"'“”()]/g, '').toLowerCase())
+      .filter(Boolean);
+  escenas.forEach((s, i) => {
+    for (const c of s.cues ?? []) {
+      if (!c.anchor) continue;
+      const a = c.anchor.toLowerCase();
+      escenas.forEach((otra, j) => {
+        if (j !== i && tokens(otra.text).includes(a))
+          añade(
+            'grave',
+            'ancla-en-otra-escena',
+            `${otra.id ?? 's' + (j + 1)}: dice "${c.anchor}", que es mágica en ${s.id ?? 's' + (i + 1)} — ahí también sonaría`,
+          );
+      });
+    }
+  });
+
   // --- reglas de cuento entero ---
   if (escenas.length && conAmbiente === 0)
     añade('grave', 'sin-ambiente', 'ninguna escena tiene ambiente: el cuento suena a nada');
@@ -159,6 +186,10 @@ function auditar(ruta) {
       `${escenas.length - conAmbiente} de ${escenas.length} escenas sin ambiente`,
     );
 
+  // Un cue.ambient tambien es un cambio de sitio: tocar 'superficie' y que
+  // empiecen las olas. Sin contarlo, un cuento que se mueve bajo el dedo del
+  // nino salia marcado como si nunca cambiara de sitio.
+  for (const s of escenas) for (const c of s.cues ?? []) if (c.ambient) ambientes.add(c.ambient);
   if (escenas.length >= 4 && ambientes.size === 1 && !escenas.some((s) => s.ambient === null))
     añade('aviso', 'ambiente-plano', `${escenas.length} escenas y un solo ambiente: nunca cambia de sitio`);
 
@@ -173,9 +204,29 @@ function auditar(ruta) {
       'demasiadas-anclas',
       `${totalAnclas} palabras mágicas en ${escenas.length} escenas (${porEscena.toFixed(1)} por escena)`,
     );
+  // Una escena sin palabra mágica es VALIDA. Antes este aviso saltaba con una
+  // sola escena muda, y empujaba a meter algo que sonara aunque el texto no lo
+  // pidiera: de ahi el buho en el 40% del catalogo. Ahora solo avisa si el
+  // cuento casi no usa palabras magicas, que si seria raro en Lumika.
   const mudas = escenas.filter((s) => !(s.cues ?? []).some((c) => c.anchor)).length;
-  if (mudas && escenas.length >= 3)
-    añade('aviso', 'escena-muda', `${mudas} escena(s) sin ninguna palabra mágica`);
+  if (escenas.length >= 3 && mudas > escenas.length / 2)
+    añade('aviso', 'casi-sin-anclas', `${mudas} de ${escenas.length} escenas sin palabra mágica`);
+
+  // Bloques corridos. Leyendo en voz alta cada noche, en un parrafo de
+  // doscientas palabras se pierde el renglon. Llegaron a ser 269 de 318 escenas.
+  for (const s of escenas) {
+    const largos = s.text
+      .split(/\n+/)
+      .map((p) => p.split(/\s+/).filter(Boolean).length)
+      .filter((n) => n > 70);
+    if (largos.length)
+      añade('aviso', 'bloque-largo', `${s.id}: parrafo de ${Math.max(...largos)} palabras`);
+  }
+
+  // El dialogo en espanol va con raya, no con comillas rectas.
+  const conComillas = escenas.filter((s) => /(^|\s)"[^"]{2,}"/.test(s.text)).length;
+  if (conComillas && (d.locale ?? 'es') === 'es')
+    añade('aviso', 'comillas', `${conComillas} escena(s) con diálogo entre comillas en vez de raya`);
 
   return fallos;
 }

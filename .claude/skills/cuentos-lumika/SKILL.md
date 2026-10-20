@@ -1,89 +1,50 @@
 ---
 name: cuentos-lumika
-description: Crear un cuento nuevo de Lumika, o revisar y mejorar uno existente, pasándolo por cinco fases — idea, estructura, escritura, ambientación sonora y auditoría final. Usar siempre que se vaya a escribir un cuento para Lumika, se quiera arreglar la ambientación de uno viejo, o se pregunte dónde poner la música, los ambientes o las palabras mágicas.
+description: Crear un cuento nuevo de Lumika, o reescribir uno existente. El cuento se escribe PRIMERO y en libertad, sin mirar la paleta de sonidos; las palabras mágicas, la música y los ambientes se eligen al final, a partir del texto terminado. Usar siempre que se vaya a escribir o reescribir un cuento para Lumika, se quiera arreglar la ambientación de uno viejo, o se pregunte dónde poner la música, los ambientes o las palabras mágicas.
 ---
 
 # Cuentos de Lumika
 
-Un cuento de Lumika no es texto con sonidos encima. Es un texto **escrito para
-que el sonido tenga dónde caer**: el adulto lee en voz alta y el niño toca las
-palabras resaltadas. Si los sonidos se pueden quitar sin que el cuento pierda
-nada, el cuento está mal ambientado.
+**Un cuento de Lumika es, antes que nada, un buen cuento.** El sonido llega
+después y se adapta al cuento. Nunca al revés.
 
-Antes de escribir o revisar nada, lee [paleta-sonora.md](paleta-sonora.md). Los
-identificadores son vocabularios cerrados: uno inventado no suena y **no da
-ningún error**.
+Si quitas todos los sonidos, el cuento tiene que seguir en pie entero. Si un
+elemento del cuento está ahí porque tiene sonido, el cuento está mal escrito.
 
 ---
 
-## Las cinco reglas
+## Por qué esto va primero
 
-Salen de auditar los 51 cuentos que ya existen. Cada una arregla un fallo real,
-medido.
+Un niño de cuatro años, después de varias semanas de cuentos, le preguntó a su
+padre: **"¿por qué siempre sale un búho?"**.
 
-### 1. Una palabra mágica suena UNA vez en todo el cuento
+Tenía razón. Medido sobre los 50 cuentos del catálogo en octubre de 2026:
 
-Hoy hay **93 anclas repetidas** repartidas por 27 de los 51 cuentos: `viento`
-cuatro veces en uno, `trueno` cuatro en otro, `luna` tres. La cuarta vez que la
-luna hace *tin*, el niño ya no está descubriendo nada: está pulsando un botón.
+| | aparece en | es palabra mágica en |
+|---|---|---|
+| búho | **20 cuentos (40%)** | 13 |
+| estrella | 39 (78%) | 10 |
+| viento | 38 (76%) | 17 |
+| luna | 34 (68%) | 16 |
+| rana | 14 | **10** |
+| luciérnaga | 7 (14%) | 0 — no tiene sonido |
+| grillo | 3 (6%) | 0 — no tiene sonido |
 
-La primera vez es magia. La tercera es un juguete roto.
+Los elementos que *suenan* se metían en los cuentos; los que no, casi no
+aparecían. La rana sale en 14 cuentos y en 10 es palabra mágica.
 
-### 2. La palabra mágica aparece una vez en su escena
+La causa estaba escrita en este mismo skill. Mandaba leer la paleta de sonidos
+**antes de escribir**, apuntar "un momento sonoro por escena", y devolver al
+diseño cualquier escena que no tuviera uno. Escribiendo así, cuando hacía falta
+un animal de noche se ponía un búho porque el búho suena. Cincuenta veces.
 
-El lector resalta **la primera** aparición y deja el resto como texto normal
-(arreglado el 26-ago-2026; antes las resaltaba todas y salían cuatro palabras
-subrayadas seguidas haciendo lo mismo).
-
-Así que ya no se rompe nada, pero sigue estando mal escrito: si la palabra sale
-cuatro veces, el sonido cae en la primera, que casi nunca es donde querías. Al
-escribir, coloca la palabra **una sola vez y en el sitio de la frase donde el
-sonido debe caer** — normalmente al final, para que el silencio la deje sonar.
-
-### 3. Una palabra mágica por escena, dos como mucho
-
-La media actual es 1,9 por escena y hay cuentos con **30**. Treinta sonidos en
-seis páginas no es un cuento, es un teclado.
-
-La palabra mágica marca **el momento** de la escena: lo que pasa, no lo que se
-ve. `puerta` cuando la puerta se abre, no cada vez que se nombre una puerta.
-
-### 4. Toda escena tiene un sitio, y el sitio cambia cuando el cuento se mueve
-
-**11 cuentos no tienen un solo ambiente.** Suenan a nada por debajo.
-
-Cada escena lleva `ambient`. Cuando el cuento cambia de lugar, cambia el
-ambiente — es lo que hace que el niño *llegue* a un sitio en vez de que le
-cuenten que llegó. Si dos escenas seguidas pasan en el mismo sitio, repite el
-mismo id: el bucle continúa sin costura.
-
-### 5. La música cambia cuando cambia el sentimiento
-
-Antes de la revision del 2-sep-2026, **ningun cuento usaba `scene.music`**: la
-musica arrancaba y no se enteraba de nada. Ahora los 51 tienen su giro.
-
-Un cuento con giro necesita dos músicas: la de antes y la de después. El cambio
-va en la escena donde el personaje deja de tener miedo, o encuentra lo que
-buscaba, o entiende algo. No en la mitad por reloj.
-
----
-
-## Recursos que casi nadie usa y valen mucho
-
-| Escritura | Qué consigue |
-|---|---|
-| `cue.ambient` en una palabra | El sitio cambia **bajo el dedo del niño**. Toca `lluvia` y empieza a llover. Es el efecto más potente de la app y solo lo usan 2 cuentos. |
-| `cue.music` en una palabra | El tono emocional gira en el instante del toque. Reservado para EL momento del cuento, una vez. |
-| `cue.delayMs` | El sonido llega un poco después del toque. Para lo que se acerca: pasos que suenan a lo lejos, un trueno tras el relámpago. |
-| `trigger: atSceneEnter` | Suena solo al pasar la página, sin tocar nada. Para lo inevitable: la puerta que se cierra detrás. |
-| `trigger: atSceneExit` | Suena al salir de la página. Para dejar algo colgando. |
+Por eso ahora el orden es el contrario.
 
 ---
 
 ## Las cinco fases
 
-Ejecútalas **en orden**. Cada una recibe lo de la anterior y puede devolverla
-para atrás. No saltes a escribir.
+En orden. **La paleta no se abre hasta la fase 4.**
 
 ### Fase 1 — Idea
 
@@ -92,103 +53,131 @@ Sale de aquí un párrafo, no un cuento.
 - **Quién**: un protagonista con una carencia concreta (no "un zorro curioso"
   sino "un zorro que nunca ha salido de su cueva de noche").
 - **Qué quiere** y **qué se lo impide**.
-- **Dónde**, y si el cuento **se mueve** de sitio. Un cuento que se mueve suena
-  mejor: da cambios de ambiente naturales.
-- **Qué aprende o suelta al final.**
+- **Dónde**, y si el cuento **se mueve** de sitio.
+- **Qué aprende, qué suelta o qué cambia al final.**
 - **Edad** (3-5, 5-7, 6-8) y **duración** (3, 5, 8, 12 min).
 
-### Fase 2 — Estructura (revisor de idea)
+Ningún elemento entra porque "luego suena bien". Los personajes secundarios se
+eligen por lo que necesita la historia. Si el cuento pide un tejón, es un tejón.
 
-Coge la idea y decide **cómo tiene que ser el cuento**. Aquí es donde se gana o
-se pierde la ambientación, antes de escribir una sola frase.
+### Fase 2 — Estructura
 
 - Reparte en **escenas**: 4-6 para 3-5 min, 7-10 para 8-12 min.
-- Para cada escena decide **el sitio** y por tanto su `ambient`.
-- Marca **dónde está el giro** — la escena en la que cambia el sentimiento. Ahí
-  irá el `scene.music`.
-- Elige **la música de antes** y **la de después**.
-- Apunta **un momento sonoro por escena**: qué pasa que se pueda oír. Si una
-  escena no tiene ninguno, esa escena no está pasando nada y hay que
-  reescribirla o fundirla con otra.
-- Si algún momento es lo bastante grande, márcalo para `cue.ambient` (el sitio
-  cambia al tocarlo) en vez de un simple efecto.
+- Cada escena tiene un **sitio**. Si el cuento cambia de sitio, cambia de escena.
+- Marca **el giro**: la escena donde cambia lo que el personaje siente. Ahí
+  cambiará la música, pero eso se decide en la fase 4.
+- Cada escena tiene que **pasar algo**. Esto es cuestión de historia, no de
+  sonido: una escena donde no pasa nada sobra aunque tenga un búho.
 
-**Devuelve a fase 1 si**: el cuento no se mueve de sitio ni cambia de ánimo. No
-hay nada que ambientar.
+### Fase 3 — Escritura, en libertad
 
-### Fase 3 — Escritura
-
-Escribe el texto de cada escena **sabiendo dónde va el sonido**.
+Escribe el cuento como lo escribirías para leerlo en voz alta a un niño, **sin
+pensar en qué palabras van a sonar**.
 
 - Frases para decirlas en voz alta. Que el adulto pueda respirar.
-- La palabra que va a ser mágica **aparece una sola vez en su escena**, y
-  colocada en el sitio de la frase donde el sonido cae bien: normalmente al
-  final, para que el silencio que sigue lo deje sonar.
-- Nada de listas ni descripciones largas: pasan cosas.
-- Diálogo con raya (—), como se lee en español.
+- **Párrafos cortos: de una a tres frases.** Cada línea de diálogo, sola. Nada
+  de bloques de doscientas palabras: leyendo cada noche, en un bloque corrido se
+  pierde el renglón y no hay donde respirar.
+- Pasan cosas. Nada de listas ni descripciones largas.
+- Diálogo con raya (—), como se lee en español. **No comillas rectas.**
 - Español neutro. Nada de *vos*, *vosotros*, *tenés*, *coge* con doble sentido.
 - Longitud orientativa: 3 min ≈ 400 palabras, 5 min ≈ 700, 8 min ≈ 1100,
   12 min ≈ 1600.
 
-**Devuelve a fase 2 si**: al escribir, una escena resulta no tener momento
-sonoro. Es un problema de estructura, no de redacción.
+**No abras la paleta.** Si te descubres pensando "aquí podría poner algo que
+suene", para: estás escribiendo para la paleta.
 
-### Fase 4 — Ambientación (revisor de sonido)
+### Fase 4 — Ambientación: el sonido se adapta al texto
 
-Ahora, y no antes, se colocan música, ambientes y palabras mágicas.
+Ahora sí: abre [paleta-sonora.md](paleta-sonora.md). Los identificadores son
+vocabularios cerrados; uno inventado no suena y **no da ningún error**.
 
-Para cada escena:
+Lee el cuento terminado y, escena por escena:
 
-1. `ambient` — el sitio. Repite el id si no se ha movido.
-2. `music` — **solo** en la escena del giro.
-3. Las palabras mágicas:
-   - ¿Está la palabra en el texto de esa escena, **exactamente una vez**?
+1. **`ambient`** — el sitio de la escena. Repite el id si no se ha movido. Si
+   ningún ambiente de la paleta se parece al sitio, elige el más cercano por
+   sensación.
+2. **`music`** — solo en la escena del giro. Y la del cuento entero, para el
+   manifiesto.
+3. **Palabras mágicas** — busca **en el texto que ya existe** las palabras que
+   marcan el momento de la escena y que tienen un sonido en la paleta:
+   - ¿Está la palabra en esa escena, **exactamente una vez**?
    - ¿No se ha usado ya en otra escena del cuento?
-   - ¿El sonido que elijo existe en la paleta?
-   - ¿Marca un momento, o es decoración?
-4. ¿Hay algún momento que merezca `cue.ambient` o `delayMs`?
+   - ¿Marca **el momento**, o es decoración?
+   - ¿Cae al final de su frase, donde el silencio la deja sonar?
 
-Y para el cuento entero: la música de fondo del manifiesto.
+**Si ninguna palabra de la escena tiene un sonido que encaje, esa escena no
+tiene palabra mágica. Está bien.** El ambiente sigue sonando debajo. Una escena
+sin nada que tocar es mucho mejor que un búho metido a la fuerza.
 
-**Devuelve a fase 3 si**: hay que forzar el texto para meter una palabra mágica.
-Se cambia el texto, no se mete a la fuerza.
+**Prohibido** cambiar el texto para que quepa un sonido: no se añaden animales,
+objetos ni fenómenos. Lo único permitido es mover una palabra que ya está para
+que cierre su frase, o elegir entre dos palabras que ya están.
 
 ### Fase 5 — Auditoría
 
-Dos partes: la mecánica y la humana.
-
-**La mecánica** la hacen los scripts, que no se cansan ni se les olvida:
+**La mecánica**:
 
 ```bash
 node .claude/skills/cuentos-lumika/auditar.mjs stories/mi-cuento.es.json
 ```
 
-Y para arreglar en lote lo que no necesita criterio:
-
-```bash
-node .claude/skills/cuentos-lumika/quitar-anclas-repetidas.mjs --dry
-node .claude/skills/cuentos-lumika/aplicar-ambientacion.mjs plan.json --dry
-```
-
-El segundo toma un plan de ambientacion —que ambiente y que musica por escena—
-y lo aplica a los dos idiomas a la vez, subiendo las versiones. Los dos admiten
-`--dry` y conviene usarlo siempre antes.
-
 Comprueba identificadores inexistentes, anclas que no están en el texto, anclas
-repetidas, anclas que aparecen varias veces en su escena, escenas sin ambiente y
-cuentos sin giro de música.
+repetidas, anclas que aparecen varias veces en su escena, escenas sin ambiente,
+cuentos sin giro de música y bloques de texto demasiado largos.
 
-**La humana** la haces tú, leyendo el cuento en voz alta de principio a fin y
-preguntando:
+**La humana**, leyendo el cuento en voz alta de principio a fin:
 
-- Si quito todos los sonidos, ¿el cuento sigue en pie? (debe seguir)
-- Si quito el texto y dejo solo los sonidos, ¿se adivina lo que pasa? (debería)
-- ¿Hay alguna escena en la que el niño no tenga nada que tocar? ¿Está bien que
-  no lo tenga, o esa escena está muerta?
+- Si quito todos los sonidos, ¿el cuento sigue en pie? (tiene que seguir)
+- ¿Hay algún personaje, animal u objeto que esté ahí **solo** porque suena?
+  Si lo hay, se quita y se reescribe la escena.
+- ¿Se lee bien en voz alta? ¿Hay sitio para respirar?
 - ¿El cambio de música cae donde cambia lo que uno siente?
-- ¿Alguna palabra mágica está ahí solo porque el sonido existía?
 
 **El script en verde no es aprobar.** Solo dice que no hay nada roto.
+
+---
+
+## Reglas del sonido
+
+### 1. Una palabra mágica suena UNA vez en todo el cuento
+
+La primera vez es magia. La tercera es un juguete roto.
+
+### 2. La palabra mágica aparece una vez en su escena
+
+El lector resalta la primera aparición. Si la palabra sale cuatro veces, el
+sonido cae en la primera, que casi nunca es donde querías.
+
+### 3. Cero, una o dos palabras mágicas por escena
+
+**Cero es una respuesta válida.** Treinta sonidos en seis páginas no es un
+cuento, es un teclado.
+
+### 4. Toda escena tiene un ambiente
+
+Cuando el cuento cambia de lugar, cambia el ambiente — es lo que hace que el
+niño *llegue* a un sitio en vez de que le cuenten que llegó.
+
+### 5. La música cambia cuando cambia el sentimiento
+
+En la escena donde el personaje deja de tener miedo, encuentra lo que buscaba o
+entiende algo. No en la mitad por reloj.
+
+---
+
+## Recursos que valen mucho (cuando el texto los pide)
+
+| Escritura | Qué consigue |
+|---|---|
+| `cue.ambient` en una palabra | El sitio cambia **bajo el dedo del niño**. Toca `lluvia` y empieza a llover. |
+| `cue.music` en una palabra | El tono emocional gira en el instante del toque. Para EL momento del cuento, una vez. |
+| `cue.delayMs` | El sonido llega un poco después del toque. Un trueno tras el relámpago. |
+| `trigger: atSceneEnter` | Suena solo al pasar la página. Para lo inevitable. |
+| `trigger: atSceneExit` | Suena al salir de la página. Para dejar algo colgando. |
+
+Solo si el texto ya tiene ese momento. No se escribe un relámpago para poder
+usar `delayMs`.
 
 ---
 
@@ -207,46 +196,34 @@ Un fichero por cuento y por idioma: `stories/<id>.<locale>.json`.
   "scenes": [
     {
       "id": "s1",
-      "text": "...",
+      "text": "Primer párrafo.\n\nSegundo párrafo.\n\n—Una línea de diálogo.",
       "ambient": "forest_night",
-      "cues": [{ "anchor": "búho", "sfx": "owl_hoot" }]
-    },
-    {
-      "id": "s2",
-      "text": "...",
-      "ambient": "meadow_night",
-      "music": "strings_hopeful",
-      "cues": [
-        { "anchor": "lluvia", "ambient": "rain" },
-        { "trigger": "atSceneEnter", "sfx": "wind_soft" }
-      ]
+      "cues": []
     }
   ]
 }
 ```
 
-**Sube siempre `version`** al editar un cuento que ya está publicado. El teléfono
-solo se vuelve a bajar el fichero si el número del manifiesto es mayor que el
-que tiene guardado. Sin subirlo, tu corrección no llega a nadie.
+Los párrafos se separan con **una línea en blanco** (`\n\n`).
 
-Al publicar, la entrada del manifiesto **debe llevar `locales`**. Una entrada sin
-ese campo dejó la biblioteca vacía en todos los teléfonos una vez.
+**Sube siempre `version`** al editar un cuento publicado. El teléfono solo se
+vuelve a bajar el fichero si el número del manifiesto es mayor que el que tiene
+guardado.
+
+Al publicar, la entrada del manifiesto **debe llevar `locales`**. Una entrada
+sin ese campo dejó la biblioteca vacía en todos los teléfonos una vez.
 
 ---
 
-## Revisar un cuento que ya existe
+## Reescribir un cuento que ya existe
 
-Mismo recorrido, empezando por la fase 2: lee el cuento, reconstruye su
-estructura, y comprueba contra las cinco reglas.
+**Se conserva**: el `id`, el protagonista, la premisa y lo que sale en la
+portada. La portada es una ilustración de la historia; si la historia cambia
+tanto que la portada ya no la cuenta, la portada miente.
 
-Lo que casi siempre hay que arreglar, por frecuencia medida:
+**Se reescribe**: todo lo demás. El texto se escribe de nuevo desde la fase 3,
+sin mirar el texto viejo frase a frase ni la paleta. Se quitan los elementos
+que estaban ahí solo porque sonaban — el búho de relleno, la rana que no pinta
+nada, la estrella que hace *tin*.
 
-1. Anclas repetidas — quita todas menos la primera, o cambia el texto para que
-   la palabra solo esté donde quieres el sonido.
-2. Demasiadas palabras mágicas — quédate con **el momento** de cada escena.
-3. Falta el ambiente — añádelo escena por escena.
-4. La música no cambia nunca — busca el giro y ponle su `scene.music`.
-5. Ninguna palabra cambia el sitio — busca el momento en que el cuento se mueve
-   y conviértelo en `cue.ambient`.
-
-Y **sube `version`**.
+Después, fase 4 desde cero sobre el texto nuevo. Y **sube `version`**.

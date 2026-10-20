@@ -2,54 +2,45 @@
   "id": "la-ballena-cantora",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "The little singing whale",
-  "summary": "A tiny whale discovers her voice is the most beautiful gift in the ocean.",
+  "summary": "Lía never sings, because her voice is thin and ends in a squeak. Until she gets lost at sea, where whales can only find each other by singing.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In the deepest part of the blue sea, where the water is as dark as night but still lets through little sun rays like threads of melted gold, lived a very tiny whale. She was the size of a mattress, with a white belly and a back the color of a stormy sky.\n\nHigh above her, the sea rolled in long, slow waves. But the tiny whale kept a huge secret: she never spoke, she never sang, she never even made bubbles.\n\nShe was ashamed of her voice because she thought it was too small, too thin, too nothing. Every day she hid behind the pink corals, with her tail curled under her belly, and watched the colorful fish go by without saying hello. \"Hello,\" she wanted to say quietly.\n\nBut the word got stuck in her throat, like a shy little snail. The ocean watched over her in silence, patient, waiting for the day she would feel brave enough.",
+      "text": "Lía was the smallest whale in her family, and she never let out a single note.\n\nThe others did. Every evening, when the sun went down and the sea turned dark blue, the big whales began their songs. Their voices were deep and long, like huge doors opening slowly at the bottom of the sea.\n\nLía had tried once, when she was very little.\n\nOut of her mouth came a thin thread of a voice, wobbly and crooked, that ended in a squeak.\n\nA passing fish laughed so hard that all its bubbles escaped.\n\nFrom that day on, Lía listened to the others with her mouth shut tight.",
       "ambient": "underwater",
-      "cues": [
-        {
-          "anchor": "bubbles",
-          "sfx": "bubbles"
-        }
-      ]
+      "music": "harp_dreams",
+      "cues": [{ "anchor": "bubbles", "sfx": "bubbles" }]
     },
     {
       "id": "s2",
-      "text": "One calm morning, while she swam alone among the seaweed, she heard something different. A thin, weeping sound. It was a lost little octopus, sitting on a clam, with all eight of his arms curled up in sadness.\n\nHis eyes were full of tears that mixed with the salt water. The tiny whale watched him from afar, hesitated for a second, came a little closer, hesitated again. Then she closed her eyes and breathed.\n\nAnd, almost without meaning to, she opened her mouth and sang.\n\nOut of her came a trembling, gentle sound, like a sigh of water. The little octopus stopped crying instantly, surprised. He lifted his head, blinked, and waved all his arms at the same time.\n\n\"Was that you?\" he asked quietly, as if he didn't dare believe it. The whale wanted to hide behind the coral again and lowered her head.\n\nBut the octopus smiled at her with a huge smile, full of tenderness, and said: \"It's the most beautiful thing I've ever heard in my life.\"",
-      "cues": [
-        {
-          "anchor": "sang",
-          "sfx": "whale_song"
-        }
-      ],
-      "ambient": "underwater"
+      "text": "One day, the family set off on the long journey north, where the water is cold and full of food.\n\nLía swam at the back, as always. And as always, everything distracted her.\n\nA shoal of silver fish that kept changing shape. A sunken ship, all covered in seaweed, where a very grumpy crab lived. A jellyfish that lit up and went dark again like a little lantern.\n\nShe stopped to watch the jellyfish for a moment.\n\nJust a moment.\n\nWhen she looked up, the sea was empty.\n\nNo big tails ahead. No shadows. Only blue water above, below and on every side.",
+      "ambient": "underwater",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "The tiny whale stayed very still, not knowing what to say. Her cheeks turned a soft pink, just like the coral next to her. The little octopus sat on a soft stone, crossed two of his arms as if they were legs, and looked at her with the face of a child waiting for a story.\n\n\"Will you sing again? Please, please,\" he begged, wiggling his suckers. The whale closed her eyes, filled her lungs with salty water until her heart felt warm, and let out another song.\n\nFrom her mouth rose bubbles. They were blue, pink, gold and silver, and they traveled slowly up to the surface, carrying the music with them. A curious sardine peeked out from behind a coral and stayed to listen, without moving.\n\nThen came a green turtle. Then a yellow crab. Then a purple starfish that came down from the sky of the sea.\n\nNobody laughed. Everybody smiled, hypnotized.",
-      "cues": [
-        {
-          "anchor": "song",
-          "sfx": "whale_song"
-        }
-      ],
-      "ambient": "underwater"
+      "text": "\"Mama!\" called Lía.\n\nBut her voice was so small that the water swallowed it at once.\n\nShe waited. She swam one way, and then the other. Everything looked the same everywhere.\n\nThen, very far away, she heard the big whales. They were singing, as they did every evening, to find each other in the enormous sea. Their deep voices came from everywhere at once: from above, from below, from nowhere at all.\n\nLía knew what she had to do. That is how whales find each other: by singing.\n\nAnd she also knew she didn't want to. Her voice was thin. It was crooked. It ended in a squeak.\n\nHer heart felt very small.",
+      "ambient": "underwater",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "The fish kept coming: first ten, then a hundred, then a whole school shining like silver confetti. Dolphins did pirouettes in the water.\n\nSeahorses jumped like springs, the seaweed swayed to the rhythm of the melody like green dancers, and even the jellyfish lit up their lights. The tiny whale looked at them all with her eyes wide open, unable to believe it. Her voice, that small voice that had embarrassed her so much, was making the whole ocean happy.\n\nThe octopus stroked her belly with one arm and said: \"See? Your voice wasn't small. It was special.\"\n\nThe whale understood, in that moment, that every creature has a gift, and hers was singing. And from that night on, so the ocean could fall asleep in peace, she sang. All the fish in the sea waited for her with their eyes closed, dreaming of her melody.",
-      "cues": [
-        {
-          "anchor": "water",
-          "sfx": "water_splash"
-        }
-      ],
+      "text": "But she was alone, and the sea was very big, and night was coming.\n\nSo Lía closed her eyes, filled her lungs with air, and sang.\n\nIt came out the same as always: thin, crooked, with a squeak at the end.\n\nShe did it again. And again.\n\nAnd then something strange happened. The deep voices, far away, all went quiet at once.\n\nSilence.\n\nLía stopped, frightened. Had she done something wrong?\n\nAnd out of the silence came a voice she knew better than any other. It was her mother. And she wasn't singing her usual deep song.\n\nShe was singing Lía's. Thin, crooked, with a squeak at the end.",
       "ambient": "underwater",
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "sang", "sfx": "whale_song" }]
+    },
+    {
+      "id": "s5",
+      "text": "Her mother came swimming so fast that she stirred up swirls.\n\nShe wrapped Lía in her flipper, and the two of them stayed very still, very close, while the rest of the family appeared out of the dark one by one.\n\n\"How did you find me?\" asked Lía. \"The voices were coming from everywhere.\"\n\n\"The big voices, yes,\" said her mother. \"They all sound alike. But yours doesn't sound like anyone else's. I heard it from the other side of the sea.\"\n\nTogether, slowly, they rose to breathe at the surface.\n\nThat night, when the big whales began their songs, a thin and crooked voice joined in.\n\nNobody laughed. And when it ended in a squeak, that was everyone's favourite part.",
+      "ambient": "underwater",
+      "music": "lullaby_piano",
+      "cues": [
+        { "anchor": "swirls", "sfx": "whoosh" },
+        { "anchor": "surface", "ambient": "ocean_waves" }
+      ]
     }
   ]
 }

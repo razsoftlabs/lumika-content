@@ -2,43 +2,29 @@
   "id": "la-noche-de-las-luciernagas",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 20,
   "title": "La noche de las luciérnagas",
-  "summary": "Un cuento muy corto y calmado, perfecto para ojos pesados.",
+  "summary": "En casa de la abuela, una niña no se puede dormir. La abuela le enseña un truco: contar luciérnagas.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Era una noche de verano y todo estaba quieto, muy quieto. Tan quieto que se podía escuchar el silencio. Sobre el techo de la casa de la abuela, redonda y blanca como un queso, brillaba la luna.\n\nEn la ventana del cuarto pequeño, una niña en pijama de estrellas miraba hacia el jardín, con el pelo despeinado y los ojos curiosos. Tenía sueño, pero todavía no quería dormirse. De pronto vio algo que la dejó con la boca abierta.\n\nEntre las flores del jardín, en el pasto y en las hojas de los árboles, volaban unas chispas.\n\nPrendían y apagaban, prendían y apagaban, como estrellas que se hubieran caído del cielo y anduvieran perdidas buscando volver. La abuela apareció a su lado, con su olor a pan recién hecho, y le susurró al oído: \"Son luciérnagas, mi vida. Vienen una vez al año, en las noches más calladas, a saludar a la noche\".\n\nLa niña abrió los ojos grandes.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "chispas",
-          "sfx": "sparkle"
-        }
-      ]
+      "text": "En casa de la abuela, las noches de verano eran muy calladas.\n\nNo pasaban coches. No ladraban perros. Solo se oía el campo, respirando bajito.\n\nAna estaba en la cama, con los ojos muy abiertos. Daba vueltas. Daba más vueltas. No había manera.\n\nEntonces vio algo por la ventana.\n\nUna lucecita, en el jardín. Se encendió y se apagó.\n\nDespués otra, un poco más allá. Y otra.\n\nAna se sentó en la cama.\n\n—Abuela —llamó bajito—. Hay luces en el jardín.",
+      "ambient": "meadow_night",
+      "music": "music_box",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "La niña se puso las pantuflas y bajó al jardín sin hacer ruido, despacio como una hoja que cae. La abuela la siguió, sonriendo. El pasto estaba fresco bajo sus pasos.\n\nLas flores cerradas dormían. Las luciérnagas, al verla llegar, se acercaron volando todas juntas. Una se posó en su dedo, otra en su hombro, otra dio dos vueltas alrededor de su cabeza.\n\nEran como linternas mágicas con corazón propio. La niña se quedó muy quieta, con miedo de asustarlas. \"Hola\", les dijo en un susurro.\n\nLas luciérnagas le contestaron parpadeando con sus luces, una vez, dos veces, tres veces, como si estuvieran de acuerdo con algo importante.",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": "meadow_night"
+      "text": "La abuela no le dijo que se durmiera. La abuela se puso la bata, le dio la mano, y bajaron juntas al jardín.\n\nAna iba descalza. El pasto estaba fresquito y le hacía cosquillas entre los dedos.\n\nLas luces estaban por todas partes. Entre las flores, encima del pasto, en las ramas bajas del limonero. Se encendían y se apagaban, cada una a su ritmo, como si estuvieran hablando entre ellas.\n\n—Son luciérnagas —dijo la abuela—. Salen en las noches más calladas.\n\nUna se acercó volando y se posó en el dedo de Ana. Era pequeñísima. Se encendió, tibia, justo encima de su uña.\n\n—Hola —le dijo Ana, en un susurro.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "susurro", "sfx": "whisper" }]
     },
     {
       "id": "s3",
-      "text": "La abuela le contó al oído un secreto: \"Cada luz lleva un sueño adentro. Mira esa: esa lleva el sueño de volar. Esa otra, el de bailar entre las nubes.\n\nAquella, el de descubrir un tesoro escondido\". La niña miró cada luciérnaga con ternura, tratando de adivinar qué sueño llevaba dentro. Se sentó en el pasto fresco, con la abuela al lado.\n\nEl aire olía a noche, a tierra y a jazmín, y la niña soltó un suspiro. Las luciérnagas, una a una, fueron formando una corona de luces sobre su cabeza. Los ojos se le fueron cerrando despacio, sin que ella se diera cuenta.\n\nLa abuela la levantó con cuidado, la llevó a la cama y allí se quedó dormida.\n\nY esa misma noche ya estaba volando con las luciérnagas, como una luciérnaga más entre los sueños de la noche. Y soñó hasta el amanecer.",
-      "cues": [
-        {
-          "anchor": "dormida",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "La abuela se sentó en el banco del jardín, y Ana se sentó en su regazo.\n\n—¿Sabes qué hago yo cuando no me puedo dormir? —le dijo—. Las cuento.\n\n—¿A las luciérnagas?\n\n—Cada vez que una se enciende, cuentas una. Despacito.\n\nAna miró al jardín.\n\nUna.\n\nDos.\n\nTres, al lado del limonero.\n\nCuatro… cinco…\n\nLos ojos se le fueron poniendo pesados.\n\nSeis.\n\nLa abuela no oyó el siete. Cuando bajó la vista, Ana estaba hecha un ovillo contra su pecho, respirando lento, completamente dormida.\n\nLa llevó a la cama sin despertarla. Y desde el jardín, las luciérnagas siguieron encendiéndose, una a una, por si alguien más necesitaba contarlas.",
       "ambient": "meadow_night",
-      "music": "music_box"
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "dormida", "sfx": "snore_soft" }]
     }
   ]
 }

@@ -2,43 +2,29 @@
   "id": "la-noche-de-las-luciernagas",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "The night of the fireflies",
-  "summary": "A very short and calm story, perfect for sleepy eyes.",
+  "summary": "At Grandma's house, a little girl can't get to sleep. Grandma teaches her a trick: counting fireflies.",
   "scenes": [
     {
       "id": "s1",
-      "text": "It was a summer night and everything was very, very still. So still you could hear the silence. Above the roof of grandma's house, round and white like a little cheese, shone the moon.\n\nIn the window of the small bedroom, a girl in star-printed pajamas looked out into the garden, with messy hair and curious eyes. She was sleepy, but she didn't want to fall asleep yet. Suddenly, she saw something that left her with her mouth open.\n\nAmong the flowers in the garden, in the grass, on the leaves of the trees, there were tiny flying sparks.\n\nThey turned on and off, turned on and off, like little stars that had fallen from the sky and were wandering, lost, looking for the way back. Grandma appeared next to her, with her smell of fresh-baked bread, and whispered in her ear: \"They're fireflies, my love.\n\nThey come once a year, on the quietest nights, to greet the night.\" The girl opened her eyes wide.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "sparks",
-          "sfx": "sparkle"
-        }
-      ]
+      "text": "At Grandma's house, summer nights were very quiet.\n\nNo cars went by. No dogs barked. All you could hear was the countryside, breathing softly.\n\nAna lay in bed with her eyes wide open. She turned over. She turned over again. It was no use.\n\nThen she saw something through the window.\n\nA tiny light, in the garden. It came on, and went out.\n\nThen another, a little further away. And another.\n\nAna sat up in bed.\n\n\"Grandma,\" she called softly. \"There are lights in the garden.\"",
+      "ambient": "meadow_night",
+      "music": "music_box",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "The girl put on her slippers and went down to the garden without making a sound, slowly like a falling leaf. Grandma followed her, smiling. The grass was cool under her steps.\n\nThe closed flowers were sleeping. The fireflies, when they saw her arrive, came flying all together. One landed on her tiny finger, another on her shoulder, another circled her head twice.\n\nThey were like tiny magic lanterns with hearts of their own. The girl stayed very still, afraid of scaring them. \"Hello,\" she said in a whisper.\n\nThe fireflies answered her by blinking with their tiny lights, once, twice, three times, as if they were agreeing on something important.",
-      "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        }
-      ],
-      "ambient": "meadow_night"
+      "text": "Grandma didn't tell her to go to sleep. Grandma put on her dressing gown, took her hand, and they went down to the garden together.\n\nAna was barefoot. The grass was cool and tickled between her toes.\n\nThe lights were everywhere. Among the flowers, over the grass, in the low branches of the lemon tree. They lit up and went dark, each at its own pace, as if they were talking to each other.\n\n\"They're fireflies,\" said Grandma. \"They come out on the quietest nights.\"\n\nOne flew close and landed on Ana's finger. It was tiny. It lit up, warm, right on top of her fingernail.\n\n\"Hello,\" Ana told it, in a whisper.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "whisper", "sfx": "whisper" }]
     },
     {
       "id": "s3",
-      "text": "Grandma told her a secret, close to her ear: \"Each little light carries a dream inside. Look at that one, that one carries the dream of flying. That other one, of dancing among the clouds.\n\nThat one over there, of finding a hidden treasure.\" The girl looked at each firefly with tenderness, trying to guess what dream it carried inside. She sat on the cool grass, with grandma next to her.\n\nThe air smelled of night, of earth, of jasmine, and the girl let out a sigh. The fireflies, one by one, slowly formed a crown of lights over her little head. Her eyes began to close slowly, slowly, without her noticing.\n\nGrandma carefully picked her up, carried her to bed, and there the girl fell asleep.\n\nAnd that same night she was already flying with the fireflies, like one more firefly among the dreams of the night. And she dreamed until the dawn came.",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "Grandma sat down on the garden bench, and Ana sat on her lap.\n\n\"Do you know what I do when I can't sleep?\" she said. \"I count them.\"\n\n\"The fireflies?\"\n\n\"Every time one lights up, you count one. Nice and slowly.\"\n\nAna looked out over the garden.\n\nOne.\n\nTwo.\n\nThree, next to the lemon tree.\n\nFour… five…\n\nHer eyes were getting heavy.\n\nSix.\n\nGrandma never heard seven. When she looked down, Ana was curled up against her chest, breathing slowly, fast asleep.\n\nShe carried her to bed without waking her. And out in the garden, the fireflies kept lighting up, one by one, in case anyone else needed counting.",
       "ambient": "meadow_night",
-      "music": "music_box"
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "asleep", "sfx": "snore_soft" }]
     }
   ]
 }

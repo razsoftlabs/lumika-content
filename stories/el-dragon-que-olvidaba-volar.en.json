@@ -2,58 +2,47 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "Slow Is How You Fly",
-  "summary": "A nervous little dragon learns that with calm, anything is possible.",
+  "summary": "Tito has perfectly good wings, but every time he tries to fly they get tangled. A butterfly shows him the trouble isn't his wings.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High on top of a green mountain, where the clouds passed so close you could touch them with your paw, lived a little dragon named Tito. Tito was small, no bigger than a medium puppy, and his scales shone like pieces of fire when the morning sun hit them.\n\nHe had two short wings with golden edges and a curled-up tail that ended in a point. But Tito had a very big problem for someone so small: every time he was about to fly, he forgot how. His wings would freeze, standing still at his sides, not knowing what to do.\n\nAnd then something would start pounding hard inside his chest: his heart.\n\nMeanwhile, his dragon friends flew happily among the clouds, doing pirouettes in the air, chasing each other with laughter and puffing out breaths of sparks. Tito watched them from his corner on the mountain, his belly pressed to the ground. \"I want to fly too,\" he thought quietly, biting his tail.\n\nBut the moment he opened his wings, everything left his head, as if someone stole the trick from him.",
-      "cues": [
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "High up on a green mountain lived Tito, a dragon the size of a middle-sized dog, with red scales that glowed like embers whenever the sun touched them.\n\nTito had wings. Two short wings with golden edges, perfectly good ones.\n\nThe trouble was that he didn't fly.\n\nEvery morning his cousins launched themselves off the rocks and vanished among the clouds, looping and chasing each other and puffing out sparks of pure glee. Tito watched them from below, his tummy pressed flat against the grass.\n\n\"Are you coming today?\" they shouted.\n\n\"Tomorrow,\" Tito answered.\n\nAnd tomorrow was always tomorrow again.",
+      "ambient": "meadow_day",
+      "music": "playful_flute",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "One clear morning, Tito decided that today was the day. He climbed onto a big rock with firm steps, puffed up his chest like he had seen his dad do, closed his eyes tight, and got ready. \"Come on, Tito, you can do it,\" he told himself.\n\nHe counted three, two, one, and jumped. For just a second he felt the wind on his face and thought \"I did it!\" But then his wings tangled up, one crossed over the other, and...\n\nSplat!\n\nHe fell flat on the ground, his nose full of leaves and a yellow flower stuck to his forehead. A butterfly flying nearby laughed so hard she got dizzy and landed sideways on a branch. Tito got very sad.\n\nA lump formed in his throat and two big tears wet his scales. \"Never, never, never am I going to be able to fly,\" sighed the little dragon, and lay down belly-up, looking at the sky.",
-      "cues": [
-        {
-          "anchor": "Splat",
-          "sfx": "thud"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "One day he decided that tomorrow was over.\n\nHe climbed the highest rock, puffed out his chest the way his father did, and opened his wings.\n\n\"Come on, Tito,\" he told himself. \"You can do it.\"\n\nHe thought about his left wing. He thought about his right wing. He thought about whether they should move together or one after the other, and whether it was up first or down first, and how far, and how fast.\n\nHe counted three, two, one. And he jumped.\n\nFor one second he felt the wind on his face. Then his wings got tangled in each other, and down he went the way a stone goes down.\n\nPlop!\n\nHe landed nose-first in a bush, with a yellow flower stuck to his forehead.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "plop", "sfx": "thud" }]
     },
     {
       "id": "s3",
-      "text": "The butterfly, now recovered from her laughter, felt sorry for the little dragon. She flew down slowly and landed on his nose. She had orange wings with black dots, like a flower with spots.\n\n\"Forgive me, I wasn't laughing at you,\" she whispered. \"It's just that you get so stiff. You think too much.\"\n\nTito opened one eye, then the other. The butterfly continued: \"I'm going to tell you a secret, okay? Close your eyes.\n\nNow breathe.\n\nDeeply, like this, watch how I do it.\" The butterfly puffed up her belly and let the air out with a soft blow. Tito copied her.\n\n\"Again. One more time. Imagine the clouds, imagine the wind on your wings.\n\nDon't think about flying. Your wings already know. We just have to leave them alone.\"\n\nTito did everything the butterfly told him. He took in air once, twice, three times, four. His heart, which before jumped like a rabbit, began to beat slowly.\n\nHis belly grew warm.",
-      "cues": [
-        {
-          "anchor": "breathe",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "From a branch, an orange butterfly had seen the whole thing.\n\nShe fluttered down to the tip of his nose.\n\n\"Here's your problem,\" she said. \"You think too much about your wings.\"\n\n\"But you have to think,\" said Tito, pulling off the flower. \"Otherwise how do you know what they're supposed to do?\"\n\n\"I never think about mine,\" said the butterfly. \"And look at me.\"\n\nShe rose, circled once around his head and settled back down, perfectly calm.\n\n\"Your wings already know,\" she said. \"What they can't do is fly while you're staring at them.\"\n\nTito said nothing. That had never occurred to him.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "When Tito opened his eyes, something magical was happening: his wings were already moving on their own. They went up and down with a soft rhythm, without him thinking about it, as if they were doing what they had always known how to do. Suddenly, Tito noticed that his feet stopped touching the ground.\n\nHe looked down. The rock was far away. The flowers got smaller and smaller.\n\nHe was flying!\n\nHe rose high, high, until he brushed the white clouds with the tip of his tail. He felt the cool wind on his face, on his ears, on every scale. And he let out a laugh.\n\nWith it came a puff of golden sparkles that drew a heart in the air. From far away, his dragon friends clapped for him with their wings. The butterfly danced beside him, happy.\n\nThat afternoon, Tito learned a secret he would remember all his life: every time fear got the best of him, he would breathe deeply like his friend taught him, and everything would become easier.",
-      "cues": [
-        {
-          "anchor": "flying",
-          "sfx": "wing_flap"
-        },
-        {
-          "anchor": "laugh",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "\"I'm going to teach you a trick,\" said the butterfly. \"But you have to do everything I say.\"\n\n\"Everything,\" promised Tito.\n\n\"Close your eyes. Now breathe in through your nose, slowly, until your tummy is full.\"\n\nTito did. His tummy puffed up like a balloon.\n\n\"And let it out. Even more slowly.\"\n\nTito let it out, and two little sparks came out of his nose.\n\n\"Again.\"\n\nThey did it four times, five, six. Tito's heart, which had been racing like a frightened rabbit, calmed down little by little. Now it beat nice and slow.\n\n\"And now,\" said the butterfly, \"open them, and don't take your eyes off me. Look only at me.\"",
       "ambient": "meadow_day",
-      "music": "strings_hopeful"
+      "cues": [
+        { "anchor": "balloon", "sfx": "breathe_in" },
+        { "anchor": "slow", "sfx": "heartbeat_calm" }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Tito opened his eyes and looked at the butterfly.\n\nShe drifted up and down in front of him, in no hurry at all, and he followed her with his eyes. Up. Down. Up again.\n\nHe didn't think about his left wing. He didn't think about his right. He was far too busy watching his friend.\n\nThat's why it took him a while to notice that the rock was a long way away, down below. That the flowers had turned into tiny dots of colour. That the wind was whistling in his ears.\n\nHe was flying.\n\nA laugh burst out of him. So big that it came out full of sparks.\n\nHis cousins circled around him, calling his name. And from that day on, whenever his wings got tangled, Tito did the same thing: he breathed in deep, found something lovely to look at, and let his wings do what they had always known how to do.",
+      "ambient": "meadow_day",
+      "music": "strings_hopeful",
+      "cues": [
+        { "anchor": "flying", "sfx": "wing_flap" },
+        { "anchor": "laugh", "sfx": "giggle" }
+      ]
     }
   ]
 }

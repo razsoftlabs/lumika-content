@@ -2,60 +2,39 @@
   "id": "pancho-el-perro-valiente",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "Pancho the brave dog",
-  "summary": "Pancho discovers that being brave doesn't mean having no fear, but moving forward anyway.",
+  "summary": "Pancho is terribly scared of storms. But one night, in the middle of the worst one ever, he hears a meow in the garden.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Pancho was a small puppy with brown fur and white spots, long floppy ears, and a tail that wagged like a metronome whenever he was happy. He lived in a small house with his family, in a quiet neighborhood full of trees. The house had a garden with flowers of every color: red, yellow, purple, white.\n\nPancho was sweet and playful, he loved chasing balls and tumbling in the grass. All the neighbors knew him and smiled when they saw him on his walks. But Pancho had a secret no one knew, not his family, not his friends at the park, not even the neighbor's cat: he was very, very afraid of storms.\n\nEvery time the sky turned gray, high above you could hear the thunder.\n\nThen something began to jump inside his chest like a frightened rabbit: his heart.\n\nBumbumbumbum. His ears would droop even more and his tail would tuck between his legs. He would run to hide under his human's bed, in the darkest corner, and stay there very still, very still, with his paws covering his ears, waiting for all that ugly noise to pass.",
-      "cues": [
-        {
-          "anchor": "thunder",
-          "sfx": "thunder",
-          "delayMs": 500
-        },
-        {
-          "anchor": "heart",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Pancho was a small dog with long floppy ears and a white patch on his nose that looked like spilled milk.\n\nHe liked balls, puddles, and being scratched behind the ear. He was the friendliest dog on the whole street.\n\nBut he had a secret.\n\nHe was scared of storms. A huge kind of scared, far too big to fit inside such a small dog.\n\nAs soon as the sky turned grey, Pancho could feel it in his paws. And the moment the sky began to rumble, he shot under the bed and didn't come out until it was all over.",
+      "ambient": "city_soft",
+      "music": "guitar_warm",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "One October night, a huge storm fell over the neighborhood. It started with a sky that grew darker and darker, then some far-away lightning, and suddenly it broke loose. The rain hit the roof like a thousand small drums, and the windows shook with every clap of thunder.\n\nThe lightning lit up the walls like giant flashes. Pancho, faithful to his routine, ran to hide under the bed, trembling. \"Please let it stop, please let it stop,\" he thought with his eyes squeezed shut.\n\nBut in a short pause in the storm, Pancho heard something different. Something that wasn't rain, or wind, or storm. It was a thin, sharp, frightened sound.\n\nMeow! Meowww! Meowwwww!\n\nPancho poked his head out from under the blankets and listened carefully. Yes, there it was again: somewhere out there someone was meowing.\n\nIt was a lost kitten, somewhere in the garden, in the rain, wet and alone, calling for its mom. Pancho felt his heart squeeze with sadness, as if someone were giving him a very tight hug from inside.",
+      "text": "One autumn night, the worst storm of the year arrived.\n\nIt began with the sky turning black. Then came a wind that made the windows creak. And then it broke open completely: rain drumming on the roof like a thousand drums, and lightning painting the walls white.\n\nPancho was already under the bed, curled into a ball, eyes squeezed shut.\n\nThen, over all the noise, came the thunder.\n\nThe biggest he had ever heard in his life.\n\nPancho trembled from his nose to his tail.\n\nAnd right afterwards, as that great crash died away, he heard something else. Something tiny and high that wasn't rain or wind.\n\nIt was coming from the garden.\n\nIt was a meow.",
+      "ambient": "rain",
       "cues": [
-        {
-          "anchor": "meowing",
-          "sfx": "cat_meow"
-        }
-      ],
-      "ambient": "rain"
+        { "anchor": "thunder", "sfx": "thunder", "delayMs": 350 },
+        { "anchor": "meow", "sfx": "cat_meow" }
+      ]
     },
     {
       "id": "s3",
-      "text": "Pancho was still trembling with fear. The storm hadn't stopped; just the opposite, it seemed worse and worse. But something inside him, a small and firm voice, said: \"Pancho, you have to help.\"\n\nThe little dog opened his eyes. He looked toward the hallway. He swallowed hard.\n\n\"I can't,\" he thought at first. \"Yes you can,\" answered the voice. Pancho took a deep breath, once, twice.\n\nHe came out of his hiding spot step by step, with his paws a little wobbly. He crossed the living room, passed the couch, and reached the garden door. He pushed it with his snout, click, and peeked out.\n\nThe rain soaked his fur in a second, the thunder roared above, the drops fell into his eyes. But Pancho kept walking, sniffing the air to find the kitten. Soaking wet and curled up in a ball, he found it under a bush.\n\nThen he gathered all his courage and barked.\n\n\"I'm here! Don't be scared!\" He came closer slowly, picked it up gently with his mouth, taking great care not to hurt it, and carried it home.\n\nHe brought his favorite towel, the softest one, and helped it dry off.",
-      "cues": [
-        {
-          "anchor": "barked",
-          "sfx": "bark"
-        }
-      ],
+      "text": "Pancho opened one eye.\n\nOut there, in the middle of all that, was a kitten. Alone. Getting soaked.\n\n\"I can't,\" thought Pancho, pressing himself flatter against the floor. \"It's stormy.\"\n\nBut the kitten called out again, quieter, more tired.\n\nPancho gulped. He crawled out from under the bed. He crossed the hall on trembling legs. He pushed open the kitchen door with his nose, the one that led to the garden, and looked out.\n\nThe rain soaked him in a second. A flash of lightning left him blinking.\n\nBut Pancho kept going. Sniffing, step by step, all the way to the bush at the very end.\n\nThere was the kitten, curled up tight, shivering.\n\nAnd Pancho, who had never been brave, gathered up all the courage he had, and barked.",
       "ambient": "rain",
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "barked", "sfx": "bark" }]
     },
     {
       "id": "s4",
-      "text": "The kitten, now feeling dry and warm, slowly stopped trembling. Its green eyes calmed down. It began to purr softly, a purr of gratitude, prrr, prrr, prrr.\n\nPancho curled up next to the kitten and hugged it with his furry paws, like a stuffed animal. The two of them stayed like that, close together, on Pancho's bed, listening to the storm from inside. Pancho rested his ear against its chest and listened to the heartbeat.\n\nOutside the rain kept falling and the thunder kept roaring, but inside there was warmth, there was company, there was safety. And suddenly Pancho realized something important: he wasn't scared anymore. Well, yes, he was scared, but a different kind of scared, smaller, because something bigger than fear had grown inside him: love.\n\nThat night Pancho learned a secret he would remember forever: being brave doesn't mean having no fear. Being brave means having fear and, even so, going out to help others. While the rain far outside lulled them like a lullaby, the two friends fell asleep.",
-      "cues": [
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
+      "text": "It wasn't to frighten it. It was to say: here I am, come with me.\n\nThe kitten understood. It came out of the bush and pressed itself against his side, and like that, together, both of them dripping, they went back to the house.\n\nPancho's mum found them in the kitchen, puddles all around them. She didn't say a word. She just brought a big towel, dried them both, and settled them into Pancho's bed, next to the fire.\n\nOutside the storm went on. The sky kept on rumbling.\n\nBut the kitten snuggled up against Pancho's tummy and began to purr. A small, warm purr that tickled.\n\nAnd Pancho noticed something: he was still scared. But now he had someone to look after, and that was bigger.\n\nLittle by little, with the rain on the roof, the two of them fell asleep.",
       "ambient": "fireplace",
-      "music": "guitar_warm"
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "asleep", "sfx": "snore_soft" }]
     }
   ]
 }

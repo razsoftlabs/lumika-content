@@ -2,58 +2,45 @@
   "id": "la-princesa-y-el-dragon-triston",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "The princess and the sad dragon",
-  "summary": "A princess discovers that the dragon was roaring because he had a thorn in his paw.",
+  "summary": "The whole kingdom thinks the dragon on the mountain is furious. Princess Ana is the only one who notices that he's crying.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a far-away kingdom, very far away, there were tall towers, a river that crossed the village like a blue snake, and colorful flags that swayed in the wind. There lived Princess Ana. But Ana was no ordinary princess.\n\nWhile the other princesses combed their hair in front of the mirror and drank tea with cookies, Ana ran around with skinned knees, messy hair, a bandage on her elbow, and a red backpack full of strange things: tweezers, gauze, a flashlight, a knife with no blade, a jar of honey, and a notebook for writing down everything she discovered.\n\nAna liked exploring the forest and patching up animal scratches more than going to castle parties. One spring morning, while she was having breakfast with her parents, a huge noise came down from the mountains and startled the whole kingdom: GRRROOOAAAARR! It was a roar so loud that the glass rattled, the plates shook, the cats hid under the beds, and in the stables the horses let out a neigh.\n\nThe whole village ran for cover, shouting: \"the dragon, the dragon!\" But Ana didn't hide. She put down her spoon, wiped her mouth on her sleeve, took her red backpack, put on her boots, and went out to investigate.\n\n\"Something strange is going on,\" she thought.",
-      "cues": [
-        {
-          "anchor": "neigh",
-          "sfx": "horse_neigh"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Princess Ana was not like the princesses in stories.\n\nShe had scraped knees, hair that was never brushed, and a red backpack she never took off. In it she carried bandages, a pair of tweezers, a torch, a jar of honey and a notebook for writing down everything she discovered.\n\nAt the castle they said she was a very odd princess. Ana didn't mind. She would rather mend a rabbit's paw than go to a ball.\n\nOne night, from the mountains, there came a roar.\n\nSo loud that the glasses rattled on the tables and the candles in the dining hall went out.\n\nThe next morning, the king stepped out onto the balcony.\n\n\"There is a dragon on the mountain,\" he announced. \"Tomorrow at dawn the knights will ride out to find it.\"\n\nAnd so the whole kingdom would know, they rang the bells.",
+      "ambient": "city_soft",
+      "music": "harp_canon",
+      "cues": [{ "anchor": "bells", "sfx": "bell_soft" }]
     },
     {
       "id": "s2",
-      "text": "Ana walked along the dusty path that climbed up to the mountains, dodging loose stones and saying hello to the flowers she knew by name. She climbed, climbed, climbed, until she reached the highest mountain in the kingdom. There, hidden between gray rocks and thorny bushes, was a dark cave, its entrance open like a huge mouth.\n\nInside, a strange sound could be heard. Ana, who had very sharp ears, listened closely: it wasn't a fierce roar, it was a sob. A dragon crying?\n\nAna wrinkled her nose, intrigued. She pulled the flashlight out of her backpack, turned it on, and went in very carefully. The cave smelled of old smoke and wet earth, and in that huge silence all she could hear were her own footsteps.\n\nAnd then she saw him: a gigantic dragon with shiny green scales, two long horns, folded wings, and a coiled tail. He was lying on the ground, his head resting on his front paws, and down his cheeks rolled two enormous tears, drip, drop. \"What's wrong, dragon?\"\n\nasked Ana without fear, taking one more step. The dragon lifted his eyes, red from so much crying, and let out a sigh.\n\nThen he showed her his back paw: there was a thorn stuck deep inside, and the whole paw was swollen and red. It hurt a lot.",
-      "cues": [
-        {
-          "anchor": "sigh",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "That night, the roar came back.\n\nAna listened from her bed with her eyes wide open. She listened once, and again, and again.\n\nAnd she noticed something nobody else had.\n\nThe roar went up and up, and at the end it broke. It went quieter, with a little hiccup.\n\nJust like when her baby brother cried.\n\n\"That dragon isn't angry,\" she said softly. \"He's crying.\"\n\nAna got up. She put on her boots, slung on her red backpack and tiptoed down the stairs.\n\nAnd without a sound, she opened the door.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "door", "sfx": "door_open" }]
     },
     {
       "id": "s3",
-      "text": "\"Now I understand everything,\" said Ana, nodding her head. \"You were roaring like that because you were in pain.\" The dragon nodded, his eyes full of tears.\n\nAna opened her red backpack and pulled out a small, firm pair of tweezers. \"Stay still, dragon, I'm going to help you. It will hurt for one second and then it will be over, all right?\"\n\nThe dragon nodded again, trusting, and closed his eyes tight. Ana examined the paw carefully, measured the angle, and took a deep breath. With great care she grabbed the tip of the thorn with the tweezers and, in one firm tug, pulled it out.\n\nIt was long, almost the size of Ana's finger. The bleeding stopped right away. Ana took the jar of honey out of her backpack and rubbed it on the wound.\n\n\"Honey heals everything,\" she explained. Then she wrapped a white bandage around it. The dragon opened his eyes, surprised, and moved his paw.\n\nHe moved it again. It didn't hurt anymore! For the first time in a long time he showed two rows of white teeth and, out of pure joy, he blew through his nose a bright sparkle.\n\nRed and golden sparks flew all through the cave like fireworks. Ana clapped happily and the cave filled with her laughter.\n\n\"I'm going to call you Sparks,\" she told him. The dragon roared softly, grateful, and licked her cheek with his warm tongue.",
-      "cues": [
-        {
-          "anchor": "sparkle",
-          "sfx": "magic_shimmer"
-        },
-        {
-          "anchor": "laughter",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "fireplace",
-      "music": "guitar_warm"
+      "text": "She climbed the mountain path with her torch lit, while the castle grew smaller and smaller down below.\n\nAt the top, among the rocks, there was a huge cave. Out of it came an orange glow, and a warmth that smelled of smoke.\n\nAnd out of it came the crying.\n\nAna gulped. She stepped inside.\n\nThe dragon filled the whole cave. He had green scales, folded wings, and yellow eyes as big as two cartwheels. And out of those eyes fell tears so fat they made puddles.\n\nWhen he saw Ana, he went very still.\n\n\"I won't hurt you,\" she said. \"I've come to help. What's the matter?\"\n\nThe dragon hesitated. Then, very slowly, he showed her a paw.\n\nStuck between two of his claws was an enormous thorn, as long as Ana's arm.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "inside", "ambient": "fireplace" }]
     },
     {
       "id": "s4",
-      "text": "From that day on, Ana and Sparks were the best of friends. Every afternoon, after finishing her castle chores, Ana would run up to the cave with her backpack full of surprises: sometimes a piece of cake, sometimes a book to read to him, sometimes a new ball.\n\nThe dragon would pick her up gently, seat her on his enormous back among the green scales, and take her flying.\n\nThey crossed the sky of the whole kingdom, whoooosh! They passed over the red rooftops of the village, over the hills, and over the lakes that reflected them like a mirror. Sparks showed Ana secret places that only dragons know: hidden lagoons with colorful fish, valleys full of rare flowers, and caves with crystals that sparkled.\n\nThe villagers, who had been afraid of him at first, slowly understood that the dragon had never been bad. He was just suffering. And when someone is suffering, sometimes they shout, sometimes they cry, sometimes they roar.\n\nBut it's not because they're bad. That spring Ana learned something very important, something she would remember all her life and would later tell her own children: sometimes the loudest roars hide the smallest pains. And it is always, always worth coming closer and asking.",
+      "text": "\"This is going to hurt for one second,\" said Ana. \"And then it stops. All right?\"\n\nThe dragon squeezed his eyes shut.\n\nAna took the tweezers out of her backpack. They were far too small: the thorn was thicker than her thumb. So she put them away, rubbed her hands together the way the blacksmith did, grabbed the thorn with both hands and braced her boots against the dragon's paw.\n\n\"On three. One. Two…\"\n\nAnd on two, she pulled.\n\nThe thorn came out all at once. Ana landed on her bottom with the thorn in her arms, and a spark escaped from the dragon's nose that scorched the tip of one of her boots.\n\nAna rubbed honey on the wound and wrapped a white bandage around the claw.\n\nThe dragon looked at his paw. He wiggled his claw. And he let out a sigh.\n\nSo long and so deep that far below, in the castle, every curtain fluttered at once.",
+      "ambient": "fireplace",
+      "music": "strings_hopeful",
       "cues": [
-        {
-          "anchor": "flying",
-          "sfx": "wing_flap"
-        }
-      ],
-      "ambient": "fireplace"
+        { "anchor": "pulled", "sfx": "whoosh" },
+        { "anchor": "sigh", "sfx": "breathe_in" }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "At dawn, the knights marched up the mountain with their lances and their armour, making a tremendous racket.\n\nThey reached the cave ready to fight.\n\nAnd they found Princess Ana asleep, curled up against the dragon's warm tummy, with her red backpack for a pillow. The dragon had a bandage on his paw and his tail curled round her, so she wouldn't get cold.\n\nThe dragon opened one eye and looked at them.\n\nThe knights didn't know what to do with their lances.\n\n\"Shhh,\" said Ana, without opening her eyes. \"He's had a very bad night.\"\n\nThat was how the kingdom met Chispas, who never roared at night again. And ever since, every afternoon, a very odd princess climbs onto his back and the two of them go off to fly.",
+      "ambient": "meadow_day",
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "fly", "sfx": "wing_flap" }]
     }
   ]
 }

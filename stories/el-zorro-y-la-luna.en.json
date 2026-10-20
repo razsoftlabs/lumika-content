@@ -2,58 +2,39 @@
   "id": "el-zorro-y-la-luna",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "The fox and the moon",
-  "summary": "A curious little fox wants to reach the moon and discovers something prettier on the way.",
+  "summary": "A little fox goes out at night for the very first time, sees the moon and decides to bring it down. It won't be caught, but he finds something better.",
   "scenes": [
     {
       "id": "s1",
-      "text": "It was a quiet night in the forest, one of those nights when even the wind walks on tiptoe so as not to wake anyone up. The leaves swayed gently with the breeze, making a soft rustle like crumpled paper, and the crickets sang their secret melody between the roots.\n\nFrom a den hidden between two big trees came a little orange fox, with a cold nose and eyes full of curiosity. He poked out one paw first, then the other, then his whole head. When he looked up, he froze.\n\nUp there, between the tallest branches, round and bright like a big silver coin, shone the moon.\n\nThe little fox had never seen anything so beautiful in his life, and he felt a tickle in his belly. Suddenly, from a crooked branch, he was greeted by an owl. He was old and wise, and he watched without blinking.\n\n\"Where are you going so late, little one?\" he asked in a calm voice.",
+      "text": "That night, for the very first time, the little fox came out of the den.\n\nBefore letting him go, his mother licked his ear.\n\n\"Stay near the entrance,\" she said. \"Where I can see you.\"\n\nThe little fox put out one paw. Then the other. Then his whole nose. The forest smelled of cold earth and wet leaves, and at night everything looked bigger than in the daytime.\n\nThen he looked up.\n\nAmong the branches there was something round, white and still, like an enormous biscuit someone had left behind in the tree.\n\n\"Mama,\" he asked quietly, \"what's that?\"\n\n\"That's the moon.\"\n\nThe little fox could not take his eyes off it. It was the most beautiful thing he had ever seen. And if it was up there, caught in the branches, maybe it could be brought down.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ]
+      "music": "guitar_night",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "The little fox lifted his head and looked at the owl with shining eyes. \"I want to touch the moon,\" he said excitedly, his tail wagging from side to side. \"Touch her?\"\n\nrepeated the owl, and turned his head almost upside down, surprised. The fox nodded with confidence, crouched down on his paws, gathered his strength and jumped.\n\nWhoosh! He flew for barely an instant and landed back on the soft grass, plop. He shook his head, spit out a leaf, and tried again.\n\nHe leaped a second time, higher. He leaped a third time, higher still. But the moon stayed up there, far away, smiling with her round face as if to say \"almost, almost.\"\n\nThe fox sat down on the ground, belly up, looking at the sky. And then he laughed. He laughed at himself, quietly at first and then with all his heart, because sometimes the loveliest thing is to try, even when it doesn't work.",
-      "cues": [
-        {
-          "anchor": "jumped",
-          "sfx": "jump_hop"
-        }
-      ],
-      "ambient": "forest_night"
+      "text": "His mother turned to sniff at a root, and the little fox ran off.\n\nHe ran between the trees. He hopped over a fallen log. He crossed a clearing where the grass was so tall it tickled his tummy. The moon was always ahead of him, just a little further on.\n\n\"It's on the hill,\" he told himself. \"I bet it's resting on the hill.\"\n\nHe climbed the hill with his tongue hanging out. At the top there was nobody. The moon was still up in the sky, just as far away as before, as if it hadn't noticed the race at all.\n\nThe little fox took a run-up, stretched his front paws as far as they would go, and made a leap.\n\nHe landed on his back in the grass.\n\nHe stayed like that for a long while, looking up at it. His tail hurt a little, and his pride hurt a lot.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "leap", "sfx": "jump_hop" }]
     },
     {
       "id": "s3",
-      "text": "Just then, from among the sleeping flowers, appeared a frog.\n\nHe had a round green belly, and he croaked very softly, as if not wanting to wake the petals. He hopped over to the fox in short little hops: hop, hop, hop. He sat down beside him, lifted his face, and the two of them gazed up at the moon.\n\n\"Nobody can touch her, my friend,\" he said with a kind smile. The fox tilted his head, not understanding. \"Then what is she for?\"\n\nhe asked. The frog took a deep breath, looked at the sky, and explained slowly: \"She is for watching.\n\nShe is for caring for. She is for singing to, for making wishes upon, for telling the day's secrets. And tonight she shines just for you.\"\n\nThe fox looked at his new friend, then looked up, and understood something important in his heart: the moon was not for grabbing, she was for keeping company.",
-      "ambient": "forest_night",
+      "text": "He went down the other side of the hill, slowly, dragging his tail.\n\nAt the bottom there was a big puddle, so still it looked like a mirror lying on the ground. The little fox was about to walk around it when he stopped dead.\n\nThe moon was there.\n\nInside the water. Right in front of his paws.\n\n\"Found you,\" he said, very softly, so as not to frighten it.\n\nHe crept closer, hardly breathing. He reached out a paw and touched it.\n\nThe moon broke into a hundred little pieces of silver that trembled on the water.\n\nThe little fox sprang backwards. But the pieces calmed down, joined together again, and the moon was whole once more, looking at him as if nothing had happened.\n\nAnd the little fox burst out laughing.",
+      "ambient": "meadow_night",
+      "music": "harp_dreams",
       "cues": [
-        {
-          "anchor": "frog",
-          "sfx": "frog_croak"
-        }
+        { "anchor": "touched", "sfx": "water_splash" },
+        { "anchor": "laughing", "sfx": "giggle" }
       ]
     },
     {
       "id": "s4",
-      "text": "The little fox lay down on the cool grass, with his paws stretched out and his head resting on a soft root. The owl watched over him from the branch, blinking slowly. The frog sang beside him, in a voice so calm it sounded like a lullaby.\n\nAnd the whole forest, the trees, the crickets, the flowers, breathed in peace. The moon stroked his nose with her silver light, warm as a mother's hand. The fox told her his secrets in a whisper: that he had a butterfly friend, that his den smelled like wet earth, that sometimes he felt afraid.\n\nThe moon listened to it all, without interrupting. Little by little, without noticing, he fell asleep.\n\nHe dreamed he was flying with her among the stars, laughing, playing, and his dreams were silver that night and every night that came after.",
-      "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        },
-        {
-          "anchor": "asleep",
-          "sfx": "snore_soft"
-        }
-      ],
-      "ambient": "meadow_night",
-      "music": "lullaby_piano"
+      "text": "When he got back, his mother was waiting at the entrance of the den, her ears standing straight up.\n\n\"Where were you?\"\n\nThe little fox didn't know where to begin. That he had climbed a hill. That he had jumped with all his might. That he had put his paw right on the moon, and the moon had broken, and then it had mended itself.\n\n\"I went to fetch the moon,\" he said at last. \"But it won't let itself be caught.\"\n\nHis mother looked up, and so did he.\n\nThere it was, right above the den tree. It had followed him all the way home.\n\n\"That's because it isn't for catching,\" said his mother. \"It's for keeping you company.\"\n\nThe little fox curled up against her warm tummy. Before he closed his eyes he looked once more, to make sure it was still there.\n\nIt was. And like that, in good company, he fell asleep.",
+      "ambient": "forest_night",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "asleep", "sfx": "snore_soft" }]
     }
   ]
 }

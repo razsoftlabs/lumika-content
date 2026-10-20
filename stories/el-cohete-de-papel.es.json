@@ -2,54 +2,63 @@
   "id": "el-cohete-de-papel",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 20,
   "title": "El cohete de papel",
-  "summary": "Dani construye un cohete de papel y vuela hasta una estrella amarilla.",
+  "summary": "Todos los cohetes de papel de Dani se caen de cabeza. Hasta el número doce, que una noche no baja.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Dani tenía cinco años y un sueño tan grande que casi no le entraba en el pecho: quería viajar al espacio. En su cuarto, las paredes estaban tapizadas de mapas de planetas que él mismo había pegado, con la lengua afuera de tanta concentración. Júpiter el gigante, Saturno con su anillo, Marte rojo, la Tierra azul como una canica.\n\nSobre la cama, su peluche favorito, un astronauta llamado Pepe, lo miraba siempre con la misma sonrisa pintada. Una tarde de brisa, después de tomar la merienda, Dani sacó una hoja blanca y limpia de su cuaderno. La estiró sobre el escritorio y se puso a doblarla con muchísimo cuidado.\n\nPliegue arriba, pliegue al medio, pliegue en las puntas, repliegue del repliegue. Sus dedos trabajaron despacio, sin apuro, mordiéndose el labio de la concentración. La hoja se fue transformando: primero parecía un barco, después un sombrero, después...\n\n¡un cohete! Lo sostuvo entre las manos, blanco y brillante como la luna.\n\nDani lo miró con orgullo, sonrió y le susurró: \"¿Listo para despegar, amigo?\".",
+      "text": "Dani tenía cinco años y quería ir al espacio.\n\nNo de mayor. Ya.\n\nAsí que esa tarde sacó una hoja de su cuaderno, la puso sobre la mesa y la dobló.\n\nPor la mitad. Las puntas hacia dentro. Otra vez por la mitad. Con la lengua afuera de tanto cuidado.\n\nLe salió un cohete un poco torcido. Lo tiró desde la cama y se fue de cabeza al suelo.\n\nHizo otro. Se cayó.\n\nHizo otro más. Se cayó encima del gato, que se fue muy ofendido.\n\n—Los cohetes de papel no vuelan al espacio —le dijo su hermana desde la puerta.\n\nDani no contestó. Ya estaba arrancando otra hoja.",
+      "ambient": "city_soft",
+      "music": "playful_flute",
       "cues": [
         {
-          "anchor": "luna",
-          "sfx": "twinkle"
+          "anchor": "dobló",
+          "sfx": "page_turn"
         }
-      ],
-      "ambient": "city_soft"
+      ]
     },
     {
       "id": "s2",
-      "text": "Dani abrió la ventana de su cuarto y se asomó al cielo nocturno. El pelo se le revolvió con el viento. Llegaba olor a noche, a flores cerradas.\n\nLas estrellas titilaban allá arriba como ojos curiosos, esperando algo. Dani levantó el cohete de papel con las dos manos, lo apuntó hacia el cielo y empezó la cuenta regresiva en voz baja. \"Tres...\n\ndos... uno...\". Y lo lanzó al aire con todas sus fuerzas.\n\n¡Fiummm!\n\nEl cohete subió y subió, más rápido cada vez, dejando detrás una estela de chispas plateadas. Pasó las copas de los árboles, pasó el balcón del vecino que tenía gatos, pasó las nubes blancas que dormían. Dejó atrás a los pájaros que descansaban en sus nidos y a los murciélagos que jugaban entre las ramas.\n\nY entonces, sin saber cómo —porque las cosas mágicas siempre pasan así, sin avisar—, Dani se encontró arriba del cohete, agarrado de la punta con las dos manos, los ojos abiertos como dos platos, las mejillas coloradas. ¡Estaba volando de verdad!",
+      "text": "El cohete número doce le salió perfecto.\n\nTenía la punta afilada, las alas iguales y una ventanita dibujada con lápiz azul. Dani lo guardó debajo de la almohada y esperó a que fuera de noche.\n\nCuando todos dormían, abrió la ventana.\n\nEl aire olía a noche. Abajo, la calle estaba vacía y las farolas hacían círculos amarillos en el suelo.\n\nDani levantó el cohete con las dos manos, apuntó hacia arriba y contó muy bajito:\n\n—Tres. Dos. Uno.\n\nY con todas sus fuerzas, lo lanzó.\n\nEl cohete subió. Pasó el tejado de enfrente. Pasó la antena. Pasó la nube más baja.\n\nY no bajó.",
+      "ambient": "city_soft",
       "cues": [
         {
-          "anchor": "Fiummm",
+          "anchor": "lanzó",
           "sfx": "rocket"
         }
-      ],
-      "ambient": "city_soft"
+      ]
     },
     {
       "id": "s3",
-      "text": "Allá arriba, mucho más allá de las nubes, lo estaba esperando una estrella amarilla y rechoncha. Tenía cara de abuela amable, con cachetes redondos, una boca que sonreía siempre y rayos que le salían como mechones de pelo dorado. \"Hola, Dani, te estaba esperando\", le dijo con voz cantarina, como si lo conociera de toda la vida.\n\nDani se quedó mudo un segundo y después bajó la mirada, tímido. La estrella le tendió un rayo como si fuera una mano. \"¿Quieres bailar conmigo entre las constelaciones?\".\n\nDani le tomó la mano de luz sin dudar. Empezaron a bailar juntos, despacio al principio y después más rápido. Pasaron volando entre cometas con cola de fuego y saludaron a la luna.\n\nJugaron a las escondidas con tres planetas pequeños y le hicieron cosquillas a Saturno en el anillo, y Saturno se sacudió entero de la risa.\n\nLa Vía Láctea era como un río de leche brillante, y Dani y la estrella la cruzaron de la mano. \"Esto es lo más hermoso que he visto en mi vida\", susurró Dani. La estrella le contestó: \"Y todavía falta lo mejor\".",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "Dani no supo nunca cómo pasó, porque las cosas así pasan sin avisar.\n\nUn momento estaba en la ventana, y al siguiente estaba montado en el cohete, agarrado a la punta, con el pijama ondeando como una bandera.\n\nSubieron y subieron. La ciudad se quedó chiquitita, como un tablero lleno de lucecitas. Después las nubes. Después nada más que el cielo negro y enorme, lleno de puntos de luz.\n\nPasaron tan cerca de la luna que Dani pudo ver sus agujeros.\n\nY entonces, un poco más allá, oyó llorar a alguien.",
       "ambient": null,
-      "music": "space_dream"
+      "music": "space_dream",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "La estrella le mostró a Dani una caja de luz que guardaba entre sus rayos. La abrió despacio y de adentro salieron miles de chispas doradas que se esparcieron por el cielo formando dibujos: un barco, un perro, una sonrisa. Dani nunca había visto tanta magia.\n\n\"Estas son las semillas de los sueños\", le explicó la estrella. \"Cada noche planto algunas para que los niños que miran al cielo tengan ganas de imaginar\". Dani le ayudó a plantar varias, soplándolas con las mejillas infladas hasta que volaban lejos.\n\nDe pronto sintió sueño y los ojos se le pusieron pesados. La estrella lo notó y le sopló una caricia tibia. Cuando Dani abrió los ojos, ya estaba de vuelta en su cama, arropado bajo las cobijas.\n\nEl cohete de papel estaba sobre la mesa de noche, justo donde lo había dejado. Por la ventana, la estrella amarilla le guiñó un ojo desde lejos, como diciéndole \"hasta mañana\". Dani sonrió y abrazó fuerte a su peluche Pepe.\n\nEsa noche aprendió un secreto importante que iba a recordar toda la vida: imaginar también es volar. Y cualquier niño con una hoja de papel puede llegar hasta las estrellas.",
+      "text": "Era una estrella amarilla. Pequeña, redondita, y tan apagada que casi no se veía.\n\n—¿Por qué lloras? —preguntó Dani.\n\n—Porque soy la más pequeña del cielo —dijo la estrella—. Desde la Tierra nadie me ve. Todos miran a la luna, o a las estrellas grandes. A mí no me ha mirado nunca nadie.\n\nDani se quedó pensando.\n\n—Yo te voy a mirar —dijo—. Todas las noches.\n\n—No me vas a encontrar. Soy muy pequeña.\n\n—Sí te voy a encontrar —dijo Dani, y se puso a mirar bien dónde estaba—. A la izquierda de la luna. Un poquito más abajo. Al lado de tres estrellas que parecen un triángulo.\n\nLa estrella dejó de llorar. Y, poco a poco, empezó a brillar.",
+      "ambient": null,
+      "music": "strings_hopeful",
       "cues": [
         {
-          "anchor": "magia",
+          "anchor": "brillar",
           "sfx": "magic_shimmer"
         }
-      ],
-      "ambient": null
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Dani se despertó en su cama, tapado hasta la nariz.\n\nEl cohete número doce estaba en la mesita de noche, un poco arrugado, como si hubiera hecho un viaje muy largo.\n\nDani se levantó y fue a la ventana.\n\nBuscó la luna. A la izquierda. Un poquito más abajo. Al lado de tres estrellas que parecían un triángulo.\n\nAhí estaba. Pequeña, redondita, amarilla.\n\nY cuando Dani la miró, ella le guiñó un ojo.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": [
+        {
+          "anchor": "ojo",
+          "sfx": "twinkle"
+        }
+      ]
     }
   ]
 }

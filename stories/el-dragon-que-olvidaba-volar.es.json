@@ -2,58 +2,47 @@
   "id": "el-dragon-que-olvidaba-volar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "Despacio se vuela mejor",
-  "summary": "Un dragón nervioso aprende que con calma todo se logra.",
+  "summary": "Tito tiene alas perfectamente buenas, pero cada vez que intenta volar se le enredan. Una mariposa le enseña que el problema no son las alas.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto de una montaña verde, donde las nubes pasaban tan cerca que se podían tocar con la pata, vivía un dragón llamado Tito. Tito era pequeño, no más grande que un perro mediano, y sus escamas brillaban como pedazos de fuego cuando les daba el sol de la mañana.\n\nTenía dos alas cortas con bordes dorados y una cola enrollada que terminaba en punta. Pero Tito tenía un problema muy grande para alguien tan pequeño: cada vez que iba a volar, se le olvidaba cómo. Sus alas se quedaban quietas, paradas a los lados, sin saber qué hacer.\n\nY entonces le empezaba a galopar el corazón.\n\nMientras tanto, sus amigos dragones volaban felices entre las nubes, haciendo piruetas en el aire, persiguiéndose unos a otros entre risas y soplando bocanadas de chispas. Tito los miraba desde su rincón en la montaña, con la panza pegada al suelo. \"Yo también quiero\", pensaba en voz baja, mordiéndose la cola.\n\nPero apenas abría las alas, todo se le iba de la cabeza, como si alguien le robara el truco.",
-      "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "En lo alto de una montaña verde vivía Tito, un dragón del tamaño de un perro mediano, con escamas rojas que brillaban como brasas cuando les daba el sol.\n\nTito tenía alas. Dos alas cortas, con el borde dorado, perfectamente buenas.\n\nEl problema era que no volaba.\n\nCada mañana sus primos se lanzaban desde las rocas y se perdían entre las nubes, dando vueltas, persiguiéndose y echando chispas de pura risa. Tito los miraba desde abajo, con la barriga pegada a la hierba.\n\n—¿Hoy vienes? —le gritaban.\n\n—Mañana —contestaba Tito.\n\nY mañana siempre era mañana otra vez.",
+      "ambient": "meadow_day",
+      "music": "playful_flute",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Una mañana de cielo despejado, Tito decidió que ese era el día. Subió a una piedra grande con paso firme, infló el pecho como había visto hacer a su papá, cerró los ojos y se preparó. \"Vamos, Tito, tú puedes\", se dijo a sí mismo.\n\nContó tres, dos, uno y saltó. Por un segundo sintió el viento en la cara y pensó \"¡lo logré!\". Pero entonces sus alas se trabaron, una se cruzó con la otra y...\n\n¡Plof!\n\nCayó de boca al suelo, con la nariz llena de hojas y una flor amarilla pegada en la frente. Una mariposa que pasaba volando cerca se rió tanto que se mareó y aterrizó torcida en una rama. Tito se puso muy triste.\n\nSe le hizo un nudo en la garganta y dos lágrimas enormes le mojaron las escamas. \"Nunca, nunca, nunca voy a poder volar\", suspiró el pequeño dragón, y se acostó panza arriba, mirando el cielo.",
-      "cues": [
-        {
-          "anchor": "Plof",
-          "sfx": "thud"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Un día decidió que se había acabado lo de mañana.\n\nSubió a la roca más alta, infló el pecho como hacía su papá y abrió las alas.\n\n—Vamos, Tito —se dijo—. Tú puedes.\n\nPensó en el ala izquierda. Pensó en el ala derecha. Pensó en si había que moverlas a la vez o una detrás de otra, y si era primero hacia arriba o hacia abajo, y cuánto, y qué tan rápido.\n\nContó tres, dos, uno. Y saltó.\n\nPor un segundo sintió el viento en la cara. Después las alas se le enredaron una con la otra, y bajó como baja una piedra.\n\n¡Plof!\n\nAterrizó de hocico en un arbusto, con una flor amarilla pegada en la frente.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "plof", "sfx": "thud" }]
     },
     {
       "id": "s3",
-      "text": "La mariposa, ya repuesta de su risa, sintió pena por el dragón. Bajó volando despacio y se posó en su nariz. Tenía las alas naranjas con puntos negros, como una flor con manchas.\n\n\"Perdóname, no me reía de ti\", le susurró. \"Lo que pasa es que te pones muy duro. Piensas demasiado\".\n\nTito abrió un ojo, después el otro. La mariposa siguió: \"Te voy a contar un secreto, ¿sí? Cierra los ojos.\n\nAhora respira.\n\nHondo, así, mira cómo lo hago yo\". La mariposa infló su panza y soltó el aire con un soplido suave. Tito la copió.\n\n\"De nuevo. Una vez más. Imagina las nubes, imagina el viento en tus alas.\n\nNo pienses en volar. Tus alas ya saben. Solo hay que dejarlas tranquilas\".\n\nTito hizo todo lo que le decía la mariposa. Tomó aire una vez, dos veces, tres veces, cuatro. Su corazón, que antes saltaba como un conejo, empezó a latir despacio.\n\nLa panza se le fue poniendo tibia.",
-      "cues": [
-        {
-          "anchor": "respira",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Desde una rama, una mariposa naranja lo había visto todo.\n\nBajó revoloteando hasta la punta de su nariz.\n\n—Te pasa una cosa —le dijo—. Piensas demasiado en las alas.\n\n—Es que hay que pensar —dijo Tito, quitándose la flor—. Si no, ¿cómo sabes lo que tienen que hacer?\n\n—Yo nunca pienso en las mías —dijo la mariposa—. Y mírame.\n\nSe elevó, dio una vuelta alrededor de su cabeza y volvió a posarse, tan tranquila.\n\n—Las alas ya saben —dijo—. Lo que no saben es volar contigo mirándolas.\n\nTito se quedó callado. Eso no se le había ocurrido nunca.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Cuando Tito abrió los ojos, algo mágico estaba pasando: sus alas ya se movían solas. Subían y bajaban con un ritmo suave, sin que él pensara nada, como si hicieran lo que siempre habían sabido hacer. De pronto, Tito notó que sus pies dejaron de tocar el suelo.\n\nMiró hacia abajo. La piedra estaba lejos. Las flores se hacían cada vez más pequeñas.\n\n¡Estaba volando!\n\nSubió alto, alto, hasta rozar las nubes blancas con la punta de la cola. Sintió el viento fresco en la cara, en las orejas, en cada escama. Y soltó una carcajada.\n\nCon ella salió también una bocanada de chispas doradas que dibujó un corazón en el aire. Desde lejos, sus amigos dragones lo aplaudieron con las alas. La mariposa bailaba a su lado, contenta.\n\nEsa tarde, Tito aprendió un secreto que iba a recordar toda su vida: cada vez que el miedo le ganara, iba a respirar hondo como le enseñó su amiga, y todo se iba a hacer más fácil.",
-      "cues": [
-        {
-          "anchor": "volando",
-          "sfx": "wing_flap"
-        },
-        {
-          "anchor": "carcajada",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "—Te voy a enseñar un truco —dijo la mariposa—. Pero tienes que hacerme caso en todo.\n\n—En todo —prometió Tito.\n\n—Cierra los ojos. Ahora toma aire por la nariz, despacio, hasta que se te llene la barriga.\n\nTito obedeció. La barriga se le infló como un globo.\n\n—Y suéltalo. Más despacio todavía.\n\nTito lo soltó, y por la nariz le salieron dos chispitas.\n\n—Otra vez.\n\nLo hicieron cuatro veces, cinco, seis. El corazón de Tito, que antes iba como un conejo asustado, se fue calmando poco a poco. Ahora latía despacito.\n\n—Y ahora —dijo la mariposa—, ábrelos y no me pierdas de vista. Solo mírame a mí.",
       "ambient": "meadow_day",
-      "music": "strings_hopeful"
+      "cues": [
+        { "anchor": "globo", "sfx": "breathe_in" },
+        { "anchor": "despacito", "sfx": "heartbeat_calm" }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Tito abrió los ojos y miró a la mariposa.\n\nElla subía y bajaba delante de él, sin ninguna prisa, y él la siguió con la mirada. Arriba. Abajo. Arriba otra vez.\n\nNo pensó en el ala izquierda. No pensó en la derecha. Estaba demasiado ocupado mirando a su amiga.\n\nPor eso tardó un rato en darse cuenta de que la roca estaba muy lejos, ahí abajo. De que las flores se habían vuelto puntitos de colores. De que el viento le silbaba en las orejas.\n\nEstaba volando.\n\nSe le escapó una carcajada. Tan grande, que le salió con chispas.\n\nSus primos lo rodearon, dando vueltas y gritando su nombre. Y desde ese día, cada vez que se le enredaban las alas, Tito hacía lo mismo: respiraba hondo, buscaba algo bonito que mirar, y dejaba que las alas hicieran lo que siempre habían sabido hacer.",
+      "ambient": "meadow_day",
+      "music": "strings_hopeful",
+      "cues": [
+        { "anchor": "volando", "sfx": "wing_flap" },
+        { "anchor": "carcajada", "sfx": "giggle" }
+      ]
     }
   ]
 }

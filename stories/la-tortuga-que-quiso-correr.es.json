@@ -2,55 +2,43 @@
   "id": "la-tortuga-que-quiso-correr",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "Tina no tiene prisa",
-  "summary": "Tina la tortuga aprende que su ritmo es perfecto tal como es.",
+  "summary": "Tina la tortuga quiere ser tan rápida como el conejo. Lo intenta, se cae panza arriba, y desde ahí descubre algo que el conejo no ha visto nunca.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Tina era una tortuga pequeña con un caparazón verde brillante salpicado de manchas marrones, dos ojos curiosos y una sonrisa que casi siempre estaba ahí. Vivía en un campo enorme lleno de flores amarillas, margaritas blancas y tréboles. Caminaba a su ritmo, lento, muy lento, paso a paso, sin apurarse nunca.\n\n\"Hola, doña hormiga\", saludaba a una hormiga. \"Buen día, señor caracol\", le decía a un caracol. Caminaba tan despacio que las mariposas a veces se posaban sobre su caparazón pensando que era una piedra.\n\nUna mañana de sol radiante, mientras Tina cruzaba un sendero, vio algo que la dejó con la boca abierta. ¡Zoom!\n\nPasó un conejo veloz como el viento. Llevaba las orejas hacia atrás y las patas casi flotando. Dejó atrás una nube de polvo, una hoja girando en el aire, y desapareció en pocos segundos.\n\nTina se quedó mirando el camino vacío, sorprendida. \"¡Qué maravilla!\", pensó con admiración.\n\n\"Yo también quiero correr así de rápido. Va a ser divertido. Voy a intentarlo\".\n\nY, decidida, hizo unos estiramientos chistosos con las patas, levantándolas una por una, y movió la cabeza en círculos.",
-      "cues": [
-        {
-          "anchor": "Zoom",
-          "sfx": "whoosh"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Tina era una tortuga muy lenta.\n\nTan lenta que las mariposas se le posaban en el caparazón creyendo que era una piedra. Tan lenta que una vez un caracol la adelantó, y encima le dijo adiós.\n\nA Tina no le importaba. Iba despacio por el prado, mirando sus cosas, y llegaba siempre a donde quería llegar.\n\nHasta aquella mañana.\n\nEstaba cruzando el sendero cuando algo pasó tan cerca y tan rápido que le revolvió las hojas de alrededor.\n\nEra el conejo. Ya iba lejísimos, con las orejas para atrás, levantando una nube de polvo.\n\nDetrás de él solo quedó el aire moviéndose, y un silbido largo.",
+      "ambient": "meadow_day",
+      "music": "playful_flute",
+      "cues": [{ "anchor": "silbido", "sfx": "whoosh" }]
     },
     {
       "id": "s2",
-      "text": "Tina respiró hondo y empezó a moverse lo más rápido que podía. Plomp, plomp, plomp. Sus patas se movían apuradas, levantando polvo del suelo, mientras el caparazón se tambaleaba de un lado al otro.\n\n\"¡Soy muy rápida!\", se dijo a sí misma. Pero después de tres pasos ya estaba cansadísima, jadeando como un perro.\n\nSe sentó un momento, recuperó el aire y lo intentó otra vez. Esta vez con más fuerza y más concentración: hasta cerró los ojos para sentirse veloz. Plomp, plomp...\n\n¡PLOMP! Con los ojos cerrados no vio una piedra que estaba en el camino. Tropezó, dio una vuelta entera y se cayó.\n\nQuedó panza arriba, con las patas hacia el cielo, agitándose. \"¡Ay, ay, ay!\", se quejó.\n\nEntonces llegó zumbando una abeja. Era amarilla y negra, y se acercó preocupada. Con sus patas pequeñas la ayudó a darse vuelta, empujando con paciencia.\n\nTina respiraba fuerte, toda sudada, con tierra pegada en el caparazón y los ojos tristes, casi a punto de llorar. \"No sirvo para correr\", suspiró derrotada, sentándose bajo la sombra de un árbol grande. \"Todos los demás son rápidos.\n\nYo soy la única lenta del mundo\".",
-      "cues": [
-        {
-          "anchor": "cayó",
-          "sfx": "thud"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Tina se quedó mirando el polvo.\n\n—Yo también puedo —dijo.\n\nY se puso a correr.\n\nBueno. A correr como corre una tortuga. Movió las patas lo más rápido que pudo, plomp, plomp, plomp, con el caparazón bamboleándose de un lado a otro.\n\nAl quinto paso ya estaba sin aire.\n\nDescansó un momento y lo intentó otra vez, ahora con los ojos cerrados, porque así se sentía más veloz.\n\nCon los ojos cerrados no vio la piedra.\n\nTropezó, dio una vuelta entera en el aire y aterrizó al revés, panza arriba, con las cuatro patas mirando al cielo.\n\nPof.",
+      "ambient": "meadow_day",
+      "cues": [{ "anchor": "pof", "sfx": "thud" }]
     },
     {
       "id": "s3",
-      "text": "La abeja se posó en una flor amarilla justo al lado de Tina y la miró con cariño, doblando sus dos antenas. \"Tina, querida, ¿puedo preguntarte algo?\". Tina asintió con la cabeza, todavía triste.\n\n\"¿Sabes cuántas cosas hermosas ves al caminar despacio?\". Tina la miró sin entender, parpadeando. La abeja siguió: \"Piensa un momento.\n\nTú ves los pétalos de cada flor, las gotas de rocío que parecen perlas, las hormigas trabajando en fila, las mariposas escondidas, el sol que calienta la tierra poco a poco. Ves cómo cambia el viento y escuchas el canto de cada pájaro. El conejo no ve nada de eso.\n\nVa tan rápido que solo ve borrones\". Tina se quedó callada, pensando. Bajó la cabeza y miró el suelo.\n\nY entonces se dio cuenta: justo debajo de su nariz había una hilera de hormigas cargando una hoja verde brillante. Eran como diez, todas ordenadas, una detrás de otra. Tina nunca antes las había visto.\n\nMás allá, en una rama baja, una telaraña sostenía una gota de agua. La gota brillaba como un diamante. Y al lado de la telaraña, una mariquita roja con puntos negros que parecía una piedra preciosa.\n\nTina sintió algo tibio que se encendía adentro, justo en el corazón.\n\nY sonrió despacio, tan despacio como caminaba.",
-      "cues": [
-        {
-          "anchor": "corazón",
-          "sfx": "heartbeat_calm"
-        }
-      ],
+      "text": "Tina movió las patas. Movió la cabeza. Se balanceó a un lado y al otro.\n\nNo había manera de darse la vuelta.\n\nAl principio se enfadó muchísimo. Después se cansó de enfadarse. Y como no podía hacer otra cosa, se quedó quieta, mirando hacia arriba.\n\nArriba había una nube con forma de calcetín.\n\nAl lado, otra con forma de calcetín más pequeño, como si fueran un par.\n\nUna mariquita roja le subió por una pata, muy seria, como si fuera de camino a algún sitio importante. Y por el borde del caparazón pasaba una fila de hormigas, cada una con un trocito de hoja verde.\n\nTina, sin darse cuenta, estaba sonriendo.",
       "ambient": "meadow_day",
-      "music": "gentle_piano"
+      "music": "harp_dreams",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Tina se levantó del pasto, sacudió el caparazón para quitarse la tierra y siguió su camino. Lenta, muy lenta, como siempre, pero ahora con los ojos bien abiertos. Cada paso se transformó en una aventura pequeña.\n\n¡Una mariquita roja con puntos negros, qué hermosa! ¡Una pluma azul de pájaro, qué suave! ¡Una piedra con forma de corazón, qué casualidad!\n\n¡Un caracol nuevo, hola don caracol! Tina caminaba feliz, recogiendo tesoros con la mirada. Más adelante, el conejo veloz pasó otra vez como un rayo, sin mirar nada, ¡zoom!,\n\ndejando una ráfaga de aire. Tina miró a la abeja y las dos soltaron una risa.\n\n\"Pobre conejo\", pensó, \"qué cosas lindas se está perdiendo\". La abeja le hizo un guiño desde una flor cercana. Esa tarde, Tina llegó a su rincón favorito junto al estanque y miró cómo el sol se ponía pintando el agua de naranja.\n\nLas luciérnagas empezaron a salir, una por una. Esa noche, antes de meterse en su caparazón para dormir, Tina miró el cielo lleno de estrellas. Y aprendió algo que iba a recordar para siempre: cada uno tiene su propio ritmo en este mundo.\n\nY el suyo —despacio, atento, lleno de descubrimientos— era perfecto tal como era.",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
+      "text": "El conejo volvió a pasar a toda velocidad.\n\nY frenó. Derrapó, levantó tierra, y regresó dando saltitos para mirarla.\n\n—¿Estás bien? Estás al revés.\n\n—Ya lo sé —dijo Tina.\n\nEl conejo la empujó con el hocico, una vez, dos, y a la tercera Tina dio la vuelta y quedó otra vez del derecho.\n\n—¿Y por qué sonreías? —preguntó el conejo—. Estabas al revés y sonreías.\n\nTina le enseñó las nubes con forma de calcetín. La mariquita, que seguía su camino. Las hormigas con sus trocitos de hoja.\n\nEl conejo se quedó mirando con la boca abierta.\n\n—Yo paso por aquí todos los días —dijo despacio—. Y nunca había visto nada de esto.",
       "ambient": "meadow_day",
-      "music": "strings_hopeful"
+      "music": "strings_hopeful",
+      "cues": []
+    },
+    {
+      "id": "s5",
+      "text": "Desde ese día, el conejo sigue corriendo sus carreras por el prado, todas las mañanas, con las orejas para atrás.\n\nPero por las tardes viene a buscar a Tina.\n\nY caminan juntos un buen rato. Ella delante y él detrás, aprendiendo a ir despacio, que es lo más difícil del mundo para un conejo.\n\nTina le enseña cosas. Una piedra con forma de corazón. Una pluma azul. Un escarabajo brillante como un botón.\n\nNo tienen ninguna prisa. Por el sendero solo se oyen sus pasos.",
+      "ambient": "meadow_day",
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "pasos", "sfx": "footsteps" }]
     }
   ]
 }

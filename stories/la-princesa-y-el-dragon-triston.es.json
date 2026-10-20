@@ -2,58 +2,45 @@
   "id": "la-princesa-y-el-dragon-triston",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "La princesa y el dragón tristón",
-  "summary": "Una princesa descubre que el dragón rugía porque tenía una espina clavada en la pata.",
+  "summary": "Todo el reino cree que el dragón de la montaña está furioso. La princesa Ana es la única que se da cuenta de que está llorando.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un reino lejano, muy lejano, había torres altas, un río que cruzaba la aldea como una serpiente azul y banderas de colores que se movían con el viento. Allí vivía la princesa Ana. Pero Ana no era una princesa común.\n\nMientras las otras princesas se peinaban delante del espejo y tomaban té con galletas, Ana andaba con las rodillas raspadas, el pelo despeinado, una venda en el codo y una mochila roja llena de cosas raras: pinzas, gasas, una linterna, un cuchillo sin filo, un frasco de miel y una libreta para anotar todo lo que descubría.\n\nA Ana le gustaba más explorar el bosque y curar los rasguños de los animales que ir a las fiestas del castillo. Una mañana de primavera, mientras desayunaba con sus padres, un ruido enorme bajó de las montañas y asustó a todo el reino: ¡GRRROOOAAAARR!\n\nEra un rugido tan fuerte que las ventanas vibraron, los platos se sacudieron, los gatos se escondieron debajo de las camas y en los establos los caballos soltaron un relincho.\n\nLa aldea entera corrió a refugiarse gritando: \"¡el dragón, el dragón!\". Pero Ana no se escondió. Dejó la cuchara sobre la mesa, se limpió la boca con la manga, tomó su mochila roja, se puso las botas y salió a investigar.\n\n\"Algo raro pasa\", pensó.",
-      "cues": [
-        {
-          "anchor": "relincho",
-          "sfx": "horse_neigh"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "La princesa Ana no era como las princesas de los cuentos.\n\nTenía las rodillas raspadas, el pelo siempre despeinado y una mochila roja que no se quitaba nunca. Dentro llevaba vendas, unas pinzas, una linterna, un frasco de miel y una libreta para apuntar todo lo que descubría.\n\nEn el castillo decían que era una princesa muy rara. A Ana le daba igual. Ella prefería curarle la pata a un conejo que ir a un baile.\n\nUna noche, desde las montañas, llegó un rugido.\n\nTan fuerte que tintinearon las copas en las mesas y se apagaron las velas del comedor.\n\nA la mañana siguiente, el rey salió al balcón.\n\n—Hay un dragón en la montaña —anunció—. Mañana al amanecer saldrán a buscarlo los caballeros.\n\nY para que se enterara todo el reino, repicaron las campanas.",
+      "ambient": "city_soft",
+      "music": "harp_canon",
+      "cues": [{ "anchor": "campanas", "sfx": "bell_soft" }]
     },
     {
       "id": "s2",
-      "text": "Ana caminó por el sendero polvoriento que subía a las montañas, esquivando piedras sueltas y saludando a las flores que conocía por su nombre. Subió, subió, subió, hasta llegar a la montaña más alta del reino. Allí, escondida entre rocas grises y arbustos espinosos, había una cueva oscura, con la entrada abierta como una boca enorme.\n\nAdentro se escuchaba un sonido extraño. Ana, que tenía muy buen oído, prestó atención: no era un rugido feroz, era un sollozo. ¿Un dragón llorando?\n\nAna arrugó la nariz, intrigada. Sacó la linterna de su mochila, la encendió y entró con mucho cuidado. La cueva olía a humo viejo y a tierra mojada, y en aquel silencio enorme solo se escuchaban sus pisadas.\n\nY entonces lo vio: era un dragón gigantesco, de escamas verdes brillantes, con dos cuernos largos, las alas plegadas y la cola enroscada. Estaba acostado en el suelo, con la cabeza apoyada sobre sus patas delanteras, y por sus mejillas rodaban dos lágrimas enormes, plip, plop.\n\n\"¿Qué te pasa, dragón?\", preguntó Ana sin miedo, dando un paso más. El dragón levantó los ojos, rojos de tanto llorar, y soltó un suspiro.\n\nDespués le mostró la pata trasera: tenía una espina clavada muy adentro, y toda la pata hinchada y roja. Le dolía muchísimo.",
-      "cues": [
-        {
-          "anchor": "suspiro",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Esa noche, el rugido volvió.\n\nAna lo escuchó desde la cama, con los ojos muy abiertos. Lo escuchó una vez, y otra, y otra.\n\nY se dio cuenta de algo que nadie más había notado.\n\nEl rugido subía y subía, y al final se quebraba. Se volvía más bajito, con un hipido.\n\nIgual que cuando lloraba su hermano pequeño.\n\n—Ese dragón no está enfadado —dijo bajito—. Está llorando.\n\nAna se levantó. Se puso las botas, se colgó la mochila roja y bajó las escaleras de puntillas.\n\nY sin hacer ruido, abrió la puerta.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "puerta", "sfx": "door_open" }]
     },
     {
       "id": "s3",
-      "text": "\"Ya entiendo todo\", dijo Ana asintiendo con la cabeza. \"Rugías así porque te dolía\". El dragón asintió con los ojos llenos de lágrimas.\n\nAna abrió su mochila roja y sacó una pinza pequeña y firme. \"Quédate quieto, dragón, te voy a ayudar. Va a doler un segundo y después se pasa, ¿de acuerdo?\".\n\nEl dragón asintió otra vez, confiado, y cerró los ojos con fuerza. Ana examinó la pata con cuidado, midió el ángulo y respiró hondo. Con muchísimo cuidado agarró la punta de la espina con la pinza y, de un solo tirón firme, la sacó.\n\nEra larga, casi del tamaño del dedo de Ana. La sangre se detuvo enseguida. Ana sacó de la mochila el frasco de miel y le untó la herida.\n\n\"La miel cura todo\", explicó. Después le puso una venda blanca alrededor. El dragón abrió los ojos, sorprendido, y movió la pata.\n\nLa movió otra vez. ¡Ya no le dolía! Por primera vez en mucho tiempo mostró dos hileras de dientes blancos y, de pura alegría, sopló por la nariz un destello.\n\nDel hocico le salieron chispas rojas y doradas que volaron por toda la cueva como fuegos artificiales. Ana aplaudió contenta y la cueva se llenó con su risa.\n\n\"Te voy a llamar Chispas\", le dijo. El dragón rugió en voz baja, agradecido, y le lamió la mejilla con su lengua tibia.",
-      "cues": [
-        {
-          "anchor": "destello",
-          "sfx": "magic_shimmer"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "fireplace",
-      "music": "guitar_warm"
+      "text": "Subió el camino de la montaña con la linterna encendida, mientras el castillo se iba quedando chiquito ahí abajo.\n\nArriba, entre las rocas, había una cueva enorme. De dentro salía un resplandor naranja y un calorcito que olía a humo.\n\nY salía el llanto.\n\nAna tragó saliva. Entró.\n\nEl dragón ocupaba la cueva entera. Tenía las escamas verdes, las alas plegadas y unos ojos amarillos del tamaño de dos ruedas de carreta. Y de esos ojos caían lágrimas tan gordas que hacían charcos.\n\nCuando vio a Ana, se quedó muy quieto.\n\n—No te voy a hacer daño —dijo ella—. Vengo a ayudarte. ¿Qué te pasa?\n\nEl dragón dudó. Después, muy despacio, le enseñó una pata.\n\nClavada entre dos garras tenía una espina enorme, larga como el brazo de Ana.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "entró", "ambient": "fireplace" }]
     },
     {
       "id": "s4",
-      "text": "Desde ese día, Ana y Chispas fueron los mejores amigos. Cada tarde, después de terminar sus tareas en el castillo, Ana subía corriendo a la cueva con la mochila llena de sorpresas: a veces un trozo de torta, a veces un libro para leerle, a veces una pelota nueva.\n\nEl dragón la levantaba con cuidado, la sentaba en su lomo enorme entre las escamas verdes y la llevaba a volar.\n\nCruzaban el cielo del reino entero, ¡whoooosh! Pasaban sobre los tejados rojos del pueblo, sobre las colinas y sobre los lagos, que los reflejaban como un espejo. Chispas le mostraba a Ana lugares secretos que solo los dragones conocen: lagunas escondidas con peces de colores, valles llenos de flores raras y cuevas con cristales que brillaban.\n\nLa gente del pueblo, que al principio le tenía miedo, fue entendiendo poco a poco que el dragón nunca había sido malo. Solo estaba sufriendo. Y cuando alguien sufre, a veces grita, a veces llora, a veces ruge.\n\nPero no es porque sea malo. Ana aprendió esa primavera algo muy importante, algo que iba a recordar toda su vida y que después les contaría a sus propios hijos: a veces, los rugidos más fuertes esconden los dolores más pequeños. Y siempre, siempre, vale la pena acercarse a preguntar.",
+      "text": "—Esto va a doler un segundo —dijo Ana—. Y luego se pasa. ¿De acuerdo?\n\nEl dragón cerró los ojos con fuerza.\n\nAna sacó las pinzas de la mochila. Eran demasiado pequeñas: la espina era más gorda que su pulgar. Así que las guardó, se frotó las manos como hacía el herrero, agarró la espina con las dos y apoyó las botas en la pata del dragón.\n\n—A la de tres. Una. Dos…\n\nY en el dos, tiró.\n\nLa espina salió de golpe. Ana cayó sentada con la espina en los brazos, y al dragón se le escapó una chispa por la nariz que le chamuscó la punta de una bota.\n\nAna le untó la herida con miel y le puso una venda blanca alrededor de la garra.\n\nEl dragón miró la pata. Movió la garra. Y soltó un suspiro.\n\nTan largo y tan hondo, que allá abajo, en el castillo, temblaron todas las cortinas.",
+      "ambient": "fireplace",
+      "music": "strings_hopeful",
       "cues": [
-        {
-          "anchor": "volar",
-          "sfx": "wing_flap"
-        }
-      ],
-      "ambient": "fireplace"
+        { "anchor": "tiró", "sfx": "whoosh" },
+        { "anchor": "suspiro", "sfx": "breathe_in" }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "Al amanecer, los caballeros subieron la montaña con sus lanzas y sus armaduras, haciendo un ruido tremendo.\n\nLlegaron a la cueva preparados para luchar.\n\nY se encontraron a la princesa Ana dormida, acurrucada contra la barriga tibia del dragón, con la mochila roja de almohada. El dragón tenía una venda en la pata y la cola enroscada alrededor de ella, para que no pasara frío.\n\nEl dragón abrió un ojo y los miró.\n\nLos caballeros no sabían qué hacer con las lanzas.\n\n—Shhh —dijo Ana, sin abrir los ojos—. Ha pasado muy mala noche.\n\nAsí fue como el reino conoció a Chispas, que nunca más rugió de noche. Y desde entonces, cada tarde, una princesa muy rara se sube a su lomo y salen los dos a volar.",
+      "ambient": "meadow_day",
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "volar", "sfx": "wing_flap" }]
     }
   ]
 }

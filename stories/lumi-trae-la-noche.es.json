@@ -2,7 +2,7 @@
   "id": "lumi-trae-la-noche",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 6,
+  "version": 20,
   "title": "La noche que Lumi se apagó",
   "summary": "Nico cree que la noche está vacía. Lumi lo lleva a escucharla, pero en mitad de la tormenta se queda sin luz y hay que volver a casa a oscuras.",
   "scenes": [
@@ -11,44 +11,77 @@
       "text": "Nico no tenía sueño.\n\nSe había puesto el pijama, se había lavado los dientes, y ahí seguía, mirando el techo. Afuera, la ciudad hacía sus ruidos de siempre: un coche, otro coche, una moto muy lejos.\n\nLo que no le gustaba era lo otro. El cuarto a oscuras le parecía más grande que de día, como si las paredes se hubieran ido a dar una vuelta.\n\nEntonces algo pequeñísimo se posó en la ventana. Era una luciérnaga del tamaño de una uva, con la barriga tibia y dorada.\n\n—Me llamo Lumi —dijo—. Y tú crees que la noche está vacía.\n\n—¿No lo está? —preguntó Nico.\n\n—Está llenísima. Lo que pasa es que la estás mirando.\n\nNico no entendió nada. Y Lumi, para saludar, abrió las alas.",
       "ambient": "city_soft",
       "music": "guitar_night",
-      "cues": [{ "anchor": "alas", "sfx": "wing_flap" }]
+      "cues": [
+        {
+          "anchor": "alas",
+          "sfx": "wing_flap"
+        }
+      ]
     },
     {
       "id": "s2",
-      "text": "Un parpadeo, y ya no estaba en su cuarto.\n\nEstaba de pie sobre hojas secas, y los árboles eran tan altos que no se les veía el final. El aire olía a tierra mojada.\n\n—Primera parada —dijo Lumi—. Cierra los ojos.\n\n—¿Para qué, si ya está oscuro?\n\n—Por eso.\n\nNico los cerró. Al principio no oyó nada de nada. Después, poquito a poco, la noche se le fue llenando de cosas: algo que crujía abajo, algo que se movía arriba.\n\nY desde la rama más alta, sin ninguna prisa, preguntó un búho.",
+      "text": "Un parpadeo, y ya no estaba en su cuarto.\n\nEstaba de pie en un suelo que crujía, y los árboles eran tan altos que no se les veía el final. El aire olía a tierra mojada.\n\n—Primera parada —dijo Lumi—. Cierra los ojos.\n\n—¿Para qué, si ya está oscuro?\n\n—Por eso.\n\nNico los cerró. Al principio no oyó nada de nada. Después, poquito a poco, la noche se le fue llenando de cosas: un crujido allá abajo, un rumor en las copas que iba y venía.\n\nY muy cerca de sus pies, algo pequeñito salió corriendo entre las hojas.",
       "ambient": "forest_night",
-      "cues": [{ "anchor": "búho", "sfx": "owl_hoot" }]
+      "cues": [
+        {
+          "anchor": "hojas",
+          "sfx": "leaves_rustle"
+        }
+      ]
     },
     {
       "id": "s3",
       "text": "Caminaron hasta que el suelo se puso blando y frío.\n\nDelante, cruzando el camino entero, corría el agua. En medio había piedras planas, una detrás de otra, como los botones de una camisa.\n\n—Se cruza brincando —dijo Lumi—. De piedra en piedra, sin correr.\n\nNico tomó aire. Apuntó a la primera, se agarró fuerte a nada, y dio el salto.",
       "ambient": "stream_water",
-      "cues": [{ "anchor": "salto", "sfx": "water_splash" }]
+      "cues": [
+        {
+          "anchor": "salto",
+          "sfx": "water_splash"
+        }
+      ]
     },
     {
       "id": "s4",
-      "text": "Al otro lado, el viento cambió de idea.\n\nAntes venía despacio y de lado. Ahora venía de frente, y traía algo frío. Las hojas empezaron a moverse todas a la vez, como cuando mucha gente habla junta.\n\n—Lumi... —dijo Nico.\n\n—Ya lo oigo.\n\nPrimero fueron cuatro gotas sueltas, contadas. Después, sin pedir permiso a nadie, llegó la lluvia.\n\nNico miró hacia arriba y vio el cielo ponerse blanco un segundo. Contó uno. Contó dos. Y entonces llegó el trueno.\n\nY a Lumi le pasó lo que le pasa a una luciérnaga cuando se asusta: se le apagó la barriga.",
+      "text": "Al otro lado, el viento cambió de idea.\n\nAntes venía despacio y de lado. Ahora venía de frente, y traía algo frío. Las ramas empezaron a moverse todas a la vez, como cuando mucha gente habla junta.\n\n—Lumi... —dijo Nico.\n\n—Ya lo oigo.\n\nPrimero fueron cuatro gotas sueltas, contadas. Después, sin pedir permiso a nadie, llegó la lluvia.\n\nNico miró hacia arriba y vio el cielo ponerse blanco un segundo. Contó uno. Contó dos. Y entonces llegó el trueno.\n\nY a Lumi le pasó lo que le pasa a una luciérnaga cuando se asusta: se le apagó la barriga.",
       "ambient": "forest_night",
       "cues": [
-        { "anchor": "lluvia", "ambient": "rain" },
-        { "anchor": "trueno", "sfx": "thunder", "delayMs": 450 }
+        {
+          "anchor": "lluvia",
+          "ambient": "rain"
+        },
+        {
+          "anchor": "trueno",
+          "sfx": "thunder",
+          "delayMs": 450
+        }
       ]
     },
     {
       "id": "s5",
-      "text": "Se quedaron a oscuras del todo.\n\nNico no se veía ni las manos. Sintió ese hueco frío en la barriga que sale cuando uno no sabe hacia dónde.\n\n—No sé volver —dijo.\n\n—Yo tampoco —dijo Lumi, muy bajito—. Yo solo sé alumbrar.\n\nY entonces Nico se acordó.\n\nCerró los ojos, aunque ya daba lo mismo, y escuchó. El agua estaba detrás, a la izquierda. Las hojas grandes, a la derecha. Y debajo de todo eso, rápido y cerquita, estaba su propio corazón.",
+      "text": "Se quedaron a oscuras del todo.\n\nNico no se veía ni las manos. Sintió ese hueco frío en la barriga que sale cuando uno no sabe hacia dónde.\n\n—No sé volver —dijo.\n\n—Yo tampoco —dijo Lumi, muy bajito—. Yo solo sé alumbrar.\n\nY entonces Nico se acordó.\n\nCerró los ojos, aunque ya daba lo mismo, y escuchó. El agua estaba detrás, a la izquierda. Los helechos grandes, a la derecha. Y debajo de todo eso, rápido y cerquita, estaba su propio corazón.",
       "ambient": "rain",
       "music": "strings_hopeful",
-      "cues": [{ "anchor": "corazón", "sfx": "heartbeat_calm" }]
+      "cues": [
+        {
+          "anchor": "corazón",
+          "sfx": "heartbeat_calm"
+        }
+      ]
     },
     {
       "id": "s6",
-      "text": "—Es por aquí —dijo Nico.\n\nY era por ahí.\n\nCaminaron sin ver nada, él delante, contando los sonidos como quien cuenta escalones. El agua a un lado. Las hojas al otro. El búho, otra vez, cada vez más lejos.\n\nCuando llegaron a la ventana, la barriga de Lumi hizo un ruidito pequeño y volvió a encenderse de golpe, como una chispa.\n\n—Se me apagó del susto —dijo—. A ti no.\n\nNico se metió en la cama. Afuera seguían los coches y la moto lejos, y por primera vez eso no le pareció ruido. Le pareció compañía.\n\nCerró los ojos y respiró.",
+      "text": "—Es por aquí —dijo Nico.\n\nY era por ahí.\n\nCaminaron sin ver nada, él delante, contando los sonidos como quien cuenta escalones. El agua a un lado. Los helechos al otro. El rumor de las copas, cada vez más lejos.\n\nCuando llegaron a la ventana, la barriga de Lumi hizo un ruidito pequeño y volvió a encenderse de golpe, como una chispa.\n\n—Se me apagó del susto —dijo—. A ti no.\n\nNico se metió en la cama. Afuera seguían los coches y la moto lejos, y por primera vez eso no le pareció ruido. Le pareció compañía.\n\nCerró los ojos y respiró.",
       "ambient": "city_soft",
       "music": "lullaby_piano",
       "cues": [
-        { "anchor": "chispa", "sfx": "magic_shimmer" },
-        { "anchor": "respiró", "sfx": "breathe_in" }
+        {
+          "anchor": "chispa",
+          "sfx": "magic_shimmer"
+        },
+        {
+          "anchor": "respiró",
+          "sfx": "breathe_in"
+        }
       ]
     }
   ]

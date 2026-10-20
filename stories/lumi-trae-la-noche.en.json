@@ -2,7 +2,7 @@
   "id": "lumi-trae-la-noche",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 6,
+  "version": 20,
   "title": "The Night Lumi Went Out",
   "summary": "Nico thinks the night is empty. Lumi takes him out to listen to it, but halfway through the storm her light goes out and they have to find the way home in the dark.",
   "scenes": [
@@ -11,44 +11,77 @@
       "text": "Nico was not sleepy.\n\nHe had put on his pyjamas, he had brushed his teeth, and there he still was, staring at the ceiling. Outside, the city made its usual noises: a car, another car, a motorbike far away.\n\nIt was the other thing he didn't like. In the dark his room felt bigger than it did in the daytime, as if the walls had gone out for a walk.\n\nThen something very small landed on the window. It was a firefly the size of a grape, with a warm golden belly.\n\n\"My name is Lumi,\" she said. \"And you think the night is empty.\"\n\n\"Isn't it?\" asked Nico.\n\n\"It is completely full. The trouble is that you are looking at it.\"\n\nNico did not understand a word. And Lumi, to say hello, opened her wings.",
       "ambient": "city_soft",
       "music": "guitar_night",
-      "cues": [{ "anchor": "wings", "sfx": "wing_flap" }]
+      "cues": [
+        {
+          "anchor": "wings",
+          "sfx": "wing_flap"
+        }
+      ]
     },
     {
       "id": "s2",
-      "text": "One blink, and he was not in his room any more.\n\nHe was standing on dry leaves, and the trees were so tall you could not see where they ended. The air smelled of wet earth.\n\n\"First stop,\" said Lumi. \"Close your eyes.\"\n\n\"What for? It's already dark.\"\n\n\"Exactly.\"\n\nNico closed them. At first he heard nothing at all. Then, little by little, the night filled up with things: something creaking below, something moving above.\n\nAnd from the highest branch, taking his time, a question came from an owl.",
+      "text": "One blink, and he was not in his room any more.\n\nHe was standing on ground that crunched underfoot, and the trees were so tall you could not see where they ended. The air smelled of wet earth.\n\n\"First stop,\" said Lumi. \"Close your eyes.\"\n\n\"What for? It's already dark.\"\n\n\"Exactly.\"\n\nNico closed them. At first he heard nothing at all. Then, little by little, the night filled up with things: a creak down below, a murmur in the treetops that came and went.\n\nAnd right by his feet, something tiny scurried off through the leaves.",
       "ambient": "forest_night",
-      "cues": [{ "anchor": "owl", "sfx": "owl_hoot" }]
+      "cues": [
+        {
+          "anchor": "leaves",
+          "sfx": "leaves_rustle"
+        }
+      ]
     },
     {
       "id": "s3",
       "text": "They walked until the ground turned soft and cold.\n\nAhead, crossing the whole path, ran the water. In the middle there were flat stones, one after another, like the buttons on a shirt.\n\n\"You cross it hopping,\" said Lumi. \"Stone to stone, no running.\"\n\nNico took a breath. He aimed at the first one, held on tight to nothing at all, and took the jump.",
       "ambient": "stream_water",
-      "cues": [{ "anchor": "jump", "sfx": "water_splash" }]
+      "cues": [
+        {
+          "anchor": "jump",
+          "sfx": "water_splash"
+        }
+      ]
     },
     {
       "id": "s4",
-      "text": "On the other side, the wind changed its mind.\n\nBefore it came slowly, from the side. Now it came straight at them, and it brought something cold. The leaves began to move all at once, the way a crowd talks all at once.\n\n\"Lumi...\" said Nico.\n\n\"I hear it.\"\n\nFirst came four separate drops, countable. Then, without asking anyone's permission, came the rain.\n\nNico looked up and saw the sky turn white for a second. He counted one. He counted two. And then came the thunder.\n\nAnd what happens to a firefly when it gets frightened happened to Lumi: her belly went dark.",
+      "text": "On the other side, the wind changed its mind.\n\nBefore it came slowly, from the side. Now it came straight at them, and it brought something cold. The branches began to move all at once, the way a crowd talks all at once.\n\n\"Lumi...\" said Nico.\n\n\"I hear it.\"\n\nFirst came four separate drops, countable. Then, without asking anyone's permission, came the rain.\n\nNico looked up and saw the sky turn white for a second. He counted one. He counted two. And then came the thunder.\n\nAnd what happens to a firefly when it gets frightened happened to Lumi: her belly went dark.",
       "ambient": "forest_night",
       "cues": [
-        { "anchor": "rain", "ambient": "rain" },
-        { "anchor": "thunder", "sfx": "thunder", "delayMs": 450 }
+        {
+          "anchor": "rain",
+          "ambient": "rain"
+        },
+        {
+          "anchor": "thunder",
+          "sfx": "thunder",
+          "delayMs": 450
+        }
       ]
     },
     {
       "id": "s5",
-      "text": "They were left in complete darkness.\n\nNico could not even see his own hands. He felt that cold hollow in his tummy that comes when you don't know which way to go.\n\n\"I don't know the way back,\" he said.\n\n\"Neither do I,\" said Lumi, very quietly. \"All I know how to do is shine.\"\n\nAnd then Nico remembered.\n\nHe closed his eyes, although by now it made no difference, and he listened. The water was behind him, on the left. The big leaves, on the right. And underneath all of it, quick and very close, was his own heart.",
+      "text": "They were left in complete darkness.\n\nNico could not even see his own hands. He felt that cold hollow in his tummy that comes when you don't know which way to go.\n\n\"I don't know the way back,\" he said.\n\n\"Neither do I,\" said Lumi, very quietly. \"All I know how to do is shine.\"\n\nAnd then Nico remembered.\n\nHe closed his eyes, although by now it made no difference, and he listened. The water was behind him, on the left. The big ferns, on the right. And underneath all of it, quick and very close, was his own heart.",
       "ambient": "rain",
       "music": "strings_hopeful",
-      "cues": [{ "anchor": "heart", "sfx": "heartbeat_calm" }]
+      "cues": [
+        {
+          "anchor": "heart",
+          "sfx": "heartbeat_calm"
+        }
+      ]
     },
     {
       "id": "s6",
-      "text": "\"It's this way,\" said Nico.\n\nAnd it was that way.\n\nThey walked without seeing a thing, him in front, counting the sounds the way you count stairs. The water on one side. The leaves on the other. The owl again, further away each time.\n\nWhen they reached the window, Lumi's belly made a tiny sound and lit up all at once, like a spark.\n\n\"Mine went out from the fright,\" she said. \"Yours didn't.\"\n\nNico got into bed. Outside there were still the cars and the motorbike far away, and for the first time that did not sound like noise to him. It sounded like company.\n\nHe closed his eyes and breathed.",
+      "text": "\"It's this way,\" said Nico.\n\nAnd it was that way.\n\nThey walked without seeing a thing, him in front, counting the sounds the way you count stairs. The water on one side. The ferns on the other. The murmur in the treetops, further away each time.\n\nWhen they reached the window, Lumi's belly made a tiny sound and lit up all at once, like a spark.\n\n\"Mine went out from the fright,\" she said. \"Yours didn't.\"\n\nNico got into bed. Outside there were still the cars and the motorbike far away, and for the first time that did not sound like noise to him. It sounded like company.\n\nHe closed his eyes and breathed.",
       "ambient": "city_soft",
       "music": "lullaby_piano",
       "cues": [
-        { "anchor": "spark", "sfx": "magic_shimmer" },
-        { "anchor": "breathed", "sfx": "breathe_in" }
+        {
+          "anchor": "spark",
+          "sfx": "magic_shimmer"
+        },
+        {
+          "anchor": "breathed",
+          "sfx": "breathe_in"
+        }
       ]
     }
   ]

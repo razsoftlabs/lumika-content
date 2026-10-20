@@ -2,58 +2,39 @@
   "id": "el-zorro-y-la-luna",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "El zorro y la luna",
-  "summary": "Un zorro curioso quiere alcanzar la luna y descubre algo más bonito en el camino.",
+  "summary": "Un zorrito sale de noche por primera vez, ve la luna y decide bajarla. No se deja agarrar, pero descubre algo mejor.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Era una noche tranquila en el bosque, una de esas noches en que hasta el viento camina de puntillas para no despertar a nadie. Las hojas se mecían con la brisa, haciendo un susurro suave como de papel arrugado, y los grillos cantaban su melodía secreta entre las raíces.\n\nDe una cueva escondida entre dos árboles grandes salió un zorro de pelaje anaranjado, con la nariz fría y los ojos llenos de curiosidad. Asomó primero una pata, después la otra, después la cabeza entera. Cuando miró hacia arriba, se quedó quieto.\n\nAllá, entre las ramas más altas, redonda y grande como un queso de plata, brillaba la luna.\n\nEl zorro nunca había visto algo tan bonito en su vida y sintió un cosquilleo en la barriga. De pronto, desde una rama torcida, lo saludó un búho. Era viejo y sabio, y lo miraba sin parpadear.\n\n\"¿A dónde vas tan tarde, pequeño?\", preguntó con voz calmada.",
+      "text": "Esa noche, por primera vez, el zorrito salió de la madriguera.\n\nAntes de dejarlo ir, su mamá le lamió la oreja.\n\n—Cerca de la entrada —le dijo—. Donde yo te vea.\n\nEl zorrito asomó una pata. Después la otra. Después el hocico entero. El bosque olía a tierra fría y a hojas mojadas, y de noche todo parecía más grande que de día.\n\nEntonces miró hacia arriba.\n\nEntre las ramas había algo redondo, blanco y quieto, como una galleta enorme que alguien se hubiera dejado olvidada en el árbol.\n\n—Mamá —preguntó bajito—, ¿qué es eso?\n\n—Es la luna.\n\nEl zorrito no le quitó los ojos de encima. Era lo más bonito que había visto en su vida. Y si estaba ahí, enganchada en las ramas, a lo mejor se podía bajar.",
       "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ]
+      "music": "guitar_night",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "El zorro levantó la cabeza y miró al búho con los ojos brillantes. \"Quiero tocar la luna\", dijo emocionado, moviendo la cola de un lado al otro. \"¿Tocarla?\",\n\nrepitió el búho, y giró la cabeza casi del revés, sorprendido. El zorro asintió con seguridad, agachó las patas, tomó impulso y dio un salto.\n\n¡Whuuum! Voló apenas un instante y cayó otra vez sobre el pasto suave, plof. Sacudió la cabeza, escupió una hoja y volvió a intentarlo.\n\nSaltó una segunda vez, más alto. Saltó una tercera, todavía más alto. Pero la luna seguía allá arriba, lejana, sonriendo con su cara redonda como diciendo \"casi, casi\".\n\nEl zorro se sentó en el suelo, panza arriba, mirando el cielo. Y entonces se rió. Se rió de sí mismo, primero en voz baja y después con ganas, porque a veces lo más lindo es intentarlo, aunque no salga.",
-      "cues": [
-        {
-          "anchor": "salto",
-          "sfx": "jump_hop"
-        }
-      ],
-      "ambient": "forest_night"
+      "text": "Su mamá se dio la vuelta para olfatear una raíz, y el zorrito echó a correr.\n\nCorrió entre los árboles. Brincó por encima de un tronco caído. Cruzó un claro de hierba tan alta que le hacía cosquillas en la barriga. La luna iba siempre delante, un poquito más allá.\n\n—Está en la colina —se dijo—. Seguro que está descansando en la colina.\n\nSubió la colina con la lengua afuera. Arriba no había nadie. La luna seguía en el cielo, igual de lejos que antes, como si no se hubiera enterado de la carrera.\n\nEl zorrito tomó impulso, estiró las patas delanteras todo lo que pudo y pegó un salto.\n\nCayó de espaldas en la hierba.\n\nSe quedó así un buen rato, mirándola desde abajo. Le dolía un poco la cola y mucho el orgullo.",
+      "ambient": "meadow_night",
+      "cues": [{ "anchor": "salto", "sfx": "jump_hop" }]
     },
     {
       "id": "s3",
-      "text": "En ese momento, de entre las flores dormidas, apareció un sapo.\n\nTenía la panza redonda y verde, y croaba en voz baja, como si no quisiera despertar a los pétalos. Se acercó al zorro dando saltitos cortos: ploc, ploc, ploc. Se sentó a su lado, levantó la cara y los dos se quedaron mirando la luna.\n\n\"Nadie puede tocarla, mi amigo\", le dijo con una sonrisa amable. El zorro ladeó la cabeza, sin entender. \"Entonces, ¿para qué está?\",\n\npreguntó. El sapo respiró hondo, miró el cielo y le explicó despacio: \"Se mira.\n\nSe cuida. Se le canta, se le pide un deseo, se le cuentan los secretos del día. Y esta noche brilla solo para ti\".\n\nEl zorro miró al sapo, después miró hacia arriba, y entendió algo importante en su corazón: la luna no era para agarrar, era para acompañar.",
-      "ambient": "forest_night",
+      "text": "Bajó por el otro lado de la colina, despacio, arrastrando la cola.\n\nAbajo había un charco grande, tan quieto que parecía un espejo puesto en el suelo. El zorrito iba a rodearlo cuando se paró en seco.\n\nLa luna estaba ahí.\n\nDentro del agua. Justo delante de sus patas.\n\n—Te encontré —le dijo, muy bajito, para no asustarla.\n\nSe acercó despacio, casi sin respirar. Alargó una pata y la tocó.\n\nLa luna se rompió en cien pedacitos de plata que temblaban sobre el agua.\n\nEl zorrito dio un brinco hacia atrás. Pero los pedacitos se fueron calmando, se juntaron otra vez, y la luna volvió a estar entera, mirándolo como si nada hubiera pasado.\n\nY el zorrito se echó a reír.",
+      "ambient": "meadow_night",
+      "music": "harp_dreams",
       "cues": [
-        {
-          "anchor": "sapo",
-          "sfx": "frog_croak"
-        }
+        { "anchor": "tocó", "sfx": "water_splash" },
+        { "anchor": "reír", "sfx": "giggle" }
       ]
     },
     {
       "id": "s4",
-      "text": "El zorro se acostó sobre el pasto fresco, con las patas estiradas y la cabeza apoyada en una raíz suave. El búho lo cuidaba desde la rama, parpadeando despacio. El sapo cantaba a su lado, con una voz tan tranquila que parecía una canción de cuna.\n\nY todo el bosque, los árboles, los grillos, las flores, respiraba en calma. La luna le acarició la nariz con su luz de plata, tibia como la mano de mamá. El zorro le contó sus secretos en un susurro: que tenía una mariposa amiga, que su cueva olía a tierra mojada, que a veces sentía miedo.\n\nLa luna lo escuchó todo, sin interrumpir. Poco a poco, sin darse cuenta, se quedó dormido.\n\nSoñó que volaba con ella entre las estrellas, riendo, jugando, y sus sueños fueron de plata esa noche y todas las que vinieron después.",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        },
-        {
-          "anchor": "dormido",
-          "sfx": "snore_soft"
-        }
-      ],
-      "ambient": "meadow_night",
-      "music": "lullaby_piano"
+      "text": "Cuando volvió, su mamá lo esperaba en la entrada de la madriguera, con las orejas muy tiesas.\n\n—¿Dónde estabas?\n\nEl zorrito no supo por dónde empezar. Que había subido una colina. Que había saltado con todas sus fuerzas. Que le había puesto la pata encima a la luna, y la luna se había roto, y luego se había arreglado sola.\n\n—Fui a buscar la luna —dijo al fin—. Pero no se deja agarrar.\n\nSu mamá miró hacia arriba, y él también.\n\nAhí estaba, justo encima del árbol de la madriguera. Lo había seguido todo el camino de vuelta.\n\n—Es que no es para agarrarla —dijo su mamá—. Es para que te acompañe.\n\nEl zorrito se acurrucó contra su barriga tibia. Antes de cerrar los ojos la miró una vez más, para comprobar que seguía ahí.\n\nSeguía. Y así, acompañado, se quedó dormido.",
+      "ambient": "forest_night",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "dormido", "sfx": "snore_soft" }]
     }
   ]
 }

@@ -2,58 +2,44 @@
   "id": "los-tres-amigos-del-bosque",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "Los tres amigos del bosque",
-  "summary": "Un conejo, un erizo y una ardilla descubren que juntos llegan más lejos.",
+  "summary": "Una coneja, un erizo y una ardilla quieren la misma manzana, que cuelga altísima. Cada uno lo intenta solo, y cada uno a su manera, sale fatal.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Era una mañana fresca y soleada en el bosque, una de esas mañanas en que los pájaros cantan tan fuerte que parece que están contando un chisme nuevo. El rocío todavía brillaba sobre el pasto y los rayos del sol se colaban entre las hojas como hilos dorados.\n\nLola, una coneja blanca de orejas largas y nariz rosada, corría entre los árboles buscando algo rico para desayunar. ¡Pum, pum, pum! Sobre la tierra húmeda sonaban sus pasos.\n\nDe pronto, Lola se detuvo en seco. Levantó la nariz, olfateó el aire y abrió los ojos como dos platos: en lo más alto de un árbol grande, colgada de la rama más alta, había una manzana. Pero no cualquier manzana.\n\nEra roja, redonda, brillante, jugosa, de esas que parecen pintadas. A Lola se le hizo agua la boca de solo mirarla. Tomó impulso y saltó.\n\nDespués saltó más alto.\n\nDespués saltó con todas sus fuerzas.\n\nPero la manzana estaba demasiado, demasiado alta. \"Ay, qué pena\", suspiró, sentándose en el pasto con las orejas caídas.",
+      "text": "Lola, la coneja, la vio primero.\n\nEstaba en lo más alto del manzano grande, colgando de la última rama: una manzana roja, redonda y tan brillante que parecía de mentira.\n\n—Mía —dijo Lola.\n\nY como era la más rápida del bosque, no se lo pensó dos veces. Tomó carrerilla, dobló las patas de atrás y saltó.\n\nNo llegó ni a la mitad.\n\nLo intentó otra vez, más alto. Y otra, con las orejas bien estiradas por si acaso ayudaban. La manzana seguía allá arriba, meciéndose un poquito, como si se estuviera riendo de ella.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "saltó",
-          "sfx": "jump_hop"
-        }
-      ]
+      "music": "playful_flute",
+      "cues": [{ "anchor": "saltó", "sfx": "jump_hop" }]
     },
     {
       "id": "s2",
-      "text": "Un ruido la hizo voltear: algo se movía entre las hojas. Crick, crick. De entre los helechos salió Pim, un erizo pequeño de pinchos suaves color marrón y una sonrisa simpática que le ocupaba media cara.\n\n\"Hola, hola\", dijo Pim sacudiéndose una hoja de la cabeza. \"Yo también vi esa manzana esta mañana, mientras paseaba\". Se acercó a Lola caminando despacio, porque los erizos no son muy rápidos.\n\n\"Y también la quiero, ¿sabes? Pero soy muy bajo, ni siquiera llego a la primera rama\". Pim se puso al lado de Lola y los dos miraron la manzana con la misma cara de tristeza.\n\nProbaron uno por uno: Pim saltaba, Lola saltaba. Probaron juntos: Pim hizo una escalera y Lola se trepó a sus pinchos suaves. Pero ay, los pinchos hacían cosquillas y Lola se rió.\n\nSe cayó, ploc, y los dos terminaron rodando por el pasto. La manzana seguía allá arriba, lejana, brillando como si se estuviera burlando de ellos. Lola y Pim se miraron y suspiraron al mismo tiempo.",
-      "cues": [
-        {
-          "anchor": "rió",
-          "sfx": "giggle"
-        }
-      ],
-      "ambient": "forest_birds"
+      "text": "—Esa manzana es mía —dijo una voz detrás de ella.\n\nEra Pim, el erizo, que salía de entre los helechos con una hoja pegada en los pinchos.\n\n—No es tuya —dijo Lola—. La vi yo primero.\n\n—Yo la vi ayer —dijo Pim—. Ayer es antes que hoy.\n\nLola no supo qué contestar a eso, así que se cruzó de patas.\n\nPim era fuerte, pero bajito y bastante redondo. Se agarró al tronco con las cuatro patas, subió un palmo, subió dos… y se le escurrieron las patas.\n\nSe cayó de espaldas, hecho una bola, y bajó la cuesta rodando hasta chocar contra una piedra.\n\nPlaf.\n\nLola se tapó la boca. No quería reírse. Pero se rio un poquito.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "plaf", "sfx": "thud" }]
     },
     {
       "id": "s3",
-      "text": "Justo en ese momento, se escuchó un movimiento entre las ramas.\n\nPlif, plaf. Bajó del árbol, de rama en rama, una ardilla rojiza de cola enorme y muy peluda. Se llamaba Sara y tenía los ojos vivos como dos botones negros.\n\n\"Hola, hola, hola, ¿qué pasa por aquí?\", preguntó moviendo las patas y la cola al mismo tiempo. Lola y Pim le contaron todo lo de la manzana, atropellándose con las palabras.\n\nSara escuchó con atención, ladeó la cabeza, miró hacia arriba, miró hacia abajo y de pronto sonrió grande. \"¡Tengo una idea! Yo soy buenísima trepando, pero soy pequeña y no puedo cargar la manzana yo sola.\n\nSi nos ayudamos los tres, seguro la conseguimos\". Lola y Pim se miraron emocionados. Pim, que era el más fuerte aunque fuera el más bajo, se puso firme abajo.\n\nLola se subió encima de él con cuidado de no pincharse. Y Sara, ágil como una nube, se trepó a los hombros de Lola y desde ahí saltó. \"¡La tengo, la tengo!\",\n\ngritó desde la rama más alta. ¡Lo lograron entre los tres!",
-      "cues": [
-        {
-          "anchor": "ramas",
-          "sfx": "leaves_rustle"
-        }
-      ],
-      "ambient": "forest_birds"
+      "text": "Entonces algo bajó corriendo por el tronco, de cabeza, a toda velocidad.\n\nEra Sara, la ardilla, con la cola tan esponjada que parecía el doble de grande que ella.\n\n—¿Qué pasa aquí? —preguntó—. Se oyen los gritos desde mi casa.\n\n—Esa manzana es mía —dijeron Lola y Pim a la vez.\n\nSara miró hacia arriba.\n\n—Yo llego —dijo—. Trepo hasta arriba sin despeinarme.\n\nY trepó. Pero cuando llegó a la manzana y la quiso arrancar, se dio cuenta de que pesaba casi tanto como ella. Tiró y tiró, y por poco se cae de la rama con manzana y todo.\n\nBajó despacio, con las orejas gachas.\n\nLos tres se sentaron debajo del árbol, sin decir nada, mirando la manzana.",
+      "ambient": "forest_birds",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "La manzana cayó sobre el pasto, plop.\n\nQuedó justo en medio de los tres, enorme, tan grande que alcanzaba para todos. Lola, que era la más cuidadosa, la partió con los dientes en tres trozos iguales, ni uno más, ni uno menos. \"Aquí tienen\", dijo entregando los pedazos.\n\nSe sentaron juntos bajo el árbol, en círculo, y se la comieron despacio, saboreando cada mordisco.\n\nCrunch, crunch, crunch. La manzana era dulce y jugosa, con ese sabor especial de las cosas que se ganan con esfuerzo. \"Es la manzana más rica del mundo\", dijo Pim con la boca llena.\n\n\"Sí\", contestó Sara, \"porque la conseguimos juntos\". Lola asintió con las orejas, contenta. Desde ese día, Lola, Pim y Sara fueron mejores amigos para siempre.\n\nCaminaban juntos por el bosque, jugaban juntos a las escondidas y, cuando uno encontraba algo rico, lo compartía con los otros dos. Porque esa mañana aprendieron algo importante: solos llegamos lejos, pero juntos llegamos al cielo.",
-      "cues": [
-        {
-          "anchor": "plop",
-          "sfx": "thud"
-        },
-        {
-          "anchor": "mordisco",
-          "sfx": "crunch"
-        }
-      ],
+      "text": "Fue Pim el que habló primero.\n\n—Yo soy fuerte —dijo despacio—, pero no llego.\n\n—Yo llego —dijo Sara—, pero no puedo con ella.\n\nLola se quedó pensando. Miró a Pim. Miró a Sara. Miró el árbol.\n\n—Y yo soy alta cuando me estiro —dijo.\n\nSe miraron los tres.\n\nPim se plantó bien firme junto al tronco. Lola le puso una hoja grande en la espalda, para no pincharse, y se subió encima con mucho cuidado. Y Sara trepó por los dos hasta la última rama, se agarró fuerte, y le dio un mordisco al rabito de la manzana.\n\nLa manzana cayó.\n\nY Lola, que estaba justo debajo, la atrapó con las dos patas.",
       "ambient": "forest_birds",
-      "music": "guitar_clear"
+      "music": "guitar_clear",
+      "cues": [{ "anchor": "atrapó", "sfx": "whoosh" }]
+    },
+    {
+      "id": "s5",
+      "text": "Ahora había que repartirla.\n\n—El trozo más grande para mí —dijo Pim—, que hice de escalera.\n\n—Para mí —dijo Sara—, que fui la que la soltó.\n\nLola no dijo nada. Partió la manzana con los dientes, con mucho cuidado, en tres trozos exactamente iguales.\n\nLos tres se sentaron en corro y se la comieron despacio. Estaba dulce y jugosa, y crujía a cada mordida.\n\n—Es la manzana más rica del mundo —dijo Pim, con la boca llena.\n\n—Será porque la sacamos entre los tres —dijo Sara.\n\nLola no contestó. Estaba mirando hacia arriba, porque en la rama de al lado había otra manzana, todavía más roja.\n\n—Mañana —dijo.\n\nY los otros dos se echaron a reír.",
+      "ambient": "forest_birds",
+      "cues": [
+        { "anchor": "mordida", "sfx": "crunch" },
+        { "anchor": "reír", "sfx": "giggle" }
+      ]
     }
   ]
 }

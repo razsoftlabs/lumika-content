@@ -2,58 +2,44 @@
   "id": "rex-el-pequeno-dinosaurio",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "Rex, the little dinosaur",
-  "summary": "Rex is the smallest in his family, but he has a huge roar that scares even the clouds.",
+  "summary": "Rex is the smallest in his family, and he has a roar so enormous it embarrasses him. So he holds it in. And holding it in gives him hiccups.",
   "scenes": [
     {
       "id": "s1",
-      "text": "A very, very long time ago, before there were cars or cities, in a green valley full of giant ferns and volcanoes puffing smoke, lived a dinosaur named Rex. But not just any Rex. Rex was the smallest dinosaur in his whole family, and that made him a little sad.\n\nHis parents were so enormous that the ground shook under their footsteps.\n\nThey could step on a whole tree without noticing. His brothers and sisters were huge too, and their tails looked like tree trunks. Even his great-aunt, who could barely walk anymore, was huge: her neck was so long it reached the clouds.\n\nBut Rex was small, shorter than a sunflower, lighter than a big rock, with shiny green scales and two short horns on his head. Sometimes he felt invisible, as if the others stepped on him without meaning to. But Rex kept a secret: the only giant thing he had was his roar.\n\nWhen he roared with all his strength, GRROOOAAAR!, the highest leaves of the trees trembled, the insects ran away, and waves rose in the puddles. But Rex almost never roared, because he was afraid of his own voice.",
-      "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "dino_step"
-        }
-      ],
-      "ambient": "forest_birds"
+      "text": "A very, very long time ago, in a valley full of giant ferns, Rex lived with his family.\n\nHis family was huge. His dad was so big he blocked out the sun. His mum could eat the leaves off the tops of trees without stretching. And when they all walked together, the ground shook with their footsteps.\n\nRex was the smallest. Shorter than a fern. Lighter than a big stone.\n\nBut he had a secret.\n\nHe had an enormous roar. Bigger than his dad's. Bigger than anyone's.\n\nHe had used it just once, when he was very little. The whole herd jumped, a bird fell off its branch, and Grandma choked on a fern.\n\nAnd then everyone laughed and laughed.",
+      "ambient": "forest_birds",
+      "music": "playful_flute",
+      "cues": [{ "anchor": "footsteps", "sfx": "dino_step" }]
     },
     {
       "id": "s2",
-      "text": "One sunny morning, while Rex was skipping flat stones across a clear stream, he heard a cry. It was a sharp, frightened cry. Rex lifted his head and swiveled his ears like two antennas, paf, paf.\n\nThe cry was coming from some nearby bushes. Rex walked over there slowly, intrigued. And he saw something that broke his heart: an orange butterfly, with wings as bright as the setting sun, had been trapped under a giant branch.\n\nThe branch was enormous, heavy, gray, much bigger than Rex. The butterfly flapped her wings desperately, unable to escape, and her eyes were full of tears. \"Help, help!\"\n\nshe squeaked in a thin voice. Rex looked around: his parents were far away, eating on the other side of the valley. His brothers and sisters too.\n\nHe was alone. For a second he wanted to run off and find someone bigger. But the butterfly looked into his eyes, and Rex knew what he had to do.\n\nBefore roaring, he closed his eyes and breathed.\n\nThen he filled his lungs until his belly puffed up like a balloon, opened his mouth, and roared with all his might: GRRRROOOAAAAAR!",
-      "cues": [
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        }
-      ],
-      "ambient": "stream_water"
+      "text": "From that day on, Rex never let out a single roar.\n\nWhen something made him cross, he held it in. When something made him happy, he held that in too. He pressed his mouth shut tight and kept it all inside.\n\nThe trouble is, a roar that big doesn't fit inside such a small dinosaur.\n\nSo it came out as hiccups.\n\n\"Hic!\"\n\nStrange hiccups, with a little growl at the end.\n\n\"Hic-grrr!\"\n\nHis brothers and sisters covered their mouths so they wouldn't giggle. And Rex turned even greener with embarrassment.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "giggle", "sfx": "giggle" }]
     },
     {
       "id": "s3",
-      "text": "The roar was so, so loud that the ground shook as if there were an earthquake. The leaves came loose from the trees and flew through the air, forming a green cloud. The birds shot out of their nests, the lizards ducked under the rocks, and even the distant volcanoes seemed to sigh.\n\nAnd the giant branch, the one that seemed impossible to move, jumped into the air as if it were a feather. It landed far away, on a soft bush, without hurting anyone, and the whole valley heard the thump.\n\nThe butterfly was free at last, she flapped her wings and went flying.\n\nShe did pirouettes in the sky, went up, came down, drew a figure-eight in the air, and then came over to Rex and landed on his nose. She gave him a soft kiss. \"You are small, but very, very powerful,\" she told him in a sweet voice.\n\n\"Thank you, thank you, thank you so much.\" Rex turned red with pride and didn't know what to say, so he smiled with all his teeth. The butterfly circled him twice more and left happily toward the sun.",
-      "cues": [
-        {
-          "anchor": "thump",
-          "sfx": "thud"
-        },
-        {
-          "anchor": "flying",
-          "sfx": "wing_flap"
-        }
-      ],
-      "ambient": "forest_birds"
+      "text": "One morning, the herd set off for the big river.\n\nTo get there they had to cross a gorge: a narrow path between two towering walls of rock. The grown-ups went in front, chatting away, making the ground shake. Rex came behind, hopping from stone to stone.\n\nThat's why he was the first to see it.\n\nHigh up on the wall, a pebble came loose and rolled down. Then another. Then a whole lot of them, with a dry little clatter.\n\nThe wall was crumbling. And his family was walking straight towards it.\n\n\"Look out!\" shouted Rex.\n\nBut his normal voice was tiny. Nobody turned round.",
+      "ambient": "forest_birds",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "That afternoon, while the sun was setting and painting the sky in oranges and pinks, Rex walked back to his nest slowly, thinking, thinking. On the way he passed a stream.\n\nHe saw his reflection in the water and stood looking at himself for a while. He looked the same as always: small, green, with his two horns. But inside, something had changed.\n\nHis roar had always scared him. He had always thought it was an ugly, noisy, frightening thing. Even he himself was sometimes scared of his own voice.\n\nBut today he had discovered something new, something important. His roar wasn't for scaring others. His roar was for helping.\n\nIt was a special tool that nature had given him, precisely because he was the smallest and needed a big power. When he reached the nest, his mom welcomed him with an enormous kiss on his forehead. Rex curled up against her warm, scaly belly and there, happy, he fell asleep.\n\nThat night he dreamed of all the small creatures he would be able to help the next day: ants, butterflies, beetles, birds. And his roar never scared him again.",
+      "text": "Rex knew there was only one thing they would all hear.\n\nThe thing he had been keeping in for so long.\n\nHe breathed in until he was full right up, opened his mouth as wide as it would go, and roared.\n\nThe roar bounced off the walls of the gorge. The birds flew away. Even the clouds seemed to stop and listen.\n\nThe whole herd froze on the spot.\n\nAnd just in front of them, in the exact place they had been about to walk, the rocks came down with a crash.\n\nThe dust settled slowly. For a long while, nobody said a word.",
+      "ambient": "forest_birds",
       "cues": [
-        {
-          "anchor": "stream",
-          "sfx": "water_splash"
-        }
-      ],
+        { "anchor": "roared", "music": "strings_hopeful" },
+        { "anchor": "crash", "sfx": "thud" }
+      ]
+    },
+    {
+      "id": "s5",
+      "text": "It was Grandma who came over first.\n\nShe lowered her enormous head until it was level with Rex's, and looked at him for a long time.\n\n\"That roar,\" she said at last, \"isn't for frightening anyone.\"\n\nRex waited for her to laugh. But Grandma didn't laugh.\n\n\"It's for warning us,\" she said. \"And you've just saved us all.\"\n\nSince that day, whenever the herd sets off, Rex walks in front. The smallest of them all, leading the way. And if he ever sees something the others don't, he knows exactly what to do.\n\nOh. And the hiccups never came back.",
       "ambient": "meadow_day",
-      "music": "guitar_warm"
+      "music": "guitar_warm",
+      "cues": []
     }
   ]
 }

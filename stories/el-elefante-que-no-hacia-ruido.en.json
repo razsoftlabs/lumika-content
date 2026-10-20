@@ -2,49 +2,42 @@
   "id": "el-elefante-que-no-hacia-ruido",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 9,
+  "version": 20,
   "title": "Tavo Walks in Silence",
-  "summary": "Tavo is a very quiet elephant who discovers that his calm is his most beautiful gift.",
+  "summary": "Tavo is the quietest elephant in the herd, so quiet that nobody hears him coming. Until the day they need someone who makes no noise at all.",
   "scenes": [
     {
       "id": "s1",
-      "text": "In a green corner of the savanna lived a little elephant named Tavo. All the other elephants made lots and lots of noise: they trumpeted loudly, shook the trees, and stomped on the leaves.\n\nBut not Tavo. Tavo walked so softly that no one noticed he had passed by. Sometimes he felt strange for being the quietest of them all.",
+      "text": "On the savannah lived a very noisy herd of elephants.\n\nWhen they walked, the ground shook with their stomping. When they said hello, they trumpeted so loudly that the birds flew out of the trees. When they bathed, the water splashed all the way up to the clouds.\n\nAll except Tavo.\n\nTavo was small and pale blue, and he walked so softly, so very softly, that nobody heard him coming.\n\nAt the waterhole, the others would sit on him by mistake.\n\n\"Oops, Tavo! I didn't see you.\"\n\nIn games, they forgot to count him.\n\n\"Tavo? Where was Tavo?\"\n\nHe was there. He was always there. He just didn't make any noise.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "leaves",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "stomping", "sfx": "dino_step" }]
     },
     {
       "id": "s2",
-      "text": "One afternoon, a little bird fell from its nest and lay trembling in the grass. The other elephants rushed to help, but the bird grew more and more frightened with all that noise and all those footsteps.\n\nNo one could come close without scaring it.",
+      "text": "One day, Tavo decided he'd had enough.\n\n\"Today I'm going to make some noise,\" he said. \"Lots of noise.\"\n\nHe planted himself in the middle of the herd, lifted his trunk up high, filled his tummy with air… and trumpeted.\n\nOut came a pfff.\n\nA teeny-tiny pfff, like a balloon slowly going down.\n\nThe other elephants didn't even turn round.\n\nTavo lowered his trunk. And he went and sat on his own, in the shade of an acacia tree, without making a sound. As usual.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "footsteps",
-          "sfx": "footsteps"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Then Tavo came closer, slowly, very slowly. He leaned down beside the fallen nest and spoke in a whisper.\n\n\"Easy, little one, you're safe now.\" Because Tavo made no noise, the bird stopped trembling and snuggled into his warm trunk.",
+      "text": "That afternoon, there came a very quiet crying.\n\nIt was a baby gazelle. She had wandered into some thorny bushes, and her legs had got all tangled up.\n\nThe big elephants rushed to help. But they arrived with such a racket, trumpeting so loudly, that the gazelle got even more frightened.\n\nShe kicked and kicked, and got even more tangled in the branches.\n\n\"Everybody stop!\" said Grandma Elephant. \"We'll hurt her like this.\"\n\nNobody knew what to do. If they went closer, the gazelle got scared. If they didn't go closer, they couldn't help her.\n\nThen Tavo got up from the shade.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "whisper",
-          "sfx": "whisper"
-        }
-      ],
-      "music": "guitar_warm"
+      "cues": [{ "anchor": "branches", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s4",
-      "text": "From that day on, everyone knew that Tavo's calm was a gift. Whenever someone was scared or sad, they called for the elephant who made no noise. And Tavo learned that you don't have to be the loudest to be the most loved.\n\nGood night, Tavo.",
+      "text": "Tavo walked towards the bushes. Slowly. So slowly and so softly that the gazelle didn't even hear him coming.\n\nBy the time she saw him, he was already beside her.\n\n\"Shhh,\" Tavo said, in a whisper. \"It's all right. I'm here now.\"\n\nThe gazelle stared at him with wide eyes. But Tavo didn't make any noise, and he wasn't scary. So she kept still.\n\nWith the tip of his trunk, branch by branch, Tavo set her free. Without a single tug. Without a single snap.\n\nUntil the gazelle was loose, and ran off to her mum, who was waiting at the edge of the savannah.",
       "ambient": "meadow_day",
-      "cues": []
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "whisper", "sfx": "whisper" }]
+    },
+    {
+      "id": "s5",
+      "text": "That night, Grandma Elephant came over to Tavo.\n\n\"Today we needed someone who could be quiet,\" she said. \"And the only one who knew how was you.\"\n\nEver since that day, the elephants never forget to count Tavo.\n\nAnd when one of the little ones in the herd is scared at night, or can't get to sleep, they all ask for the same thing:\n\n\"Can Tavo come?\"\n\nTavo comes without a sound. He lies down beside them. And his silence is so soft and so warm that it's like a blanket.\n\nAfter a little while, across the whole savannah, all you can hear is breathing.",
+      "ambient": "meadow_night",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "breathing", "sfx": "breathe_in" }]
     }
   ]
 }

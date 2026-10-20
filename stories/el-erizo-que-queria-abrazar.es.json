@@ -2,70 +2,45 @@
   "id": "el-erizo-que-queria-abrazar",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 20,
   "title": "Abrazos con cuidado",
-  "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer.",
+  "summary": "Espín tiene el corazón más grande del bosque y le encantaría abrazar a sus amigos. Pero cada vez que lo intenta, se le ponen las espinas de punta.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo más hondo del bosque vivía un erizo pequeño que se llamaba Espín, y cada noche lo acompañaba desde el cielo la luna. Tenía el corazón más grande y tierno de todo el bosque. Caminaba despacio, y bajo sus patas crujían las hojas.\n\nCris, cras, cris. Espín quería muchísimo a todos sus amigos. Jugaba con ellos, les contaba chistes y los acompañaba a casa.\n\nPero cada noche soñaba con algo que todavía no lograba hacer. Espín quería dar un abrazo. Un abrazo de verdad, apretado y tibio, como los que se dan cuando uno quiere mucho a alguien.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "text": "En el borde del bosque, donde empieza el prado, vivía un erizo pequeño llamado Espín.\n\nEspín tenía el corazón más grande de todo el bosque. Y tenía tres amigos: Coni, la coneja; Fito, el zorro; y Lino, el tejón, que era viejo y gruñón pero en el fondo muy bueno.\n\nConi, Fito y Lino se abrazaban todo el tiempo. Para saludarse. Para despedirse. Para celebrar que habían encontrado moras.\n\nEspín los miraba y se moría de ganas.\n\nPero Espín era un erizo. Y los erizos tienen espinas.\n\nSobre todo cuando se emocionan. Entonces se les ponen de punta, todas a la vez, como un cepillo enojado.",
+      "ambient": "forest_birds",
+      "music": "gentle_piano",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Esa noche, junto al agua, Espín encontró a su amiga la rana. \"¡Qué ganas tengo de abrazarte!\", dijo, y abrió los brazos bien grandes.\n\nCorrió hacia ella feliz, con los ojos brillando. Pero apenas se acercó, sus espinas se pusieron de punta y... ¡pincharon un poco!\n\nSu amiga dio un brinco enorme y cayó de espaldas en un charco.\n\n\"¡Uy, Espín, pinchas sin querer!\", se rió ella, chorreando agua. Espín se quedó quieto, con las orejas gachas.\n\nÉl no quería pinchar a nadie. Solo quería abrazar.",
-      "ambient": "stream_water",
-      "cues": [
-        {
-          "anchor": "charco",
-          "sfx": "water_splash"
-        }
-      ]
+      "text": "Una tarde, Coni ganó la carrera hasta el árbol grande.\n\n—¡Gané! ¡Gané! —gritó, dando saltitos.\n\nEspín se puso tan contento por ella que no se pudo aguantar. Corrió con los brazos abiertos, se lanzó a abrazarla y…\n\n—¡AY!\n\nConi dio un brinco que la dejó colgada de una rama.\n\n—Perdón, perdón, perdón —dijo Espín.\n\nLo intentó otra vez con Fito, más despacito. Pero se emocionó a mitad de camino, las espinas se le pusieron de punta, y Fito se fue con la cola llena de agujeritos.\n\nEspín se miró las espinas. Le dieron ganas de llorar.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "brinco", "sfx": "jump_hop" }]
     },
     {
       "id": "s3",
-      "text": "Espín se sentó solo en una piedra a mirar el cielo. Se sentía triste, como una nube gris. Entonces bajó volando desde una rama alta el más sabio del bosque: el búho.\n\n\"¿Por qué esos ojos tan tristes, pequeño?\", preguntó. \"Quiero abrazar a mis amigos, pero mis espinas siempre pinchan\", suspiró Espín.\n\nÉl lo miró con cariño, mientras allá arriba titilaban las estrellas. \"Escucha bien\", le dijo despacio. \"Tus espinas se ponen duras cuando tu corazón va deprisa.\n\nSi respiras suave y te calmas, tus espinas se vuelven blandas. Entonces sí podrás abrazar\".",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot"
-        }
-      ]
+      "text": "Al atardecer, Espín se sentó solo en una piedra.\n\nHabía encontrado una hoja roja con forma de corazón, y la sostenía entre las patas, sin saber muy bien para qué.\n\nLino el tejón llegó despacio, refunfuñando, y se sentó a su lado.\n\n—¿Qué te pasa, bolita de alfileres?\n\n—Quiero abrazar —dijo Espín—. Pero siempre pincho.\n\nLino lo miró un buen rato.\n\n—¿Ya te fijaste cuándo se te paran las espinas? —le preguntó—. Cuando vas corriendo. Cuando te emocionas mucho. Cuando el corazón te va deprisa.\n\n—¿Y entonces?\n\n—Entonces, prueba despacio.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Al día siguiente, Espín lo intentó. Cerró los ojos y muy despacio respiró.\n\nAdentro... y afuera. Adentro...\n\ny afuera. Su corazón se puso tranquilo, tranquilo. Y entonces, poco a poco, sus espinas se acostaron suaves, como pasto blando.\n\nCon muchísimo cuidado, Espín envolvió a la rana con una hoja tibia y le dio un beso en la nariz. \"¡No pincha nada!\", dijo ella, y soltó una risa.\n\nUno por uno, sus amigos se fueron acercando. Espín los abrazó con calma, con el corazón tranquilo y las espinas dormidas. Su abrazo era el más suave de todo el bosque.",
-      "ambient": "forest_night",
+      "text": "Al día siguiente, Espín fue a buscar a Coni con la hoja roja en la mano.\n\nEsta vez no corrió. Caminó despacio. Muy despacio.\n\nAntes de llegar, se paró. Cerró los ojos y respiró.\n\nAdentro… y afuera. Adentro… y afuera.\n\nEl corazón se le fue calmando, como un columpio que se para. Y poco a poco, sin hacer nada, las espinas se le fueron acostando, suaves, como el pasto cuando pasa el viento.\n\nEspín le dio a Coni la hoja roja. Y con muchísimo cuidado, la abrazó.\n\nConi se quedó muy quieta. Después se echó a reír.\n\n—¡No pincha nada! ¡Es el abrazo más suave del mundo!",
+      "ambient": "meadow_day",
+      "music": "strings_hopeful",
       "cues": [
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        },
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "strings_hopeful"
+        { "anchor": "respiró", "sfx": "breathe_in" },
+        { "anchor": "reír", "sfx": "giggle" }
+      ]
     },
     {
       "id": "s5",
-      "text": "Esa noche, todos los amigos se juntaron alrededor de Espín. La rana, el búho y hasta un conejo se acurrucaron contra sus espinas blandas, tibias como una manta. Entre las ramas cantaba una nana muy suave el viento.\n\nEspín repartió abrazos, uno para cada uno, y un beso de nariz para terminar. Poco a poco, todos fueron cerrando los ojos. Y allí, juntos bajo la luna, se quedaron dormidos.\n\nPorque el abrazo más lindo no es el más fuerte... es el más tierno. Que duermas bien, pequeño.\n\nBuenas noches.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "dormidos",
-          "sfx": "snore_soft"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "Desde ese día, Espín da abrazos con cuidado.\n\nSe acerca despacio. Respira. Espera a que se le acuesten las espinas. Y entonces abraza.\n\nSus abrazos tardan un poquito más que los de los demás. Pero Fito dice que por eso son los mejores: porque duran más.\n\nEsa noche, los cuatro se quedaron en el prado viendo salir la luna, fina como una uña.\n\nConi se acurrucó a un lado de Espín. Fito, al otro. Y Lino, refunfuñando, se acomodó detrás.\n\nY así, apretaditos y calentitos, se quedaron dormidos. Lino fue el primero: al ratito ya estaba roncando.",
+      "ambient": "meadow_night",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "roncando", "sfx": "snore_soft" }]
     }
   ]
 }

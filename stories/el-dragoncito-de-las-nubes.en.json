@@ -2,67 +2,42 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 8,
+  "version": 20,
   "title": "The Little Cloud Dragon",
-  "summary": "High on the mountain lives a dragon unlike any other: what will come from his mouth when the village needs him most?",
+  "summary": "All the dragons on the mountain breathe fire, except Nubo, who breathes clouds. Until the village below goes weeks without a single drop of rain.",
   "scenes": [
     {
       "id": "s1",
-      "text": "High on a green mountain lived Nubo, a very special little dragon. All the other dragons breathed fire, but Nubo was different: when he opened his mouth, instead of flames, soft cotton clouds came out. One morning, very slowly, Nubo blew.\n\nA round little cloud went floating up into the blue sky, and butterflies came to rest upon it. Seeing them there, the little dragon laughed. \"My clouds are soft and pretty!\"\n\nhe thought. And even though he had no fire like the others, Nubo really liked being just the way he was.",
+      "text": "High up in the mountains lived a family of dragons.\n\nThey all breathed fire. With their fire they lit up the mountain at night, like a lamp. With their fire they toasted chestnuts and warmed the stones to sleep on.\n\nAll except Nubo, the smallest.\n\nWhen Nubo opened his mouth, no flames came out. A cloud came out. White, soft and fluffy, like cotton wool.\n\n\"Nubo breathes cotton wool!\" his cousins laughed.\n\nNubo tried with all his might. Once, he went red, squeezed his tummy, shut his eyes and blew.\n\nAnd out came a little cloud shaped like a sheep.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "blew",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "adventure_soft",
+      "cues": [{ "anchor": "blew", "sfx": "wind_soft" }]
     },
     {
       "id": "s2",
-      "text": "At the foot of the mountain sat a little village of colorful houses. But that day the sun shone very brightly, far too brightly. It was so hot that the flowers bowed their heads and the trees drooped their tired leaves.\n\nThe children fanned themselves looking for shade. With his tongue hanging out, in a cool corner, down flopped a thirsty puppy.\n\nNobody felt like playing. \"What a scorching day,\" the grandparents sighed from the doors of their houses. The whole village wished for a cool breeze, but the breeze would not come.",
-      "cues": [
-        {
-          "anchor": "puppy",
-          "sfx": "bark"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "At the foot of the mountain there was a village of colourful houses.\n\nThat summer, it hadn't rained even once. The fields were yellow. The river was a trickle. The flowers hung their heads, and the cows looked for shade where there wasn't any.\n\nEvery afternoon, a girl called Lucía leaned out of her window, looked at the blue, blue sky, and said softly:\n\n\"Please let it rain.\"\n\nBut it didn't rain.\n\nThe dragons watched the village from above.\n\n\"Poor things,\" they said. \"But all we know how to make is fire. And in this heat, fire is no use to anyone.\"",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "From his mountain, Nubo watched the village suffer under the sun. He saw the overheated children. He saw the hanging tongue of the thirsty puppy.\n\nAnd he felt a tickle in his tummy. \"I know how to help!\" he said, spreading his enormous wings.\n\nHe took a deep breath, a very deep breath, until he filled up like a round balloon. Then he leaped from the edge of the mountain and, gliding gently among the clouds, he flew.\n\nVery hard indeed pounded his heart. But he was sure: he was going to give them the softest, coolest shade in the whole wide world.",
-      "cues": [
-        {
-          "anchor": "flew",
-          "sfx": "wing_flap"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Nubo sat on the edge of the rock to think.\n\nHe looked at the yellow fields. He looked at the sky without a single cloud.\n\nWithout a single cloud.\n\nAnd all of a sudden his eyes opened very wide.\n\n\"I know!\" he said. \"What they need is clouds!\"\n\nHis cousins laughed again.\n\n\"What are you going to do, Nubo? Take them some cotton wool?\"\n\nNubo didn't answer. He took a deep breath, leaned over the edge of the mountain and spread his wings.\n\nHis heart was pounding. But he jumped.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "wings", "sfx": "wing_flap" }]
     },
     {
       "id": "s4",
-      "text": "When he reached the houses, Nubo took a breath and, with all his might, blew. And out came so many cotton clouds! Big, white and fluffy, they gathered into a soft roof that covered the hot sun.\n\nAt once, cool and gentle, in came the wind. From the clouds began to fall tiny drops.\n\nThey were like a tickly drizzle. The heat went away. The children came out to dance and the flowers lifted their heads.\n\nAnd down below, wagging his tail with pure joy, jumped the puppy. \"Thank you, Nubo!\" cried the whole village, laughing under the shade.",
-      "ambient": null,
-      "cues": [
-        {
-          "anchor": "drops",
-          "sfx": "water_splash",
-          "ambient": "rain"
-        }
-      ],
-      "music": "strings_hopeful"
+      "text": "He flew until he was right above the village. From up there, the houses looked like toys.\n\nNubo took a deep breath and puffed out a cloud. Just one. A small one.\n\nNothing happened.\n\nHe puffed out another. And another. And another. He puffed until his cheeks ached, until he ran out of air, until his head was spinning.\n\nThe clouds began to join together. They grew big. They grew grey. They grew heavy.\n\nAnd suddenly, on the end of Lucía's nose, there landed a drop.\n\nThen another. Then a thousand.\n\nIt was raining!",
+      "ambient": "meadow_day",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "raining", "ambient": "rain" }]
     },
     {
       "id": "s5",
-      "text": "Little by little, the afternoon turned cool and golden. When night fell, Nubo's clouds stayed behind to watch over the sky. Over the sleeping village, round and yellow, rose the moon.\n\nAnd all around it appeared, twinkling softly, many stars. Nubo, tired and happy, climbed onto the biggest of his clouds and curled up as if on a soft pillow. He yawned very slowly.\n\nNow he knew that his gift, so different and so his own, was the loveliest of all. And with a smile, the little cloud dragon fell fast asleep. Good night.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "The whole village came out into the street.\n\nThe children danced in the puddles. The grandparents turned their faces up to get wet. The flowers lifted their heads, one by one. And Lucía, with her mouth wide open, drank the drops.\n\nIt rained all afternoon. And when it finally stopped, over the fields there appeared a rainbow.\n\nNubo flew back to the mountain, worn out, with aching cheeks and a smile from ear to ear.\n\nHis cousins were waiting for him. This time, they didn't laugh.\n\n\"Nubo,\" said the eldest. \"Can we come with you tomorrow? After all that water, the village is going to want a fire in every fireplace.\"\n\nEver since then, whenever the village sees white clouds coming down from the mountain, they know who's on the way.",
+      "ambient": "rain",
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "rainbow", "sfx": "magic_shimmer", "ambient": "meadow_day" }]
     }
   ]
 }

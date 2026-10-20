@@ -1015,7 +1015,7 @@
     },
     {
       "id": "el-dragoncito-de-las-nubes",
-      "version": 7,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1027,7 +1027,7 @@
       "cover": "covers/el-dragoncito-de-las-nubes.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 4,
       "categories": [
         "mitos",
         "aventuras"
@@ -1043,22 +1043,30 @@
       ],
       "premium": true,
       "preload": [
-        "music/marimba_playful"
+        "ambient/forest_birds",
+        "ambient/meadow_day",
+        "ambient/rain",
+        "music/adventure_soft",
+        "music/guitar_warm",
+        "music/strings_hopeful",
+        "sfx/magic_shimmer",
+        "sfx/wind_soft",
+        "sfx/wing_flap"
       ],
       "preview": {
         "es": {
           "title": "El dragoncito de las nubes",
-          "summary": "En la montaña vive un dragón muy distinto a los demás: ¿qué saldrá de su boca cuando el pueblo más lo necesite?"
+          "summary": "Todos los dragones de la montaña echan fuego, menos Nubo, que echa nubes. Hasta que el pueblo de abajo pasa semanas sin una gota de lluvia."
         },
         "en": {
           "title": "The Little Cloud Dragon",
-          "summary": "High on the mountain lives a dragon unlike any other: what will come from his mouth when the village needs him most?"
+          "summary": "All the dragons on the mountain breathe fire, except Nubo, who breathes clouds. Until the village below goes weeks without a single drop of rain."
         }
       }
     },
     {
       "id": "el-elefante-que-no-hacia-ruido",
-      "version": 8,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1070,7 +1078,7 @@
       "cover": "covers/el-elefante-que-no-hacia-ruido.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 3,
       "categories": [
         "animales",
         "valores"
@@ -1084,22 +1092,30 @@
       ],
       "premium": true,
       "preload": [
-        "music/strings_hopeful"
+        "ambient/meadow_day",
+        "ambient/meadow_night",
+        "music/gentle_piano",
+        "music/guitar_warm",
+        "music/lullaby_piano",
+        "sfx/breathe_in",
+        "sfx/dino_step",
+        "sfx/leaves_rustle",
+        "sfx/whisper"
       ],
       "preview": {
         "es": {
           "title": "Tavo camina en silencio",
-          "summary": "Tavo es un elefante muy silencioso, y descubre que su calma es su regalo más bonito."
+          "summary": "Tavo es el elefante más silencioso de la manada, tanto que nadie lo oye llegar. Hasta el día en que hace falta alguien que no haga ningún ruido."
         },
         "en": {
           "title": "Tavo Walks in Silence",
-          "summary": "Tavo is a very quiet elephant who discovers that his calm is his most beautiful gift."
+          "summary": "Tavo is the quietest elephant in the herd, so quiet that nobody hears him coming. Until the day they need someone who makes no noise at all."
         }
       }
     },
     {
       "id": "el-erizo-que-queria-abrazar",
-      "version": 6,
+      "version": 20,
       "locales": [
         "es",
         "en"
@@ -1111,7 +1127,7 @@
       "cover": "covers/el-erizo-que-queria-abrazar.webp",
       "ageMin": 3,
       "ageMax": 7,
-      "durationMin": 5,
+      "durationMin": 4,
       "categories": [
         "animales",
         "valores"
@@ -1127,16 +1143,25 @@
       ],
       "premium": true,
       "preload": [
-        "music/harp_dreams"
+        "ambient/forest_birds",
+        "ambient/meadow_day",
+        "ambient/meadow_night",
+        "music/gentle_piano",
+        "music/lullaby_piano",
+        "music/strings_hopeful",
+        "sfx/breathe_in",
+        "sfx/giggle",
+        "sfx/jump_hop",
+        "sfx/snore_soft"
       ],
       "preview": {
         "es": {
           "title": "Abrazos con cuidado",
-          "summary": "Un erizo de corazón enorme sueña con abrazar a sus amigos, pero sus espinas siempre pinchan sin querer."
+          "summary": "Espín tiene el corazón más grande del bosque y le encantaría abrazar a sus amigos. Pero cada vez que lo intenta, se le ponen las espinas de punta."
         },
         "en": {
           "title": "Careful Hugs",
-          "summary": "A hedgehog with an enormous heart longs to hug his friends, but his spines always prickle by accident."
+          "summary": "Espín has the biggest heart in the forest and would love to hug his friends. But every time he tries, his spines stand on end."
         }
       }
     },

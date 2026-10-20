@@ -2,67 +2,42 @@
   "id": "el-dragoncito-de-las-nubes",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 8,
+  "version": 20,
   "title": "El dragoncito de las nubes",
-  "summary": "En la montaña vive un dragón muy distinto a los demás: ¿qué saldrá de su boca cuando el pueblo más lo necesite?",
+  "summary": "Todos los dragones de la montaña echan fuego, menos Nubo, que echa nubes. Hasta que el pueblo de abajo pasa semanas sin una gota de lluvia.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo alto de una montaña verde vivía Nubo, un dragón muy especial. Todos los dragones echaban fuego, pero Nubo era distinto: cuando abría la boca, en vez de llamas le salían suaves nubes de algodón. Una mañana, muy despacio, Nubo sopló.\n\nUna nube redonda subió flotando hasta el cielo azul, y las mariposas llegaron a descansar sobre ella. Al verlas, Nubo se rió. \"¡Mis nubes son suaves y bonitas!\",\n\npensó. Y aunque no tenía fuego como los demás, a Nubo le gustaba mucho ser como era.",
+      "text": "En lo más alto de las montañas vivía una familia de dragones.\n\nTodos echaban fuego. Con su fuego encendían la montaña de noche, como si fuera una lámpara. Con su fuego tostaban castañas y calentaban las piedras para dormir.\n\nTodos menos Nubo, el más pequeño.\n\nCuando Nubo abría la boca, no le salían llamas. Le salía una nube. Blanca, suave, esponjosa, como un algodón.\n\n—¡Nubo echa algodón! —se reían sus primos.\n\nNubo lo intentaba con todas sus fuerzas. Una vez se puso rojo, apretó la barriga, cerró los ojos y sopló.\n\nY le salió una nubecita con forma de oveja.",
       "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "sopló",
-          "sfx": "wind_soft"
-        }
-      ]
+      "music": "adventure_soft",
+      "cues": [{ "anchor": "sopló", "sfx": "wind_soft" }]
     },
     {
       "id": "s2",
-      "text": "Al pie de la montaña había un pueblo de casas de colores. Pero ese día el sol brillaba muy fuerte, demasiado fuerte. Hacía tanto calor que las flores agachaban la cabeza y los árboles dejaban colgar sus hojas.\n\nLos niños se abanicaban buscando la sombra. Con la lengua afuera, en un rincón fresco, se echó a descansar un perro.\n\nNadie tenía ganas de jugar. \"Qué día tan caluroso\", suspiraban los abuelos desde la puerta de sus casas. Todo el pueblo deseaba una brisa fresca, pero la brisa no llegaba.",
-      "cues": [
-        {
-          "anchor": "perro",
-          "sfx": "bark"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Al pie de la montaña había un pueblo de casas de colores.\n\nEse verano no había llovido ni una sola vez. Los campos estaban amarillos. El río era un hilito. Las flores agachaban la cabeza, y las vacas buscaban sombra donde no la había.\n\nTodas las tardes, una niña llamada Lucía se asomaba a la ventana, miraba el cielo azul, azulísimo, y decía bajito:\n\n—Por favor, que llueva.\n\nPero no llovía.\n\nLos dragones veían el pueblo desde arriba.\n\n—Pobre gente —decían—. Pero nosotros solo sabemos hacer fuego. Y con este calor, el fuego no le sirve a nadie.",
+      "ambient": "meadow_day",
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Desde su montaña, Nubo vio al pueblo sufrir bajo el sol. Vio a los niños acalorados. Vio la lengua afuera y la sed del perro.\n\nY sintió un cosquilleo en la panza. \"¡Ya sé cómo ayudar!\", dijo abriendo sus alas enormes.\n\nTomó aire profundo, muy profundo, hasta llenarse como un globo redondo. Entonces saltó del borde de la montaña y, planeando despacio entre las nubes, voló.\n\nLe latía muy fuerte el corazón. Pero estaba decidido: iba a regalarles la sombra más suave y más fresca del mundo entero.",
-      "cues": [
-        {
-          "anchor": "voló",
-          "sfx": "wing_flap"
-        }
-      ],
-      "ambient": "meadow_day"
+      "text": "Nubo se sentó en el borde de la roca a pensar.\n\nMiró los campos amarillos. Miró el cielo sin una nube.\n\nSin una nube.\n\nY de pronto se le abrieron mucho los ojos.\n\n—¡Ya sé! —dijo—. ¡Lo que les falta son nubes!\n\nSus primos se rieron otra vez.\n\n—¿Qué vas a hacer, Nubo? ¿Llevarles algodón?\n\nNubo no contestó. Tomó aire, se asomó al borde de la montaña y abrió las alas.\n\nEl corazón le latía fuerte. Pero saltó.",
+      "ambient": "forest_birds",
+      "cues": [{ "anchor": "alas", "sfx": "wing_flap" }]
     },
     {
       "id": "s4",
-      "text": "Al llegar sobre las casas, Nubo tomó aire y, con todas sus fuerzas, sopló. ¡Y salieron muchísimas nubes de algodón! Grandes, blancas y esponjosas, se juntaron formando un techo suave que tapó el sol caliente.\n\nEnseguida, fresco y suave, llegó el viento. De las nubes empezaron a caer gotas.\n\nEran diminutas, como una llovizna de cosquillas. El calor se fue. Los niños salieron a bailar y las flores levantaron la cabeza.\n\nY allá abajo, moviendo la cola de pura alegría, saltaba el perro. \"¡Gracias, Nubo!\", gritó todo el pueblo, riendo bajo la sombra.",
-      "ambient": null,
-      "cues": [
-        {
-          "anchor": "gotas",
-          "sfx": "water_splash",
-          "ambient": "rain"
-        }
-      ],
-      "music": "strings_hopeful"
+      "text": "Voló hasta quedar justo encima del pueblo. Desde ahí arriba, las casas parecían de juguete.\n\nNubo tomó aire y echó una nube. Una sola. Pequeña.\n\nNo pasó nada.\n\nEchó otra. Y otra. Y otra más. Echó nubes hasta que le dolieron los cachetes, hasta que se quedó sin aire, hasta que le dio vueltas la cabeza.\n\nLas nubes se fueron juntando unas con otras. Se hicieron grandes. Se hicieron grises. Se hicieron pesadas.\n\nY de pronto, en la nariz de Lucía, cayó una gota.\n\nDespués otra. Después mil.\n\n¡Era lluvia!",
+      "ambient": "meadow_day",
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "lluvia", "ambient": "rain" }]
     },
     {
       "id": "s5",
-      "text": "Poco a poco, la tarde se puso fresca y dorada. Cuando cayó la noche, las nubes de Nubo se quedaron cuidando el cielo. Sobre el pueblo dormido se encendió, redonda y amarilla, la luna.\n\nY alrededor aparecieron, titilando despacio, muchas estrellas. Nubo, cansado y feliz, subió a la más grande de sus nubes y se acurrucó como en una almohada blanda. Bostezó muy despacio.\n\nAhora sabía que su don, tan distinto y tan suyo, era el más bonito de todos. Y con una sonrisa, el dragoncito de las nubes se quedó dormido. Buenas noches.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "lullaby_piano"
+      "text": "Todo el pueblo salió a la calle.\n\nLos niños bailaban en los charcos. Los abuelos levantaban la cara para mojarse. Las flores levantaban la cabeza, una por una. Y Lucía, con la boca abierta, se bebía las gotas.\n\nLlovió toda la tarde. Y cuando por fin paró, sobre los campos apareció un arcoíris.\n\nNubo volvió a la montaña cansadísimo, con los cachetes adoloridos y una sonrisa de oreja a oreja.\n\nSus primos lo estaban esperando. Esta vez no se rieron.\n\n—Nubo —dijo el mayor—. ¿Mañana nos dejas ir contigo? Después de tanta agua, en el pueblo van a querer encender las chimeneas.\n\nDesde entonces, cuando en el pueblo ven bajar nubes blancas de la montaña, ya saben quién viene.",
+      "ambient": "rain",
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "arcoíris", "sfx": "magic_shimmer", "ambient": "meadow_day" }]
     }
   ]
 }

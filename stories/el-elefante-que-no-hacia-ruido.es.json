@@ -2,49 +2,42 @@
   "id": "el-elefante-que-no-hacia-ruido",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 9,
+  "version": 20,
   "title": "Tavo camina en silencio",
-  "summary": "Tavo es un elefante muy silencioso, y descubre que su calma es su regalo más bonito.",
+  "summary": "Tavo es el elefante más silencioso de la manada, tanto que nadie lo oye llegar. Hasta el día en que hace falta alguien que no haga ningún ruido.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En un rincón verde de la sabana vivía un elefante pequeño llamado Tavo. Todos los elefantes hacían mucho, mucho ruido: barritaban fuerte, sacudían los árboles y pisaban con estruendo las hojas.\n\nPero Tavo no. Tavo caminaba tan suave que nadie se enteraba de que había pasado por ahí. A veces se sentía raro por ser el más callado de todos.",
+      "text": "En la sabana vivía una manada de elefantes muy ruidosa.\n\nCuando caminaban, la tierra temblaba con sus pisotones. Cuando se saludaban, barritaban tan fuerte que los pájaros salían volando de los árboles. Cuando se bañaban, el agua salpicaba hasta las nubes.\n\nTodos menos Tavo.\n\nTavo era pequeño, de color azul clarito, y caminaba tan suave, tan suave, que nadie lo oía llegar.\n\nEn la charca, los demás se le sentaban encima sin querer.\n\n—¡Uy, Tavo! No te vi.\n\nEn los juegos, se olvidaban de contarlo.\n\n—¿Tavo? ¿Y Tavo dónde estaba?\n\nEstaba ahí. Siempre estaba ahí. Solo que no hacía ruido.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "hojas",
-          "sfx": "leaves_rustle"
-        }
-      ]
+      "music": "gentle_piano",
+      "cues": [{ "anchor": "pisotones", "sfx": "dino_step" }]
     },
     {
       "id": "s2",
-      "text": "Una tarde, un pájaro pequeño se cayó de su nido y quedó temblando entre la hierba. Los otros elefantes corrieron a ayudar, pero el pájaro se asustaba más y más con tanto ruido y tantos pasos.\n\nNadie podía acercarse sin espantarlo.",
+      "text": "Un día, Tavo decidió que ya estaba bien.\n\n—Hoy voy a hacer ruido —dijo—. Mucho ruido.\n\nSe plantó en medio de la manada, levantó la trompa bien alta, llenó la barriga de aire… y barritó.\n\nLe salió un fiu.\n\nUn fiu chiquitito, como el de un globo que se desinfla despacio.\n\nLos otros elefantes ni se dieron vuelta.\n\nTavo bajó la trompa. Y se fue a sentar solo, a la sombra de una acacia, sin hacer ruido. Como siempre.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "pasos",
-          "sfx": "footsteps"
-        }
-      ]
+      "cues": []
     },
     {
       "id": "s3",
-      "text": "Entonces Tavo se acercó despacio, muy despacio. Se inclinó junto al nido caído y le habló en un susurro.\n\n\"Tranquilo, pequeño, ya estás a salvo\". Como Tavo no hacía ruido, el pájaro dejó de temblar y se acurrucó en su trompa tibia.",
+      "text": "Esa tarde se oyó un llanto muy bajito.\n\nEra una gacela bebé. Se había metido entre unos arbustos espinosos, y se le habían enredado las patas.\n\nLos elefantes grandes corrieron a ayudar. Pero llegaron con tanto alboroto, barritando tan fuerte, que la gacela se asustó todavía más.\n\nPataleó y pataleó, y se enredó todavía más entre las ramas.\n\n—¡Quietos todos! —dijo la abuela elefanta—. Así la vamos a lastimar.\n\nNadie sabía qué hacer. Si se acercaban, la gacela se asustaba. Si no se acercaban, no podían ayudarla.\n\nEntonces Tavo se levantó de la sombra.",
       "ambient": "meadow_day",
-      "cues": [
-        {
-          "anchor": "susurro",
-          "sfx": "whisper"
-        }
-      ],
-      "music": "guitar_warm"
+      "cues": [{ "anchor": "ramas", "sfx": "leaves_rustle" }]
     },
     {
       "id": "s4",
-      "text": "Desde ese día, todos supieron que la calma de Tavo era un regalo. Cuando alguien estaba asustado o triste, llamaban al elefante que no hacía ruido. Y Tavo aprendió que no hace falta ser el más ruidoso para ser el más querido.\n\nBuenas noches, Tavo.",
+      "text": "Tavo caminó hacia los arbustos. Despacio. Tan despacio y tan suave que la gacela ni lo oyó llegar.\n\nCuando lo vio, ya estaba a su lado.\n\n—Shhh —le dijo Tavo, en un susurro—. No pasa nada. Ya estoy aquí.\n\nLa gacela lo miró con los ojos muy abiertos. Pero Tavo no hacía ruido, y no daba miedo. Así que se quedó quieta.\n\nCon la punta de la trompa, rama por rama, Tavo la fue soltando. Sin un tirón. Sin un crujido.\n\nHasta que la gacela quedó libre, y salió corriendo hacia su mamá, que la esperaba al borde de la sabana.",
       "ambient": "meadow_day",
-      "cues": []
+      "music": "guitar_warm",
+      "cues": [{ "anchor": "susurro", "sfx": "whisper" }]
+    },
+    {
+      "id": "s5",
+      "text": "Esa noche, la abuela elefanta se acercó a Tavo.\n\n—Hoy hacía falta alguien que no hiciera ruido —le dijo—. Y el único que sabía hacerlo eras tú.\n\nDesde ese día, los elefantes ya no se olvidan de contar a Tavo.\n\nY cuando algún pequeño de la manada tiene miedo de noche, o no se puede dormir, pide lo mismo:\n\n—Que venga Tavo.\n\nTavo llega sin hacer ruido. Se acuesta a su lado. Y su silencio es tan suave, tan tibio, que es como una manta.\n\nAl ratito, en toda la sabana, solo se oye respirar.",
+      "ambient": "meadow_night",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "respirar", "sfx": "breathe_in" }]
     }
   ]
 }

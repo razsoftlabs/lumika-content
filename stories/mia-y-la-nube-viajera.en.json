@@ -2,54 +2,44 @@
   "id": "mia-y-la-nube-viajera",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 10,
-  "title": "Mía and the traveling cloud",
-  "summary": "A girl rides on a cloud and discovers how the world looks from above.",
+  "version": 20,
+  "title": "Mía and the Travelling Cloud",
+  "summary": "Mía misses her grandma terribly. She lives far away, by the sea. One afternoon, a cloud stops at Mía’s balcony and invites her to climb on.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Mía was a curious six-year-old girl, with two brown braids and eyes the color of chestnuts. She lived in a tall apartment, on the seventh floor of a building with a balcony, and from the window of her room you could see a huge piece of sky.\n\nMía was always looking at the sky. It was her favorite thing. She loved watching the clouds go by, and while she watched them, she imagined they had the shapes of animals.\n\n\"Look at that one over there, it looks like a whale.\"\n\nAnd she would point with her finger, very sure of it. \"That other one looks like a bunny with a carrot. And that one looks like grandpa's face.\"\n\nOne summer afternoon, while she was having her snack with warm milk and butter cookies, she saw something that made her drop her cup on the table. A cloud different from all the others was approaching her window. It was white, round, very soft, with silvery edges like soap foam.\n\nAnd the strangest thing: it was coming down very slowly, very slowly, straight toward her balcony. The cloud floated just outside the window, waiting for something, like a puppy asking to come in. Mía came closer slowly, with her eyes wide open, unable to believe what she was seeing.",
-      "cues": [
-        {
-          "anchor": "whale",
-          "sfx": "whale_song"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Mía was six years old, with two brown plaits and a balcony on the seventh floor.\n\nFrom her balcony you could see a huge piece of sky. And what Mía liked best in the whole world was watching the clouds. That one looked like a rabbit. That one, a boat. That one over there, her grandma's face.\n\nHer grandma, Nena, lived very far away, by the sea, in a house with a red roof. Mía hadn't seen her since the summer. And she missed her so much that sometimes it made her tummy ache.\n\nOne afternoon, while she was having her snack, she saw something that made her put down her biscuit half-eaten.\n\nA round cloud, white and soft, was floating slowly down towards her balcony. And it stopped there, hovering just in front of the railing.\n\nAnd it smiled at her.",
+      "ambient": "city_soft",
+      "music": "harp_dreams",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "The cloud, when it saw her, smiled with a smile of cotton. A cloud that smiled! Then it made a gesture with its soft tips, as if inviting her to come up.\n\nMía pressed her nose against the glass. \"Me? You're inviting me?\"\n\nThe cloud nodded by moving its whole round body. Mía hesitated for a second. Then for two.\n\nShe thought about her mom, who was downstairs cooking. She thought about whether it was dangerous. But then she remembered all the times she had dreamed about flying, all the times she had wished to touch a cloud.\n\nAnd she decided. She opened the window with one tug — shhhh — and leaned out. The air ruffled her hair and brought her a smell of vanilla and of night coming.\n\nMía gathered herself, rose up on her toes and threw herself toward the cloud in one leap.\n\nFor a second she thought she was going to fall into the void. But no. The cloud caught her gently, like a giant cotton mattress, and Mía sank a little into its soft belly.\n\nThe cloud spoke to her with a sweet, sweet voice, as if it were a talking pillow. \"Hello, Mía,\" it whispered. \"You know my name?\"\n\nasked Mía, surprised. \"Clouds know the names of the children who watch them,\" answered the cloud. \"We're going to travel together, but only if you want to.\"\n\nMía settled onto the cloud as if in a cushioned chair and stroked its white belly. \"I want to go,\" she said softly and smiling.",
-      "cues": [
-        {
-          "anchor": "leap",
-          "sfx": "jump_hop"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Mía went out onto the balcony with her eyes wide open.\n\n\"You can smile?\" she asked.\n\nThe cloud wobbled its whole round body, as if to say yes. Then it came down a little, until it was resting on the balcony floor, as soft as a cushion.\n\n\"Do you want me to climb on?\"\n\nMía hesitated for a second. Then two. And then she remembered all the times she had dreamed of touching a cloud.\n\nShe climbed on very carefully. The cloud was warm and it tickled her legs, and out came a giggle.\n\n\"Hello, Mía,\" said the cloud, in a voice like a pillow. \"Where would you like to go?\"\n\nMía didn't have to think about it.\n\n\"To my grandma's house.\"",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "giggle", "sfx": "giggle" }]
     },
     {
       "id": "s3",
-      "text": "And up they went, up, up, slowly at first, then faster, until the window of Mía's room became a tiny dot far below. The cloud flew over the city, and from above, the houses looked like toy boxes, the cars looked like ants with lights, and the people walking looked like grains of sand in motion.\n\nMía laughed: the air was tickling her cheeks. Then the cloud flew higher and they passed over the sea, which shone like a giant mirror. Mía saw dolphins chasing each other between the waves and falling back into the water with a splash.\n\nThen they crossed mountains with snow on the peaks, where she saw goats jumping from rock to rock and an eagle that greeted them with a long cry. The cloud flew over a sleeping forest, full of trees swaying softly, where a fox poked his curious head out from among the leaves.\n\nThey flew over a river that wound like a silver snake. They flew over a village with red roof tiles and an old bell tower. Everything was small from up there, everything looked calm and beautiful.\n\nMía felt her heart growing in her chest, almost too big to fit.",
+      "text": "And up went the cloud.\n\nSlowly at first, then faster, until Mía's building was tiny, like a matchbox.\n\nThey flew over the city. From up there, the cars looked like ants with lights, and the streets looked like lines in a drawing.\n\nThey flew over a river that shone like a silver ribbon. Over green and yellow fields, stitched together like a patchwork quilt. Over mountains with snow on their tips.\n\nAnd then they passed right under a rainbow. So close that Mía reached out her hand, and her fingers came back coloured.\n\nMía laughed. The breeze was tickling her cheeks.",
+      "ambient": null,
       "cues": [
-        {
-          "anchor": "splash",
-          "sfx": "water_splash"
-        }
-      ],
-      "ambient": null
+        { "anchor": "rainbow", "sfx": "magic_shimmer" },
+        { "anchor": "breeze", "sfx": "wind_soft" }
+      ]
     },
     {
       "id": "s4",
-      "text": "When the sun began to hide behind the mountains, the sky turned orange, pink, and purple. And then, very shyly, out came the moon.\n\nThe cloud whispered: \"It's time to go back, my love.\" Mía sighed a little sadly. \"Will we see each other again?\"\n\nThe cloud smiled. \"Every time you look at the sky.\" They began to come down slowly, like on a cotton slide.\n\nThey passed again over the sleeping mountains, over the dark sea, over the river that now shone with the light from above. The city appeared below, with its yellow lights turning on one by one. The cloud came up to Mía's balcony, right at her window, and set her on her bed with great care, as if laying her down among cotton balls.\n\nThe blanket settled itself on top of her. \"When you want to fly, look for me,\" said the cloud before leaving, drifting away slowly. \"I'll be waiting for you forever.\"\n\nMía waved goodbye with her hand until the cloud blended in with the others in the night sky. She closed her eyes with a huge smile and hugged her pillow. That night she dreamed of flying again, of all the places she had seen, and learned that every time she looked at a cloud in the sky she would be able to remember her traveling friend.\n\nAnd sleep contentedly.",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": null,
-      "music": "harp_dreams"
+      "text": "On the other side of the mountains, the sea appeared. Blue, enormous, shining.\n\nAnd on the shore, very small, a house with a red roof.\n\n\"That's it!\" shouted Mía.\n\nThe cloud floated a little lower. In the garden was Grandma Nena, hanging white sheets on the line. Above the roof flew the seagulls.\n\nAnd then Grandma looked up, saw the cloud… and waved.\n\nThe way she always did with every cloud. Just in case.\n\n\"Grandma!\" shouted Mía, waving both arms. \"Grandma, it's me!\"\n\nThe wind carried her voice away. But Grandma stood looking up for a long while, with her hand on her heart, smiling.",
+      "ambient": "ocean_waves",
+      "cues": [{ "anchor": "seagulls", "sfx": "seagulls" }]
+    },
+    {
+      "id": "s5",
+      "text": "When the sun began to go down, the cloud said:\n\n\"It's time to go back.\"\n\nThey flew home over the sea, over the mountains, over the river, while the sky turned orange and pink. The city appeared below, with its windows lighting up one by one.\n\nThe cloud set Mía down on her balcony, very carefully, and floated slowly away, until it was lost among all the others.\n\nThat night, when Mía was already in bed, the phone rang.\n\nIt was Grandma Nena.\n\n\"Do you know something?\" she said. \"Today a cloud went past here shaped like a little girl. With two plaits. And I could have sworn it waved at me.\"\n\nMía smiled in the dark.\n\nAnd she fell asleep hugging her pillow, which was almost, almost as soft as a cloud.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

@@ -2,71 +2,49 @@
   "id": "la-semilla-valiente",
   "schemaVersion": 1,
   "locale": "en",
-  "version": 7,
+  "version": 20,
   "title": "The Brave Little Seed",
-  "summary": "A tiny seed is afraid of the dark under the ground… will she find the courage to grow?",
+  "summary": "A tiny seed is afraid of the dark under the ground. To grow, she'll have to climb all the way up to the light.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Deep down in the earth lived a very tiny seed. Everything around her was dark and quiet. The little seed felt a little afraid.\n\n\"What if I stay down here forever?\" she thought, curled up in her small shell. Far, far away in the night, she heard an owl.\n\nJust like you do when you snuggle into your bed, the little seed closed her eyes and breathed.\n\nLittle by little, the fear grew smaller, and the earth held her warm and safe.",
+      "text": "Under the ground, deep down, lived a tiny little seed.\n\nEverything down there was dark. Dark and quiet. You couldn't see anything, not up, not down, not to the sides.\n\nSometimes, from very far away, sounds came down from the world above. Footsteps. Children laughing. A bird singing. But they arrived so muffled, so covered up by the earth, that the seed didn't know whether they were real or whether she was dreaming them.\n\n\"What if I stay down here for ever?\" she thought, curled up in her shell.\n\nShe was scared of staying. But she was even more scared of going up.",
       "ambient": null,
-      "cues": [
-        {
-          "anchor": "owl",
-          "sfx": "owl_hoot",
-          "delayMs": 700
-        },
-        {
-          "anchor": "breathed",
-          "sfx": "breathe_in"
-        }
-      ]
+      "music": "gentle_piano",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "One morning the rain trickled down through the earth in tiny drops.\n\nThe water came close and spoke to her in a whisper: \"Hello, little one. I have come to give you a drink.\" The drops wet her with love, and the seed felt something new: a warm wish to stretch.\n\nShe was still afraid of the dark, but the rain sang her a very soft song. \"Don't rush,\" it said. \"Growing happens slowly, and gently.\"\n\nThe little seed drank and drank, and inside she began to feel a little bit stronger and braver.",
+      "text": "One morning, it began to rain.\n\nThe water trickled slowly down through the earth, drop by drop, until it reached the seed and soaked her right through.\n\nThe seed drank. And drank. And she began to feel something new, like a tickle inside. A great big wish to stretch.\n\nShe stretched a tiny bit.\n\nAnd her shell went: crack!\n\nOut of the little split came a thin white root, which dug down into the earth, like someone dropping an anchor.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "drops",
-          "sfx": "water_splash"
-        }
-      ]
+      "cues": [{ "anchor": "crack", "sfx": "crunch" }]
     },
     {
       "id": "s3",
-      "text": "The day came when the little seed had to grow upward. The path was dark, and she did not know what waited at the end. \"I am afraid,\" she said quietly.\n\nBut she remembered the rain's song and was very brave. Very calmly, she pushed a tiny green arm up through the earth. She pushed, and pushed, and pushed.\n\nFrom up above she was called by a soft wind: \"Come, you are almost here.\"\n\nHer roots held on tightly down below, like little hands, and the sprout climbed and climbed toward the light.",
-      "cues": [
-        {
-          "anchor": "wind",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": null
+      "text": "After a while, a worm came by.\n\n\"Good morning,\" he said. \"My name's Wormy. Why are you keeping so still?\"\n\n\"I'm scared,\" said the seed. \"My root has come out downwards. But now I'm supposed to grow upwards, and up there it's all dark. I don't know what's there.\"\n\nWormy laughed with his whole tail.\n\n\"Dark? It isn't dark up there. Up there is the light. I saw it once, when I came out after the rain. It's warm, and yellow, and it smells of morning.\"\n\n\"And how do I get there?\"\n\n\"Slowly,\" said Wormy. \"Like everything worth doing.\"",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "And then… the little seed came out into the light! She opened her first leaf to the sky and saw the sun shining warm and golden.\n\n\"I did it!\" she said, and up from inside her bubbled a happy giggle.\n\nThe sun greeted her with a warm ray, and the breeze danced through her leaves. It was no longer dark or scary. The little plant understood that growing was worth it after all.\n\nAll around her the birds were singing, and the world was wide, green, and bright.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "giggle",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "strings_hopeful"
+      "text": "The seed gathered up all her courage.\n\nAnd she pushed a little green arm upwards.\n\nShe pushed, and pushed, and pushed. The earth was heavy, but the shoot was stubborn.\n\nHalfway up she came to a stone, big and hard. She couldn't get through it. So, very patiently, she went round it, bit by bit, until she had squeezed past.\n\nAnd then she saw it.\n\nHigh above, through a gap in the earth, came a thread of light.\n\nThe seed didn't think twice. She took a deep breath, and kept climbing towards it.",
+      "ambient": null,
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "breath", "sfx": "breathe_in" }]
     },
     {
       "id": "s5",
-      "text": "Many nights and many suns went by. The brave little seed became a big, strong tree, with branches that hugged the sky. When night came, it was covered in silver light by the moon.\n\nAmong its leaves twinkled the stars. Beneath its branches the birds slept, calm and cozy. The tree remembered, happily, that little seed who was once afraid in the dark.\n\nAnd now, just like you, it closed its eyes slowly. Good night, brave little seed. May you grow lovely while you dream.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "moon",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "And suddenly, out she came!\n\nHer little green leaf popped up above the earth, and the first thing she felt was the sun on her face. Warm. Yellow. Smelling of morning.\n\nWormy was right.\n\nAll around there was grass, and flowers, and an enormous blue sky. The birds were singing. The air waved her little leaf from side to side, as if it were saying hello.\n\n\"I did it!\" shouted the seed, who wasn't a seed any more, but a plant.\n\nAnd out came a giggle, as green and as new as she was.",
+      "ambient": "forest_birds",
+      "music": "guitar_clear",
+      "cues": [{ "anchor": "giggle", "sfx": "giggle" }]
+    },
+    {
+      "id": "s6",
+      "text": "Many days went by, and many rains, and many suns.\n\nThe tiny plant grew into a big tree, with branches that hugged the sky. Children played in her shade. Birds built nests among her leaves.\n\nAnd one autumn day, a tiny seed came loose from one of her branches. It fell to the ground, and slowly drifted off to sleep down below, in the dark.\n\nThe tree leaned down towards it a little. And she whispered, very softly:\n\n\"Don't be scared. There's light up here. I'll be waiting for you.\"",
+      "ambient": "meadow_night",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "whispered", "sfx": "whisper" }]
     }
   ]
 }

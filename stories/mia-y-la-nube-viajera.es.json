@@ -2,54 +2,44 @@
   "id": "mia-y-la-nube-viajera",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 10,
+  "version": 20,
   "title": "Mía y la nube viajera",
-  "summary": "Una niña se sube a una nube y descubre cómo se ve el mundo desde arriba.",
+  "summary": "Mía extraña muchísimo a su abuela, que vive lejos, junto al mar. Una tarde, una nube se para en su balcón y la invita a subir.",
   "scenes": [
     {
       "id": "s1",
-      "text": "Mía era una niña curiosa de seis años, con dos trenzas marrones y los ojos del color de las castañas. Vivía en un apartamento alto, en el séptimo piso de un edificio con balcón, y desde la ventana de su cuarto se veía un pedazo de cielo enorme.\n\nMía siempre miraba el cielo. Era su cosa favorita. Le encantaba ver pasar las nubes y, mientras las miraba, se imaginaba que tenían formas de animales.\n\n\"Mira esa de allá, parece una ballena\".\n\nY señalaba con el dedo, muy segura. \"Esa otra parece un conejo con una zanahoria. Y esa parece la cara de mi abuelo\".\n\nUna tarde de verano, mientras tomaba la merienda con leche tibia y galletas de mantequilla, vio algo que le hizo soltar la taza sobre la mesa. Una nube distinta a todas las demás se acercaba a su ventana. Era blanca, redonda, muy suave, con bordes plateados como espuma de jabón.\n\nY lo más raro: bajaba muy lento, muy lento, derecho hacia su balcón. La nube se quedó flotando justo afuera de la ventana, esperando algo, como un perro que pide entrar. Mía se acercó despacio, con los ojos bien abiertos, sin poder creer lo que veía.",
-      "cues": [
-        {
-          "anchor": "ballena",
-          "sfx": "whale_song"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Mía tenía seis años, dos trenzas marrones y un balcón en el séptimo piso.\n\nDesde su balcón se veía un pedazo de cielo enorme. Y a Mía lo que más le gustaba del mundo era mirar las nubes. Esa parecía un conejo. Esa otra, un barco. Aquella, la cara de su abuela.\n\nSu abuela Nena vivía muy lejos, junto al mar, en una casa de techo rojo. Mía no la veía desde el verano. Y la extrañaba tanto que a veces le dolía la barriga.\n\nUna tarde, mientras merendaba, vio algo que le hizo dejar la galleta a medio morder.\n\nUna nube redonda, blanca y blandita, bajaba despacio hacia su balcón. Y se quedó ahí, flotando justo delante de la baranda.\n\nY le sonrió.",
+      "ambient": "city_soft",
+      "music": "harp_dreams",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "La nube, al verla, sonrió con una sonrisa de algodón. ¡Una nube que sonreía! Después le hizo un gesto con sus puntas suaves, como invitándola a subir.\n\nMía pegó la nariz al vidrio. \"¿Yo? ¿Tú me invitas a mí?\".\n\nLa nube asintió moviendo todo su cuerpo redondo. Mía dudó un segundo. Después dos.\n\nPensó en su mamá, que estaba abajo cocinando. Pensó en si era peligroso. Pero después se acordó de todas las veces que había soñado con volar, de todas las veces que había deseado tocar una nube.\n\nY decidió. Abrió la ventana de un tirón —shhhh— y se asomó. El aire le revolvió el pelo y le trajo un olor a vainilla y a noche que viene.\n\nMía tomó impulso, se paró en la punta de los pies y se lanzó hacia la nube de un salto.\n\nPensó por un segundo que se iba a caer al vacío. Pero no. La nube la atrapó suavemente, como un colchón de algodón gigante, y Mía se hundió un poco en su panza blanda.\n\nLa nube le habló con una voz dulce, dulce, como si fuera una almohada que hablaba. \"Hola, Mía\", susurró. \"¿Sabes mi nombre?\",\n\npreguntó Mía sorprendida. \"Las nubes saben los nombres de los niños que las miran\", contestó la nube. \"Vamos a viajar juntas, pero solo si tú quieres\".\n\nMía se acomodó sobre la nube como en un sillón mullido y le acarició la panza blanca. \"Quiero ir\", dijo en voz baja y sonriente.",
-      "cues": [
-        {
-          "anchor": "salto",
-          "sfx": "jump_hop"
-        }
-      ],
-      "ambient": "city_soft"
+      "text": "Mía salió al balcón con los ojos muy abiertos.\n\n—¿Tú sonríes? —preguntó.\n\nLa nube movió todo su cuerpo redondo, como diciendo que sí. Después bajó un poquito, hasta posarse en el suelo del balcón, blandita como un cojín.\n\n—¿Quieres que suba?\n\nMía dudó un segundo. Después dos. Y después se acordó de todas las veces que había soñado con tocar una nube.\n\nSe subió con mucho cuidado. La nube estaba tibia y le hacía cosquillas en las piernas, y a Mía se le escapó una risa.\n\n—Hola, Mía —dijo la nube, con una voz de almohada—. ¿Adónde quieres ir?\n\nMía no lo tuvo que pensar.\n\n—A casa de mi abuela.",
+      "ambient": "city_soft",
+      "cues": [{ "anchor": "risa", "sfx": "giggle" }]
     },
     {
       "id": "s3",
-      "text": "Y subieron, subieron, subieron, despacio al principio, después más rápido, hasta que la ventana del cuarto de Mía quedó como un punto diminuto allá abajo. La nube voló sobre la ciudad, y desde arriba las casas parecían cajas de juguete, los autos parecían hormigas con luces, y la gente caminando se veía como granos de arena en movimiento.\n\nMía se rió: el aire le hacía cosquillas en las mejillas. Después la nube voló más alto y pasaron sobre el mar, que brillaba como un espejo gigante. Mía vio delfines que se perseguían entre las olas y caían al agua con un plash.\n\nDespués cruzaron montañas con nieve en las puntas, donde vio cabras saltando de roca en roca y un águila que las saludó con un grito largo. La nube voló sobre un bosque dormido, lleno de árboles que se mecían suaves, donde un zorro asomó la cabeza curiosa entre las hojas.\n\nVolaron sobre un río que serpenteaba como una culebra de plata. Volaron sobre un pueblo con tejas rojas y un campanario antiguo. Todo era pequeño desde arriba, todo se veía calmado y bonito.\n\nMía sintió que el corazón le crecía en el pecho, hasta casi no caberle.",
+      "text": "Y la nube subió.\n\nDespacio al principio, y después más rápido, hasta que el edificio de Mía se quedó chiquito, como una caja de cerillos.\n\nVolaron sobre la ciudad. Desde arriba, los autos parecían hormigas con luces, y las calles, las rayas de un dibujo.\n\nVolaron sobre un río que brillaba como una cinta de plata. Sobre campos verdes y amarillos, cosidos como una manta de retazos. Sobre montañas con nieve en las puntas.\n\nY entonces pasaron por debajo de un arcoíris. Tan cerca que Mía estiró la mano, y se le quedaron los dedos de colores.\n\nMía se rió. Le hacía cosquillas en las mejillas el viento.",
+      "ambient": null,
       "cues": [
-        {
-          "anchor": "plash",
-          "sfx": "water_splash"
-        }
-      ],
-      "ambient": null
+        { "anchor": "arcoíris", "sfx": "magic_shimmer" },
+        { "anchor": "viento", "sfx": "wind_soft" }
+      ]
     },
     {
       "id": "s4",
-      "text": "Cuando el sol empezó a esconderse detrás de las montañas, el cielo se pintó de naranjas, rosados y violetas. Y entonces, muy tímida, asomó la luna.\n\nLa nube le susurró: \"Es hora de volver, mi amor\". Mía suspiró un poco triste. \"¿Vamos a vernos de nuevo?\".\n\nLa nube sonrió. \"Cada vez que mires al cielo\". Empezaron a bajar despacio, como en un tobogán de algodón.\n\nPasaron otra vez sobre las montañas dormidas, sobre el mar oscuro, sobre el río que ahora brillaba con la luz de arriba. La ciudad apareció abajo, con sus luces amarillas prendiéndose una a una. La nube se acercó al balcón de Mía, justo a su ventana, y la dejó con mucho cuidado en su cama, como si la acostara entre algodones.\n\nLa manta se le acomodó sola encima. \"Cuando quieras volar, mírame\", le dijo la nube antes de irse, alejándose despacio. \"Yo te voy a esperar siempre\".\n\nMía la saludó con la mano hasta que la nube se confundió con las otras del cielo nocturno. Cerró los ojos con una sonrisa enorme y abrazó su almohada. Esa noche soñó con seguir volando, con todos los lugares que había visto, y aprendió que cada vez que mirara una nube en el cielo iba a poder recordar a su amiga viajera.\n\nY dormir contenta.",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ],
-      "ambient": null,
-      "music": "harp_dreams"
+      "text": "Al otro lado de las montañas apareció el mar. Azul, enorme, brillante.\n\nY en la orilla, pequeñita, una casa de techo rojo.\n\n—¡Es ahí! —gritó Mía.\n\nLa nube bajó un poco. En el jardín estaba la abuela Nena, colgando sábanas blancas en la cuerda. Sobre el tejado volaban las gaviotas.\n\nY entonces la abuela levantó la cabeza, miró la nube… y saludó con la mano.\n\nComo hacía siempre con todas las nubes. Por si acaso.\n\n—¡Abuela! —gritó Mía, saludando con los dos brazos—. ¡Abuela, soy yo!\n\nEl aire se llevó su voz. Pero la abuela se quedó mirando hacia arriba un buen rato, con la mano en el pecho, sonriendo.",
+      "ambient": "ocean_waves",
+      "cues": [{ "anchor": "gaviotas", "sfx": "seagulls" }]
+    },
+    {
+      "id": "s5",
+      "text": "Cuando el sol empezó a esconderse, la nube dijo:\n\n—Es hora de volver.\n\nVolaron de regreso sobre el mar, sobre las montañas, sobre el río, mientras el cielo se pintaba de naranja y de rosa. La ciudad apareció abajo, con sus ventanas encendiéndose una a una.\n\nLa nube dejó a Mía en su balcón, con mucho cuidado, y se fue alejando despacito, hasta confundirse con las demás.\n\nEsa noche, cuando Mía ya estaba en la cama, sonó el teléfono.\n\nEra la abuela Nena.\n\n—¿Sabes una cosa? —le dijo—. Hoy pasó por aquí una nube con forma de niña. Con dos trenzas. Y me pareció que me saludaba.\n\nMía sonrió en la oscuridad.\n\nY se durmió abrazada a su almohada, que era casi, casi, tan blanda como una nube.",
+      "ambient": "city_soft",
+      "music": "lullaby_piano",
+      "cues": []
     }
   ]
 }

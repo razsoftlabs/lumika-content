@@ -2,71 +2,49 @@
   "id": "la-semilla-valiente",
   "schemaVersion": 1,
   "locale": "es",
-  "version": 7,
+  "version": 20,
   "title": "La semilla valiente",
-  "summary": "Una semilla muy pequeña tiene miedo de la oscuridad bajo la tierra… ¿se atreverá a crecer?",
+  "summary": "Una semilla muy pequeña tiene miedo de la oscuridad debajo de la tierra. Para crecer, va a tener que subir hasta la luz.",
   "scenes": [
     {
       "id": "s1",
-      "text": "En lo hondo de la tierra vivía una semilla muy pequeña. Todo a su alrededor estaba oscuro y callado. La semilla tenía un poco de miedo.\n\n—¿Y si me quedo siempre aquí abajo? —pensó, encogida en su cáscara. Afuera, muy lejos, en medio de la noche, cantaba un búho.\n\nComo cuando tú te acurrucas en tu cama, la semilla cerró los ojos y respiró.\n\nPoco a poco, el miedo se hizo más pequeño, y la tierra la abrazó tibia y segura.",
+      "text": "Debajo de la tierra, muy abajo, vivía una semilla pequeñita.\n\nAllí todo estaba oscuro. Oscuro y callado. No se veía nada, ni arriba, ni abajo, ni a los lados.\n\nA veces, de muy lejos, llegaban ruidos del mundo de arriba. Pasos. Risas de niños. El canto de un pájaro. Pero llegaban tan apagados, tan tapados por la tierra, que la semilla no sabía si eran de verdad o si los soñaba.\n\n—¿Y si me quedo aquí abajo para siempre? —pensaba, encogida en su cáscara.\n\nLe daba miedo quedarse. Pero le daba más miedo subir.",
       "ambient": null,
-      "cues": [
-        {
-          "anchor": "búho",
-          "sfx": "owl_hoot",
-          "delayMs": 700
-        },
-        {
-          "anchor": "respiró",
-          "sfx": "breathe_in"
-        }
-      ]
+      "music": "gentle_piano",
+      "cues": []
     },
     {
       "id": "s2",
-      "text": "Una mañana, la lluvia se filtró por la tierra y llegó hasta ella en forma de gotas.\n\nEl agua se acercó y le habló con un susurro: —Hola, pequeña. Vengo a darte de beber. Las gotas la mojaron con cariño, y la semilla sintió algo nuevo: unas ganas tibias de estirarse.\n\nTodavía tenía miedo de lo oscuro, pero la lluvia le cantó una canción muy suave. —No tengas prisa —dijo—. Crecer se hace despacio, con calma.\n\nLa semilla bebió y bebió, y por dentro empezó a sentirse un poco más fuerte y valiente.",
+      "text": "Una mañana, empezó a llover.\n\nEl agua fue bajando despacito por la tierra, gota a gota, hasta que llegó a la semilla y la mojó entera.\n\nLa semilla bebió. Y bebió. Y empezó a sentir algo nuevo, como unas cosquillas por dentro. Unas ganas enormes de estirarse.\n\nSe estiró un poquito.\n\nY su cáscara hizo: ¡crac!\n\nPor la rajita salió una raíz blanca y fina, que se fue hundiendo en la tierra, hacia abajo, como quien echa un ancla.",
       "ambient": "rain",
-      "cues": [
-        {
-          "anchor": "gotas",
-          "sfx": "water_splash"
-        }
-      ]
+      "cues": [{ "anchor": "crac", "sfx": "crunch" }]
     },
     {
       "id": "s3",
-      "text": "Llegó el día en que la semilla debía crecer hacia arriba. El camino era oscuro y no sabía qué había al final. —Tengo miedo —dijo en voz baja.\n\nPero recordó la canción de la lluvia y fue muy valiente. Con mucha calma, empujó un brazo verde a través de la tierra. Empujó, y empujó, y empujó.\n\nDesde arriba la llamaba un viento: —Ven, ya casi llegas.\n\nLas raíces se agarraron fuerte allá abajo, como manos, y el brote subió y subió buscando la luz.",
-      "cues": [
-        {
-          "anchor": "viento",
-          "sfx": "wind_soft"
-        }
-      ],
-      "ambient": null
+      "text": "Al rato, pasó por ahí una lombriz.\n\n—Buenos días —dijo—. Me llamo Lombi. ¿Qué haces tan quieta?\n\n—Tengo miedo —dijo la semilla—. Ya me salió una raíz para abajo. Pero ahora tendría que crecer para arriba, y arriba está todo oscuro. No sé qué hay.\n\nLombi se rió con toda la cola.\n\n—¿Oscuro? Arriba no está oscuro. Arriba está la luz. Yo la vi una vez, cuando salí después de la lluvia. Es tibia, y amarilla, y huele a mañana.\n\n—¿Y cómo llego?\n\n—Despacio —dijo Lombi—. Como todo lo que vale la pena.",
+      "ambient": null,
+      "cues": []
     },
     {
       "id": "s4",
-      "text": "Y entonces… ¡la semilla salió a la luz! Abrió su primera hoja al cielo y vio el sol brillar tibio y dorado.\n\n—¡Lo logré! —dijo, y de adentro le salió una risa.\n\nEl sol la saludó con un rayo cálido, y la brisa hizo bailar sus hojas.\n\nYa no estaba oscuro ni daba miedo. La pequeña planta entendió que crecer sí valía la pena. A su alrededor los pájaros cantaban, y el mundo era ancho, verde y luminoso.",
-      "ambient": "forest_birds",
-      "cues": [
-        {
-          "anchor": "risa",
-          "sfx": "giggle"
-        }
-      ],
-      "music": "strings_hopeful"
+      "text": "La semilla juntó todo su valor.\n\nY empujó hacia arriba un bracito verde.\n\nEmpujó, y empujó, y empujó. La tierra pesaba, pero el brote era terco.\n\nA mitad de camino se encontró una piedra, grande y dura. No la podía atravesar. Así que, con mucha paciencia, la fue rodeando poquito a poco, hasta pasar por un lado.\n\nY entonces la vio.\n\nAllá arriba, por una rendija de la tierra, entraba un hilo de luz.\n\nLa semilla no lo pensó más. Respiró hondo, y siguió subiendo hacia él.",
+      "ambient": null,
+      "music": "strings_hopeful",
+      "cues": [{ "anchor": "respiró", "sfx": "breathe_in" }]
     },
     {
       "id": "s5",
-      "text": "Pasaron muchas noches y muchos soles. La semilla valiente se volvió un árbol grande y fuerte, con ramas que abrazaban el cielo. Cuando llegaba la noche, lo cubría con su luz de plata la luna.\n\nEntre sus hojas titilaban las estrellas. Bajo sus ramas dormían los pájaros, tranquilos y abrigados. El árbol recordaba, feliz, aquella semilla que tuvo miedo en la oscuridad.\n\nY ahora, igual que tú, cerraba los ojos despacio. Buenas noches, semillita valiente. Que crezcas bonito mientras sueñas.",
-      "ambient": "forest_night",
-      "cues": [
-        {
-          "anchor": "luna",
-          "sfx": "twinkle"
-        }
-      ],
-      "music": "guitar_warm"
+      "text": "Y de pronto, ¡salió!\n\nSu hojita verde asomó por encima de la tierra, y lo primero que sintió fue el sol en la cara. Tibio. Amarillo. Con olor a mañana.\n\nLombi tenía razón.\n\nAlrededor había pasto, y flores, y un cielo enorme y azul. Los pájaros cantaban. El aire movía su hojita de un lado a otro, como si la saludara.\n\n—¡Lo logré! —gritó la semilla, que ya no era semilla, sino planta.\n\nY se le escapó una risa, tan verde y tan nueva como ella.",
+      "ambient": "forest_birds",
+      "music": "guitar_clear",
+      "cues": [{ "anchor": "risa", "sfx": "giggle" }]
+    },
+    {
+      "id": "s6",
+      "text": "Pasaron muchos días, y muchas lluvias, y muchos soles.\n\nLa planta pequeñita se hizo un árbol grande, con ramas que abrazaban el cielo. Los niños jugaban a su sombra. Los pájaros hacían nidos entre sus hojas.\n\nY un día de otoño, de una de sus ramas se soltó una semilla pequeñita. Cayó en la tierra, y se fue quedando dormida debajo, en lo oscuro.\n\nEl árbol se inclinó un poco hacia ella. Y le susurró, muy bajito:\n\n—No tengas miedo. Arriba hay luz. Yo te espero.",
+      "ambient": "meadow_night",
+      "music": "lullaby_piano",
+      "cues": [{ "anchor": "susurró", "sfx": "whisper" }]
     }
   ]
 }
